@@ -1,0 +1,33 @@
+# main links links
+main:
+ # - title: "Talks"
+ #   url: /talks/    
+
+ # - title: "Teaching"
+ #   url: /teaching/    
+    
+ # - title: "Portfolio"
+ #   url: /portfolio/
+        
+ # - title: "Blog Posts"
+ #   url: /year-archive/
+ 
+ 
+ 
+ # - title: "Publications"
+ #   url: /publications/
+ 
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Courses"
+    url: /courses/
+
+  - title: "Resource"
+    url: /resource/
+    
+  - title: "CV"
+    url: /cv/
+    
+ # - title: "Guide"
+ #   url: /markdown/
