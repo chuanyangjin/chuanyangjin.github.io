@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Chuanyang Jin, a junior student in Honors Computer Science and Mathematics at New York University.
+Hello! I am a junior student in Honors Computer Science and Mathematics at NYU Courant.
 
 My research interests lie in deep learning, computer vision, and self-supervised learning. I am currently working with [Prof. Feng Chen](https://engineering.nyu.edu/faculty/chen-feng) on self-supervised visual recognition for robots, and [Prof. Oded Regev](https://cims.nyu.edu/~regev/) on interpretable machine learning to derive insights into biological processes. Prior to that, I spent time as a summer intern at Huawei and a teaching assistant at NYU.
 
