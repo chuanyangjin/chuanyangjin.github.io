@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: ""
+title: "Projects"
 permalink: /projects/
-author_profile: true
+author_profile: false
 ---
 
 [Research Projects](https://chuanyangjin.github.io/projects/research-projects)
