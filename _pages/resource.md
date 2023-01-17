@@ -7,8 +7,8 @@ author_profile: true
 
 ### Notes
 
++ [Paper Reading](https://chuanyangjin.github.io/resource/paper-reading)
 + [NYU Course Notes & Resources](https://chuanyangjin.github.io/resource/nyu-course-notes-and-resources)
-+ [Paper Reading](https://github.com/chuanyangjin/Paper-Reading)
 
 ### Courses
 
