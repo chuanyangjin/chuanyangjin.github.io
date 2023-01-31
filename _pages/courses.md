@@ -15,11 +15,11 @@ Selected Courseworks at New York University
 + CSCI-GA 2572 Deep Learning (Graduate)
 + CSCI-GA 2590 Natural Language Processing (Graduate)
 + CS-UY 4563   Machine Learning
-+ CSCI-UA 998  Independent Study
++ CSCI-UA 480  Robot Intelligence
 + CSCI-UA 521  Undergraduate Research
++ CSCI-UA 998  Independent Study
 
 ### Algorithms and Systems
-+ CSCI-UA 453  Theory of Computation
 + CSCI-UA 310  Basic Algorithms (Teaching Assistant)
 + CSCI-UA 202  Operating Systems
 + CSCI-UA 201  Computer System Organization
