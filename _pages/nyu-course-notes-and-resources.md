@@ -1,3 +1,10 @@
+---
+layout: archive
+title: ""
+permalink: /resource/nyu-course-notes-and-resources
+author_profile: true
+---
+
 # NYU Course Notes & Resources
 This repository contains some notes and resources for NYU Mathmatics and Computer Science courses. We hope it will be helpful during your learning and review, or provide some knowledge when you are struggling with which course to choose.
 Special thanks to my friend Rex Liu who contributes to writing the texts.
