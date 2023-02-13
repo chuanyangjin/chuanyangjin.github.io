@@ -5,9 +5,9 @@ permalink: /resource/nyu-course-notes-and-resources
 author_profile: true
 ---
 
-# NYU Course Notes & Resources
-This repository contains some notes and resources for NYU Mathmatics and Computer Science courses. We hope it will be helpful during your learning and review, or provide some knowledge when you are struggling with which course to choose.
-Special thanks to my friend Rex Liu who contributes to writing the texts.
+# NYU Course Notes & Resources ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fchuanyangjin%2FNYU-Course-Notes-and-Resources&labelColor=%23ba68c8&countColor=%23263759&style=flat-square&labelStyle=upper)
+[This repository](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources) contains some notes and resources for NYU Mathmatics and Computer Science courses. We hope it will be helpful during your learning and review, or provide some knowledge when you are struggling with which course to choose.
+Special thanks to my friends Rex Liu, Maosen Tang, Zijin Hu and Yuqian Zhang who contribute some materials.
 
 ## Mathmatics
 - [MATH-UA 120 Discrete Mathematics](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-UA%20120%20Discrete%20Mathematics)
@@ -22,6 +22,8 @@ Special thanks to my friend Rex Liu who contributes to writing the texts.
 - [MATH-UA 262 Ordinary Differential Equations](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-UA%20262%20Ordinary%20Differential%20Equations)
 - [MATH-UA 325 Analysis](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-UA%20325%20Analysis)
 - [MATH-UA 343 Algebra](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-UA%20343%20Algebra)
+- [MATH-GA 2020 Numerical Methods II](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202020%20Numerical%20Methods%20II)
+- [MATH-GA 2450 Complex Variables I](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202450%20Complex%20Variables%20I)
 - [MATH-GA 2902 Stochastic Calculus](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202902%20Stochastic%20Calculus)
 - [MATH-GA 2911 Probability Theory I](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources/tree/main/MATH-GA%202911%20Probability%20Theory%20I)
 
