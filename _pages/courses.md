@@ -29,7 +29,7 @@ Selected Courseworks at New York University
 ### Mathematics
 + MATH-UA 343 Algebra
 + MATH-UA 325 Analysis
-+ MATH-UA 252	Numerical Analysis
++ [MATH-UA 252	Numerical Analysis](https://sampotter.github.io/courses/nyu-spring-2022-math-ua-252.html)
 + MA-UY 4204	Ordinary Differential Equations
 + MA-UY 3044	Linear Algebra
 + MA-UY 2314	Discrete Mathematics
