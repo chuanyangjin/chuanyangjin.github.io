@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-[Course Research Projects](https://chuanyangjin.github.io/projects/course_research-projects)
+[Course Research Projects](https://chuanyangjin.github.io/projects/course-research-projects)
 ------
 
 + Class Embeddings Enter Class-conditional Diffusions Models
