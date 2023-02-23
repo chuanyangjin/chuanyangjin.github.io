@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: ""
-permalink: /projects/research-projects
+permalink: /projects/course-research-projects
 author_profile: true
 ---
 
-# Research Projects
+# Course Research Projects
 
 **Class Embeddings Enter Class-conditional Diffusions Models**
 [[Report]](https://chuanyangjin.github.io/files/Class%20Embeddings%20Enter%20Class-conditional%20Diffusion%20Models.pdf)
