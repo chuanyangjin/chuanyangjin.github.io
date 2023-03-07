@@ -14,4 +14,4 @@ My research interests lie in computer vision, generative intelligence, and multi
 
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of history, international relations, and scientific fiction, as well as a dedicated writer read by more than 15,000,000 times on different platforms. I also enjoy playing "Go", piano, and badminton.
 
-Here is my [CV](https://chuanyangjin.github.io/files/Chuanyang_CV.pdf) (Last update: Jan. 2023).
+Here is my [CV](https://chuanyangjin.github.io/files/Chuanyang_CV.pdf) (Last update: March 2023).
