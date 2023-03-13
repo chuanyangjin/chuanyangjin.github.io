@@ -21,11 +21,11 @@ author_profile: true
 [Course Projects](https://chuanyangjin.github.io/projects/course-projects)
 ------
 
-+ Image Alignment & Feature Extraction
++ Energy-Based Models for Structured Prediction
++ German-English Translation with Transformers
 + Memory Subsystem
 + Parallel Data Encoding
-+ Traffic Sign Recognition
 + Unix Shell
 + YOLO Object Detection
 
-And 8 others... [[see more]](https://chuanyangjin.github.io/projects/course-projects)
+And 12 others... [[see more]](https://chuanyangjin.github.io/projects/course-projects)

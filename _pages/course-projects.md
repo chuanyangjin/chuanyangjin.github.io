@@ -10,6 +10,9 @@ author_profile: true
 Dive into Deep Learning
 [[Code]](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Dive%20into%20Deep%20Learning)
 
+Energy-Based Models for Structured Prediction
+[[Code]](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Energy-Based%20Models%20for%20Structured%20Prediction)
+
 FAT32 File Recovery Tool
 [[Code]](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/FAT32%20File%20Recovery%20Tool)
 
@@ -19,11 +22,20 @@ Floating Point Arithmetic
 Foundations of Machine Learning
 [[Code]](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Foundations%20of%20Machine%20Learning)
 
+German-English Translation with Transformers
+[[Code]](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/German-English%20Translation%20with%20Transformers)
+
 Image Alignment and Feature Extraction
 [[Code]](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Image%20Alignment%20and%20Feature%20Extraction)
 
+Intro to Robot Intelligence
+[[Code]](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Intro%20to%20Robot%20Intelligence)
+
 Memory Subsystem
 [[Code]](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Memory%20Subsystem)
+
+Natural Language Inference
+[[Code]](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Natural%20Language%20Inference)
 
 Numerical Methods
 [[Code]](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Numerical%20Methods)
