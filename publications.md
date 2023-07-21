@@ -15,7 +15,7 @@ description: >
       <b>Semi-Supervised Image Captioning with CLIP</b><br>
       <b>Chuanyang Jin</b><br>
       <i>Under Review</i><br>
-      <a href="https://arxiv.org/abs/2306.15111">[Paper]</a>
+      <a href="https://arxiv.org/abs/2306.15111">paper</a>
     </td>
   </tr>
 </table>
@@ -30,7 +30,7 @@ description: >
       Kunal Jha, Tuan Anh Le, <b>Chuanyang Jin</b>, Yen-Ling Kuo, Joshua Tenenbaum and Tianmin Shu<br>
       <i>Under Review</i><br>
       Oral Presentation at AAAI Symposium 2023<br>
-      <a href="https://chuanyangjin.github.io/assets/slides/AAAI_Nested_Reasoning.pdf">[Slides]</a>
+      <a href="https://chuanyangjin.github.io/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
     </td>
   </tr>
 </table>
