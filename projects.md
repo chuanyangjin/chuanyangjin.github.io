@@ -13,7 +13,7 @@ description: >
     <td style="padding: 20px; width: 20%; vertical-align: middle; border: none;">
       <img src="https://chuanyangjin.github.io/assets/img/projects/Diffusion.png" alt="PontTuset" width="160" style="border-style: none;">
     </td>
-    <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
+    <td style="width: 75%; vertical-align: middle; border: none;">
       <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
       Chuanyang Jin, Peiqi Liu, Zixuan Dong, Chang Liu<br>
       <a href="https://chuanyangjin.github.io/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> / 
