@@ -16,9 +16,9 @@ description: >
     <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
       <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
       Chuanyang Jin, Peiqi Liu, Zixuan Dong, Chang Liu<br>
-      <a href="https://chuanyangjin.github.io/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">[Report]</a>
-      <a href="https://chuanyangjin.github.io/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">[Slides]</a>
-      <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">[Code]</a>
+      <a href="https://chuanyangjin.github.io/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">Report</a> / 
+      <a href="https://chuanyangjin.github.io/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">Slides</a> / 
+      <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">Code</a>
     </td>
   </tr>
 </table>
@@ -31,9 +31,9 @@ description: >
     <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
       <b>Efficient Video Prediction and Segmentation with Sparse Labeled Data</b><br>
       Peiqi Liu, Samuel Zhong, Chuanyang Jin<br>
-      <a href="https://chuanyangjin.github.io/assets/reports/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">[Report]</a>
-      <a href="https://chuanyangjin.github.io/assets/slides/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">[Slides]</a>
-      <a href="https://github.com/leo20021210/SimVP">[Code]</a>
+      <a href="https://chuanyangjin.github.io/assets/reports/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">Report</a> / 
+      <a href="https://chuanyangjin.github.io/assets/slides/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">Slides</a> / 
+      <a href="https://github.com/leo20021210/SimVP">Code</a>
     </td>
   </tr>
 </table>
