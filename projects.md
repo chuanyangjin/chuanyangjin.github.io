@@ -160,4 +160,4 @@ YOLO Object Detection
 
 And 8 others... [see more](https://github.com/chuanyangjin/NYU-Course-Projects)
 
-Here is a [list](https://github.com/chuanyangjin/blog/courses) of the courses I've taken.
+Here is a [list](https://github.com/chuanyangjin/courses) of the courses I've taken.
