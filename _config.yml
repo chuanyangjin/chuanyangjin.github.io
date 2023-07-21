@@ -355,8 +355,8 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for twitter cards
-# twitter:
-#   username:            <username>
+twitter:
+  username:            chuanyang_jin
 
 # Used for facebook open graph
 # facebook:
@@ -365,11 +365,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+  name:                <firstname> <lastname>
+  links:
+    - https://twitter.com/chuanyang_jin
+    - https://github.com/chuanyangjin
 
 
 # Plugin Configs
