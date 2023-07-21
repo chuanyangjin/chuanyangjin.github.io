@@ -1,7 +1,7 @@
 ---
 title: Courses
-permalink: /courses/
 description: >
+  Selected Courseworks at New York University
 ---
 
 <style>
@@ -9,10 +9,6 @@ a::after, a.external::after {
   display: none !important;
 }
 </style>
-
-Selected Courseworks at New York University
-------
-***
 
 ### Machine Learning
 + [CSCI-GA 3033 Learning with Large Language and Vision Models (Graduate)](https://www.sainingxie.com/Teaching/llvm.html)
