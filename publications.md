@@ -1,10 +1,13 @@
 ---
-# layout: projects
 title: Publications
 description: >
-
-# no_groups: true
 ---
+
+<style>
+a::after, a.external::after {
+  display: none !important;
+}
+</style>
 
 <table style="border-collapse: collapse; border: none;">
   <tr>

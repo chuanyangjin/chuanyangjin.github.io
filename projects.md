@@ -1,12 +1,13 @@
 ---
-# layout: projects
 title: Projects
-# show_collection: projects
 description: >
-
-# no_groups: true
 ---
 
+<style>
+a::after, a.external::after {
+  display: none !important;
+}
+</style>
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -158,3 +159,5 @@ YOLO Object Detection
 [code](https://github.com/chuanyangjin/NYU-Course-Projects/blob/master/YOLO%20Object%20Detection/YOLO%20Object%20Detection.ipynb)
 
 And 8 others... [see more](https://github.com/chuanyangjin/NYU-Course-Projects)
+
+Here is a [list](https://github.com/chuanyangjin/blog/courses) of the courses I've taken.
