@@ -3,6 +3,12 @@ title: AutoCorp
 permalink: /autocorp/
 ---
 
+<style>
+a::after, a.external::after {
+  display: none !important;
+}
+</style>
+
 NYC GPT/LLM Hackathon 2023
 
 AutoCorp is a vision for a fully autonomous direct-to-consumer company. It was built by 
@@ -20,6 +26,6 @@ AutoCorp generates a thesis for a direct-to-consumer t-shirt company based on a 
     <img src="https://chuanyangjin.github.io/assets/img/projects/AutoCorp-illustration.png" alt="Image" width="100%">
   </div>
   <div style="flex-basis: 50%; padding-left: 10px;">
-    <iframe width="100%" height="55" src="https://www.youtube.com/embed/xgmUpAJS1Nk" frameborder="0" allowfullscreen></iframe>
+    <iframe width="300%" height="55" src="https://www.youtube.com/embed/xgmUpAJS1Nk" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
