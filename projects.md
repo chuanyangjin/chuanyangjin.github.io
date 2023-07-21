@@ -4,7 +4,7 @@ title: Projects
 # show_collection: projects
 description: >
 
-no_groups: true
+# no_groups: true
 ---
 
 
@@ -157,4 +157,4 @@ Vision Transformer for Small-Size Datasets
 YOLO Object Detection
 [[Code]](https://github.com/chuanyangjin/NYU-Course-Projects/blob/master/YOLO%20Object%20Detection/YOLO%20Object%20Detection.ipynb)
 
-And 8 others... [[see more]](https://chuanyangjin.github.io/projects/course-projects)
+And 8 others... [[see more]](https://github.com/chuanyangjin/NYU-Course-Projects)

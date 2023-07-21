@@ -1,7 +1,6 @@
 ---
 layout: projects
-title: Projects
-# show_collection: projects
+title: Publications
 description: >
 
 no_groups: true
