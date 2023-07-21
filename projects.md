@@ -1,33 +1,15 @@
 ---
 layout: projects
 title: Projects
-show_collection: projects
+# show_collection: projects
 description: >
-  How people are using Hydejack in the real world. 
-  This page is built using the `projects` layout* that you can use yourself to build a portfolio.
+
 no_groups: true
 ---
 
 Featured Projects
 ------
 ***
-
-<!--
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="padding: 20px; width: 20%; vertical-align: middle; border: none;">
-      <img src="https://chuanyangjin.github.io/images/ClipCap.png" alt="PontTuset" width="160" style="border-style: none;">
-    </td>
-    <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
-      <b>Image Captioning with CLIP</b><br>
-      Chuanyang Jin, Peiqi Liu<br>
-      <a href="https://chuanyangjin.github.io/files/Image_Captioning_with_CLIP.pdf">[Report]</a>
-      <a href="https://docs.google.com/presentation/d/e/2PACX-1vSxSRZPbeG7MmuCgZRRpZ8lddBkzuIHZzW_HiNWplYTj5j4WNRl66PI1haCKm6Bq3s7TQIh1ZgDlhgM/pub?start=false&loop=false&delayms=3000">[Slides]</a>
-      <a href="https://github.com/chuanyangjin/ClipCap">[Code]</a>
-    </td>
-  </tr>
-</table>
--->
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -37,7 +19,7 @@ Featured Projects
     <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
       <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
       Chuanyang Jin, Peiqi Liu, Zixuan Dong, Chang Liu<br>
-      <a href="https://chuanyangjin.github.io/files/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">[Report]</a>
+      <a href="https://chuanyangjin.github.io/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">[Report]</a>
       <a href="https://chuanyangjin.github.io/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">[Slides]</a>
       <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">[Code]</a>
     </td>
@@ -52,7 +34,7 @@ Featured Projects
     <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
       <b>Efficient Video Prediction and Segmentation with Sparse Labeled Data</b><br>
       Peiqi Liu, Samuel Zhong, Chuanyang Jin<br>
-      <a href="https://chuanyangjin.github.io/files/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">[Report]</a>
+      <a href="https://chuanyangjin.github.io/assets/reports/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">[Report]</a>
       <a href="https://chuanyangjin.github.io/assets/slides/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">[Slides]</a>
       <a href="https://github.com/leo20021210/SimVP">[Code]</a>
     </td>
@@ -67,7 +49,7 @@ Featured Projects
     <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
       <b>Optimizing Diffusion Transformers</b> (mid-term version) <br>
       Chuanyang Jin, Saining Xie <br>
-      <a href="https://chuanyangjin.github.io/files/Optimizing_Diffusion_Transformers.pdf">[Report]</a>
+      <a href="https://chuanyangjin.github.io/assets/reports/Optimizing_Diffusion_Transformers.pdf">[Report]</a>
       <a href="https://github.com/chuanyangjin/fast-DiT">[Code]</a>
     </td>
   </tr>
@@ -135,7 +117,7 @@ Featured Projects
       <b>Promoting Global Equity through Asteroid Mining</b><br>
       Competition: Interdisciplinary Contest in Modeling 2022<br>
       Awards: Finalist & MAA Award & COMAP Scholarship (Top 4/27205)<br>
-      <a href="https://chuanyangjin.github.io/files/ICM_Report.pdf">[Report]</a>
+      <a href="https://chuanyangjin.github.io/assets/reports/ICM_Report.pdf">[Report]</a>
     </td>
   </tr>
 
