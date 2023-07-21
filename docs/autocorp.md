@@ -17,7 +17,7 @@ AutoCorp generates a thesis for a direct-to-consumer t-shirt company based on a 
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex-basis: 50%; padding-right: 10px;">
-    <img src="https://chuanyangjin.github.io/images/AutoCorp-illustration.png" alt="Image" width="100%">
+    <img src="https://chuanyangjin.github.io/assets/img/projects/AutoCorp-illustration.png" alt="Image" width="100%">
   </div>
   <div style="flex-basis: 50%; padding-left: 10px;">
     <iframe width="100%" height="55" src="https://www.youtube.com/embed/xgmUpAJS1Nk" frameborder="0" allowfullscreen></iframe>
