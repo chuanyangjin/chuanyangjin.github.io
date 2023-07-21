@@ -137,26 +137,19 @@ Course Projects
 ------
 ***
 
-Energy-Based Models for Structured Prediction
-[code](https://github.com/chuanyangjin/NYU-Course-Projects/blob/master/Energy-Based%20Models%20for%20Structured%20Prediction/Energy-Based%20Models%20for%20Structured%20Prediction.ipynb)
++ [Energy-Based Models for Structured Prediction](https://github.com/chuanyangjin/NYU-Course-Projects/blob/master/Energy-Based%20Models%20for%20Structured%20Prediction/Energy-Based%20Models%20for%20Structured%20Prediction.ipynb)
 
-Parallel Data Encoding
-[code](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Parallel%20Data%20Encoding)
++ [Parallel Data Encoding](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Parallel%20Data%20Encoding)
 
-Robot Intelligence
-[code](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Robot%20Intelligence)
++ [Robot Intelligence](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Robot%20Intelligence)
 
-Transformer-based German-English Translator
-[code](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Transformer-based%20German-English%20Translator)
++ [Transformer-based German-English Translator](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Transformer-based%20German-English%20Translator)
 
-Unix Shell Implementation
-[code](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Unix%20Shell%20Implementation)
++ [Unix Shell Implementation](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Unix%20Shell%20Implementation)
 
-Vision Transformer for Small-Size Datasets
-[code](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Vision%20Transformer%20for%20Small-Size%20Datasets)
++ [Vision Transformer for Small-Size Datasets](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Vision%20Transformer%20for%20Small-Size%20Datasets)
 
-YOLO Object Detection
-[code](https://github.com/chuanyangjin/NYU-Course-Projects/blob/master/YOLO%20Object%20Detection/YOLO%20Object%20Detection.ipynb)
++ [YOLO Object Detection](https://github.com/chuanyangjin/NYU-Course-Projects/blob/master/YOLO%20Object%20Detection/YOLO%20Object%20Detection.ipynb)
 
 And 8 others... [see more](https://github.com/chuanyangjin/NYU-Course-Projects)
 
