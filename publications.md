@@ -31,7 +31,7 @@ a::after, a.external::after {
     <td style="width: 75%; vertical-align: middle; border: none;">
       <b>Neural Amortized Inference for Nested Multi-agent Reasoning</b><br>
       Kunal Jha, Tuan Anh Le, <b>Chuanyang Jin</b>, Yen-Ling Kuo, Joshua Tenenbaum and Tianmin Shu<br>
-      <i>Under Review</i><br>
+      <i>Under Review</i> | 
       Oral Presentation at AAAI Symposium 2023<br>
       <a href="https://chuanyangjin.github.io/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
     </td>

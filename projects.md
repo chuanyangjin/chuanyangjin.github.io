@@ -152,5 +152,3 @@ Course Projects
 + [YOLO Object Detection](https://github.com/chuanyangjin/NYU-Course-Projects/blob/master/YOLO%20Object%20Detection/YOLO%20Object%20Detection.ipynb)
 
 And 8 others... [see more](https://github.com/chuanyangjin/NYU-Course-Projects)
-
-Here is a [list](https://chuanyangjin.github.io/courses) of the courses I've taken.
