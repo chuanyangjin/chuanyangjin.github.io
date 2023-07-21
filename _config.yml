@@ -72,7 +72,10 @@ legal:
   #  url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2023 Chuanyang Jin. All rights reserved.
+# copyright:             © 2023 Chuanyang Jin. All rights reserved.
+copyright: |
+  © 2023 Chuanyang Jin. All rights reserved.
+  Powered by [Hydejack](https://hydejack.com/)
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
