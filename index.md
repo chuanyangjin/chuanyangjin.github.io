@@ -23,7 +23,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 Here is my [CV](https://chuanyangjin.github.io/assets/Chuanyang_CV.pdf) (Last update: May 2023).
 
 ## News
-+ [July, 2023] Presented [our work](https://chuanyangjin.github.io/assets/slides/AAAI_Nested_Reasoning.pdf) at [AAAI Embodied Intelligence Symposium](https://aaai.org/conference/summer-symposia/summer-series-2023)
++ [July, 2023] Presented [our work](https://chuanyangjin.github.io/assets/slides/AAAI_Nested_Reasoning.pdf) at [AAAI Embodied Intelligence Symposium](https://sites.google.com/view/embodiedintelligence)
 + [May, 2023] I am joining MIT CSAIL and Cocosci as a visiting student
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
 + [Apr, 2023] Received [NYU Computer Science Prize](https://chuanyangjin.github.io/assets/Computer_Science_Prize.pdf) as the most promising junior student
