@@ -4,9 +4,6 @@ title: About
 sitemap: false
 ---
 
-
-<a href="https://ai.stanford.edu/~cbfinn/">Professor Chelsea Finn</a>
-
 I am a visiting student at MIT, working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a rising senior student in Honors Computer Science and Mathematics at NYU Courant. I'm also fortunate to work under the guidance of [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/) at NYU.
 
 My research interests lie in generative intelligence, large language models and robot learning. 
