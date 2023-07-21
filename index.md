@@ -1,47 +1,23 @@
 ---
 layout: page
-title: Thank You!
+title: About
 sitemap: false
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+I am a visiting student at MIT, working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a rising senior student in Honors Computer Science and Mathematics at NYU Courant. I'm also fortunate to work under the guidance of [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/) at NYU.
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+My research interests lie in generative intelligence, large language models and robot learning. 
+I am particularly interested in building agents that can communicate, memorize and imagine. 
+This involves the incorporation of knowledge derived from large language models or generative models to serve as the cornerstone of their intelligence. 
+I also enjoy promoting stable and well-aligned generation of texts, images and music, and intertwining the fields of AI with psychology and biology.
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+Besides academics, I enjoy roaming in movies and books. I am an avid reader of history, international relations, and scientific fiction, as well as a dedicated writer read by more than 15,000,000 times on different platforms. I also enjoy playing "Go", piano, and badminton.
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+Here is my [CV](https://chuanyangjin.github.io/files/Chuanyang_CV.pdf) (Last update: May 2023).
 
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
-
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
-
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+## News
++ [July, 2023] Presented [our work](https://chuanyangjin.github.io/files/slides/AAAI_Nested_Reasoning.pdf) at [AAAI Embodied Intelligence Symposium](https://aaai.org/conference/summer-symposia/summer-series-2023)
++ [May, 2023] I am joining MIT CSAIL and Cocosci as a visiting student
++ [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
++ [Apr, 2023] Received [NYU Computer Science Prize](https://chuanyangjin.github.io/files/Computer_Science_Prize.pdf) as the most promising junior student
++ [May, 2022] Received [COMAP Scholarship](https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf) as the top 4 out of 27,205 teams in MCM
