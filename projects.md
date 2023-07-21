@@ -65,7 +65,7 @@ a::after, a.external::after {
     <td style="width: 75%; vertical-align: middle; border: none;">
       <b>AutoCorp: A Fully Autonomous Company</b><br>
       Competition: NYC GPT/LLM Hackathon 2023<br>
-      <a href="https://chuanyangjin.github.io/projects/autocorp">demo</a> / 
+      <a href="https://chuanyangjin.github.io/autocorp">demo</a> / 
       <a href="https://twitter.com/minafahmi_/status/1650861037737091083">tweet</a> / 
       <a href="https://github.com/Czechh/chatdtc">code</a>
     </td>

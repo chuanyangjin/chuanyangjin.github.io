@@ -1,5 +1,6 @@
 ---
 title: Courses
+permalink: /courses/
 description: >
   Selected Courseworks at New York University
 ---
