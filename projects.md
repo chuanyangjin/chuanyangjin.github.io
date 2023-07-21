@@ -89,7 +89,7 @@ description: >
     <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
       <b>Recommendation System for E-commerce Retailer</b><br>
       Competition: NYU x Peak Datathon 2022<br>
-      <a href="https://chuanyangjin.github.io/assets/slides/Recommendation_System_for_Olist_E-commerce_Retailer.pdf">[Slides]</a>
+      <a href="https://chuanyangjin.github.io/assets/slides/Recommendation_System_for_Olist_E-commerce_Retailer.pdf">slides</a> / 
       <a href="https://github.com/chuanyangjin/Peak-Datathon">code</a>
     </td>
   </tr>
