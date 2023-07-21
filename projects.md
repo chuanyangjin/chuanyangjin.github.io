@@ -38,7 +38,7 @@ Featured Projects
       <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
       Chuanyang Jin, Peiqi Liu, Zixuan Dong, Chang Liu<br>
       <a href="https://chuanyangjin.github.io/files/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">[Report]</a>
-      <a href="https://chuanyangjin.github.io/files/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">[Slides]</a>
+      <a href="https://chuanyangjin.github.io/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">[Slides]</a>
       <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">[Code]</a>
     </td>
   </tr>
@@ -53,7 +53,7 @@ Featured Projects
       <b>Efficient Video Prediction and Segmentation with Sparse Labeled Data</b><br>
       Peiqi Liu, Samuel Zhong, Chuanyang Jin<br>
       <a href="https://chuanyangjin.github.io/files/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">[Report]</a>
-      <a href="https://chuanyangjin.github.io/files/slides/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">[Slides]</a>
+      <a href="https://chuanyangjin.github.io/assets/slides/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">[Slides]</a>
       <a href="https://github.com/leo20021210/SimVP">[Code]</a>
     </td>
   </tr>
@@ -110,7 +110,7 @@ Featured Projects
     <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
       <b>Recommendation System for E-commerce Retailer</b><br>
       Competition: NYU x Peak Datathon 2022<br>
-      <a href="https://chuanyangjin.github.io/files/slides/Recommendation_System_for_Olist_E-commerce_Retailer.pdf">[Slides]</a>
+      <a href="https://chuanyangjin.github.io/assets/slides/Recommendation_System_for_Olist_E-commerce_Retailer.pdf">[Slides]</a>
       <a href="https://github.com/chuanyangjin/Peak-Datathon">[Code]</a>
     </td>
   </tr>
@@ -148,7 +148,7 @@ Featured Projects
       Competition: Shing-Tung Yau Science Award 2019<br>
       Award: International Bronze Award (Top 3/500)<br>
       <a href="https://drive.google.com/file/d/1Zdp33tiYmoppAdzMCOH_P44jzu6V9yW-/view?usp=sharing">[Demo]</a>
-      <a href="https://chuanyangjin.github.io/files/slides/Yau_Gene_Mutation_Detection.pdf">[Slides]</a>
+      <a href="https://chuanyangjin.github.io/assets/slides/Yau_Gene_Mutation_Detection.pdf">[Slides]</a>
     </td>
   </tr>
 </table>
