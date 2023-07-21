@@ -7,9 +7,6 @@ description: >
 no_groups: true
 ---
 
-Featured Projects
-------
-***
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
