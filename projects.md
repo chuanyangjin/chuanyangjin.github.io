@@ -28,7 +28,7 @@ description: >
     <td style="padding: 20px; width: 20%; vertical-align: middle; border: none;">
       <img src="https://chuanyangjin.github.io/assets/img/projects/VideoPredictionSegmentation.png" alt="PontTuset" width="160" style="border-style: none;">
     </td>
-    <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
+    <td style="width: 75%; vertical-align: middle; border: none;">
       <b>Efficient Video Prediction and Segmentation with Sparse Labeled Data</b><br>
       Peiqi Liu, Samuel Zhong, Chuanyang Jin<br>
       <a href="https://chuanyangjin.github.io/assets/reports/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">report</a> / 
@@ -43,7 +43,7 @@ description: >
     <td style="padding: 20px; width: 20%; vertical-align: middle; border: none;">
       <img src="https://chuanyangjin.github.io/assets/img/projects/fast-dit.png" alt="PontTuset" width="160" style="border-style: none;">
     </td>
-    <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
+    <td style="width: 75%; vertical-align: middle; border: none;">
       <b>Optimizing Diffusion Transformers</b> (mid-term version) <br>
       Chuanyang Jin, Saining Xie <br>
       <a href="https://chuanyangjin.github.io/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a> / 
@@ -61,7 +61,7 @@ description: >
     <td style="padding: 20px; width: 20%; vertical-align: middle; border: none;">
       <img src="https://chuanyangjin.github.io/assets/img/projects/AutoCorp.png" alt="PontTuset" width="160" style="border-style: none;">
     </td>
-    <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
+    <td style="width: 75%; vertical-align: middle; border: none;">
       <b>AutoCorp: A Fully Autonomous Company</b><br>
       Competition: NYC GPT/LLM Hackathon 2023<br>
       <a href="https://chuanyangjin.github.io/projects/autocorp">demo</a> / 
@@ -74,7 +74,7 @@ description: >
     <td style="padding: 20px; width: 20%; vertical-align: middle; border: none;">
       <img src="https://chuanyangjin.github.io/assets/img/projects/Learn&Link.png" alt="PontTuset" width="160" style="border-style: none;">
     </td>
-    <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
+    <td style="width: 75%; vertical-align: middle; border: none;">
       <b>Learn & Link</b><br>
       Competition: Hack GPT 2023<br>
       <a href="https://devpost.com/software/learn-and-link">demo</a> / 
@@ -86,7 +86,7 @@ description: >
     <td style="padding: 20px; width: 20%; vertical-align: middle; border: none;">
       <img src="https://chuanyangjin.github.io/assets/img/projects/Recommender.png" alt="PontTuset" width="160" style="border-style: none;">
     </td>
-    <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
+    <td style="width: 75%; vertical-align: middle; border: none;">
       <b>Recommendation System for E-commerce Retailer</b><br>
       Competition: NYU x Peak Datathon 2022<br>
       <a href="https://chuanyangjin.github.io/assets/slides/Recommendation_System_for_Olist_E-commerce_Retailer.pdf">slides</a> / 
@@ -98,7 +98,7 @@ description: >
     <td style="padding: 20px; width: 20%; vertical-align: middle; border: none;">
       <img src="https://chuanyangjin.github.io/assets/img/projects/Em.png" alt="PontTuset" width="160" style="border-style: none;">
     </td>
-    <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
+    <td style="width: 75%; vertical-align: middle; border: none;">
       <b>Social Platform for Recording and Sharing Emotions</b><br>
       Competition: HackNYU 2022<br>
       <a href="https://devpost.com/software/em-k3gf5b">demo</a> / 
@@ -110,7 +110,7 @@ description: >
     <td style="padding: 20px; width: 20%; vertical-align: middle; border: none;">
       <img src="https://chuanyangjin.github.io/assets/img/projects/AsteroidMining.png" alt="PontTuset" width="160" style="border-style: none;">
     </td>
-    <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
+    <td style="width: 75%; vertical-align: middle; border: none;">
       <b>Promoting Global Equity through Asteroid Mining</b><br>
       Competition: Interdisciplinary Contest in Modeling 2022<br>
       Awards: Finalist & MAA Award & COMAP Scholarship (Top 4/27205)<br>
@@ -122,7 +122,7 @@ description: >
     <td style="padding: 20px; width: 20%; vertical-align: middle; border: none;">
       <img src="https://chuanyangjin.github.io/assets/img/projects/Gene.png" alt="PontTuset" width="160" style="border-style: none;">
     </td>
-    <td style="width: 75%; vertical-align: middle; font-size: 1.2em; border: none;">
+    <td style="width: 75%; vertical-align: middle; border: none;">
       <b>Gene Mutation Detection System</b><br>
       Competition: Shing-Tung Yau Science Award 2019<br>
       Award: International Bronze Award (Top 3/500)<br>
