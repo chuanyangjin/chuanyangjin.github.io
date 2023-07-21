@@ -1,9 +1,9 @@
 ---
-layout: projects
+# layout: projects
 title: Publications
 description: >
 
-no_groups: true
+# no_groups: true
 ---
 
 <table style="border-collapse: collapse; border: none;">
