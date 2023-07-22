@@ -434,5 +434,5 @@ jekyll_compose:
           url: https://example.com
 
 
-favicon: /assets/icons/favicon.ico
+favicon: /assets/icons/favicon_cj.ico
 apple_touch_icon: /assets/img/logo.png
