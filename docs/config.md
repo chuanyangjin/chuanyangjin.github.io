@@ -492,9 +492,9 @@ By default, Hydejack includes its own favicon, as well as app icons in 8 differe
 
 | Name               | Resolution |
 |:-------------------|-----------:|
-| `icon-512x512.png` |  `512x512` |
-| `icon-384x384.png` |  `384x384` |
-| `icon-192x192.png` |  `192x192` |
+| `icon-512x512_new.png` |  `512x512` |
+| `icon-384x384_new.png` |  `384x384` |
+| `icon-192x192_new.png` |  `192x192` |
 | `icon-152x152.png` |  `152x152` |
 | `icon-144x144.png` |  `144x144` |
 | `icon-128x128.png` |  `128x128` |
