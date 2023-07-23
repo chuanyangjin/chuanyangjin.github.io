@@ -40,14 +40,23 @@ a::after, a.external::after {
 -->
 
 <div class="pubteaser"> 
-  <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="publication teaser" width="400" style="float: left; margin-right: 20px;" />
+  <img src="/assets/img/papers/ClipCap.png" alt="publication teaser" width="400" style="float: left; margin-right: 20px;" />
   <b>Semi-Supervised Image Captioning with CLIP</b><br>
   <b>Chuanyang Jin</b><br>
   <i>Under Review</i><br>
   <a href="https://arxiv.org/abs/2306.15111">paper</a>
 </div>
 
+<div class="pubteaser"> 
+  <img src="/assets/img/papers/nested-reasoning.png" alt="publication teaser" width="400" style="float: left; margin-right: 20px;" />
+  <b>Neural Amortized Inference for Nested Multi-agent Reasoning</b><br>
+  Kunal Jha, Tuan Anh Le, <b>Chuanyang Jin</b>, Yen-Ling Kuo, Joshua Tenenbaum and Tianmin Shu<br>
+  <i>Under Review</i> | 
+  Oral Presentation at AAAI Symposium 2023<br>
+  <a href="https://chuanyangjin.github.io/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
+</div>
 
+<div>
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="padding: 20px; width: 20%; vertical-align: middle; border: none;">
@@ -61,6 +70,7 @@ a::after, a.external::after {
     </td>
   </tr>
 </table>
+</div>
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
