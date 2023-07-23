@@ -10,34 +10,6 @@ a::after, a.external::after {
 </style>
 
 <!--
-<table>
-<tr><div class="pubteaser"> <a href=""> <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="publication teaser" width="400" class='img-fluid'/> </a>
-</div><h3>Skill-based Model-based Reinforcement Learning</h3><br /> <strong>Lucy Xiaoyang Shi</strong>, <a href="https://clvrai.com/web_lim/">Joseph J. Lim</a>, <a href="http://youngwoon.github.io/">Youngwoon Lee</a> <br /> 
-<em>Conference on Robot Learning (CoRL)</em>, 2022 <br /> 
-<a href="https://arxiv.org/abs/2207.07560">paper</a> / 
-<a href="https://clvrai.com/skimo">project</a> / 
-<a href="https://github.com/clvrai/skimo">code</a> / 
-<a href="https://twitter.com/lucy_x_shi/status/1549058411160997889">twitter</a> /<p> 
-<small><p>We devise a method that enables model-based RL on long-horizon, sparse-reward tasks, allowing us to learn with 5x less samples. </small><p><br />
-</tr>
-</table>
--->
-
-<!--
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="width: 25%">
-      <img src="/assets/img/papers/ClipCap.png" alt="PontTuset" width="400">
-    </td>
-    <td style="width: 70%">
-      <b>Semi-Supervised Image Captioning with CLIP</b><br>
-      <b>Chuanyang Jin</b><br>
-      <i>Under Review</i><br>
-      <a href="https://arxiv.org/abs/2306.15111">paper</a>
-    </td>
-  </tr>
-</table>
--->
 
 <div class="pubteaser" style="clear: both; margin-top: 30px;"> 
   <img src="/assets/img/papers/ClipCap.png" alt="publication teaser" width="300" style="float: left; margin-right: 20px;" />
@@ -56,9 +28,11 @@ a::after, a.external::after {
   <a href="https://chuanyangjin.github.io/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
 </div>
 
+-->
+
 
 <div class="pubteaser"> 
-  <img src="/assets/img/papers/ClipCap.png" alt="publication teaser" width="400" style="float: left; margin-right: 20px;" />
+  <img src="/assets/img/papers/ClipCap.png" alt="publication teaser" width="300" style="float: left; margin-right: 20px;" />
   <div style="overflow: hidden;">
     <b>Semi-Supervised Image Captioning with CLIP</b><br>
     <b>Chuanyang Jin</b><br>
@@ -68,7 +42,7 @@ a::after, a.external::after {
 </div>
 
 <div class="pubteaser" style="margin-top: 30px;"> 
-  <img src="/assets/img/papers/nested-reasoning.png" alt="publication teaser" width="400" style="float: left; margin-right: 20px;" />
+  <img src="/assets/img/papers/nested-reasoning.png" alt="publication teaser" width="300" style="float: left; margin-right: 20px;" />
   <div style="overflow: hidden;">
     <b>Neural Amortized Inference for Nested Multi-agent Reasoning</b><br>
     Kunal Jha, Tuan Anh Le, <b>Chuanyang Jin</b>, Yen-Ling Kuo, Joshua Tenenbaum and Tianmin Shu<br>
@@ -79,7 +53,7 @@ a::after, a.external::after {
 </div>
 
 
-
+<!--
 <div class="pubteaser" style="clear: both; margin-top: 30px;"> 
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -110,3 +84,4 @@ a::after, a.external::after {
     </td>
   </tr>
 </table>
+-->
