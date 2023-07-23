@@ -31,7 +31,7 @@ a::after, a.external::after {
 -->
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 400px;">
+  <div style="float: left; width: 270px;">
     <img src="/assets/img/papers/ClipCap.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 420px;">
@@ -43,12 +43,12 @@ a::after, a.external::after {
 </div>
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 400px;">
+  <div style="float: left; width: 270px;">
     <img src="/assets/img/papers/nested-reasoning.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 420px;">
     <b>Neural Amortized Inference for Nested Multi-agent Reasoning</b><br>
-    Kunal Jha, Tuan Anh Le, <b>Chuanyang Jin</b>, Yen-Ling Kuo, Joshua Tenenbaum and Tianmin Shu<br>
+    Kunal Jha, [Tuan Anh Le](https://www.tuananhle.co.uk/), <b>Chuanyang Jin</b>, [Yen-Ling Kuo](https://yenlingkuo.com/), [Joshua Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Tianmin Shu](https://www.tshu.io/)<br>
     <i>Under Review</i> | 
     Oral Presentation at AAAI Symposium 2023<br>
     <a href="https://chuanyangjin.github.io/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
