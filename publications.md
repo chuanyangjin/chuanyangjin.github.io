@@ -32,7 +32,7 @@ a::after, a.external::after {
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/papers/ClipCap.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/publications/ClipCap.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <b>Semi-Supervised Image Captioning with CLIP</b><br>
@@ -44,7 +44,7 @@ a::after, a.external::after {
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/papers/nested-reasoning.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/publications/nested-reasoning.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <b>Neural Amortized Inference for Nested Multi-agent Reasoning</b><br>
