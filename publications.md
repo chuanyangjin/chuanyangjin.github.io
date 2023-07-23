@@ -31,10 +31,10 @@ a::after, a.external::after {
 -->
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 270px;">
+  <div style="float: left; width: 250px;">
     <img src="/assets/img/papers/ClipCap.png" alt="publication teaser" width="100%" />
   </div>
-  <div style="margin-left: 300px;">
+  <div style="margin-left: 270px;">
     <b>Semi-Supervised Image Captioning with CLIP</b><br>
     <b>Chuanyang Jin</b><br>
     <i>Under Review</i><br>
@@ -43,12 +43,17 @@ a::after, a.external::after {
 </div>
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 270px;">
+  <div style="float: left; width: 250px;">
     <img src="/assets/img/papers/nested-reasoning.png" alt="publication teaser" width="100%" />
   </div>
-  <div style="margin-left: 300px;">
+  <div style="margin-left: 270px;">
     <b>Neural Amortized Inference for Nested Multi-agent Reasoning</b><br>
-    Kunal Jha, [Tuan Anh Le](https://www.tuananhle.co.uk/), <b>Chuanyang Jin</b>, [Yen-Ling Kuo](https://yenlingkuo.com/), [Joshua Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Tianmin Shu](https://www.tshu.io/)<br>
+    Kunal Jha, 
+    <a href="https://www.tuananhle.co.uk/">Tuan Anh Le</a>, 
+    <b>Chuanyang Jin</b>, 
+    <a href="https://yenlingkuo.com/">Yen-Ling Kuo</a>, 
+    <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a> and 
+    <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review</i> | 
     Oral Presentation at AAAI Symposium 2023<br>
     <a href="https://chuanyangjin.github.io/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
