@@ -25,7 +25,7 @@ a::after, a.external::after {
 
 
 <div class="pubteaser"> 
-  <img src="./assets/img/project/skimo.gif" alt="publication teaser" style="float: left; margin-right: 20px;" />
+  <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="publication teaser" style="float: left; margin-right: 20px;" />
   <h3>Skill-based Model-based Reinforcement Learning</h3><br /> 
   <strong>Lucy Xiaoyang Shi</strong>, <a href="https://clvrai.com/web_lim/">Joseph J. Lim</a>, <a href="http://youngwoon.github.io/">Youngwoon Lee</a> <br /> 
   <em>Conference on Robot Learning (CoRL)</em>, 2022 <br /> 
@@ -38,7 +38,7 @@ a::after, a.external::after {
 
 <div class='row vspace-top'>
                     <div class="col-sm-3">
-                        <img src='imgs/pointcontrast.png' class='img-fluid'>
+                        <img src='https://chuanyangjin.github.io/assets/img/papers/ClipCap.png' class='img-fluid'>
                     </div>
                     <div class="col">
                         <div class='paper-title'>
@@ -65,12 +65,12 @@ a::after, a.external::after {
                     </div>
                 </div>
 
-                
+
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 25%">
-      <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="PontTuset" width="400">
+      <img src="/assets/img/papers/ClipCap.png" alt="PontTuset" width="400">
     </td>
     <td style="width: 70%">
       <b>Semi-Supervised Image Captioning with CLIP</b><br>
