@@ -23,7 +23,7 @@ a::after, a.external::after {
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 20%; vertical-align: middle; border: none;">
-      <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="PontTuset" width="300" style="border-style: none;">
+      <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="PontTuset" width="400" style="border-style: none;">
     </td>
     <td style="width: 75%; vertical-align: middle; border: none;">
       <b>Semi-Supervised Image Captioning with CLIP</b><br>
@@ -32,12 +32,10 @@ a::after, a.external::after {
       <a href="https://arxiv.org/abs/2306.15111">paper</a>
     </td>
   </tr>
-</table>
 
-<table>
   <tr>
-    <td style="width: 20%; vertical-align: middle">
-      <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="PontTuset" width="300">
+    <td style="width: 25%">
+      <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="PontTuset" width="400">
     </td>
     <td style="width: 75%">
       <b>Semi-Supervised Image Captioning with CLIP</b><br>
