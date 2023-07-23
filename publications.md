@@ -9,6 +9,11 @@ a::after, a.external::after {
 }
 </style>
 
+
+<tr><div class="pubteaser"> <a href=""> <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="publication teaser" /> </a>
+</div><h3>Skill-based Model-based Reinforcement Learning</h3><br /> <strong>Lucy Xiaoyang Shi</strong>, <a href="https://clvrai.com/web_lim/">Joseph J. Lim</a>, <a href="http://youngwoon.github.io/">Youngwoon Lee</a> <br /> <em>Conference on Robot Learning (CoRL)</em>, 2022 <br /> <a href="https://arxiv.org/abs/2207.07560">paper</a> / <a href="https://clvrai.com/skimo">project</a> / <a href="https://github.com/clvrai/skimo">code</a> / <a href="https://twitter.com/lucy_x_shi/status/1549058411160997889">twitter</a> /<p> <small><p>We devise a method that enables model-based RL on long-horizon, sparse-reward tasks, allowing us to learn with 5x less samples. </small><p><br />
+
+
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="padding: 20px; width: 20%; vertical-align: middle; border: none;">
