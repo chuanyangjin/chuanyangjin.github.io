@@ -2,7 +2,7 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
+  name:              Chuanyang Jin
   email:             <mail@domain.tld>
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -26,9 +26,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         chuanyang_jin
-    github:          chuanyangjin
     email:           cj2133@nyu.edu
+    github:          chuanyangjin
+    twitter:         chuanyang_jin
+    linkedin:        chuanyang-jin
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -57,7 +58,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        chuanyang-jin
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
