@@ -34,7 +34,7 @@ a::after, a.external::after {
   <div style="float: left; width: 270px;">
     <img src="/assets/img/papers/ClipCap.png" alt="publication teaser" width="100%" />
   </div>
-  <div style="margin-left: 420px;">
+  <div style="margin-left: 300px;">
     <b>Semi-Supervised Image Captioning with CLIP</b><br>
     <b>Chuanyang Jin</b><br>
     <i>Under Review</i><br>
@@ -46,7 +46,7 @@ a::after, a.external::after {
   <div style="float: left; width: 270px;">
     <img src="/assets/img/papers/nested-reasoning.png" alt="publication teaser" width="100%" />
   </div>
-  <div style="margin-left: 420px;">
+  <div style="margin-left: 300px;">
     <b>Neural Amortized Inference for Nested Multi-agent Reasoning</b><br>
     Kunal Jha, [Tuan Anh Le](https://www.tuananhle.co.uk/), <b>Chuanyang Jin</b>, [Yen-Ling Kuo](https://yenlingkuo.com/), [Joshua Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Tianmin Shu](https://www.tshu.io/)<br>
     <i>Under Review</i> | 
