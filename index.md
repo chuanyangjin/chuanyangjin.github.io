@@ -20,11 +20,11 @@ I also enjoy promoting stable and well-aligned generation of texts, images and m
 
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of history, international relations, and scientific fiction, as well as a dedicated writer read by more than 15,000,000 times on different platforms. I also enjoy playing "Go", piano, and badminton.
 
-Here is my [CV](https://chuanyangjin.github.io/assets/Chuanyang_CV.pdf) (Last update: May 2023).
+Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: May 2023).
 
 ## News
-+ [July, 2023] Presented [our work](https://chuanyangjin.github.io/assets/slides/AAAI_Nested_Reasoning.pdf) at [AAAI Embodied Intelligence Symposium](https://sites.google.com/view/embodiedintelligence)
++ [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at [AAAI Embodied Intelligence Symposium](https://sites.google.com/view/embodiedintelligence)
 + [May, 2023] I am joining MIT CSAIL and Cocosci as a visiting student
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
-+ [Apr, 2023] Received [NYU Computer Science Prize](https://chuanyangjin.github.io/assets/Computer_Science_Prize.pdf) as the most promising junior student
++ [Apr, 2023] Received [NYU Computer Science Prize](/assets/Computer_Science_Prize.pdf) as the most promising junior student
 + [May, 2022] Received [COMAP Scholarship](https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf) as the top 4 out of 27,205 teams in MCM
