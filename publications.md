@@ -9,7 +9,7 @@ a::after, a.external::after {
 }
 </style>
 
-
+<table>
 <tr><div class="pubteaser"> <a href=""> <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="publication teaser" width="400"/> </a>
 </div><h3>Skill-based Model-based Reinforcement Learning</h3><br /> <strong>Lucy Xiaoyang Shi</strong>, <a href="https://clvrai.com/web_lim/">Joseph J. Lim</a>, <a href="http://youngwoon.github.io/">Youngwoon Lee</a> <br /> 
 <em>Conference on Robot Learning (CoRL)</em>, 2022 <br /> 
@@ -18,26 +18,61 @@ a::after, a.external::after {
 <a href="https://github.com/clvrai/skimo">code</a> / 
 <a href="https://twitter.com/lucy_x_shi/status/1549058411160997889">twitter</a> /<p> 
 <small><p>We devise a method that enables model-based RL on long-horizon, sparse-reward tasks, allowing us to learn with 5x less samples. </small><p><br />
+</tr>
+</table>
 
+
+
+
+<div class="pubteaser"> 
+  <img src="./assets/img/project/skimo.gif" alt="publication teaser" style="float: left; margin-right: 20px;" />
+  <h3>Skill-based Model-based Reinforcement Learning</h3><br /> 
+  <strong>Lucy Xiaoyang Shi</strong>, <a href="https://clvrai.com/web_lim/">Joseph J. Lim</a>, <a href="http://youngwoon.github.io/">Youngwoon Lee</a> <br /> 
+  <em>Conference on Robot Learning (CoRL)</em>, 2022 <br /> 
+  <a href="https://arxiv.org/abs/2207.07560">paper</a> / <a href="https://clvrai.com/skimo">project</a> / <a href="https://github.com/clvrai/skimo">code</a> / <a href="https://twitter.com/lucy_x_shi/status/1549058411160997889">twitter</a> 
+  <p> <small>We devise a method that enables model-based RL on long-horizon, sparse-reward tasks, allowing us to learn with 5x less samples. </small></p><br />
+</div>
+
+
+
+
+<div class='row vspace-top'>
+                    <div class="col-sm-3">
+                        <img src='imgs/pointcontrast.png' class='img-fluid'>
+                    </div>
+                    <div class="col">
+                        <div class='paper-title'>
+                            PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding
+                        </div>
+                        <div class='paper-desc'>
+                            ECCV 2020
+                        </div>
+                        <div class="paper-author">
+                            <span class="author sx">Saining Xie</span>,
+                            <span class="author"><a href="https://jiataogu.me/">Jiatao Gu</a></span>,
+                            <span class="author"><a href="https://scholar.google.com/citations?user=lJFV2cwAAAAJ&hl=en">Demi Guo</a></span>,
+                            <span class="author"><a href="https://web.stanford.edu/~rqi/">Charles R. Qi</a></span>, 
+                            <span class="author"><a href="https://geometry.stanford.edu/member/guibas/">Leonidas J. Guibas</a></span>, 
+                            <span class="author"><a href="https://orlitany.github.io/">Or Litany</a></span> 
+                        </div>
+                        <div>
+                            <a href="https://arxiv.org/abs/2007.10985">[Paper]</a>
+                            <a href="https://github.com/facebookresearch/pointcontrast">[Code]</a>
+                        </div>
+                        <div class='paper-highlight'>
+                            Spotlight Presentation
+                        </div>
+                    </div>
+                </div>
+
+                
 
 <table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="width: 20%; vertical-align: middle; border: none;">
-      <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="PontTuset" width="400" style="border-style: none;">
-    </td>
-    <td style="width: 75%; vertical-align: middle; border: none;">
-      <b>Semi-Supervised Image Captioning with CLIP</b><br>
-      <b>Chuanyang Jin</b><br>
-      <i>Under Review</i><br>
-      <a href="https://arxiv.org/abs/2306.15111">paper</a>
-    </td>
-  </tr>
-
   <tr>
     <td style="width: 25%">
       <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="PontTuset" width="400">
     </td>
-    <td style="width: 72%">
+    <td style="width: 70%">
       <b>Semi-Supervised Image Captioning with CLIP</b><br>
       <b>Chuanyang Jin</b><br>
       <i>Under Review</i><br>
