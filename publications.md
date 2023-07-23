@@ -10,7 +10,7 @@ a::after, a.external::after {
 </style>
 
 <table>
-<tr><div class="pubteaser"> <a href=""> <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="publication teaser" width="400"/> </a>
+<tr><div class="pubteaser"> <a href=""> <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="publication teaser" width="400" class='img-fluid'/> </a>
 </div><h3>Skill-based Model-based Reinforcement Learning</h3><br /> <strong>Lucy Xiaoyang Shi</strong>, <a href="https://clvrai.com/web_lim/">Joseph J. Lim</a>, <a href="http://youngwoon.github.io/">Youngwoon Lee</a> <br /> 
 <em>Conference on Robot Learning (CoRL)</em>, 2022 <br /> 
 <a href="https://arxiv.org/abs/2207.07560">paper</a> / 
@@ -25,7 +25,7 @@ a::after, a.external::after {
 
 
 <div class="pubteaser"> 
-  <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="publication teaser" style="float: left; margin-right: 20px;" />
+  <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="publication teaser" width="400" style="float: left; margin-right: 20px;" />
   <h3>Skill-based Model-based Reinforcement Learning</h3><br /> 
   <strong>Lucy Xiaoyang Shi</strong>, <a href="https://clvrai.com/web_lim/">Joseph J. Lim</a>, <a href="http://youngwoon.github.io/">Youngwoon Lee</a> <br /> 
   <em>Conference on Robot Learning (CoRL)</em>, 2022 <br /> 
@@ -38,7 +38,7 @@ a::after, a.external::after {
 
 <div class='row vspace-top'>
                     <div class="col-sm-3">
-                        <img src='https://chuanyangjin.github.io/assets/img/papers/ClipCap.png' class='img-fluid'>
+                        <img src='https://chuanyangjin.github.io/assets/img/papers/ClipCap.png' width="400" class='img-fluid'>
                     </div>
                     <div class="col">
                         <div class='paper-title'>
