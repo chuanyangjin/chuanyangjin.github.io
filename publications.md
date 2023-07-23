@@ -30,7 +30,33 @@ a::after, a.external::after {
 
 -->
 
+<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+  <div style="float: left; width: 400px;">
+    <img src="/assets/img/papers/ClipCap.png" alt="publication teaser" width="100%" />
+  </div>
+  <div style="margin-left: 420px;">
+    <b>Semi-Supervised Image Captioning with CLIP</b><br>
+    <b>Chuanyang Jin</b><br>
+    <i>Under Review</i><br>
+    <a href="https://arxiv.org/abs/2306.15111">paper</a>
+  </div>
+</div>
 
+<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+  <div style="float: left; width: 400px;">
+    <img src="/assets/img/papers/nested-reasoning.png" alt="publication teaser" width="100%" />
+  </div>
+  <div style="margin-left: 420px;">
+    <b>Neural Amortized Inference for Nested Multi-agent Reasoning</b><br>
+    Kunal Jha, Tuan Anh Le, <b>Chuanyang Jin</b>, Yen-Ling Kuo, Joshua Tenenbaum and Tianmin Shu<br>
+    <i>Under Review</i> | 
+    Oral Presentation at AAAI Symposium 2023<br>
+    <a href="https://chuanyangjin.github.io/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
+  </div>
+</div>
+
+
+<!--
 <div class="pubteaser"> 
   <img src="/assets/img/papers/ClipCap.png" alt="publication teaser" width="300" style="float: left; margin-right: 20px;" />
   <div style="overflow: hidden;">
@@ -53,7 +79,9 @@ a::after, a.external::after {
 </div>
 
 
-<!--
+
+
+
 <div class="pubteaser" style="clear: both; margin-top: 30px;"> 
 <table style="border-collapse: collapse; border: none;">
   <tr>
