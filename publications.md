@@ -37,7 +37,7 @@ a::after, a.external::after {
     <td style="width: 25%">
       <img src="https://chuanyangjin.github.io/assets/img/papers/ClipCap.png" alt="PontTuset" width="400">
     </td>
-    <td style="width: 75%">
+    <td style="width: 72%">
       <b>Semi-Supervised Image Captioning with CLIP</b><br>
       <b>Chuanyang Jin</b><br>
       <i>Under Review</i><br>
