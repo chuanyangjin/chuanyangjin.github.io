@@ -40,8 +40,6 @@ a::after, a.external::after {
     <img src="/assets/img/projects/fast-dit.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>Efficient Video Prediction and Segmentation with Sparse Labeled Data</b><br>
-    Peiqi Liu, Samuel Zhong, Chuanyang Jin<br>
     <b>Optimizing Diffusion Transformers</b><br>
     Chuanyang Jin, Saining Xie <br>
     <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a> / 
