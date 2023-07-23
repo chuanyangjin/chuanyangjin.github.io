@@ -17,7 +17,7 @@ a::after, a.external::after {
     <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
     Chuanyang Jin, Peiqi Liu, Zixuan Dong, Chang Liu<br>
     <a href="/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> / 
-    <a href=/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">slides</a> / 
+    <a href="/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">slides</a> / 
     <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">code</a>
   </div>
 </div>
