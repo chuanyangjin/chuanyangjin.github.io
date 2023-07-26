@@ -11,14 +11,16 @@ a::after, a.external::after {
 </style>
 
 
-I am a visiting student at MIT, working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a rising senior student in Honors Computer Science and Mathematics at NYU Courant. I'm also fortunate to work under the guidance of [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/) at NYU.
+I am a visiting student at MIT, advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a rising senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/).
 
-My research interests lie in generative intelligence, large language models and robot learning. 
-I am particularly interested in building agents that can communicate, memorize and imagine. 
-This involves the incorporation of knowledge derived from large language models or generative models to serve as the cornerstone of their intelligence. 
-I also enjoy promoting stable and well-aligned generation of texts, images and music, and intertwining the fields of AI with psychology and biology.
+I am broadly interested in Natural Language Processing, Computer Vision and Embodied AI. Here are some directions I’m excited about:
++ **Large language models**: build robust, truthful and well-aligned LLMs, and train LLMs with all types of experiences
++ **Human-AI collaboration**: build intelligent systems that can communicate effectively with humans, and endow them with social intelligence and social commonsense
++ **Generative intelligence**: design generative models to help humans create well-aligned visual data (e.g., images, videos, 3D data, multimodal data) effortlessly
 
-Besides academics, I enjoy roaming in movies and books. I am an avid reader of history, international relations, and scientific fiction, as well as a dedicated writer read by more than 15,000,000 times on different platforms. I also enjoy playing "Go", piano, and badminton.
+A sample of other topics that I’m also very curious about: 3D vision, self-supervised representation learning, multi-modal learning, and AI for science
+
+Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 15,000,000 times on different platforms. I also enjoy playing "Go", piano, and badminton.
 
 Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: May 2023).
 
@@ -28,3 +30,10 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: May 2023).
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
 + [Apr, 2023] Received [NYU Computer Science Prize](/assets/Computer_Science_Prize.pdf) as the most promising junior student
 + [May, 2022] Received [COMAP Scholarship](https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf) as the top 4 out of 27,205 teams in MCM
+
+<!--
+My research interests lie in generative intelligence, large language models and robot learning. 
+I am particularly interested in building agents that can communicate, memorize and imagine. 
+This involves the incorporation of knowledge derived from large language models or generative models to serve as the cornerstone of their intelligence. 
+I also enjoy promoting stable and well-aligned generation of texts, images and music, and intertwining the fields of AI with psychology and biology.
+-->
