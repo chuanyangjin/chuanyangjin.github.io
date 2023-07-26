@@ -20,7 +20,7 @@ I am broadly interested in Natural Language Processing, Computer Vision, and Emb
 
 I'm also fascinated by 3D vision, representation learning, multi-modal learning, and AI for science.
 
-Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 16,000,000 times on different platforms. I also enjoy playing "Go", piano, hiking, and badminton.
+Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 16,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, and hiking.
 
 Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: May 2023).
 
