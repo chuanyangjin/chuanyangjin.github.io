@@ -11,16 +11,16 @@ a::after, a.external::after {
 </style>
 
 
-I am a visiting student at MIT, advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a rising senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/).
+I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a rising senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/).
 
-I am broadly interested in Natural Language Processing, Computer Vision and Embodied AI. Here are some directions I’m excited about:
-+ **Large language models**: build robust, truthful and well-aligned LLMs, and train LLMs with all types of experiences
-+ **Human-AI collaboration**: build intelligent systems that can communicate effectively with humans, and endow them with social intelligence and social commonsense
-+ **Generative intelligence**: design generative models to help humans create well-aligned visual data (e.g., images, videos, 3D data, multimodal data) effortlessly
+I am broadly interested in Natural Language Processing, Computer Vision and Embodied AI. Here are some directions I’m particularly excited about:
++ **Large language models**: build language models that demonstrate robustness, truthfulness, and alignment with human goals, and train them with a wide variety of experiences (e.g., data instances, structured knowledge, and lifelong interplay)
++ **Human-AI collaboration**: construct intelligent systems that can communicate effectively with humans, and endow them with social intelligence and social commonsense
++ **Generative intelligence**: design generative models that can assist humans in the fast and effortless creation of visual data (e.g., images, videos, 3D data, multimodal data)
 
-A sample of other topics that I’m also very curious about: 3D vision, self-supervised representation learning, multi-modal learning, and AI for science
+I am also fascinated by 3D vision, self-supervised representation learning, multi-modal learning, and AI for science.
 
-Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 15,000,000 times on different platforms. I also enjoy playing "Go", piano, and badminton.
+Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 15,000,000 times on different platforms. I also enjoy playing "Go", piano, hiking, and badminton.
 
 Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: May 2023).
 
