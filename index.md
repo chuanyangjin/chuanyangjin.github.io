@@ -14,11 +14,11 @@ a::after, a.external::after {
 I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/) and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a rising senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/).
 
 I am broadly interested in Natural Language Processing, Computer Vision and Embodied AI. Here are some directions I’m particularly excited about:
-+ **Large language models**: build language models that demonstrate robustness, truthfulness, and alignment with human goals, and train them with a wide variety of experiences (e.g., data instances, structured knowledge, and lifelong interplay)
-+ **Human-AI collaboration**: construct intelligent systems that can communicate effectively with humans, and endow them with social intelligence and social commonsense
-+ **Generative intelligence**: design generative models that can assist humans in the swift and effortless creation of visual data (e.g., images, videos, 3D data, multimodal data)
++ **Large language models**: build language models that demonstrate robustness, truthfulness, and alignment with human goals, and train them with a wide variety of experiences (e.g., data instances, structured knowledge, and lifelong interplay).
++ **Human-AI collaboration**: construct intelligent systems that can communicate effectively with humans, and endow them with social intelligence and social commonsense.
++ **Generative intelligence**: design generative models that can assist humans in the swift and effortless creation of visual data (e.g., images, videos, 3D data, multimodal data).
 
-I'm also fascinated by 3D vision, self-supervised representation learning, multi-modal learning, and AI for science.
+I'm also fascinated by 3D vision, representation learning, multi-modal learning, and AI for science.
 
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 15,000,000 times on different platforms. I also enjoy playing "Go", piano, hiking, and badminton.
 
