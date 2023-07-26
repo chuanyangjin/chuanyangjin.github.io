@@ -38,3 +38,13 @@ a::after, a.external::after {
     <a href="https://arxiv.org/abs/2306.15111">paper</a>
   </div>
 </div>
+
+
+
+In progress:
+
++ Language Models Meet World Models: Embodied Experiences Enhance Theory of Mind Capabilities
+
++ Watch-Talk-And-Help: Building Cooperative Embodied Agents with Large Language Models
+
++ Is GPT a Holistic or Analytic Thinker?
