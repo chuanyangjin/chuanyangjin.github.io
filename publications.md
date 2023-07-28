@@ -40,7 +40,7 @@ a::after, a.external::after {
 </div>
 
 
-<br><br>
+<br>
 
 In progress:
 
@@ -48,6 +48,6 @@ In progress:
 
 + Watch-Talk-And-Help: Building Cooperative Embodied Agents with Large Language Models
 
-+ Is GPT a Holistic or Analytic Thinker?
++ Cultural Nuances in Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?
 
 + The Composition of Nuclear Speckle and Relating Functions
