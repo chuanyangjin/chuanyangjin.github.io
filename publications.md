@@ -48,6 +48,6 @@ In progress:
 
 + Watch-Talk-And-Help: Building Cooperative Embodied Agents with Large Language Models
 
-+ Cultural Nuances in Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?
++ The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?
 
 + The Composition of Nuclear Speckle and Relating Functions
