@@ -10,7 +10,7 @@ a::after, a.external::after {
 </style>
 
 
-I am from Nanjing, China.
+I am from [Nanjing](https://en.wikipedia.org/wiki/Nanjing), China.
 
 My personality type is INFJ. I’m a [Ravenclaw](https://www.wizardingworld.com/collections/ravenclaw).
 
