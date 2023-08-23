@@ -22,7 +22,7 @@ a::after, a.external::after {
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a> and 
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review</i> | 
-    Oral Presentation at AAAI Summer Symposium<br>
+    Oral Presentation at AAAI Summer Symposium, 2023<br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> / 
     <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
   </div>
