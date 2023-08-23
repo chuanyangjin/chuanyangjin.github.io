@@ -23,7 +23,7 @@ a::after, a.external::after {
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review</i> | 
     Oral Presentation at AAAI Summer Symposium<br>
-    <a href="https://arxiv.org/abs/2308.11071">paper</a>
+    <a href="https://arxiv.org/abs/2308.11071">paper</a> / 
     <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
   </div>
 </div>
