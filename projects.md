@@ -37,7 +37,7 @@ a::after, a.external::after {
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/fast-dit.png" alt="publication teaser" width="100%" />
+    <video width="100%" controls> <source src="/assets/img/projects/fast-dit.mp4" type="video/mp4"> </video>
   </div>
   <div style="margin-left: 270px;">
     <b>Optimizing Diffusion Transformers</b><br>
