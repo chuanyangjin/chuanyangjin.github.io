@@ -40,6 +40,20 @@ a::after, a.external::after {
   </div>
 </div>
 
+<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+  <div style="float: left; width: 250px;">
+    <img src="/assets/img/publications/holistic.png" alt="publication teaser" width="100%" />
+  </div>
+  <div style="margin-left: 270px;">
+    <b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b><br>
+    <b>Chuanyang Jin</b>, 
+    Songyang Zhang, 
+    <a href="https://www.tshu.io/">Tianmin Shu</a> and 
+    <a href="https://zhihan-cui.weebly.com/">Zhihan Cui</a><br>
+    <i>Under Review</i><br>
+  </div>
+</div>
+
 
 <br>
 
@@ -48,7 +62,5 @@ In progress:
 + Language Models Meet World Models: Embodied Experiences Enhance Theory of Mind Capabilities
 
 + Watch-Talk-And-Help: Building Cooperative Embodied Agents with Large Language Models
-
-+ The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?
 
 + The Composition of Nuclear Speckle and Relating Functions
