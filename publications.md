@@ -51,6 +51,7 @@ a::after, a.external::after {
     <a href="https://www.tshu.io/">Tianmin Shu</a> and 
     <a href="https://zhihan-cui.weebly.com/">Zhihan Cui</a><br>
     <i>Under Review</i><br>
+    <a href="https://arxiv.org/abs/2308.14242">paper</a>
   </div>
 </div>
 
