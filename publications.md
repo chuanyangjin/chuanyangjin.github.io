@@ -60,7 +60,7 @@ a::after, a.external::after {
 
 In progress:
 
-+ Language Models Meet World Models: Embodied Experiences Enhance Theory of Mind Capabilities
++ MToM-QA: Multimodal Theory of Mind Question Answering
 
 + Watch-Talk-And-Help: Building Cooperative Embodied Agents with Large Language Models
 
