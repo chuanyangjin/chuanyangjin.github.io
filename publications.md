@@ -11,6 +11,29 @@ a::after, a.external::after {
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
+    <img src="/assets/img/publications/MMToM.pdf" alt="publication teaser" width="100%" />
+  </div>
+  <div style="margin-left: 270px;">
+    <b>MMToM-QA: Multimodal Theory of Mind Question Answering</b><br>
+    <b>Chuanyang Jin</b>,
+    Yutong Wu,
+    Jing Cao,
+    <a href="https://szxiangjn.github.io/">Jiannan Xiang</a>
+    <a href="https://yenlingkuo.com/">Yen-Ling Kuo</a>,
+    <a href="http://zhiting.ucsd.edu/">Zhiting Hu</a>,
+    <a href="https://www.tomerullman.org/">Tomer Ullman</a>,
+    <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
+    <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a> and 
+    <a href="https://www.tshu.io/">Tianmin Shu</a><br>
+    <i>Under Review</i> | 
+    Oral Presentation at AAAI Summer Symposium, 2023<br>
+    <a href="https://arxiv.org/abs/2308.11071">paper</a> / 
+    <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
+  </div>
+</div>
+
+<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+  <div style="float: left; width: 250px;">
     <img src="/assets/img/publications/nested-reasoning.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
@@ -59,8 +82,6 @@ a::after, a.external::after {
 <br>
 
 In progress:
-
-+ MToM-QA: Multimodal Theory of Mind Question Answering
 
 + Watch-Talk-And-Help: Building Cooperative Embodied Agents with Large Language Models
 
