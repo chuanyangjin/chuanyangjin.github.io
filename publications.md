@@ -75,11 +75,8 @@ a::after, a.external::after {
   </div>
 </div>
 
-
+<!--
 <br>
-
 In progress:
-
-+ Watch-Talk-And-Help: Building Cooperative Embodied Agents with Large Language Models
-
 + The Composition of Nuclear Speckle and Relating Functions
+-->
