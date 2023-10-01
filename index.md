@@ -16,11 +16,9 @@ I am a visiting student at MIT advised by [Prof. Tianmin Shu](https://www.tshu.i
 I am broadly interested in Natural Language Processing, Computer Vision, and Embodied AI. Here are some directions I’m particularly excited about:
 + **Large language models**: build large language models that demonstrate robustness, truthfulness, and alignment with human goals, and train them with a wide variety of experiences (e.g., data instances, structured knowledge, and lifelong interplay).
 
-+ **Human-AI collaboration**: construct intelligent systems that communicate and collaborate effectively with humans, and endow them with social intelligence and social commonsense.
+<!--+ **Human-AI collaboration**: construct intelligent systems that communicate and collaborate effectively with humans, and endow them with social intelligence and social commonsense.--> 
 
-<!--Social intelligence?--> 
-<!--reason through generation, and collect and organize commonsense knowledge (model commonsense reasoning)--> 
-<!--Social intelligence: construct intelligent systems that collect and organize commonsense knowledge, and communicate and collaborate with humans. --> 
++ **Social intelligence**: develop socially intelligent systems that can collect and utilize commonsense knowledge, understand and interact with humans in real-world settings.
 
 + **Generative intelligence**: design generative models that assist humans in the effortless creation of visual data (e.g., images, videos, 3D data, and multimodal data).
 
