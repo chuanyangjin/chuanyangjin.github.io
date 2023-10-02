@@ -57,6 +57,12 @@ a::after, a.external::after {
 <i>Under Review</i><br>
 <a href="https://arxiv.org/abs/2306.15111">paper</a>
 
+<b>Multi-Stage Transfer Learning for Efficient Video Prediction and Segmentation with Sparse Labeled Data</b><br>
+<a href="https://www.linkedin.com/in/peiqi-liu-2a40901b6/">Peiqi Liu</a>,
+<b>Chuanyang Jin</b>,
+<a href="https://samzhong0702.github.io/">Samuel Zhong</a><br>
+<i>Under Review</i><br>
+
 <b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b><br>
 <b>Chuanyang Jin*</b>, 
 <a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang*</a>, 
@@ -65,11 +71,6 @@ a::after, a.external::after {
 <i>Under Review</i><br>
 <a href="https://arxiv.org/abs/2308.14242">paper</a>
 
-<b>Multi-Stage Transfer Learning for Efficient Video Prediction and Segmentation with Sparse Labeled Data</b><br>
-<a href="https://www.linkedin.com/in/peiqi-liu-2a40901b6/">Peiqi Liu</a>,
-<b>Chuanyang Jin</b>,
-<a href="https://samzhong0702.github.io/">Samuel Zhong</a><br>
-<i>Under Review</i><br>
 <!--
 <a href="/assets/reports/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">paper</a>  / 
 <a href="/assets/slides/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">slides</a>
