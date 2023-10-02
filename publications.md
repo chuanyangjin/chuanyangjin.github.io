@@ -42,7 +42,7 @@ a::after, a.external::after {
     <a href="https://yenlingkuo.com/">Yen-Ling Kuo</a>, 
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a> and 
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
-    <i>Under Review (AAAI 2023)</i> <br>
+    <i>Under Review (AAAI 2024)</i> <br>
     Oral Presentation at AAAI Summer Symposium, 2023<br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> / 
     <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
@@ -58,16 +58,16 @@ a::after, a.external::after {
 <a href="https://arxiv.org/abs/2306.15111">paper</a>
 
 <b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b><br>
-<b>Chuanyang Jin</b>*, 
-<a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang</a>*, 
+<b>Chuanyang Jin</b>&#42, 
+<a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang</a>&#42, 
 <a href="https://www.tshu.io/">Tianmin Shu</a> and 
-<a href="https://zhihan-cui.weebly.com/">Zhihan Cui</a>*<br>
+<a href="https://zhihan-cui.weebly.com/">Zhihan Cui</a>&#42<br>
 <i>Under Review</i><br>
 <a href="https://arxiv.org/abs/2308.14242">paper</a>
 
 <b>Efficient Video Prediction and Segmentation with Sparse Labeled Data</b><br>
-<a href="https://www.linkedin.com/in/peiqi-liu-2a40901b6/">Peiqi Liu</a>*,
-<a href="https://samzhong0702.github.io/">Samuel Zhong</a>*, 
+<a href="https://www.linkedin.com/in/peiqi-liu-2a40901b6/">Peiqi Liu</a>&#42,
+<a href="https://samzhong0702.github.io/">Samuel Zhong</a>&#42, 
 <b>Chuanyang Jin</b><br>
 <i>Under Review</i><br>
 <a href="/assets/reports/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">paper</a>  / 
