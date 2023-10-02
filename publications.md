@@ -25,7 +25,8 @@ a::after, a.external::after {
     <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a> and 
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
-    <i>Under Review</i> <br>
+    <i>Under Review (ICLR 2024)</i> <br>
+    Benchmark, paper and code to be released soon!
   </div>
 </div>
 
@@ -41,13 +42,41 @@ a::after, a.external::after {
     <a href="https://yenlingkuo.com/">Yen-Ling Kuo</a>, 
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a> and 
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
-    <i>Under Review</i> | 
+    <i>Under Review (AAAI 2023)</i> | 
     Oral Presentation at AAAI Summer Symposium, 2023<br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> / 
     <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
   </div>
 </div>
 
+<br>
+<br>
+
+<b>Previous</b>
+<b>Semi-Supervised Image Captioning with CLIP</b><br>
+<b>Chuanyang Jin</b><br>
+<i>Under Review</i><br>
+<a href="https://arxiv.org/abs/2306.15111">paper</a>
+
+<br>
+
+<b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b><br>
+<b>Chuanyang Jin*</b>, 
+<a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang*</a>, 
+<a href="https://www.tshu.io/">Tianmin Shu</a> and 
+<a href="https://zhihan-cui.weebly.com/">Zhihan Cui*</a><br>
+<i>Under Review</i><br>
+<a href="https://arxiv.org/abs/2308.14242">paper</a>
+
+<br>
+
+<b>Efficient Video Prediction and Segmentation with Sparse Labeled Data</b><br>
+<a href="https://www.linkedin.com/in/peiqi-liu-2a40901b6/">Peiqi Liu*</a>,
+<a href="https://samzhong0702.github.io/">Samuel Zhong</a>, 
+<b>Chuanyang Jin*</b><br>
+<a href="/assets/reports/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">paper</a> / 
+
+<!--
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
     <img src="/assets/img/publications/ClipCap.png" alt="publication teaser" width="100%" />
@@ -75,7 +104,7 @@ a::after, a.external::after {
   </div>
 </div>
 
-<!--
+
 <br>
 In progress:
 + The Composition of Nuclear Speckle and Relating Functions
