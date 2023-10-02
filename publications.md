@@ -49,9 +49,8 @@ a::after, a.external::after {
   </div>
 </div>
 
-<br>
 
-### Previous<
+### Previous
 
 <b>Semi-Supervised Image Captioning with CLIP</b><br>
 <b>Chuanyang Jin</b><br>
@@ -68,10 +67,11 @@ a::after, a.external::after {
 
 <b>Efficient Video Prediction and Segmentation with Sparse Labeled Data</b><br>
 <a href="https://www.linkedin.com/in/peiqi-liu-2a40901b6/">Peiqi Liu*</a>,
-<a href="https://samzhong0702.github.io/">Samuel Zhong</a>, 
-<b>Chuanyang Jin*</b><br>
+<a href="https://samzhong0702.github.io/">Samuel Zhong*</a>, 
+<b>Chuanyang Jin</b><br>
+<i>Under Review</i><br>
 <a href="/assets/reports/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">paper</a>  / 
-<a href="/assets/slides/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">slides</a> /
+<a href="/assets/slides/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">slides</a>
 
 <!--
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
