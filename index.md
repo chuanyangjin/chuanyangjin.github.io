@@ -60,7 +60,7 @@ I also enjoy promoting stable and well-aligned generation of texts, images and m
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a> and 
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review (ICLR 2024)</i> <br>
-    Benchmark, paper and code to be released soon!
+    Benchmark, paper and code will be released soon!
   </div>
 </div>
 

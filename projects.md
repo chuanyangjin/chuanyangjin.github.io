@@ -22,6 +22,7 @@ a::after, a.external::after {
   </div>
 </div>
 
+<!--
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
     <img src="/assets/img/projects/VideoPredictionSegmentation.png" alt="publication teaser" width="100%" />
@@ -34,6 +35,7 @@ a::after, a.external::after {
     <a href="https://github.com/leo20021210/SimVP">code</a>
   </div>
 </div>
+-->
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">

@@ -26,7 +26,7 @@ a::after, a.external::after {
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a> and 
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review (ICLR 2024)</i> <br>
-    Benchmark, paper and code to be released soon!
+    Benchmark, paper and code will be released soon!
   </div>
 </div>
 
@@ -65,13 +65,16 @@ a::after, a.external::after {
 <i>Under Review</i><br>
 <a href="https://arxiv.org/abs/2308.14242">paper</a>
 
-<b>Efficient Video Prediction and Segmentation with Sparse Labeled Data</b><br>
-<a href="https://www.linkedin.com/in/peiqi-liu-2a40901b6/">Peiqi Liu*</a>,
-<a href="https://samzhong0702.github.io/">Samuel Zhong*</a>, 
-<b>Chuanyang Jin</b><br>
+<b>Multi-Stage Transfer Learning for Efficient Video Prediction and Segmentation with Sparse Labeled Data</b><br>
+<a href="https://www.linkedin.com/in/peiqi-liu-2a40901b6/">Peiqi Liu</a>,
+<b>Chuanyang Jin</b>,
+<a href="https://samzhong0702.github.io/">Samuel Zhong</a><br>
 <i>Under Review</i><br>
+<!--
 <a href="/assets/reports/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">paper</a>  / 
 <a href="/assets/slides/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">slides</a>
+-->
+
 
 <!--
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
