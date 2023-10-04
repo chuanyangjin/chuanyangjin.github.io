@@ -11,14 +11,12 @@ a::after, a.external::after {
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/Diffusion.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/projects/fast-dit.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
-    Chuanyang Jin, Peiqi Liu, Zixuan Dong, Chang Liu<br>
-    <a href="/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> / 
-    <a href="/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">slides</a> / 
-    <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">code</a>
+    <b>Optimizing Diffusion Transformers</b><br>
+    <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a> / 
+    <a href="https://github.com/chuanyangjin/fast-DiT">code</a>
   </div>
 </div>
 
@@ -36,18 +34,6 @@ a::after, a.external::after {
   </div>
 </div>
 -->
-
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/fast-dit.png" alt="publication teaser" width="100%" />
-  </div>
-  <div style="margin-left: 270px;">
-    <b>Optimizing Diffusion Transformers</b><br>
-    Chuanyang Jin, Saining Xie <br>
-    <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a> / 
-    <a href="https://github.com/chuanyangjin/fast-DiT">code</a>
-  </div>
-</div>
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
@@ -71,6 +57,18 @@ a::after, a.external::after {
     Competition: Hack GPT 2023<br>
     <a href="https://devpost.com/software/learn-and-link">demo</a> / 
     <a href="https://github.com/chuanyangjin/Learn_and_Link">code</a>
+  </div>
+</div>
+
+<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+  <div style="float: left; width: 250px;">
+    <img src="/assets/img/projects/Diffusion.png" alt="publication teaser" width="100%" />
+  </div>
+  <div style="margin-left: 270px;">
+    <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
+    <a href="/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> / 
+    <a href="/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">slides</a> / 
+    <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">code</a>
   </div>
 </div>
 
@@ -105,7 +103,7 @@ a::after, a.external::after {
   <div style="margin-left: 270px;">
     <b>Promoting Global Equity through Asteroid Mining</b><br>
     Competition: Interdisciplinary Contest in Modeling 2022<br>
-    Awards: Finalist & MAA Award & [COMAP Scholarship](https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf) (Top 4/27205)<br>
+    Awards: Finalist & MAA Award & <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> (Top 4/27205)<br>
     <a href="/assets/reports/ICM_Report.pdf">report</a>
   </div>
 </div>
@@ -117,7 +115,7 @@ a::after, a.external::after {
   <div style="margin-left: 270px;">
     <b>Gene Mutation Detection System</b><br>
     Competition: Shing-Tung Yau Science Award 2019<br>
-    Award: [International Bronze Award](http://www.yau-awards.com/lists-winnerslist.html) (Top 5/500)<br>
+    Award: <a href="http://www.yau-awards.com/lists-winnerslist.html">International Bronze Award</a>
     <a href="https://drive.google.com/file/d/1Zdp33tiYmoppAdzMCOH_P44jzu6V9yW-/view?usp=sharing">demo</a> / 
     <a href="https://oss.linstitute.net/wechatimg/2019/12/qiuchengtong2019combronze3.pdf">report</a> /
     <a href="/assets/slides/Yau_Gene_Mutation_Detection.pdf">slides</a>
