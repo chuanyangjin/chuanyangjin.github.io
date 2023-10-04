@@ -115,7 +115,7 @@ a::after, a.external::after {
   <div style="margin-left: 270px;">
     <b>Gene Mutation Detection System</b><br>
     Competition: Shing-Tung Yau Science Award 2019<br>
-    Award: <a href="http://www.yau-awards.com/lists-winnerslist.html">International Bronze Award</a>
+    Award: <a href="http://www.yau-awards.com/lists-winnerslist.html">International Bronze Award</a> (Top 5/500)<br>
     <a href="https://drive.google.com/file/d/1Zdp33tiYmoppAdzMCOH_P44jzu6V9yW-/view?usp=sharing">demo</a> / 
     <a href="https://oss.linstitute.net/wechatimg/2019/12/qiuchengtong2019combronze3.pdf">report</a> /
     <a href="/assets/slides/Yau_Gene_Mutation_Detection.pdf">slides</a>
