@@ -11,15 +11,15 @@ a::after, a.external::after {
 </style>
 
 
-I am a visiting student at MIT advised by [Prof. Tianmin Shu](https://www.tshu.io/), [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), and [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/). Currently, I am a rising senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/).
+I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a rising senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/).
 
 I am broadly interested in Natural Language Processing, Computer Vision, Multimodal Learning, and Embodied AI. Here are some directions I’m particularly excited about:
 
 + **Foundation Models**: build foundation models (e.g., LLMs, multimodal models) that demonstrate robustness, adaptability, truthfulness, and alignment with human goals. Train them with a wide variety of experiences (e.g., data instances, structured knowledge, and embodied experiences).
 
-+ **Social intelligence**: develop socially intelligent systems that can learn and utilize causality, intuitive physics, and commonsense knowledge, confidently understand and interact with humans.
++ **Social Intelligence**: develop socially intelligent systems that can learn causality, intuitive physics, and commonsense knowledge, so that they can confidently understand, reason about, and interact with humans.
 
-+ **Decision Making in Real World**: build AI agents that plan, reason, learn from feedback, and manage memory to perform long-term decision making in real-world feedback loops.
++ **Decision Making in Real World**: build AI agents that plan, reason, manage memory, and learn from interation to perform long-term decision making in real-world feedback loops.
 
 <!--
 learn to interact with humans, tools, and the real world.
