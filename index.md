@@ -13,15 +13,17 @@ a::after, a.external::after {
 
 I am a visiting student at MIT advised by [Prof. Tianmin Shu](https://www.tshu.io/), [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), and [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/). Currently, I am a rising senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/).
 
-I am broadly interested in Natural Language Processing, Computer Vision, and Embodied AI. Here are some directions I’m particularly excited about:
+I am broadly interested in Natural Language Processing, Computer Vision, Multimodal Learning, and Embodied AI. Here are some directions I’m particularly excited about:
 
 + **Foundation Models**: build foundation models (e.g., LLMs, multimodal models) that demonstrate robustness, adaptability, truthfulness, and alignment with human goals. Train them with a wide variety of experiences (e.g., data instances, structured knowledge, and embodied experiences).
 
-+ **Agents in the Context of Social intelligence**: develop socially intelligent systems that can collect and utilize commonsense knowledge, understand and reason about humans.
++ **Social intelligence**: develop socially intelligent systems that can learn and utilize causality, intuitive physics, and commonsense knowledge, confidently understand and interact with humans.
 
-+ **Decision Making in Real World**: build AI agents that can perform long-term reasoning and planning, and learn to interact with humans, tools, and the real world.
++ **Decision Making in Real World**: build AI agents that plan, reason, learn from feedback, and manage memory to perform long-term decision making in real-world feedback loops.
 
 <!--
+learn to interact with humans, tools, and the real world.
+
 + **Human-AI collaboration**: construct intelligent systems that communicate and collaborate effectively with humans, and endow them with social intelligence and social commonsense.
 
 + **Generative intelligence**: design generative models that assist humans in the effortless creation of visual data (e.g., images, videos, 3D data, and multimodal data).
