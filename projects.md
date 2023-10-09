@@ -40,7 +40,7 @@ a::after, a.external::after {
     <img src="/assets/img/projects/AutoCorp.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>AutoCorp: A Fully Autonomous Company with LLM Agents</b><br>
+    <b>AutoCorp: A Fully Autonomous Company</b><br>
     Competition: NYC GPT/LLM Hackathon 2023<br>
     <a href="/autocorp">demo</a> / 
     <a href="https://twitter.com/minafahmi_/status/1650861037737091083">tweet</a> / 
@@ -53,7 +53,7 @@ a::after, a.external::after {
     <img src="/assets/img/projects/Learn&Link.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>Learn & Link: Empower Your Network with LLM Agents</b><br>
+    <b>AutoNetwork: A Tool for Strategic Networking</b><br>
     Competition: Hack GPT 2023<br>
     <a href="https://devpost.com/software/learn-and-link">demo</a> / 
     <a href="https://github.com/chuanyangjin/Learn_and_Link">code</a>
