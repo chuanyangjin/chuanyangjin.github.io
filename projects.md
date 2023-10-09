@@ -14,7 +14,7 @@ a::after, a.external::after {
     <img src="/assets/img/projects/fast-dit.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>Optimizing Diffusion Transformers</b><br>
+    <b>Optimization of Diffusion Transformers</b><br>
     <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a> / 
     <a href="https://github.com/chuanyangjin/fast-DiT">code</a>
   </div>
