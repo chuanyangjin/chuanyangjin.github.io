@@ -17,7 +17,7 @@ I am broadly interested in Natural Language Processing, Computer Vision, Multimo
 
 + **Foundation Models**: construct foundation models (e.g., LLMs, multimodal models) that demonstrate robustness, adaptability, truthfulness, and alignment with human goals. Train them with a wide variety of experiences (e.g., data instances, structured knowledge, and embodied experiences).
 
-+ **Social Intelligence**: develop socially intelligent systems that learns causality, intuitive physics, and commonsense knowledge, so that they can confidently understand, reason about, and interact with humans.
++ **Social Intelligence**: develop socially intelligent systems that learns causality and commonsense knowledge, so that they can confidently understand, reason about, and interact with humans.
 
 + **Decision Making in Real World**: build AI agents that plan, reason, manage memory, and learn from interation to perform long-term decision making in real-world feedback loops.
 
