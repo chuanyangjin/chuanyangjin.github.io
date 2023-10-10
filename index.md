@@ -11,7 +11,7 @@ a::after, a.external::after {
 </style>
 
 
-I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a rising senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/).
+I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/).
 
 I am broadly interested in Natural Language Processing, Computer Vision, and Embodied AI. Here are some directions I’m particularly excited about:
 
@@ -19,7 +19,7 @@ I am broadly interested in Natural Language Processing, Computer Vision, and Emb
 
 + **Social Intelligence**: develop socially intelligent systems that learns causality and commonsense knowledge, so that they can confidently understand, reason about, and collaborate with humans.
 
-+ **Decision Making in Real World**: use foundation models to build AI agents that excel in long-term decision making by effectively planning, reasoning, leveraging memory, and learning from real-world feedback.
++ **Decision Making in Real World**: use foundation models to build agents capable of *long-term* decision making by effectively planning, reasoning, managing memory, and learning from real-world feedback.
 
 <!--
 alignment with human goals; tool learning; task decomposition
