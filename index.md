@@ -15,24 +15,22 @@ I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.
 
 I am broadly interested in Natural Language Processing, Computer Vision, and Embodied AI. Here are some directions I’m particularly excited about:
 
-+ **Foundation Models**: construct foundation models (e.g. multimodal models, LLMs) that demonstrate adaptability, robustness, truthfulness, and alignment with human goals. Train them with a wide variety of experiences (e.g., data instances, structured knowledge, and embodied experiences).
++ **Foundation Models**: enhance the robustness, truthfulness, and instruction-following capability of foundation models (e.g. multimodal models, LLMs) through a wide variety of experiences (e.g., data instances, structured knowledge, rewards, and embodied experiences).
 
-+ **Social Intelligence**: develop socially intelligent systems that learns causality and commonsense knowledge, so that they can confidently understand, reason about, and interact with humans.
++ **Social Intelligence**: develop socially intelligent systems that learns causality and commonsense knowledge, so that they can confidently understand, reason about, and collaborate with humans.
 
-+ **Decision Making in Real World**: build AI agents that perform long-term decision making in real-world feedback loops through planning, reasoning, managing memory, and learning from feedback.
++ **Decision Making in Real World**: build AI agents using foundation models that excel in long-term decision making by effectively planning, reasoning, leveraging memory, and adapting from real-world feedback.
 
 <!--
+alignment with human goals; tool learning; task decomposition
+
 + **Instruction Tuning**: advance instruction tuning methods and constructs general-purpose instruction-following models
-
-tool learning
-
-task decomposition
 
 + **Human-AI collaboration**: construct intelligent systems that communicate and collaborate effectively with humans, and endow them with social intelligence and social commonsense.
 
 + **Generative intelligence**: design generative models that assist humans in the effortless creation of visual data (e.g., images, videos, 3D data, and multimodal data).
 
-I'm also fascinated by 3D vision, representation learning, multi-modal learning, and AI for science.
+I'm also fascinated by diffusion models, representation learning, and AI for science.
 --> 
 
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 16,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, and hiking.
