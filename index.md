@@ -15,7 +15,7 @@ I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.
 
 I am broadly interested in Natural Language Processing, Computer Vision, and Embodied AI. Here are some directions I’m particularly excited about:
 
-+ **Foundation Models**: construct foundation models (e.g., LLMs, multimodal models) that demonstrate adaptability, robustness, truthfulness, and alignment with human goals. Train them with a wide variety of experiences (e.g., data instances, structured knowledge, and embodied experiences).
++ **Foundation Models**: construct foundation models (e.g. multimodal models, LLMs) that demonstrate adaptability, robustness, truthfulness, and alignment with human goals. Train them with a wide variety of experiences (e.g., data instances, structured knowledge, and embodied experiences).
 
 + **Social Intelligence**: develop socially intelligent systems that learns causality and commonsense knowledge, so that they can confidently understand, reason about, and interact with humans.
 

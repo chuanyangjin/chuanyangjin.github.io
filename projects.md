@@ -53,7 +53,7 @@ a::after, a.external::after {
     <img src="/assets/img/projects/Learn&Link.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>AutoNetwork: A Tool for Strategic Networking</b><br>
+    <b>AutoLink: A Tool for Strategic Networking</b><br>
     Competition: Hack GPT 2023<br>
     <a href="https://devpost.com/software/learn-and-link">demo</a> / 
     <a href="https://github.com/chuanyangjin/Learn_and_Link">code</a>

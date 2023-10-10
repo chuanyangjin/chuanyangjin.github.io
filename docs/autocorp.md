@@ -11,15 +11,16 @@ a::after, a.external::after {
 
 NYC GPT/LLM Hackathon 2023
 
-AutoCorp is a vision for a fully autonomous direct-to-consumer company. It was built by 
+AutoCorp represents a pioneering vision for a fully autonomous company, powered by state-of-the-art Large Language Model agents. It was built by 
 [Barry Zhang](https://www.linkedin.com/in/yijing-barry-zhang/), 
 [Bruno Faviero](https://twitter.com/Bfaviero), 
 [Donny Greenberg](https://www.linkedin.com/in/greenbergdon/), 
 [Mina Fahmi](https://www.minafahmi.com/),
 [Sergio Prada](https://www.linkedin.com/in/sergiopradamora/), 
-and I during the NYC GPT/LLM Hackathon.
+and I during the NYC GPT/LLM Hackathon. The Large Language Models function as the core controllers, producing detailed reasoning traces and executing sequential actions.
 
-AutoCorp generates a thesis for a direct-to-consumer t-shirt company based on a business owner’s initial idea. From this, we generate marketing, branding, and product design materials. As customers request custom t-shirts, AutoCorp automatically updates its thesis and all subsequent assets. If customer orders go down, AutoCorp backtracks and pursues a new modification to its thesis. This flow worked end-to-end and could feasibly be connected to ad  & custom t-shirt APIs for deployment in the real world. This demonstrates the possibility of a fully autonomous company which evolves towards an increasingly profitable business.
+AutoCorp generates a thesis for a direct-to-consumer t-shirt company based on a business owner’s initial idea. Subsequently, using an integrated system of GPT-4, DALL-E, and ControlNet, it crafts marketing, branding, and product design materials. As customers request customized t-shirts, AutoCorp promptly responds. Moreover, it continuously learns and refines its strategy based on customer feedback, updating its foundational thesis and all subsequent materials. This seamless flow has been demonstrated end-to-end, and can potentially be integrated with ad and custom t-shirt APIs for tangible real-world application. This demonstrates the possibility of a fully autonomous company that evolves towards an increasingly profitable business.
+
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex-basis: 50%; padding-right: 10px;">
