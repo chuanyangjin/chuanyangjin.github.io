@@ -23,11 +23,8 @@ I am broadly interested in Natural Language Processing, Computer Vision, and Emb
 
 <!--
 alignment with human goals; tool learning; task decomposition
-
 + **Instruction Tuning**: advance instruction tuning methods and constructs general-purpose instruction-following models
-
 + **Human-AI collaboration**: construct intelligent systems that communicate and collaborate effectively with humans, and endow them with social intelligence and social commonsense.
-
 + **Generative intelligence**: design generative models that assist humans in the effortless creation of visual data (e.g., images, videos, 3D data, and multimodal data).
 
 I'm also fascinated by diffusion models, representation learning, and AI for science.
@@ -43,13 +40,6 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
 + [Apr, 2023] Received [NYU Computer Science Prize](/assets/Computer_Science_Prize.pdf) as the most promising junior student
 + [May, 2022] Received [COMAP Scholarship](https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf) as the top 4 out of 27,205 teams in MCM
-
-<!--
-My research interests lie in generative intelligence, large language models and robot learning. 
-I am particularly interested in building agents that can communicate, memorize and imagine. 
-This involves the incorporation of knowledge derived from large language models or generative models to serve as the cornerstone of their intelligence. 
-I also enjoy promoting stable and well-aligned generation of texts, images and music, and intertwining the fields of AI with psychology and biology.
--->
 
 ## Recent Research
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
