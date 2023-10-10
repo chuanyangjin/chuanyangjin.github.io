@@ -19,7 +19,7 @@ I am broadly interested in Natural Language Processing, Computer Vision, and Emb
 
 + **Social Intelligence**: develop socially intelligent systems that learns causality and commonsense knowledge, so that they can confidently understand, reason about, and interact with humans.
 
-+ **Decision Making in Real World**: build AI agents that perform long-term decision making in real-world feedback loops through planing, reasoning, managing memory, and learning from interations.
++ **Decision Making in Real World**: build AI agents that perform long-term decision making in real-world feedback loops through planning, reasoning, managing memory, and learning from feedback.
 
 <!--
 + **Instruction Tuning**: advance instruction tuning methods and constructs general-purpose instruction-following models
