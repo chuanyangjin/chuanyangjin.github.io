@@ -13,16 +13,20 @@ a::after, a.external::after {
 
 I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a rising senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/).
 
-I am broadly interested in Natural Language Processing, Computer Vision, Multimodal Learning, and Embodied AI. Here are some directions I’m particularly excited about:
+I am broadly interested in Natural Language Processing, Computer Vision, and Embodied AI. Here are some directions I’m particularly excited about:
 
-+ **Foundation Models**: construct foundation models (e.g., LLMs, multimodal models) that demonstrate robustness, adaptability, truthfulness, and alignment with human goals. Train them with a wide variety of experiences (e.g., data instances, structured knowledge, and embodied experiences).
++ **Foundation Models**: construct foundation models (e.g., LLMs, multimodal models) that demonstrate adaptability, robustness, truthfulness, and alignment with human goals. Train them with a wide variety of experiences (e.g., data instances, structured knowledge, and embodied experiences).
 
 + **Social Intelligence**: develop socially intelligent systems that learns causality and commonsense knowledge, so that they can confidently understand, reason about, and interact with humans.
 
 + **Decision Making in Real World**: build AI agents that perform long-term decision making in real-world feedback loops through planing, reasoning, managing memory, and learning from interations.
 
 <!--
-learn to interact with humans, tools, and the real world.
++ **Instruction Tuning**: advance instruction tuning methods and constructs general-purpose instruction-following models
+
+tool learning
+
+task decomposition
 
 + **Human-AI collaboration**: construct intelligent systems that communicate and collaborate effectively with humans, and endow them with social intelligence and social commonsense.
 
