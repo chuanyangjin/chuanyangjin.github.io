@@ -19,7 +19,7 @@ I am broadly interested in Natural Language Processing, Computer Vision, and Emb
 
 + **Social Intelligence**: develop socially intelligent systems that learns causality and commonsense knowledge, so that they can confidently understand, reason about, and collaborate with humans.
 
-+ **Decision Making in Real World**: build AI agents using foundation models that excel in long-term decision making by effectively planning, reasoning, leveraging memory, and adapting from real-world feedback.
++ **Decision Making in Real World**: use foundation models to build AI agents that excel in long-term decision making by effectively planning, reasoning, leveraging memory, and learning from real-world feedback.
 
 <!--
 alignment with human goals; tool learning; task decomposition
