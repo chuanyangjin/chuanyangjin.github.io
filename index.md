@@ -19,7 +19,7 @@ I am broadly interested in Natural Language Processing, Computer Vision, and Emb
 
 + **Social Intelligence**: develop socially intelligent systems that learns causality and commonsense knowledge, so that they can confidently understand, reason about, and collaborate with humans.
 
-+ **Decision Making in Real World**: use foundation models to build agents capable of *long-term* decision making by effectively planning, reasoning, managing memory, and learning from real-world feedback.
++ **Decision Making in Real World**: leverage foundation models to build agents capable of *long-term* decision making by effectively planning, reasoning, managing memory, and learning from real-world feedback.
 
 <!--
 alignment with human goals; tool learning; task decomposition
@@ -28,11 +28,13 @@ alignment with human goals; tool learning; task decomposition
 + **Generative intelligence**: design generative models that assist humans in the effortless creation of visual data (e.g., images, videos, 3D data, and multimodal data).
 
 I'm also fascinated by diffusion models, representation learning, and AI for science.
+
+CV (Last update: Oct 2023)
 --> 
 
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 16,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, and hiking.
 
-<!--Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: May 2023).--> 
+Here is my [CV](/assets/Chuanyang_CV.pdf). 
 
 ## News
 + [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023
