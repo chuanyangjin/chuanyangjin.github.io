@@ -34,7 +34,7 @@ CV (Last update: Oct 2023)
 
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 16,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, and hiking.
 
-Here is my [CV](/assets/Chuanyang_CV.pdf). 
+Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
 
 ## News
 + [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023
