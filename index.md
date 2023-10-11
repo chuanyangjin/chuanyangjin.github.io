@@ -28,8 +28,6 @@ alignment with human goals; tool learning; task decomposition
 + **Generative intelligence**: design generative models that assist humans in the effortless creation of visual data (e.g., images, videos, 3D data, and multimodal data).
 
 I'm also fascinated by diffusion models, representation learning, and AI for science.
-
-CV (Last update: Oct 2023)
 --> 
 
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 16,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, and hiking.
