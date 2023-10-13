@@ -26,7 +26,7 @@ a::after, a.external::after {
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a> and 
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review (ICLR 2024)</i> <br>
-    Benchmark and code will be released soon!<br>
+    We will release the benchmark soon!<br>
     <a href="https://openreview.net/forum?id=sMFqEror1b">paper</a>
   </div>
 </div>
