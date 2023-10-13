@@ -23,7 +23,6 @@ I am broadly interested in Natural Language Processing, Computer Vision, and Emb
 
 <!--
 + **Social Intelligence**: develop socially intelligent systems that learns causality and commonsense knowledge, so that they can confidently understand, reason about, and collaborate with humans.
-
 alignment with human goals; tool learning; task decomposition
 + **Instruction Tuning**: advance instruction tuning methods and constructs general-purpose instruction-following models
 + **Human-AI collaboration**: construct intelligent systems that communicate and collaborate effectively with humans, and endow them with social intelligence and social commonsense.
