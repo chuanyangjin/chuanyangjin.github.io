@@ -17,7 +17,7 @@ I am broadly interested in Natural Language Processing, Computer Vision, and Emb
 
 + **Foundation Models**: enhance the robustness, truthfulness, and instruction-following capability of foundation models (e.g. large multimodal models, LLMs) through a wide variety of experiences (e.g., data instances, structured knowledge, rewards, and embodied experiences).
 
-+ **Social Intelligence**: develop socially intelligent systems that master commonsense knowledge, and combine it with new knowledge and skills, so that they can learn efficiently and better collaborate with humans.
++ **Social Intelligence**: develop socially intelligent systems that master commonsense knowledge, and combine it with new knowledge and skills, so they learn efficiently and collaborate effectively with humans.
 
 + **Decision Making in Real World**: leverage foundation models to build agents capable of *long-term* decision making through effective planning, reasoning, managing memory, and learning from real-world feedback.
 
