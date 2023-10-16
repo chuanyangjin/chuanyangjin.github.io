@@ -51,11 +51,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Research
-    url:               /research/
+    url:               /#research
   #- title:             Publications
   #  url:               /publications/
   - title:             Projects
-    url:               /projects/
+    url:               /#projects
   - title:             Misc
     url:               /misc/
   #- title:             Résumé*
