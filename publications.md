@@ -9,6 +9,18 @@ a::after, a.external::after {
 }
 </style>
 
+<script>
+window.onload = function() {
+  if (window.location.hash === '#research') {
+    const projectElement = document.getElementById('project');
+    if (projectElement) {
+      projectElement.scrollIntoView();
+    }
+  }
+};
+</script>
+
+
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
     <img src="/assets/img/publications/MMToM.png" alt="publication teaser" width="100%" />

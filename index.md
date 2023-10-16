@@ -248,9 +248,7 @@ In progress:
 </div>
 
 
-Course Projects
-------
-***
+### Course Projects
 
 + [Energy-Based Models for Structured Prediction](https://github.com/chuanyangjin/NYU-Course-Projects/blob/master/Energy-Based%20Models%20for%20Structured%20Prediction/Energy-Based%20Models%20for%20Structured%20Prediction.ipynb)
 

@@ -11,7 +11,7 @@ a::after, a.external::after {
 
 <script>
 window.onload = function() {
-  if (window.location.hash === '#project') {
+  if (window.location.hash === '#projects') {
     const projectElement = document.getElementById('project');
     if (projectElement) {
       projectElement.scrollIntoView();
