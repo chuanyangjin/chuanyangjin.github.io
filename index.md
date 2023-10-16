@@ -87,7 +87,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   </div>
 </div>
 
-### Previous research
+### Previous Research
 
 <!--
 <b>Semi-Supervised Image Captioning with CLIP</b><br>
@@ -117,7 +117,24 @@ In progress:
 <a href="/assets/slides/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">slides</a>
 -->
 
-
+<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+  <div style="float: left; width: 250px;">
+    <img src="/assets/img/publications/bio.png" alt="publication teaser" width="100%" />
+  </div>
+  <div style="margin-left: 270px;">
+    <b>Deciphering RNA Localization in Nuclear Speckles</b><br>
+    <a href="https://feilab.uchicago.edu/group.html">Jinjun Wu*</a>,
+    <a href="https://feilab.uchicago.edu/group.html">Yu Xiao*</a>, 
+    <a href="https://feilab.uchicago.edu/group.html">Yunzheng Liu*</a>,
+    <a href="https://feilab.uchicago.edu/group.html">Li Wen</a>, 
+    <b>Chuanyang Jin</b>,
+    <a href="https://feilab.uchicago.edu/group.html">Sneha Paul</a>, 
+    <a href="https://he-group.uchicago.edu/">Chuan He</a>, 
+    <a href="https://cims.nyu.edu/~regev/">Oded Regev</a>, 
+    <a href="https://feilab.uchicago.edu/group.html">Jingyi Fei</a><br>
+    <i>Under Review</i><br>
+  </div>
+</div>
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
