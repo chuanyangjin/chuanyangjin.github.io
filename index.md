@@ -16,7 +16,7 @@ I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.
 
 I am broadly interested in Natural Language Processing, Computer Vision, and Embodied AI. Here are some directions I’m particularly excited about:
 
-+ **Foundation Models**: improve the capabilities of foundation models and better align them to human values through diverse experiences (e.g., data instances, structured knowledge, and embodied experiences).
++ **Foundation Models**: enhance the robustness, truthfulness, and instruction-following capability of foundation models through diverse experiences (e.g., data instances, structured knowledge, and embodied experiences).
 
 
 + **Social Intelligence**: develop socially intelligent systems that master commonsense knowledge, and combine it with new knowledge and skills, so they learn efficiently and collaborate effectively with humans.
@@ -119,7 +119,7 @@ In progress:
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/publications/bio.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/publications/nuclear.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <b>Deciphering RNA Localization in Nuclear Speckles</b><br>
@@ -163,7 +163,7 @@ In progress:
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/publications/holistic.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/publications/holistic_gpt.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b><br>
