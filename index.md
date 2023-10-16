@@ -11,6 +11,7 @@ a::after, a.external::after {
 </style>
 
 
+
 I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/).
 
 I am broadly interested in Natural Language Processing, Computer Vision, and Embodied AI. Here are some directions I’m particularly excited about:
