@@ -16,8 +16,7 @@ I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.
 
 I am broadly interested in Natural Language Processing, Computer Vision, and Embodied AI. Here are some directions I’m particularly excited about:
 
-+ **Foundation Models**: enhance the robustness, truthfulness, and instruction-following capability of foundation models through diverse experiences (e.g., data instances, structured knowledge, and embodied experiences).
-
++ **Foundation Models**: enhance the robustness, truthfulness, and instruction-adherence of foundation models through diverse experiences (e.g., data instances, structured knowledge, and embodied experiences).
 
 + **Social Intelligence**: develop socially intelligent systems that master commonsense knowledge, and combine it with new knowledge and skills, so they learn efficiently and collaborate effectively with humans.
 
@@ -167,10 +166,10 @@ In progress:
   </div>
   <div style="margin-left: 270px;">
     <b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b><br>
-    <b>Chuanyang Jin</b>, 
-    <a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang</a>, 
+    <b>Chuanyang Jin*</b>, 
+    <a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang*</a>, 
     <a href="https://www.tshu.io/">Tianmin Shu</a> and 
-    <a href="https://zhihan-cui.weebly.com/">Zhihan Cui</a><br>
+    <a href="https://zhihan-cui.weebly.com/">Zhihan Cui*</a><br>
     <i>Under Review</i><br>
     <a href="https://arxiv.org/abs/2308.14242">paper</a>
   </div>
