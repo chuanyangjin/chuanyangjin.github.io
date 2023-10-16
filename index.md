@@ -84,9 +84,9 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   </div>
 </div>
 
+<!--
 ### Previous Research
 
-<!--
 <b>Self-Supervised Image Captioning with CLIP</b><br>
 <b>Chuanyang Jin</b><br>
 <i>Under Review</i><br>
@@ -105,10 +105,6 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
 <a href="https://zhihan-cui.weebly.com/">Zhihan Cui*</a><br>
 <i>Under Review</i><br>
 <a href="https://arxiv.org/abs/2308.14242">paper</a>
-
-<br>
-In progress:
-+ The Composition of Nuclear Speckle and Relating Functions
 
 <a href="/assets/reports/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">paper</a>  / 
 <a href="/assets/slides/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">slides</a>
@@ -140,7 +136,7 @@ In progress:
   <div style="margin-left: 270px;">
     <b>Self-Supervised Image Captioning with CLIP</b><br>
     <b>Chuanyang Jin</b><br>
-    <i>Under Review</i><br>
+    <i>Under Review (NeurIPS 2023 Workshop on Self-Supervised Learning)</i><br>
     <a href="https://arxiv.org/abs/2306.15111">paper</a>
   </div>
 </div>
@@ -154,7 +150,7 @@ In progress:
     <a href="https://www.linkedin.com/in/peiqi-liu-2a40901b6/">Peiqi Liu</a>,
     <b>Chuanyang Jin</b>,
     <a href="https://samzhong0702.github.io/">Samuel Zhong</a><br>
-    <i>Under Review</i><br>
+    <i>Under Review (NeurIPS 2023 Workshop on Distribution Shifts)</i><br>
   </div>
 </div>
 
@@ -168,7 +164,7 @@ In progress:
     <a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang*</a>, 
     <a href="https://www.tshu.io/">Tianmin Shu</a> and 
     <a href="https://zhihan-cui.weebly.com/">Zhihan Cui*</a><br>
-    <i>Under Review</i><br>
+    <i>Under Review (PNAS)</i><br>
     <a href="https://arxiv.org/abs/2308.14242">paper</a>
   </div>
 </div>
