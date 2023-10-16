@@ -90,7 +90,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
 ### Previous Research
 
 <!--
-<b>Semi-Supervised Image Captioning with CLIP</b><br>
+<b>Self-Supervised Image Captioning with CLIP</b><br>
 <b>Chuanyang Jin</b><br>
 <i>Under Review</i><br>
 <a href="https://arxiv.org/abs/2306.15111">paper</a>
@@ -141,7 +141,7 @@ In progress:
     <img src="/assets/img/publications/ClipCap.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>Semi-Supervised Image Captioning with CLIP</b><br>
+    <b>Self-Supervised Image Captioning with CLIP</b><br>
     <b>Chuanyang Jin</b><br>
     <i>Under Review</i><br>
     <a href="https://arxiv.org/abs/2306.15111">paper</a>
