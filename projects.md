@@ -10,14 +10,7 @@ a::after, a.external::after {
 </style>
 
 <script>
-window.onload = function() {
-  if (window.location.hash === '#projects') {
-    const projectElement = document.getElementById('project');
-    if (projectElement) {
-      projectElement.scrollIntoView();
-    }
-  }
-};
+    window.location.href = "https://chuanyangjin.com/#projects";
 </script>
 
 
