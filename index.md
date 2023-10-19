@@ -181,11 +181,10 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   </div>
   <div style="margin-left: 270px;">
     <b>Optimization of Diffusion Transformers</b><br>
-    <a href="https://github.com/chuanyangjin/fast-DiT">
-    <img src="https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github" alt="badge">
-    </a> -- SOTA diffusion models with 2x speedup <br>
+    Advisor: [Prof. Saining Xie](https://www.sainingxie.com/) <br>
+    SOTA diffusion models with 2x speedup, 200+ GitHub Stars <br>
     <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a> / 
-    <a href="https://github.com/chuanyangjin/fast-DiT">code</a>
+    <a href="https://github.com/chuanyangjin/fast-DiT">project</a>
   </div>
 </div>
 
@@ -196,6 +195,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   <div style="margin-left: 270px;">
     <b>AutoCorp: A Fully Autonomous Company</b><br>
     Competition: NYC GPT/LLM Hackathon 2023<br>
+    A fully autonomous company powered by LLMs, 120k+ views on Twitter 
     <a href="/autocorp">demo</a> / 
     <a href="https://twitter.com/minafahmi_/status/1650861037737091083">tweet</a> / 
     <a href="https://github.com/Czechh/chatdtc">code</a>
