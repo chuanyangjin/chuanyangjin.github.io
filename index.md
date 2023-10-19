@@ -181,8 +181,8 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   </div>
   <div style="margin-left: 270px;">
     <b>Optimization of Diffusion Transformers</b><br>
-    Advisor: [Prof. Saining Xie](https://www.sainingxie.com/) <br>
-    SOTA diffusion models with 2x speedup, 200+ GitHub Stars <br>
+    Advisor: <a href="https://www.sainingxie.com/">Prof. Saining Xie</a><br>
+    SOTA diffusion models with 2x speedup, 200+ GitHub Stars. <br>
     <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a> / 
     <a href="https://github.com/chuanyangjin/fast-DiT">project</a>
   </div>
@@ -195,7 +195,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   <div style="margin-left: 270px;">
     <b>AutoCorp: A Fully Autonomous Company</b><br>
     Competition: NYC GPT/LLM Hackathon 2023<br>
-    A fully autonomous company powered by LLMs, 120k+ views on Twitter 
+    LLM-driven autonomous company, 120k+ Twitter views. 
     <a href="/autocorp">demo</a> / 
     <a href="https://twitter.com/minafahmi_/status/1650861037737091083">tweet</a> / 
     <a href="https://github.com/Czechh/chatdtc">code</a>
@@ -269,6 +269,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   <div style="margin-left: 270px;">
     <b>Gene Mutation Detection System</b><br>
     Competition: Shing-Tung Yau Science Award 2019<br>
+    Platform adopted by leading hospitals.<br>
     Award: <a href="http://www.yau-awards.com/lists-winnerslist.html">International Bronze Award</a> (Top 3/500, $10,000)<br>
     <a href="https://drive.google.com/file/d/1Zdp33tiYmoppAdzMCOH_P44jzu6V9yW-/view?usp=sharing">demo</a> / 
     <a href="https://oss.linstitute.net/wechatimg/2019/12/qiuchengtong2019combronze3.pdf">report</a> /
