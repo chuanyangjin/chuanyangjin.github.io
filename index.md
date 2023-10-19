@@ -257,7 +257,8 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   <div style="margin-left: 270px;">
     <b>Promoting Global Equity through Asteroid Mining</b><br>
     Competition: Interdisciplinary Contest in Modeling 2022<br>
-    Awards: Finalist & MAA Award (Top 5/27205) & <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> (Top 4/27205, $10,000)<br>
+    Awards: Finalist & MAA Award<br> 
+    & <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> (Top 4/27205, $10,000)<br>
     <a href="/assets/reports/ICM_Report.pdf">report</a>
   </div>
 </div>
