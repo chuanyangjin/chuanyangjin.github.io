@@ -181,7 +181,9 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   </div>
   <div style="margin-left: 270px;">
     <b>Optimization of Diffusion Transformers</b><br>
-    [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) -- SOTA diffusion models with 2x speedup <br>
+    <a href="https://github.com/chuanyangjin/fast-DiT">
+    <img src="https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github" alt="badge">
+    </a> -- SOTA diffusion models with 2x speedup <br>
     <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a> / 
     <a href="https://github.com/chuanyangjin/fast-DiT">code</a>
   </div>
