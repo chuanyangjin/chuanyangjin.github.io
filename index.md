@@ -136,7 +136,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   <div style="margin-left: 270px;">
     <b>Self-Supervised Image Captioning with CLIP</b><br>
     <b>Chuanyang Jin</b><br>
-    <i>Under Review (NeurIPS 2023 Workshop on Self-Supervised Learning)</i><br>
+    <i>NeurIPS’23 Self-Supervised Learning Workshop</i><br>
     <a href="https://arxiv.org/abs/2306.15111">paper</a>
   </div>
 </div>
@@ -150,7 +150,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
     <a href="https://www.linkedin.com/in/peiqi-liu-2a40901b6/">Peiqi Liu</a>,
     <b>Chuanyang Jin</b>,
     <a href="https://samzhong0702.github.io/">Samuel Zhong</a><br>
-    <i>Under Review (NeurIPS 2023 Workshop on Distribution Shifts)</i><br>
+    <i>Under Review (AAAI’24 Artificial Intelligence with Biased or Scarce Data Workshop)</i><br>
   </div>
 </div>
 
