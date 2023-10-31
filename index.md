@@ -61,7 +61,8 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review (ICLR 2024)</i> <br>
     We will release the benchmark soon!<br>
-    <a href="https://openreview.net/forum?id=sMFqEror1b">paper</a>
+    <!--<a href="https://openreview.net/forum?id=sMFqEror1b">paper</a>-->
+    Manuscript available upon request.
   </div>
 </div>
 
