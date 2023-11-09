@@ -37,7 +37,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
 
 ## News
 + [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023
-+ [May, 2023] I am joining MIT CSAIL and Cocosci as a visiting student
++ [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
 + [Apr, 2023] Received [NYU Computer Science Prize](/assets/Computer_Science_Prize.pdf) as the most promising junior student
 + [May, 2022] Received [COMAP Scholarship](https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf) as the top 4 out of 27,205 teams in MCM
@@ -173,7 +173,6 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
 
 
 
-
 ## Projects
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
@@ -182,8 +181,8 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   </div>
   <div style="margin-left: 270px;">
     <b>Optimization of Diffusion Transformers</b><br>
-    Advisor: <a href="https://www.sainingxie.com/">Prof. Saining Xie</a><br>
     SOTA diffusion models with 2x speedup, 200+ GitHub Stars. <br>
+    Advised by <a href="https://www.sainingxie.com/">Prof. Saining Xie</a><br>
     <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a> / 
     <a href="https://github.com/chuanyangjin/fast-DiT">project</a>
   </div>
@@ -195,7 +194,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   </div>
   <div style="margin-left: 270px;">
     <b>AutoCorp: A Fully Autonomous Company</b><br>
-    Competition: NYC GPT/LLM Hackathon 2023<br>
+    NYC GPT/LLM Hackathon 2023<br>
     LLM-driven autonomous company, 120k+ Twitter views.<br>
     <a href="/autocorp">demo</a> / 
     <a href="https://twitter.com/minafahmi_/status/1650861037737091083">tweet</a> / 
@@ -209,7 +208,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   </div>
   <div style="margin-left: 270px;">
     <b>AutoLink: A Tool for Strategic Networking</b><br>
-    Competition: Hack GPT 2023<br>
+    Hack GPT 2023<br>
     <a href="https://devpost.com/software/learn-and-link">demo</a> / 
     <a href="https://github.com/chuanyangjin/Learn_and_Link">code</a>
   </div>
@@ -233,7 +232,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   </div>
   <div style="margin-left: 270px;">
     <b>Recommendation System for E-commerce Retailer</b><br>
-    Competition: NYU x Peak Datathon 2022<br>
+    NYU x Peak Datathon 2022<br>
     <a href="/assets/slides/Recommendation_System_for_Olist_E-commerce_Retailer.pdf">slides</a> / 
     <a href="https://github.com/chuanyangjin/Peak-Datathon">code</a>
   </div>
@@ -245,7 +244,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   </div>
   <div style="margin-left: 270px;">
     <b>Social Platform for Recording and Sharing Emotions</b><br>
-    Competition: HackNYU 2022<br>
+    HackNYU 2022<br>
     <a href="https://devpost.com/software/em-k3gf5b">demo</a> / 
     <a href="https://github.com/chuanyangjin/em">code</a>
   </div>
@@ -257,7 +256,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   </div>
   <div style="margin-left: 270px;">
     <b>Promoting Global Equity through Asteroid Mining</b><br>
-    Competition: Interdisciplinary Contest in Modeling 2022<br>
+    Interdisciplinary Contest in Modeling 2022<br>
     Awards: Finalist & MAA Award (Top 5/27205) & <br>
     <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> (Top 4/27205, $10,000)<br>
     <a href="/assets/reports/ICM_Report.pdf">report</a>
@@ -270,7 +269,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
   </div>
   <div style="margin-left: 270px;">
     <b>Gene Mutation Detection System</b><br>
-    Competition: Shing-Tung Yau Science Award 2019<br>
+    Shing-Tung Yau Computer Science Award Global Finals 2019<br>
     Award: <a href="http://www.yau-awards.com/lists-winnerslist.html">International Bronze Award</a> (Top 3/500, $10,000)<br>
     Platform adopted by leading hospitals.<br>
     <a href="https://drive.google.com/file/d/1Zdp33tiYmoppAdzMCOH_P44jzu6V9yW-/view?usp=sharing">demo</a> / 
