@@ -122,6 +122,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
     <a href="https://feilab.uchicago.edu/group.html">Yunzheng Liu*</a>,
     <a href="https://feilab.uchicago.edu/group.html">Li Wen</a>, 
     <b>Chuanyang Jin</b>,
+    <a href="https://scholar.google.com/citations?user=zwZ8k9gAAAAJ&hl=zh-CN">Shun Liu</a>, 
     <a href="https://feilab.uchicago.edu/group.html">Sneha Paul</a>, 
     <a href="https://he-group.uchicago.edu/">Chuan He</a>, 
     <a href="https://cims.nyu.edu/~regev/">Oded Regev</a>, 
