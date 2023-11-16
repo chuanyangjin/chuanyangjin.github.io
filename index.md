@@ -60,7 +60,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a> and 
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review (ICLR 2024)</i> <br>
-    We will present the paper at <a href="https://nips.cc/virtual/2023/82792">NeurIPS’23 FMDM Workshop!</a><br>
+    We will <a href="https://nips.cc/virtual/2023/82792">present the paper</a><br> at NeurIPS’23 FMDM Workshop!
     <!--<a href="https://openreview.net/forum?id=sMFqEror1b">paper</a>-->
     Manuscript available upon request.
   </div>
