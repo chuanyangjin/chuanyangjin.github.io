@@ -14,15 +14,19 @@ a::after, a.external::after {
 
 I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/) and [Prof. Saining Xie](https://www.sainingxie.com/).
 
-I am broadly interested in Natural Language Processing, Computer Vision, and Embodied AI. Here are some directions I’m particularly excited about:
+I am broadly interested in Machine Learning, Natural Language Processing, and Computer Vision. Here are some directions I’m particularly excited about:
 
 + **Foundation Models**: enhance the robustness, truthfulness, and instruction-adherence of foundation models through diverse experiences (e.g., data instances, structured knowledge, embodied experiences).
 
++ **Embodied AI**: leverage embodied foundation models to build agents capable of *long-term* decision making through effective planning, reasoning, managing memory, and learning from human and environment feedback.
+
 + **Social Intelligence**: develop socially intelligent systems that master commonsense knowledge, and combine it with new knowledge and skills, so they learn efficiently and collaborate effectively with humans.
 
-+ **Decision Making in Real World**: leverage foundation models to build agents capable of *long-term* decision making through effective planning, reasoning, managing memory, and learning from real-world feedback.
 
 <!--
++ **Decision Making in Real World**: leverage foundation models to build agents capable of *long-term* decision making through effective planning, reasoning, managing memory, and learning from real-world feedback.
+
+
 + **Social Intelligence**: develop socially intelligent systems that learns causality and commonsense knowledge, so that they can confidently understand, reason about, and collaborate with humans.
 + **Instruction Tuning**: advance instruction tuning methods and constructs general-purpose instruction-following models
 + **Human-AI collaboration**: construct intelligent systems that communicate and collaborate effectively with humans, and endow them with social intelligence and social commonsense.
