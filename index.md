@@ -61,7 +61,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
     <a href="http://zhiting.ucsd.edu/">Zhiting Hu</a>,
     <a href="https://www.tomerullman.org/">Tomer Ullman</a>,
     <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
-    <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a> and 
+    <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review (ICLR 2024)</i> <br>
     We will present the <a href="https://nips.cc/virtual/2023/82792">paper</a> at NeurIPS’23 FMDM Workshop!<br>
@@ -80,7 +80,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
     <a href="https://www.tuananhle.co.uk/">Tuan Anh Le</a>, 
     <b>Chuanyang Jin</b>, 
     <a href="https://yenlingkuo.com/">Yen-Ling Kuo</a>, 
-    <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a> and 
+    <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review (AAAI 2024)</i> <br>
     Oral Presentation at AAAI Summer Symposium, 2023<br>
@@ -168,8 +168,8 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
     <b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b><br>
     <b>Chuanyang Jin*</b>, 
     <a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang*</a>, 
-    <a href="https://www.tshu.io/">Tianmin Shu</a> and 
-    <a href="https://zhihan-cui.weebly.com/">Zhihan Cui*</a><br>
+    <a href="https://www.tshu.io/">Tianmin Shu</a>,
+    <a href="https://zhihan-cui.weebly.com/">Zhihan Cui</a><br>
     <i>Under Review (PNAS)</i><br>
     <a href="https://arxiv.org/abs/2308.14242">paper</a>
   </div>
