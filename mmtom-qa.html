@@ -151,22 +151,22 @@
 				</table><table align="center" width="1000px">
 					<tbody>
 						<tr>
-							<td align="center" width="25%">
+							<td align="center" width="150px">
 								<center>
 									<span style="font-size:17px"><a href="https://www.chuanyangjin.com">Chuanyang Jin</a><sup>1,2</sup></span>
 								</center>
 							</td>
-							<td align="center" width="25%">
+							<td align="center" width="150px">
 								<center>
 									<span style="font-size:17px"><a href="https://www.linkedin.com/in/yutong-wu-a5a575209/">Yutong Wu</a><sup>3</sup></span>
 								</center>
 							</td>
-							<td align="center" width="25%">
+							<td align="center" width="150px">
 								<center>
 									<span style="font-size:17px"><a href="https://www.linkedin.com/in/jingcao26/">Jing Cao</a><sup>2</sup></span>
 								</center>
 							</td>
-							<td align="center" width="25%">
+							<td align="center" width="150px">
 								<center>
 									<span style="font-size:17px"><a href="https://szxiangjn.github.io/">Jiannan Xiang</a><sup>4</sup></span>
 								</center>
@@ -174,32 +174,32 @@
 						</tr>
 						
 						<tr>
-							<td align="center" width="16.67%">
+							<td align="center" width="100px">
 								<center>
 									<span style="font-size:17px"><a href="https://yenlingkuo.com/">Yen-Ling Kuo</a><sup>2,5</sup></span>
 								</center>
 							</td>
-							<td align="center" width="16.67%">
+							<td align="center" width="100px">
 								<center>
 									<span style="font-size:17px"><a href="http://zhiting.ucsd.edu/">Zhiting Hu</a><sup>4</sup></span>
 								</center>
 							</td>
-							<td align="center" width="16.67%">
+							<td align="center" width="100px">
 								<center>
 									<span style="font-size:17px"><a href="https://www.tomerullman.org/">Tomer Ullman</a><sup>3</sup></span>
 								</center>
 							</td>
-							<td align="center" width="16.67%">
+							<td align="center" width="100px">
 								<center>
 									<span style="font-size:17px"><a href="https://web.mit.edu/torralba/www/">Antonio Torralba</a><sup>2</sup></span>
 								</center>
 							</td>
-							<td align="center" width="16.67%">
+							<td align="center" width="100px">
 								<center>
 									<span style="font-size:17px"><a href="http://web.mit.edu/cocosci/josh.html">Joshua B. Tenenbaum</a><sup>2</sup></span>
 								</center>
 							</td>
-							<td align="center" width="16.67%">
+							<td align="center" width="100px">
 								<center>
 									<span style="font-size:17px"><a href="https://www.tshu.io/">Tianmin Shu</a><sup>2,6</sup></span>
 								</center>
@@ -257,14 +257,14 @@
 					<tbody><tr>
 						<td align="center" width="120px">
 							<center>
-								<span style="font-size:24px"><a href="https://arxiv.org/pdf/2301.05223.pdf">[Paper]</a></span>
+								<span style="font-size:24px"><a href="https://openreview.net/forum?id=jbLM1yvxaL">[Paper]</a></span>
 							</center>
 						</td>
-						<td align="center" width="120px">
+						<!-- <td align="center" width="120px">
 							<center>
 								<span style="font-size:24px"><a href="https://github.com/xavierpuigf/online_watch_and_help">[GitHub]</a></span><br>
 							</center>
-						</td>
+						</td> -->
 					</tr>
 				</tbody></table>
 			
@@ -275,7 +275,7 @@
 				<tbody><tr>
 					<td width="260px">
 						<center>
-							<img class="round" style="width:600px" src="intro_small.png">
+							<img class="round" style="width:600px" src="/assets/img/publications/MMToM.png">
 						</center>
 					</td>
 				</tr>
@@ -288,7 +288,7 @@
 			
 			<tbody><tr>
 				<td style="text-align: justify">
-				In this work, we study how to build socially intelligent robots to assist people in their homes. In particular, we focus on assistance with online goal inference, where robots must simultaneously infer humans' goals and how to help them achieve those goals. Prior assistance methods either lack the adaptivity to adjust helping strategies (i.e., when and how to help) in response to uncertainty about goals or the scalability to conduct fast inference in a large goal space. Our NOPA (Neurally-guided Online Probabilistic Assistance) method addresses both of these challenges. NOPA consists of (1) an online goal inference module combining neural goal proposals with inverse planning and particle filtering for robust inference under uncertainty, and (2) a helping planner that discovers valuable subgoals to help with and is aware of the uncertainty in goal inference. We compare NOPA against multiple baselines in a new embodied AI assistance challenge: Online Watch-And-Help, in which a helper agent needs to simultaneously watch a main agent's action, infer its goal, and help perform a common household task faster in realistic virtual home environments. Experiments show that our helper agent robustly updates its goal inference and adapts its helping plans to the changing level of uncertainty.
+					Theory of Mind (ToM), the ability to understand people's minds, is an essential ingredient for developing machines with human-level social intelligence. Recent machine learning models, particularly large language models, seem to show some aspects of ToM understanding. However, existing ToM benchmarks use unimodal datasets -- either video or text. Human ToM, on the other hand, is more than video or text understanding. People can flexibly reason about another person's mind based on conceptual representations (e.g., goals, beliefs, plans) extracted from any available data, which can include visual cues, linguistic narratives, or both. To address this, we introduce a multimodal Theory of Mind question answering (MMToM-QA) benchmark. MMToM-QA comprehensively evaluates machine ToM both on multimodal data and on different kinds of unimodal data about a person's activity in a household environment. To engineer multimodal ToM capacity, we propose a novel method, BIP-ALM (Bayesian Inverse Planning Accelerated by Language Models). BIP-ALM extracts unified representations from multimodal data and utilizes language models for scalable Bayesian inverse planning. We conducted a systematic comparison of human performance, BIP-ALM, and state-of-the-art models, including GPT-4. The experiments demonstrate that large language models and large multimodal models still lack robust ToM capacity. BIP-ALM, on the other hand, shows promising results, by leveraging the power of both model-based mental inference and language models.  
 				</td>
 			</tr>
 		</tbody></table>
