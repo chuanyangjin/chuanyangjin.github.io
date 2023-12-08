@@ -301,11 +301,24 @@
 				<td style="text-align: justify">
 					MMToM-QA is the first multimodal benchmark to evaluate machine Theory of Mind (ToM), the ability to understand people's minds. MMToM-QA consists of 600 questions. Each question is paired with a clip of the full activity in a video (as RGB-D frames), as well as a text description of the scene and the actions taken by the person in that clip. All questions have two choices. The questions are categorized into seven types, evaluating belief inference and goal inference in rich and diverse situations. Each belief inference type has 100 questions, totaling 300 belief questions; each goal inference type has 75 questions, totaling 300 goal questions. The questions are paired with 134 videos of a person looking for daily objects in household environments.
 				</td>
-			</tr>
-		</tbody></table>
+			</tr></tbody>
+		</table>
+
+		<hr>
+		<center><h1>Model</h1></center>
+		<table align="center" width="850px">	
+			<tbody><tr>
+				<td style="text-align: justify">
+					We propose Bayesian Inverse Planning Accelerated by Language Models (BIP-ALM), a novel method to engineer multimodal Theory of Mind.
+					We first extract symbolic representations of the states and actions from both the video and the text. 
+					We then align and fuse representations extracted from different modalities, to form a unified representation of the event and the physical scene. 
+					We then use an inverse symbolic planner to compare the two hypotheses extracted from the question and produce the answer.
+				</td>
+			</tr></tbody>
+		</table>
 
 		<p align="center">
-			<img class="round" style="width:600px" src="/assets/img/publications/MMToM_overview.png">
+			<img class="round" style="width:600px" src="/assets/img/publications/MMToM_model.png">
 		</p>
 
 		<!-- <hr>
