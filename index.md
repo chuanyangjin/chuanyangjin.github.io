@@ -37,7 +37,7 @@ I'm also fascinated by diffusion models, representation learning, and AI for sci
 
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 16,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, and hiking.
 
-Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
+Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 
 ## News
 + [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023
@@ -65,7 +65,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Oct 2023).
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review (ICLR 2024)</i> <br>
     A short version will be <a href="https://nips.cc/virtual/2023/82792">presented</a> at NeurIPS'23 FMDM Workshop.<br>
-    <!-- Manuscript available upon request. <br> -->
+    <a href="https://openreview.net/pdf?id=jbLM1yvxaL">paper</a> / 
     <a href="/mmtom-qa">website</a>
   </div>
 </div>
