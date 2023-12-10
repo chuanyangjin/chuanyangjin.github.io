@@ -18,12 +18,14 @@ I am broadly interested in Natural Language Processing and Computer Vision. Here
 
 + **Foundation Models**: enhance the robustness, truthfulness, and instruction-adherence of foundation models through diverse experiences (e.g., data instances, structured knowledge, embodied experiences).
 
-+ **Embodied AI**: leverage embodied models to build agents capable of *long-term* decision making through effective planning, reasoning, managing memory, and learning from human and environment feedback.
++ **Embodied AI**: build embodied agents capable of *long-term* decision making through effective planning, reasoning, managing memory, and learning from human and environment feedback.
 
 + **Social Intelligence**: develop socially intelligent systems that master commonsense knowledge, and combine it with new knowledge and skills, so they learn efficiently and collaborate effectively with humans.
 
 
 <!--
+leverage models to 
+
 + **Decision Making in Real World**: leverage foundation models to build agents capable of *long-term* decision making through effective planning, reasoning, managing memory, and learning from real-world feedback.
 
 
