@@ -84,7 +84,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <a href="https://yenlingkuo.com/">Yen-Ling Kuo</a>, 
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
-    <i>Aceppted by AAAI 2024</i> <br>
+    <i>Accepted by AAAI 2024</i> <br>
     <!-- Oral Presentation at AAAI Summer Symposium, 2023<br> -->
     <a href="https://arxiv.org/abs/2308.11071">paper</a> / 
     <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
