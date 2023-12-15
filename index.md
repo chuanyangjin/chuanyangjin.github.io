@@ -42,6 +42,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 
 ## News
++ [Dec, 2023] One paper accepted to AAAI 2024
 + [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023
 + [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
@@ -85,7 +86,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Accepted by AAAI 2024</i> <br>
-    <!-- Oral Presentation at AAAI Summer Symposium, 2023<br> -->
+    Oral Presentation at AAAI Summer Symposium, 2023. <br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> / 
     <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
   </div>
