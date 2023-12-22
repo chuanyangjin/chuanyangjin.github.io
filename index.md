@@ -42,8 +42,9 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 
 ## News
++ [Dec, 2023] I'm attending NeurIPS 2023. See you in New Orleans!
 + [Dec, 2023] One paper accepted to AAAI 2024
-+ [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023
+<!-- + [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023 -->
 + [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
 + [Apr, 2023] Received [NYU Computer Science Prize](/assets/Computer_Science_Prize.pdf) as the most promising junior student
@@ -67,9 +68,9 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review (ICLR 2024)</i> <br>
-    A short version will be <a href="https://nips.cc/virtual/2023/82792">presented</a> at NeurIPS'23 FMDM Workshop.<br>
+    A short version presented at NeurIPS'23 FMDM Workshop.<br>
     <a href="https://openreview.net/pdf?id=jbLM1yvxaL">paper</a>
-    <!-- /  <a href="/mmtom-qa">website</a> -->
+    <a href="/mmtom-qa">website</a>
   </div>
 </div>
 
@@ -91,32 +92,6 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
   </div>
 </div>
-
-<!--
-### Previous Research
-
-<b>Self-Supervised Image Captioning with CLIP</b><br>
-<b>Chuanyang Jin</b><br>
-<i>Under Review</i><br>
-<a href="https://arxiv.org/abs/2306.15111">paper</a>
-
-<b>Multi-Stage Transfer Learning for Efficient Video Prediction and Segmentation with Sparse Labeled Data</b><br>
-<a href="https://www.linkedin.com/in/peiqi-liu-2a40901b6/">Peiqi Liu</a>,
-<b>Chuanyang Jin</b>,
-<a href="https://samzhong0702.github.io/">Samuel Zhong</a><br>
-<i>Under Review</i><br>
-
-<b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b><br>
-<b>Chuanyang Jin*</b>, 
-<a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang*</a>, 
-<a href="https://www.tshu.io/">Tianmin Shu</a> and 
-<a href="https://zhihan-cui.weebly.com/">Zhihan Cui*</a><br>
-<i>Under Review</i><br>
-<a href="https://arxiv.org/abs/2308.14242">paper</a>
-
-<a href="/assets/reports/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">paper</a>  / 
-<a href="/assets/slides/Multi_Stage_Transfer_Learning_for_Efficient_Video_Prediction_and_Segmentation_with_Sparse_Labeled_Data.pdf">slides</a>
--->
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
@@ -189,7 +164,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
   </div>
   <div style="margin-left: 270px;">
     <b>Optimization of Diffusion Transformers</b><br>
-    SOTA diffusion models with 2x speedup, 200+ GitHub Stars. <br>
+    SOTA diffusion models with 2x speedup, 250+ GitHub Stars. <br>
     Advised by <a href="https://www.sainingxie.com/">Prof. Saining Xie</a>. <br>
     <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a> / 
     <a href="https://github.com/chuanyangjin/fast-DiT">project</a>
