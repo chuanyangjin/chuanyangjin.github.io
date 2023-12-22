@@ -68,7 +68,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review (ICLR 2024)</i> <br>
-    Presented at NeurIPS'23 Foundation Models for Decision Making Workshop.<br>
+    A short version presented at <a href="https://sites.google.com/view/fmdm-neurips23/">NeurIPS'23 FMDM Workshop</a>. <br>
     <a href="https://openreview.net/pdf?id=jbLM1yvxaL">paper</a> / 
     <a href="/mmtom-qa">website</a>
   </div>
