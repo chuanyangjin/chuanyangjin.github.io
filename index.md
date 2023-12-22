@@ -69,7 +69,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review (ICLR 2024)</i> <br>
     A short version presented at NeurIPS'23 FMDM Workshop.<br>
-    <a href="https://openreview.net/pdf?id=jbLM1yvxaL">paper</a>
+    <a href="https://openreview.net/pdf?id=jbLM1yvxaL">paper</a> / 
     <a href="/mmtom-qa">website</a>
   </div>
 </div>
