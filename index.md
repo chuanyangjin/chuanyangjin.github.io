@@ -109,7 +109,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <a href="https://he-group.uchicago.edu/">Chuan He</a>, 
     <a href="https://cims.nyu.edu/~regev/">Oded Regev</a>, 
     <a href="https://feilab.uchicago.edu/group.html">Jingyi Fei</a><br>
-    <i>Under Review</i><br>
+    <i>Under Review (Nature Communications)</i><br>
   </div>
 </div>
 
