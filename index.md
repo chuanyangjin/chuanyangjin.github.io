@@ -42,7 +42,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 
 ## News
-+ [Dec, 2023] I'm attending NeurIPS 2023. Reach out if you'd like to have a chat!
++ [Dec, 2023] I'm attending NeurIPS 2023. Feel free to reach out if you'd like to have a chat!
 + [Dec, 2023] One paper accepted to AAAI 2024
 + [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023
 + [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
