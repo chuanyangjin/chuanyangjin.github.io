@@ -42,9 +42,9 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 
 ## News
-+ [Dec, 2023] I'm attending NeurIPS 2023. See you in New Orleans!
++ [Dec, 2023] I'm attending NeurIPS 2023. Reach out if you'd like to have a chat!
 + [Dec, 2023] One paper accepted to AAAI 2024
-<!-- + [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023 -->
++ [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023
 + [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
 + [Apr, 2023] Received [NYU Computer Science Prize](/assets/Computer_Science_Prize.pdf) as the most promising junior student
