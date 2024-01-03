@@ -319,6 +319,7 @@
 			<img class="round" style="width:600px" src="/assets/img/mmtom-qa/overview.png">
 		</p>
 
+		<div style="text-align: center">Example Videos</div>
 		<div style="display: flex; justify-content: center;">
 			<div style="display: flex; flex-wrap: nowrap; width: 850px; margin: auto;">
 				<div style="flex-basis: 50%; padding-right: 10px;">
@@ -326,6 +327,19 @@
 				</div>
 				<div style="flex-basis: 50%; padding-left: 10px;">
 					<iframe width="400" height="225" src="https://www.youtube.com/embed/NsOPbJWPn1c?si=cpVfFozqj1p31z7e" frameborder="0" allowfullscreen></iframe>
+				</div>
+			</div>
+		</div>
+
+
+		<div style="text-align: center">Types of data provided in our benchmark & The procedural generation for creating our benchmark.</div>
+		<div style="display: flex; justify-content: center;">
+			<div style="display: flex; flex-wrap: nowrap; width: 850px; margin: auto;">
+				<div style="flex-basis: 50%; padding-right: 10px;">
+					<img class="round" style="width:400px" src="/assets/img/mmtom-qa/available_data_type.png">
+				</div>
+				<div style="flex-basis: 50%; padding-left: 10px;">
+					<img class="round" style="width:400px" src="/assets/img/mmtom-qa/procedural_generation.png">
 				</div>
 			</div>
 		</div>
@@ -351,18 +365,23 @@
 		</p>
 
 		<hr>
-		<center><h1>Results</h1></center>
+		<center><h1>Quantitative Results</h1></center>
 		<table align="center" width="850px">	
 			<tbody><tr>
 				<td style="text-align: justify">
-					<div style="text-align: center">Quantitative Results</div>
 					<ul>
 						<li>Human experiment verifies our benchmark design and provides a natural performance yardstick.</li>
 						<li>Current large language models and large multimodal models lack robust ToM capacity.</li>
 						<li>BIP-ALM shows promising results and generalizes effectively.</li>
 					</ul>
+				</td>
+			</tr></tbody>
+		</table>
 
-					<div style="text-align: center">Qualitative Results & Discussion</div>
+		<center><h1>Qualitative Results & Discussion</h1></center>
+		<table align="center" width="850px">	
+			<tbody><tr>
+				<td style="text-align: justify">
 					<ul>
 						<li>GPT-4 shows strong performance when people have true beliefs, yet it makes systematic errors when people have false beliefs or update their beliefs, and it has poor judgment on goals.</li>
 						<li>BIP-ALM effectively reasons about a person's mental state and tracks the changes in the mental state over time.</li>
