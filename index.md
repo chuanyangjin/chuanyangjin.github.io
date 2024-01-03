@@ -89,8 +89,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <i>AAAI 2024</i> <br>
     Oral Presentation at AAAI Summer Symposium, 2023. <br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /
-    <a href="/mmtom-qa">website</a> / 
-    <a href="/mmtom-qa">website</a> / 
+    <a href="https://www.tshu.io/nested_reasoning/">website</a> / 
     <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
   </div>
 </div>
