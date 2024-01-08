@@ -6,7 +6,7 @@ sitemap: true
 
 <head>
   <!-- Meta Description Tag -->
-  <meta name="description" content="I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/).">
+  <meta name="description" content="Chuanyang Jin is a visiting student at MIT advised by Prof. Josh Tenenbaum, Prof. Antonio Torralba, and Prof. Tianmin Shu. Currently, he is a senior student in Honors Computer Science and Mathematics at NYU Courant.">
 
   <style>
   a::after, a.external::after {
@@ -20,6 +20,8 @@ sitemap: true
 I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/).
 
 I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about:
+
+<div data-nosnippet> <!-- prevent certain parts from being displayed in the snippet in Google's search results -->
 
 + **Foundation Models**: enhance the robustness, truthfulness, and instruction-adherence of foundation models through diverse experiences (e.g., data instances, structured knowledge, embodied experiences).
 
@@ -52,7 +54,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 + [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023
 + [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
-+ [Apr, 2023] Received [NYU Computer Science Prize](/assets/Computer_Science_Prize.pdf) as the top 1 out of 375 junior students
++ [Apr, 2023] Received [NYU Computer Science Prize](/assets/Computer_Science_Prize.pdf) as the top 1 out of 375 students
 + [May, 2022] Received [COMAP Scholarship](https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf) as the top 4 out of 27,205 teams in MCM
 
 ## Research
@@ -286,3 +288,5 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 + [YOLO Object Detection](https://github.com/chuanyangjin/NYU-Course-Projects/blob/master/YOLO%20Object%20Detection/YOLO%20Object%20Detection.ipynb)
 
 And 8 others... [see more](https://github.com/chuanyangjin/NYU-Course-Projects)
+
+</div>
