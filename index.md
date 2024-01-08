@@ -6,7 +6,7 @@ sitemap: true
 
 <head>
   <!-- Meta Description Tag -->
-  <meta name="description" content="Chuanyang Jin is a visiting student at MIT advised by Prof. Josh Tenenbaum, Prof. Antonio Torralba, and Prof. Tianmin Shu. Currently, he is a senior student in Honors Computer Science and Mathematics at NYU Courant.">
+  <meta name="description" content="Chuanyang Jin is a visiting student at MIT advised by Prof. Josh Tenenbaum, Prof. Antonio Torralba, and Prof. Tianmin Shu. Currently, Chuanyang Jin is a senior student in Honors Computer Science and Mathematics at NYU Courant.">
 
   <style>
   a::after, a.external::after {
@@ -40,11 +40,15 @@ leverage models to
 + **Generative intelligence**: design generative models that assist humans in the effortless creation of visual data (e.g., images, videos, 3D data, and multimodal data).
 
 I'm also fascinated by diffusion models, representation learning, and AI for science.
+
+
+<span data-nosnippet> prevent certain parts from being displayed in the snippet in Google's search results </span>
 --> 
 
-<span data-nosnippet> <!-- prevent certain parts from being displayed in the snippet in Google's search results --> Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 16,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, and hiking. </span>
+Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 16,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, and hiking. 
 
 Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
+
 
 ## News
 + [Dec, 2023] I'm attending NeurIPS 2023. Feel free to reach out if you'd like to have a chat!
