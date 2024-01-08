@@ -21,8 +21,6 @@ I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.
 
 I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about:
 
-<div data-nosnippet> <!-- prevent certain parts from being displayed in the snippet in Google's search results -->
-
 + **Foundation Models**: enhance the robustness, truthfulness, and instruction-adherence of foundation models through diverse experiences (e.g., data instances, structured knowledge, embodied experiences).
 
 + **Embodied AI**: leverage foundation models to build embodied agents capable of *long-term* decision making through planning, reasoning, managing memory, and learning from human and environment feedback.
@@ -44,7 +42,11 @@ leverage models to
 I'm also fascinated by diffusion models, representation learning, and AI for science.
 --> 
 
+<div data-nosnippet> <!-- prevent certain parts from being displayed in the snippet in Google's search results -->
+
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 16,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, and hiking.
+
+</div>
 
 Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 
@@ -288,5 +290,3 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 + [YOLO Object Detection](https://github.com/chuanyangjin/NYU-Course-Projects/blob/master/YOLO%20Object%20Detection/YOLO%20Object%20Detection.ipynb)
 
 And 8 others... [see more](https://github.com/chuanyangjin/NYU-Course-Projects)
-
-</div>
