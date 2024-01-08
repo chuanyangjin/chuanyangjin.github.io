@@ -43,9 +43,7 @@ I'm also fascinated by diffusion models, representation learning, and AI for sci
 --> 
 
 <div data-nosnippet> <!-- prevent certain parts from being displayed in the snippet in Google's search results -->
-
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 16,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, and hiking.
-
 </div>
 
 Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
