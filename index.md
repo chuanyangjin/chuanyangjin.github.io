@@ -4,11 +4,16 @@ title: About
 sitemap: true
 ---
 
-<style>
-a::after, a.external::after {
-  display: none !important;
-}
-</style>
+<head>
+  <!-- Meta Description Tag -->
+  <meta name="description" content="I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/).">
+
+  <style>
+  a::after, a.external::after {
+    display: none !important;
+  }
+  </style>
+</head>
 
 
 
