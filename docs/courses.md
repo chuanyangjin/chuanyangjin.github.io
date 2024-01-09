@@ -12,7 +12,7 @@ a::after, a.external::after {
 </style>
 
 ### Machine Learning
-+ [CSCI-GA 3033 Learning with Large Language and Vision Models (Graduate)](https://www.sainingxie.com/Teaching/llvm.html)
++ [CSCI-GA 3033 Deep Reinforcement Learning (Graduate)](https://nyu-robot-learning.github.io/deep-rl-class/)
 + [CSCI-GA 2590 Natural Language Processing (Graduate)](https://nyu-cs2590.github.io/spring2023/about/)
 + [CSCI-GA 2572 Deep Learning (Graduate)](https://docs.google.com/document/d/1mB10fO011xf1wijJMSdoUi8E2V6V4lsUDx4IcihlKg4/edit#heading=h.9v94rj47r0dg)
 + [CSCI-GA 2565 Machine Learning (Graduate)](https://rajeshhr.github.io/fall-ml-2022/)
@@ -23,7 +23,7 @@ a::after, a.external::after {
 + CSCI-UA 521 Undergraduate Research
 
 ### Algorithms and Systems
-+ [CSCI-UA 453 Theory of Computation](https://cs.nyu.edu/~khot/CSCI-UA.0453-001-2023.htm)
++ [CSCI-UA 453 Theory of Computation](https://cs.nyu.edu/courses/fall23/CSCI-UA.0453-001/index.html)
 + [CSCI-UA 310 Basic Algorithms](https://cims.nyu.edu/~regev/teaching/basic_algorithms_spring_2022/index.html) (Teaching Assistant)
 + [CSCI-UA 202 Operating Systems](https://cs.nyu.edu/courses/fall22/CSCI-UA.0202-001/)
 + CSCI-UA 201 Computer System Organization
@@ -34,6 +34,7 @@ a::after, a.external::after {
 + MATH-UA 343 Algebra
 + MATH-UA 325 Analysis
 + [MATH-UA 252 Numerical Analysis](https://sampotter.github.io/courses/nyu-spring-2022-math-ua-252.html)
++ MATH-UA 240 Combinatorics
 + MA-UY 4204 Ordinary Differential Equations
 + MA-UY 3044 Linear Algebra
 + MA-UY 2314 Discrete Mathematics
