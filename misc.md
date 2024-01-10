@@ -22,8 +22,6 @@ Some piano pieces I love to play: Moonlight Sonata, Flower Dance, and Croatian R
 
 Here are some of my notes:
 
-<!-- the [courses](https://chuanyangjin.github.io/courses) I've taken. -->
-
 + [NYU Course Notes & Resources](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources)
 
 + [Paper Reading Notes](https://github.com/chuanyangjin/Paper-Reading)
