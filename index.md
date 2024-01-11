@@ -79,8 +79,8 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <i>Under Review (ICLR 2024)</i> <br>
     A short version presented at <a href="https://sites.google.com/view/fmdm-neurips23/">NeurIPS'23 FMDM Workshop</a>. <br>
     <a href="https://openreview.net/pdf?id=jbLM1yvxaL">paper</a> / 
-    <a href="/mmtom-qa">website</a> /
-    <a href="https://github.com/chuanyangjin/MMToM-QA">repo</a>
+    <a href="/mmtom-qa">project</a> /
+    <a href="https://github.com/chuanyangjin/MMToM-QA">code</a>
   </div>
 </div>
 
@@ -99,7 +99,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <i>AAAI 2024</i> <br>
     Oral Presentation at AAAI Summer Symposium, 2023. <br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /
-    <a href="https://www.tshu.io/nested_reasoning/">website</a> / 
+    <a href="https://www.tshu.io/nested_reasoning/">project</a> / 
     <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
   </div>
 </div>
