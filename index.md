@@ -81,7 +81,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <a href="https://openreview.net/pdf?id=jbLM1yvxaL">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
-    <a href="http://virtual-home.org/release/MMToMQA/benchmark.zip">benchmark</a> /
+    <a href="http://virtual-home.org/release/MMToMQA/benchmark.zip">benchmark</a>
   </div>
 </div>
 
