@@ -78,7 +78,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Under Review</i> <br>
     A short version presented at <a href="https://sites.google.com/view/fmdm-neurips23/">NeurIPS'23 FMDM Workshop</a>. <br>
-    <a href="https://openreview.net/pdf?id=jbLM1yvxaL">paper</a> /
+    <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
     <a href="http://virtual-home.org/release/MMToMQA/benchmark.zip">benchmark</a>
