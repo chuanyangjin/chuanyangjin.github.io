@@ -112,10 +112,10 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <img src="/assets/img/publications/nuclear.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>Deciphering RNA Localization in Nuclear Speckles</b><br>
+    <b>Dynamics of RNA Localization to Nuclear Speckles are Connected to Splicing Efficiency</b><br>
     <a href="https://feilab.uchicago.edu/group.html">Jinjun Wu*</a>,
     <a href="https://feilab.uchicago.edu/group.html">Yu Xiao*</a>, 
-    <a href="https://feilab.uchicago.edu/group.html">Yunzheng Liu*</a>,
+    <a href="https://feilab.uchicago.edu/group.html">Yunzheng Liu</a>,
     <a href="https://feilab.uchicago.edu/group.html">Li Wen</a>, 
     <b>Chuanyang Jin</b>,
     <a href="https://scholar.google.com/citations?user=zwZ8k9gAAAAJ&hl=zh-CN">Shun Liu</a>, 
