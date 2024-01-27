@@ -82,7 +82,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
     <a href="http://virtual-home.org/release/MMToMQA/benchmark.zip">benchmark</a> /
-    <a href="https://x.com/chuanyang_jin/status/1748336997532315756?s=20">tweet</a>
+    <a href="https://twitter.com/MIT_CSAIL/status/1750925830937604386">MIT blog</a>
   </div>
 </div>
 
