@@ -25,7 +25,7 @@ I am broadly interested in Natural Language Processing and Computer Vision. Here
 
 + **Embodied AI**: leverage foundation models to build embodied agents capable of *long-term* decision making through planning, reasoning, managing memory, and learning from human and environment feedback.
 
-+ **Commonsense Reasoning**: improve reasoning under diverse cultural and social contexts, and understand cause and effect as events unfold.
++ **Commonsense Reasoning**: understand cause and effect as events unfold, improve reasoning under diverse cultural and social contexts, and advance joint inference across multiple modalities.
 
 
 <!--
