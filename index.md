@@ -25,17 +25,13 @@ I am broadly interested in Natural Language Processing and Computer Vision. Here
 
 + **Embodied AI**: leverage foundation models to build embodied agents capable of *long-term* decision making through planning, reasoning, managing memory, and learning from human and environment feedback.
 
-+ **Commonsense Reasoning**: understand cause and effect as events unfold, improve reasoning under diverse cultural and social contexts, and advance joint inference across multiple modalities.
-
++ **Commonsense Reasoning**: understand cause and effect as events unfold, improve reasoning under diverse social and cultural contexts, and advance joint inference across multiple modalities.
 
 <!--
 + **Social Intelligence**: develop socially intelligent systems that master commonsense knowledge, and combine it with new knowledge and skills, so they learn efficiently and collaborate effectively with humans.
 
 + **Decision Making in Real World**: leverage foundation models to build agents capable of *long-term* decision making through effective planning, reasoning, managing memory, and learning from real-world feedback.
 
-
-+ **Social Intelligence**: develop socially intelligent systems that learns causality and commonsense knowledge, so that they can confidently understand, reason about, and collaborate with humans.
-+ **Human-AI collaboration**: construct intelligent systems that communicate and collaborate effectively with humans, and endow them with social intelligence and social commonsense.
 + **Generative intelligence**: design generative models that assist humans in the effortless creation of visual data (e.g., images, videos, 3D data, and multimodal data).
 
 I'm also fascinated by diffusion models, representation learning, and AI for science.
