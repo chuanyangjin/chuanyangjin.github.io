@@ -45,8 +45,8 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 
 
 ## News
++ [Jan, 2024] Release the [project](/mmtom-qa) and [code](https://github.com/chuanyangjin/MMToM-QA) of MMToM-QA. Also check its [tweet thread](https://twitter.com/MIT_CSAIL/status/1750925830937604386) in 1min.
 + [Dec, 2023] I'm attending NeurIPS 2023. Feel free to reach out if you'd like to have a chat!
-<!-- + [Dec, 2023] One paper accepted to AAAI 2024 -->
 + [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023
 + [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
