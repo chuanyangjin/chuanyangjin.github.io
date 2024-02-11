@@ -168,7 +168,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/fast-dit.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/projects/fast_DiT.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <b>Optimization of Diffusion Transformers</b><br>
@@ -195,7 +195,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/Diffusion.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/projects/class_embedding_diffusion.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
@@ -244,7 +244,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/AsteroidMining.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/projects/asteroid_mining.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <b>Promoting Global Equity through Asteroid Mining</b><br>
@@ -257,7 +257,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/Gene.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/projects/gene_mutation_system.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <b>Gene Mutation Detection System</b><br>
