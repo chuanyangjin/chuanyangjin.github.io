@@ -199,7 +199,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
   </div>
   <div style="margin-left: 270px;">
     <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
-    Course Project in CSCI-GA 2565 Machine Learning (Grad-level)<br>
+    Top 1 Project in CSCI-GA 2565 Machine Learning (Grad-level)<br>
     <a href="/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> / 
     <a href="/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">slides</a> / 
     <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">code</a>
@@ -236,6 +236,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
   </div>
   <div style="margin-left: 270px;">
     <b>Social Platform for Recording and Sharing Emotions</b><br>
+    <em>We help you out of loneliness. You have the world's resonance.</em>
     HackNYU 2022<br>
     <a href="https://devpost.com/software/em-k3gf5b">demo</a> / 
     <a href="https://github.com/chuanyangjin/em">code</a>
