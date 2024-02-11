@@ -41,7 +41,9 @@ I'm also fascinated by diffusion models, representation learning, and AI for sci
 
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 16,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, hiking and so much more.
 
-Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
+Here is my [CV](/assets/Chuanyang_CV.pdf).
+
+<!-- Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023). -->
 
 
 ## News
@@ -133,7 +135,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
   </div>
 </div>
 
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+<!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
     <img src="/assets/img/publications/simvp.png" alt="publication teaser" width="100%" />
   </div>
@@ -144,7 +146,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <a href="https://samzhong0702.github.io/">Samuel Zhong</a><br>
     <i>Under Review</i><br>
   </div>
-</div>
+</div> -->
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
