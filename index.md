@@ -227,9 +227,8 @@ Here is my [CV](/assets/Chuanyang_CV.pdf).
   </div>
   <div style="margin-left: 270px;">
     <b>Promoting Global Equity through Asteroid Mining</b><br>
+    Finalist, MAA Award, <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> (Top 4/27205, $10,000),<br>
     Interdisciplinary Contest in Modeling 2022<br>
-    Awards: Finalist & MAA Award (Top 5/27205) & <br>
-    <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> (Top 4/27205, $10,000)<br>
     <a href="/assets/reports/ICM_Report.pdf">report</a>
   </div>
 </div>
@@ -241,8 +240,8 @@ Here is my [CV](/assets/Chuanyang_CV.pdf).
   <div style="margin-left: 270px;">
     <b>Gene Mutation Detection System</b><br>
     <em>Our system was adopted by leading hospitals.</em><br>
-    Shing-Tung Yau Computer Science Award Global Finals 2019<br>
-    Award: <a href="http://www.yau-awards.com/lists-winnerslist.html">Bronze Medal</a> (Top 3/500, $10,000)<br>
+    <a href="http://www.yau-awards.com/lists-winnerslist.html">Bronze Medal</a> (Top 3/500, $10,000),<br>
+    Shing-Tung Yau Computer Science Award 2019<br>
     <a href="https://drive.google.com/file/d/1Zdp33tiYmoppAdzMCOH_P44jzu6V9yW-/view?usp=sharing">demo</a> / 
     <a href="https://oss.linstitute.net/wechatimg/2019/12/qiuchengtong2019combronze3.pdf">report</a> /
     <a href="/assets/slides/Yau_Gene_Mutation_Detection.pdf">slides</a>
