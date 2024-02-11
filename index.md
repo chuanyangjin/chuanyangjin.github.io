@@ -240,7 +240,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <b>Gene Mutation Detection System</b><br>
     <em>Our system was adopted by leading hospitals.</em><br>
     Shing-Tung Yau Computer Science Award Global Finals 2019<br>
-    Award: <a href="http://www.yau-awards.com/lists-winnerslist.html">International Bronze Award</a> (Top 3/500, $10,000)<br>
+    Award: <a href="http://www.yau-awards.com/lists-winnerslist.html">Bronze Medal</a> (Top 3/500, $10,000)<br>
     <a href="https://drive.google.com/file/d/1Zdp33tiYmoppAdzMCOH_P44jzu6V9yW-/view?usp=sharing">demo</a> / 
     <a href="https://oss.linstitute.net/wechatimg/2019/12/qiuchengtong2019combronze3.pdf">report</a> /
     <a href="/assets/slides/Yau_Gene_Mutation_Detection.pdf">slides</a>
