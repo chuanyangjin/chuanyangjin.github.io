@@ -174,8 +174,8 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <b>Optimization of Diffusion Transformers</b><br>
     <em>SOTA diffusion models with 2x speedup, 250+ GitHub Stars.</em><br>
     Advised by <a href="https://www.sainingxie.com/">Prof. Saining Xie</a>. <br>
-    <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a> / 
-    <a href="https://github.com/chuanyangjin/fast-DiT">project</a>
+    <a href="https://github.com/chuanyangjin/fast-DiT">project</a> / 
+    <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a>
   </div>
 </div>
 
@@ -187,7 +187,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <b>AutoCorp: A Fully Autonomous Company</b><br>
     <em>LLM-driven autonomous company, 120k+ Twitter views.</em><br>
     NYC GPT/LLM Hackathon 2023<br>
-    <a href="/autocorp">demo</a> / 
+    <a href="/autocorp">project</a> / 
     <a href="https://twitter.com/minafahmi_/status/1650861037737091083">tweet</a> / 
     <a href="https://github.com/Czechh/chatdtc">code</a>
   </div>
@@ -201,7 +201,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <b>Social Platform for Recording and Sharing Emotions</b><br>
     <em>We help you out of loneliness. You have the world's resonance.</em><br>
     HackNYU 2022<br>
-    <a href="https://devpost.com/software/em-k3gf5b">demo</a> / 
+    <a href="https://devpost.com/software/em-k3gf5b">project</a> / 
     <a href="https://github.com/chuanyangjin/em">code</a>
   </div>
 </div>
