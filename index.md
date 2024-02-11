@@ -214,7 +214,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf).
   </div>
   <div style="margin-left: 270px;">
     <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
-    Top 1 Project in CSCI-GA 2565 Machine Learning (Grad-level)<br>
+    Top 1 Course Project in CSCI-GA 2565 Machine Learning (Grad-level)<br>
     <a href="/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> / 
     <a href="/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">slides</a> / 
     <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">code</a>
