@@ -206,7 +206,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
   </div>
 </div>
 
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+<!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
     <img src="/assets/img/projects/Learn&Link.png" alt="publication teaser" width="100%" />
   </div>
@@ -216,7 +216,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     <a href="https://devpost.com/software/learn-and-link">demo</a> / 
     <a href="https://github.com/chuanyangjin/Learn_and_Link">code</a>
   </div>
-</div>
+</div> -->
 
 <!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
@@ -271,7 +271,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 </div>
 
 
-### Course Projects
+<!-- ### Course Projects
 
 + [Energy-Based Models for Structured Prediction](https://github.com/chuanyangjin/NYU-Course-Projects/blob/master/Energy-Based%20Models%20for%20Structured%20Prediction/Energy-Based%20Models%20for%20Structured%20Prediction.ipynb)
 
@@ -285,4 +285,4 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 
 + [YOLO Object Detection](https://github.com/chuanyangjin/NYU-Course-Projects/blob/master/YOLO%20Object%20Detection/YOLO%20Object%20Detection.ipynb)
 
-And [many more](https://github.com/chuanyangjin/NYU-Course-Projects)!
+And [many more](https://github.com/chuanyangjin/NYU-Course-Projects)! -->
