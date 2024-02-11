@@ -236,7 +236,7 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
   </div>
   <div style="margin-left: 270px;">
     <b>Social Platform for Recording and Sharing Emotions</b><br>
-    <em>We help you out of loneliness. You have the world's resonance.</em>
+    <em>We help you out of loneliness. You have the world's resonance.</em><br>
     HackNYU 2022<br>
     <a href="https://devpost.com/software/em-k3gf5b">demo</a> / 
     <a href="https://github.com/chuanyangjin/em">code</a>
