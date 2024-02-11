@@ -195,43 +195,6 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/class_embedding_diffusion.png" alt="publication teaser" width="100%" />
-  </div>
-  <div style="margin-left: 270px;">
-    <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
-    Top 1 Project in CSCI-GA 2565 Machine Learning (Grad-level)<br>
-    <a href="/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> / 
-    <a href="/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">slides</a> / 
-    <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">code</a>
-  </div>
-</div>
-
-<!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/Learn&Link.png" alt="publication teaser" width="100%" />
-  </div>
-  <div style="margin-left: 270px;">
-    <b>AutoLink: A Tool for Strategic Networking</b><br>
-    Hack GPT 2023<br>
-    <a href="https://devpost.com/software/learn-and-link">demo</a> / 
-    <a href="https://github.com/chuanyangjin/Learn_and_Link">code</a>
-  </div>
-</div> -->
-
-<!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/Recommender.png" alt="publication teaser" width="100%" />
-  </div>
-  <div style="margin-left: 270px;">
-    <b>Recommendation System for E-commerce Retailer</b><br>
-    NYU x Peak Datathon 2022<br>
-    <a href="/assets/slides/Recommendation_System_for_Olist_E-commerce_Retailer.pdf">slides</a> / 
-    <a href="https://github.com/chuanyangjin/Peak-Datathon">code</a>
-  </div>
-</div> -->
-
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
     <img src="/assets/img/projects/Em.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
@@ -240,6 +203,19 @@ Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023).
     HackNYU 2022<br>
     <a href="https://devpost.com/software/em-k3gf5b">demo</a> / 
     <a href="https://github.com/chuanyangjin/em">code</a>
+  </div>
+</div>
+
+<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+  <div style="float: left; width: 250px;">
+    <img src="/assets/img/projects/class_embedding_diffusion.png" alt="publication teaser" width="100%" />
+  </div>
+  <div style="margin-left: 270px;">
+    <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
+    Top 1 Project in CSCI-GA 2565 Machine Learning (Grad-level)<br>
+    <a href="/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> / 
+    <a href="/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">slides</a> / 
+    <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">code</a>
   </div>
 </div>
 
