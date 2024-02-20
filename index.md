@@ -172,7 +172,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <b>Optimization of Diffusion Transformers</b><br>
-    <em>SOTA diffusion models with 2x speedup, 250+ GitHub Stars.</em><br>
+    <em>SOTA diffusion models with 2x speedup, 300+ GitHub Stars.</em><br>
     Advised by <a href="https://www.sainingxie.com/">Prof. Saining Xie</a>. <br>
     <a href="https://github.com/chuanyangjin/fast-DiT">project</a> / 
     <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a>
@@ -185,7 +185,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <b>AutoCorp: A Fully Autonomous Company</b><br>
-    <em>LLM-driven autonomous company, 120k+ Twitter views.</em><br>
+    <em>LLM-driven autonomous company, 100k+ Twitter views.</em><br>
     NYC GPT/LLM Hackathon 2023<br>
     <a href="/autocorp">project</a> / 
     <a href="https://twitter.com/minafahmi_/status/1650861037737091083">tweet</a> / 
