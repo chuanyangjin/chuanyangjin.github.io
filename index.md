@@ -249,15 +249,10 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 ## Selected Honors & Awards
 
 - NYU Computer Science Prize for the Most Promising Junior Student (1/375), 2023
-
 - COMAP Scholarship ($10,000), 2022
-
 - Distinguished Honor Roll of American Mathematics Contest 12, 2020
-
 - Bronze Medal of Shing-Tung Yau High School Computer Science Award ($10,000), 2019
-
 - Finalist of FIRST Robotics Competition World Championship, 2019
-
 - First Prize of Chinese Physics Olympiad, 2018
 
 <!-- ### Course Projects
