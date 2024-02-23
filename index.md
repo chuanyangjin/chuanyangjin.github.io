@@ -16,8 +16,7 @@ sitemap: true
 </head>
 
 
-
-I am an undergraduate student in Honors Computer Science and Mathematics at NYU Courant with GPA ranking 1/375. During my undergraduate, I've had the privilege of working with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/). Currently I am also a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
+Hello! I am a senior student in Honors Computer Science and Mathematics at NYU Courant with GPA ranking 1/375. During my undergraduate, I've had the privilege of working with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/). Currently I am also a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
 
 I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about:
 
@@ -253,7 +252,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 - Distinguished Honor Roll of American Mathematics Contest, 2020
 - Bronze Medal of Shing-Tung Yau High School Computer Science Award ($10,000), 2019
 - Finalist of FIRST Robotics Competition World Championship, 2019
-- First Prize of Chinese Physics Olympiad, 2018
+- First Prize of Chinese Mathematical Olympiad, 2018
 
 <!-- ### Course Projects
 
