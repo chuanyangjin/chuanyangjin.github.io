@@ -17,7 +17,7 @@ sitemap: true
 
 
 
-Hi, I am an undergraduate student majoring in Honors Computer Science and Mathematics at NYU Courant. During my undergraduate, I've had the privilege of working with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/). Currently I am also a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
+I am an undergraduate student in Honors Computer Science and Mathematics at NYU Courant with GPA ranking 1/375. During my undergraduate, I've had the privilege of working with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/). Currently I am also a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
 
 I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about:
 
@@ -248,9 +248,9 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 ## Selected Honors & Awards
 
-- NYU Computer Science Prize for the Most Promising Junior Student (1/375), 2023
+- NYU Computer Science Prize for the Most Promising Junior Student (1 person/year), 2023
 - COMAP Scholarship ($10,000), 2022
-- Distinguished Honor Roll of American Mathematics Contest 12, 2020
+- Distinguished Honor Roll of American Mathematics Contest, 2020
 - Bronze Medal of Shing-Tung Yau High School Computer Science Award ($10,000), 2019
 - Finalist of FIRST Robotics Competition World Championship, 2019
 - First Prize of Chinese Physics Olympiad, 2018
