@@ -17,7 +17,7 @@ sitemap: true
 
 
 
-I am a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), and [Prof. Tianmin Shu](https://www.tshu.io/). Currently, I am a senior student in Honors Computer Science and Mathematics at NYU Courant, where I'm fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/).
+Hi, I am an undergraduate student majoring in Honors Computer Science and Mathematics at NYU Courant. During my undergraduate, I've had the privilege of working with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/). Currently I am also a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
 
 I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about:
 
