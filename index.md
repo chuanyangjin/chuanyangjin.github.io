@@ -20,7 +20,7 @@ I am a senior student in Honors Computer Science and Mathematics at NYU Courant 
 
 <!-- I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about: -->
 
-My research interests are focused on:
+Within Natural Language Processing and Computer Vision, I am particularly interested in:
 
 + **Foundation Models**: enhance the robustness, truthfulness, and instruction-adherence of foundation models through diverse experiences (e.g., data instances, structured knowledge, embodied experiences).
 
