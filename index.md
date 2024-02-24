@@ -18,7 +18,9 @@ sitemap: true
 
 I am a senior student in Honors Computer Science and Mathematics at NYU Courant with GPA ranking 1/375. During my undergraduate, I've had the privilege of working with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/). Currently I am also a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
 
-I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about:
+<!-- I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about: -->
+
+My research interests are focused on:
 
 + **Foundation Models**: enhance the robustness, truthfulness, and instruction-adherence of foundation models through diverse experiences (e.g., data instances, structured knowledge, embodied experiences).
 
