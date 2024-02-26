@@ -77,7 +77,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
     <a href="http://virtual-home.org/release/MMToMQA/benchmark.zip">benchmark</a> /
-    <a href="https://twitter.com/MIT_CSAIL/status/1750925830937604386">MIT blog</a>
+    <a href="https://twitter.com/MIT_CSAIL/status/1750925830937604386">tweet </a>
   </div>
 </div>
 
