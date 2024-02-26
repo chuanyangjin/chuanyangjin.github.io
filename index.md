@@ -251,6 +251,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 - NYU Computer Science Prize for the Most Promising Junior Student (1 person/year), 2023
 - NeurIPS Student Travel Award, 2023
+- Dean's Undergraduate Research Fund ($3,000), 2022, 2023
 - COMAP Scholarship ($10,000), 2022
 - MAA Award in Mathematical Contest in Modeling, 2022
 - Distinguished Honor Roll of American Mathematics Contest, 2020
