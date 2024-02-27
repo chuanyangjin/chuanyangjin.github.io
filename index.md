@@ -122,6 +122,9 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
 </div>
 
+
+## Projects
+
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
     <img src="/assets/img/publications/ClipCap.png" alt="publication teaser" width="100%" />
@@ -133,19 +136,6 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://arxiv.org/abs/2306.15111">paper</a>
   </div>
 </div>
-
-<!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
-    <img src="/assets/img/publications/simvp.png" alt="publication teaser" width="100%" />
-  </div>
-  <div style="margin-left: 270px;">
-    <b>Efficient Video Prediction and Segmentation with Sparse Labeled Data</b><br>
-    <a href="https://www.linkedin.com/in/peiqi-liu-2a40901b6/">Peiqi Liu</a>,
-    <b>Chuanyang Jin</b>,
-    <a href="https://samzhong0702.github.io/">Samuel Zhong</a><br>
-    <i>Under Review</i><br>
-  </div>
-</div> -->
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
@@ -161,12 +151,6 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://arxiv.org/abs/2308.14242">paper</a>
   </div>
 </div>
-
-
-
-
-## Projects
-
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
     <img src="/assets/img/projects/fast_DiT.png" alt="publication teaser" width="100%" />
@@ -214,7 +198,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   <div style="margin-left: 270px;">
     <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
     Top 1 Course Project in CSCI-GA 2565 Machine Learning (Grad-level)<br>
-    <a href="/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> / 
+    <!-- <a href="/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> /  -->
     <a href="/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">slides</a> / 
     <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">code</a>
   </div>
