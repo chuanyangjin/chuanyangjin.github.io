@@ -14,7 +14,7 @@ I am from [Nanjing](https://en.wikipedia.org/wiki/Nanjing), China.
 
 My personality type is INFJ. I’m a [Ravenclaw](https://www.wizardingworld.com/collections/ravenclaw).
 
-I have watched over 1,000 movies. I enjoy Mystery and Sci-Fi, and have also studied Cinema Novo.
+I have watched over 1,000 movies. I enjoy Drama, Mystery and Sci-Fi, and have also studied Cinema Novo.
 <!-- My favourite director is [Christopher Nolan](https://www.imdb.com/name/nm0634240/). -->
 
 Some piano pieces I love to play: Moonlight Sonata, Flower Dance, and Croatian Rhapsody.
