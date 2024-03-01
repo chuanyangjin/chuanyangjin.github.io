@@ -71,7 +71,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
-    <i>Under Review</i> <br>
+    <i>ArXiv 2024</i> <br>
     A short version presented at <a href="https://sites.google.com/view/fmdm-neurips23/">NeurIPS'23 FMDM Workshop</a>. <br>
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
@@ -118,7 +118,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://he-group.uchicago.edu/">Chuan He</a>, 
     <a href="https://cims.nyu.edu/~regev/">Oded Regev</a>, 
     <a href="https://feilab.uchicago.edu/group.html">Jingyi Fei</a><br>
-    <i>Under Review</i><br>
+    <i>BioRxiv 2024</i><br>
+    <a href="https://www.biorxiv.org/content/10.1101/2024.02.29.581881v1">paper</a>
   </div>
 </div>
 
@@ -147,7 +148,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang*</a>, 
     <a href="https://www.tshu.io/">Tianmin Shu</a>,
     <a href="https://zhihan-cui.weebly.com/">Zhihan Cui</a><br>
-    <i>Under Review</i><br>
+    <i>ArXiv 2023</i><br>
     <a href="https://arxiv.org/abs/2308.14242">paper</a>
   </div>
 </div>
