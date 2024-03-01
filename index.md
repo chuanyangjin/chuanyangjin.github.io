@@ -97,7 +97,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     Oral Presentation at AAAI Summer Symposium, 2023. <br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /
     <a href="https://www.tshu.io/nested_reasoning/">project</a> /
-     <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a> /
+    <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
+    <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a> /
     <a href="https://www.tshu.io/nested_reasoning/Nested_Reasoning_Supplementary.pdf">supp</a>
   </div>
 </div>
@@ -110,7 +111,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <b>Dynamics of RNA Localization to Nuclear Speckles are Connected to Splicing Efficiency</b><br>
     <a href="https://feilab.uchicago.edu/group.html">Jinjun Wu*</a>,
     <a href="https://feilab.uchicago.edu/group.html">Yu Xiao*</a>, 
-    <a href="https://feilab.uchicago.edu/group.html">Yunzheng Liu</a>,
+    <a href="https://feilab.uchicago.edu/group.html">Yunzheng Liu*</a>,
     <a href="https://feilab.uchicago.edu/group.html">Li Wen</a>, 
     <b>Chuanyang Jin</b>,
     <a href="https://scholar.google.com/citations?user=zwZ8k9gAAAAJ&hl=zh-CN">Shun Liu</a>, 
@@ -157,11 +158,11 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <img src="/assets/img/projects/fast_DiT.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>Optimization of Diffusion Transformers</b><br>
-    <em>SOTA diffusion models with 2x speedup, 400+ GitHub Stars.</em><br>
+    <b>Fast Diffusion Transformers</b><br>
+    <em>DiT models with 2x speedup and 60% less memory, 400+ GitHub Stars.</em><br>
     Advised by <a href="https://www.sainingxie.com/">Prof. Saining Xie</a>. <br>
-    <a href="https://github.com/chuanyangjin/fast-DiT">project</a> / 
-    <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a>
+    <a href="https://github.com/chuanyangjin/fast-DiT">project</a>
+    <!-- <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a> -->
   </div>
 </div>
 
