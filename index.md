@@ -46,7 +46,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 
 ## News
-+ [Jan, 2024] Release the [project](/mmtom-qa) and [code](https://github.com/chuanyangjin/MMToM-QA) of MMToM-QA. Also check its [tweet thread](https://twitter.com/MIT_CSAIL/status/1750925830937604386) in 1min.
++ [Jan, 2024] Release the [project](/mmtom-qa) and [code](https://github.com/chuanyangjin/MMToM-QA) of MMToM-QA. 
+<!-- Also check its [tweet thread](https://twitter.com/MIT_CSAIL/status/1750925830937604386) in 1min. -->
 + [Dec, 2023] I'm attending NeurIPS 2023. Feel free to reach out if you'd like to have a chat!
 + [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023
 + [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
@@ -94,7 +95,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>AAAI 2024</i> <br>
-    Oral Presentation at AAAI Summer Symposium, 2023. <br>
+    Oral Presentation at AAAI Summer Symposium 2023. <br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /
     <a href="https://www.tshu.io/nested_reasoning/">project</a> /
     <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
@@ -160,7 +161,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   <div style="margin-left: 270px;">
     <b>Fast Diffusion Transformers</b><br>
     <em>DiT models with 2x speedup and 60% less memory, 400+ GitHub Stars.</em><br>
-    Advised by <a href="https://www.sainingxie.com/">Prof. Saining Xie</a>. <br>
+    <!-- Advised by <a href="https://www.sainingxie.com/">Prof. Saining Xie</a>. <br> -->
     <a href="https://github.com/chuanyangjin/fast-DiT">project</a>
     <!-- <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a> -->
   </div>
