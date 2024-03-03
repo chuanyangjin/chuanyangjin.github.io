@@ -240,7 +240,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 - NeurIPS Student Travel Award, 2023
 - Dean's Undergraduate Research Fund ($5,000), 2023
 - COMAP Scholarship ($10,000), 2022
-- MAA Award in Mathematical Contest in Modeling (Top 0.02%), 2022
+- MAA Award in Mathematical Contest in Modeling (Top 0.1%), 2022
 - Distinguished Honor Roll of American Mathematics Contest (Top 1%), 2020
 - Bronze Medal of Shing-Tung Yau Computer Science Award ($10,000), 2019
 - Finalist of FIRST Robotics Competition World Championship (Top 0.2%), 2019
