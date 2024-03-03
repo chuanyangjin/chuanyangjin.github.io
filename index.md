@@ -238,14 +238,14 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 - NYU Computer Science Prize for the Most Promising Junior Student (1 person/year), 2023
 - NeurIPS Student Travel Award, 2023
-- Dean's Undergraduate Research Fund ($3,000), 2022, 2023
+- Dean's Undergraduate Research Fund ($5,000), 2023
 - COMAP Scholarship ($10,000), 2022
-- MAA Award in Mathematical Contest in Modeling, 2022
-- Distinguished Honor Roll of American Mathematics Contest, 2020
+- MAA Award in Mathematical Contest in Modeling (Top 0.02%), 2022
+- Distinguished Honor Roll of American Mathematics Contest (Top 1%), 2020
 - Bronze Medal of Shing-Tung Yau Computer Science Award ($10,000), 2019
-- Finalist of FIRST Robotics Competition World Championship, 2019
-- Champion of International Regions Mathematics League, 2018
-- First Prize of Chinese Mathematical Olympiad, 2018
+- Finalist of FIRST Robotics Competition World Championship (Top 0.2%), 2019
+<!-- - Champion of International Regions Mathematics League, 2018 -->
+- First Prize of Chinese Mathematical Olympiad (Top 0.1%), 2018
 
 <!-- ### Course Projects
 
