@@ -239,7 +239,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 <!-- <button onclick="showMoreProjects()">see more projects</button> -->
 <!-- <button id="moreProjectsBtn" onclick="showMoreProjects()">see more projects</button> -->
 
-<a href="javascript:void(0)" id="moreProjectsBtn" onclick="showMoreProjects()" style="text-decoration: none;">see more projects</a>
+<a href="javascript:void(0)" id="moreProjectsBtn" onclick="showMoreProjects()">[Show more projects]</a>
 
 <script>
 function showMoreProjects() {
