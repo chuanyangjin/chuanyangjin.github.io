@@ -236,11 +236,15 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
 </div>
 
-<button onclick="showMoreProjects()">see more projects</button>
+<!-- <button onclick="showMoreProjects()">see more projects</button> -->
+<!-- <button id="moreProjectsBtn" onclick="showMoreProjects()">see more projects</button> -->
+
+<a href="javascript:void(0)" id="moreProjectsBtn" onclick="showMoreProjects()" style="text-decoration: none; color: blue;">see more projects</a>
 
 <script>
 function showMoreProjects() {
   document.getElementById("moreProjects").style.display = "block";
+  document.getElementById("moreProjectsBtn").style.display = "none";
 }
 </script>
 
