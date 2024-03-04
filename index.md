@@ -167,72 +167,82 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
 </div>
 
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/AutoCorp.png" alt="publication teaser" width="100%" />
+<div id="moreProjects" style="display:none;">
+  <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+    <div style="float: left; width: 250px;">
+      <img src="/assets/img/projects/AutoCorp.png" alt="publication teaser" width="100%" />
+    </div>
+    <div style="margin-left: 270px;">
+      <b>AutoCorp: A Fully Autonomous Company</b><br>
+      <em>LLM-driven autonomous company, 100K+ Twitter views.</em><br>
+      NYC GPT/LLM Hackathon 2023<br>
+      <a href="/autocorp">project</a> / 
+      <a href="https://twitter.com/minafahmi_/status/1650861037737091083">tweet</a> / 
+      <a href="https://github.com/Czechh/chatdtc">code</a>
+    </div>
   </div>
-  <div style="margin-left: 270px;">
-    <b>AutoCorp: A Fully Autonomous Company</b><br>
-    <em>LLM-driven autonomous company, 100K+ Twitter views.</em><br>
-    NYC GPT/LLM Hackathon 2023<br>
-    <a href="/autocorp">project</a> / 
-    <a href="https://twitter.com/minafahmi_/status/1650861037737091083">tweet</a> / 
-    <a href="https://github.com/Czechh/chatdtc">code</a>
+
+  <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+    <div style="float: left; width: 250px;">
+      <img src="/assets/img/projects/Em.png" alt="publication teaser" width="100%" />
+    </div>
+    <div style="margin-left: 270px;">
+      <b>Social Platform for Recording and Sharing Emotions</b><br>
+      <em>We help you out of loneliness. You have the world's resonance.</em><br>
+      HackNYU 2022<br>
+      <a href="https://devpost.com/software/em-k3gf5b">project</a> / 
+      <a href="https://github.com/chuanyangjin/em">code</a>
+    </div>
+  </div>
+
+  <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+    <div style="float: left; width: 250px;">
+      <img src="/assets/img/projects/class_embedding_diffusion.png" alt="publication teaser" width="100%" />
+    </div>
+    <div style="margin-left: 270px;">
+      <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
+      Top 1 Course Project in CSCI-GA 2565 Machine Learning (Grad-level)<br>
+      <!-- <a href="/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> /  -->
+      <a href="/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">slides</a> / 
+      <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">code</a>
+    </div>
+  </div>
+
+  <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+    <div style="float: left; width: 250px;">
+      <img src="/assets/img/projects/asteroid_mining.png" alt="publication teaser" width="100%" />
+    </div>
+    <div style="margin-left: 270px;">
+      <b>Promoting Global Equity through Asteroid Mining</b><br>
+      Finalist, MAA Award, <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> (Top 4/27205, $10,000),<br>
+      Interdisciplinary Contest in Modeling 2022<br>
+      <a href="/assets/reports/ICM_Report.pdf">report</a>
+    </div>
+  </div>
+
+  <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+    <div style="float: left; width: 250px;">
+      <img src="/assets/img/projects/gene_mutation_system.png" alt="publication teaser" width="100%" />
+    </div>
+    <div style="margin-left: 270px;">
+      <b>Gene Mutation Detection System</b><br>
+      <em>Our system was adopted by leading hospitals.</em><br>
+      <a href="http://www.yau-awards.com/lists-winnerslist.html">Bronze Medal</a> (Top 3/500, $10,000),<br>
+      Shing-Tung Yau Computer Science Award 2019<br>
+      <a href="https://drive.google.com/file/d/1Zdp33tiYmoppAdzMCOH_P44jzu6V9yW-/view?usp=sharing">demo</a> / 
+      <a href="https://oss.linstitute.net/wechatimg/2019/12/qiuchengtong2019combronze3.pdf">report</a> /
+      <a href="/assets/slides/Yau_Gene_Mutation_Detection.pdf">slides</a>
+    </div>
   </div>
 </div>
 
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/Em.png" alt="publication teaser" width="100%" />
-  </div>
-  <div style="margin-left: 270px;">
-    <b>Social Platform for Recording and Sharing Emotions</b><br>
-    <em>We help you out of loneliness. You have the world's resonance.</em><br>
-    HackNYU 2022<br>
-    <a href="https://devpost.com/software/em-k3gf5b">project</a> / 
-    <a href="https://github.com/chuanyangjin/em">code</a>
-  </div>
-</div>
+<button onclick="showMoreProjects()">see more projects</button>
 
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/class_embedding_diffusion.png" alt="publication teaser" width="100%" />
-  </div>
-  <div style="margin-left: 270px;">
-    <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
-    Top 1 Course Project in CSCI-GA 2565 Machine Learning (Grad-level)<br>
-    <!-- <a href="/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> /  -->
-    <a href="/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">slides</a> / 
-    <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">code</a>
-  </div>
-</div>
-
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/asteroid_mining.png" alt="publication teaser" width="100%" />
-  </div>
-  <div style="margin-left: 270px;">
-    <b>Promoting Global Equity through Asteroid Mining</b><br>
-    Finalist, MAA Award, <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> (Top 4/27205, $10,000),<br>
-    Interdisciplinary Contest in Modeling 2022<br>
-    <a href="/assets/reports/ICM_Report.pdf">report</a>
-  </div>
-</div>
-
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/gene_mutation_system.png" alt="publication teaser" width="100%" />
-  </div>
-  <div style="margin-left: 270px;">
-    <b>Gene Mutation Detection System</b><br>
-    <em>Our system was adopted by leading hospitals.</em><br>
-    <a href="http://www.yau-awards.com/lists-winnerslist.html">Bronze Medal</a> (Top 3/500, $10,000),<br>
-    Shing-Tung Yau Computer Science Award 2019<br>
-    <a href="https://drive.google.com/file/d/1Zdp33tiYmoppAdzMCOH_P44jzu6V9yW-/view?usp=sharing">demo</a> / 
-    <a href="https://oss.linstitute.net/wechatimg/2019/12/qiuchengtong2019combronze3.pdf">report</a> /
-    <a href="/assets/slides/Yau_Gene_Mutation_Detection.pdf">slides</a>
-  </div>
-</div>
+<script>
+function showMoreProjects() {
+  document.getElementById("moreProjects").style.display = "block";
+}
+</script>
 
 ## Selected Honors & Awards
 
