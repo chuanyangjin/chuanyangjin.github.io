@@ -195,7 +195,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     </div>
   </div>
 
-  <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+  <!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
     <div style="float: left; width: 250px;">
       <img src="/assets/img/projects/class_embedding_diffusion.png" alt="publication teaser" width="100%" />
     </div>
@@ -206,7 +206,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
       <a href="/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">slides</a> / 
       <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">code</a>
     </div>
-  </div>
+  </div> -->
 
   <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
     <div style="float: left; width: 250px;">
