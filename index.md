@@ -202,7 +202,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <div style="margin-left: 270px;">
       <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
       Top 1 Course Project in CSCI-GA 2565 Machine Learning (Grad-level)<br>
-      <!-- <a href="/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> /  -->
+      <a href="/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> /
       <a href="/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">slides</a> / 
       <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">code</a>
     </div>
@@ -214,7 +214,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     </div>
     <div style="margin-left: 270px;">
       <b>Promoting Global Equity through Asteroid Mining</b><br>
-      MAA Award (Top 5/27205) and <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> ($10,000),<br>
+      <em>“Do not go gentle into that good night.”</em><br>
+      MAA Award (Top 5/27205) and <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> (Top 4/27205, $10,000),<br>
       Mathematical Contest in Modeling 2022<br>
       <a href="/assets/reports/ICM_Report.pdf">report</a>
     </div>
