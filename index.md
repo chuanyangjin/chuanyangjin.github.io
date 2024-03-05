@@ -215,7 +215,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <div style="margin-left: 270px;">
       <b>Promoting Global Equity through Asteroid Mining</b><br>
       <em>“Do not go gentle into that good night.”</em><br>
-      MAA Award (Top 5/27205) and <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> (Top 4/27205, $10,000),<br>
+      MAA Award (Top 5/27205) and <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> ($10,000),<br>
       Mathematical Contest in Modeling 2022<br>
       <a href="/assets/reports/ICM_Report.pdf">report</a>
     </div>
