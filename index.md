@@ -130,13 +130,13 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/publications/ClipCap.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/projects/fast_DiT.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>Self-Supervised Image Captioning with CLIP</b><br>
-    <b>Chuanyang Jin</b><br>
-    <i>NeurIPS Self-Supervised Learning Workshop 2023</i><br>
-    <a href="https://arxiv.org/abs/2306.15111">paper</a>
+    <b>Fast Diffusion Transformers</b><br>
+    <em>DiT models with 2x speedup and 60% less memory, 400+ GitHub Stars.</em><br>
+    <!-- Advised by <a href="https://www.sainingxie.com/">Prof. Saining Xie</a>. <br> -->
+    <a href="https://github.com/chuanyangjin/fast-DiT">project</a>
   </div>
 </div>
 
@@ -154,16 +154,16 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://arxiv.org/abs/2308.14242">paper</a>
   </div>
 </div>
+
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/fast_DiT.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/publications/ClipCap.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>Fast Diffusion Transformers</b><br>
-    <em>DiT models with 2x speedup and 60% less memory, 400+ GitHub Stars.</em><br>
-    <!-- Advised by <a href="https://www.sainingxie.com/">Prof. Saining Xie</a>. <br> -->
-    <a href="https://github.com/chuanyangjin/fast-DiT">project</a>
-    <!-- <a href="/assets/reports/Optimizing_Diffusion_Transformers.pdf">report</a> -->
+    <b>Self-Supervised Image Captioning with CLIP</b><br>
+    <b>Chuanyang Jin</b><br>
+    <i>NeurIPS Self-Supervised Learning Workshop 2023</i><br>
+    <a href="https://arxiv.org/abs/2306.15111">paper</a>
   </div>
 </div>
 
