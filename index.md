@@ -228,7 +228,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <div style="margin-left: 270px;">
       <b>Gene Mutation Detection System</b><br>
       <em>Our system was adopted by leading hospitals.</em><br>
-      <a href="http://www.yau-awards.com/lists-winnerslist.html">Bronze Medal</a> (Top 3/500, $10,000),<br>
+      <a href="http://www.yau-awards.com/lists-winnerslist.html">Bronze Medal</a> (Top 5/500, $10,000),<br>
       Shing-Tung Yau Computer Science Award 2019<br>
       <a href="https://drive.google.com/file/d/1Zdp33tiYmoppAdzMCOH_P44jzu6V9yW-/view?usp=sharing">demo</a> / 
       <a href="https://oss.linstitute.net/wechatimg/2019/12/qiuchengtong2019combronze3.pdf">report</a> /
@@ -236,9 +236,6 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     </div>
   </div>
 </div>
-
-<!-- <button onclick="showMoreProjects()">see more projects</button> -->
-<!-- <button id="moreProjectsBtn" onclick="showMoreProjects()">see more projects</button> -->
 
 <a href="javascript:void(0)" id="moreProjectsBtn" onclick="showMoreProjects()"> &#9658; Show more projects</a>
 
@@ -252,7 +249,6 @@ function showMoreProjects() {
 ## Selected Honors & Awards
 
 - NYU Computer Science Prize for the Most Promising Junior Student (1 person/year), 2023
-<!-- - NeurIPS Student Travel Award, 2023 -->
 - Dean's Undergraduate Research Fund ($5,000), 2023
 - COMAP Scholarship ($10,000), 2022
 - MAA Award in Mathematical Contest in Modeling (Top 0.1%), 2022
