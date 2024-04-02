@@ -134,7 +134,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <b>Fast Diffusion Transformers</b><br>
-    <em>DiT models with 2x speedup and 60% less memory, 400+ GitHub Stars.</em><br>
+    <em>DiT models with 2x speedup and 60% less memory, 500+ GitHub Stars.</em><br>
     <!-- Advised by <a href="https://www.sainingxie.com/">Prof. Saining Xie</a>. <br> -->
     <a href="https://github.com/chuanyangjin/fast-DiT">project</a>
   </div>
