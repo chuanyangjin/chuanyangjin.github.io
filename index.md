@@ -54,8 +54,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <img src="/assets/img/publications/agi_survey.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <!-- <b>How Far Are We From AGI?</b><br> -->
-    <span style="font-size: 20px;"><b>How Far Are We From AGI?</b></span><br>
+    <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
     <a href="https://github.com/ft2023">Tao Feng*</a>,
     <b>Chuanyang Jin*</b>,
     <a href="https://jingyu6.github.io/">Jingyu Liu*</a>,
@@ -76,7 +75,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <img src="/assets/img/publications/MMToM.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>MMToM-QA: Multimodal Theory of Mind Question Answering</b><br>
+    <span style="font-size: 18px;"><b>MMToM-QA: Multimodal Theory of Mind Question Answering</b></span><br>
     <b>Chuanyang Jin</b>,
     <a href="https://www.linkedin.com/in/yutong-wu-a5a575209/">Yutong Wu</a>,
     <a href="https://www.linkedin.com/in/jingcao26/">Jing Cao</a>,
@@ -101,7 +100,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <img src="/assets/img/publications/nested_reasoning.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>Neural Amortized Inference for Nested Multi-agent Reasoning</b><br>
+    <span style="font-size: 18px;"><b>Neural Amortized Inference for Nested Multi-agent Reasoning</b></span><br>
     <a href="https://www.linkedin.com/in/kunal-jha-5728b8182/">Kunal Jha</a>, 
     <a href="https://www.tuananhle.co.uk/">Tuan Anh Le</a>, 
     <b>Chuanyang Jin</b>, 
@@ -114,7 +113,6 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://www.tshu.io/nested_reasoning/">project</a> /
     <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
     <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
-    <!-- <a href="https://www.tshu.io/nested_reasoning/Nested_Reasoning_Supplementary.pdf">supp</a> -->
   </div>
 </div>
 
@@ -123,7 +121,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <img src="/assets/img/publications/nuclear.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>Dynamics of RNA Localization to Nuclear Speckles are Connected to Splicing Efficiency</b><br>
+    <span style="font-size: 18px;"><b>Dynamics of RNA Localization to Nuclear Speckles are Connected to Splicing Efficiency</b></span><br>
     <a href="https://feilab.uchicago.edu/group.html">Jinjun Wu*</a>,
     <a href="https://feilab.uchicago.edu/group.html">Yu Xiao*</a>, 
     <a href="https://feilab.uchicago.edu/group.html">Yunzheng Liu*</a>,
