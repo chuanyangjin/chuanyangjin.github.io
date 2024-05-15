@@ -19,7 +19,9 @@ I have watched over 1,000 movies. I enjoy Drama, Mystery and Sci-Fi, and have al
 
 I'm a pianist of amateur level 10. Some pieces I love to play: Moonlight Sonata, Flower Dance, and Croatian Rhapsody.
 
----
+I love cats!
+
+<!-- ---
 
 Here are some of my notes:
 
@@ -27,4 +29,4 @@ Here are some of my notes:
 
 + [Paper Reading Notes](https://github.com/chuanyangjin/Paper-Reading)
 
-+ [Practicing AI + Biology Research](https://chuanyangjin.github.io/AIbio)
++ [Practicing AI + Biology Research](https://chuanyangjin.github.io/AIbio) -->

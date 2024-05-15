@@ -145,7 +145,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <img src="/assets/img/projects/fast_dit.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>Fast Diffusion Transformers</b><br>
+    <span style="font-size: 18px;"><b>Fast Diffusion Transformers</b></span><br>
     <em>DiT models with 2x speedup and 60% less memory, 500+ GitHub Stars.</em><br>
     <!-- Advised by <a href="https://www.sainingxie.com/">Prof. Saining Xie</a>. <br> -->
     <a href="https://github.com/chuanyangjin/fast-DiT">project</a>
@@ -157,7 +157,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <img src="/assets/img/projects/holistic_gpt.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b><br>
+    <span style="font-size: 18px;"><b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b></span><br>
     <b>Chuanyang Jin*</b>, 
     <a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang*</a>, 
     <a href="https://www.tshu.io/">Tianmin Shu</a>,
@@ -171,7 +171,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <img src="/assets/img/projects/clipcap.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>Self-Supervised Image Captioning with CLIP</b><br>
+    <span style="font-size: 18px;"><b>Self-Supervised Image Captioning with CLIP</b></span><br>
     <b>Chuanyang Jin</b><br>
     <i>NeurIPS Self-Supervised Learning Workshop 2023</i><br>
     <a href="https://arxiv.org/abs/2306.15111">paper</a>
@@ -184,7 +184,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
       <img src="/assets/img/projects/autocorp.png" alt="publication teaser" width="100%" />
     </div>
     <div style="margin-left: 270px;">
-      <b>AutoCorp: A Fully Autonomous Company</b><br>
+      <span style="font-size: 18px;"><b>AutoCorp: A Fully Autonomous Company</b></span><br>
       <em>LLM-driven autonomous company, 100K+ Twitter views.</em><br>
       NYC GPT/LLM Hackathon 2023<br>
       <a href="/autocorp">project</a> / 
@@ -198,7 +198,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
       <img src="/assets/img/projects/em.png" alt="publication teaser" width="100%" />
     </div>
     <div style="margin-left: 270px;">
-      <b>Social Platform for Recording and Sharing Emotions</b><br>
+      <span style="font-size: 18px;"><b>Social Platform for Recording and Sharing Emotions</b></span><br>
       <em>We help you out of loneliness. You have the world's resonance.</em><br>
       HackNYU 2022<br>
       <a href="https://devpost.com/software/em-k3gf5b">project</a> / 
@@ -211,7 +211,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
       <img src="/assets/img/projects/asteroid_mining.png" alt="publication teaser" width="100%" />
     </div>
     <div style="margin-left: 270px;">
-      <b>Promoting Global Equity through Asteroid Mining</b><br>
+      <span style="font-size: 18px;"><b>Asteroid Mining and the Promise of Global Prosperity</b></span><br>
       <em>“Do not go gentle into that good night.”</em><br>
       MAA Award (Top 5/27205) and <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> ($10,000),<br>
       Mathematical Contest in Modeling 2022<br>
@@ -224,7 +224,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
       <img src="/assets/img/projects/gene_mutation.png" alt="publication teaser" width="100%" />
     </div>
     <div style="margin-left: 270px;">
-      <b>Gene Mutation Detection System</b><br>
+      <span style="font-size: 18px;"><b>Gene Mutation Detection System</b></span><br>
       <em>Our system was adopted by leading hospitals.</em><br>
       <a href="http://www.yau-awards.com/lists-winnerslist.html">Bronze Medal</a> (Top 5/500, $10,000),<br>
       Shing-Tung Yau Computer Science Award 2019<br>
