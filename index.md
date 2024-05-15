@@ -31,18 +31,10 @@ Within Natural Language Processing and Computer Vision, I am particularly intere
 <!--
 + **Social Intelligence**: develop socially intelligent systems that master commonsense knowledge, and combine it with new knowledge and skills, so they learn efficiently and collaborate effectively with humans.
 
-+ **Decision Making in Real World**: leverage foundation models to build agents capable of *long-term* decision making through effective planning, reasoning, managing memory, and learning from real-world feedback.
-
-+ **Generative intelligence**: design generative models that assist humans in the effortless creation of visual data (e.g., images, videos, 3D data, and multimodal data).
-
 I'm also fascinated by diffusion models, representation learning, and AI for science.
-
-<span data-nosnippet> prevent certain parts from being displayed in the snippet in Google's search results </span>
 --> 
 
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 16,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, hiking and so much more.
-
-<!-- Here is my [CV](/assets/Chuanyang_CV.pdf) (Last update: Dec 2023). -->
 
 
 ## News
@@ -52,7 +44,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 + [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023
 + [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
-+ [Apr, 2023] Received [NYU Computer Science Prize](/assets/Computer_Science_Prize.pdf) as the top 1 out of 375 students
++ [Apr, 2023] Received [NYU Computer Science Prize](/assets/prizes/Computer_Science_Prize.pdf) as the top 1 out of 375 students
 + [May, 2022] Received [COMAP Scholarship](https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf) as the top 4 out of 27,205 teams in MCM
 
 ## Research
@@ -99,7 +91,6 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
-    <!-- <a href="http://virtual-home.org/release/MMToMQA/benchmark.zip">benchmark</a> / -->
     <a href="https://twitter.com/MIT_CSAIL/status/1750925830937604386">tweet </a>
   </div>
 </div>
@@ -152,7 +143,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/fast_DiT.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/projects/fast_dit.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <b>Fast Diffusion Transformers</b><br>
@@ -164,7 +155,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/publications/holistic_gpt.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/projects/holistic_gpt.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b><br>
@@ -172,14 +163,13 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang*</a>, 
     <a href="https://www.tshu.io/">Tianmin Shu</a>,
     <a href="https://zhihan-cui.weebly.com/">Zhihan Cui</a><br>
-    <i>ArXiv 2023</i><br>
     <a href="https://arxiv.org/abs/2308.14242">paper</a>
   </div>
 </div>
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/publications/clip_cap.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/projects/clipcap.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <b>Self-Supervised Image Captioning with CLIP</b><br>
@@ -192,7 +182,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 <div id="moreProjects" style="display:none;">
   <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
     <div style="float: left; width: 250px;">
-      <img src="/assets/img/projects/AutoCorp.png" alt="publication teaser" width="100%" />
+      <img src="/assets/img/projects/autocorp.png" alt="publication teaser" width="100%" />
     </div>
     <div style="margin-left: 270px;">
       <b>AutoCorp: A Fully Autonomous Company</b><br>
@@ -216,19 +206,6 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
       <a href="https://github.com/chuanyangjin/em">code</a>
     </div>
   </div>
-
-  <!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-    <div style="float: left; width: 250px;">
-      <img src="/assets/img/projects/class_embedding_diffusion.png" alt="publication teaser" width="100%" />
-    </div>
-    <div style="margin-left: 270px;">
-      <b>Class Embedding Patterns in Classifier-Free Diffusion</b><br>
-      Top 1 Course Project in CSCI-GA 2565 Machine Learning (Grad-level)<br>
-      <a href="/assets/reports/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">report</a> /
-      <a href="/assets/slides/Class_Embedding_Patterns_in_Classifier-Free_Diffusion.pdf">slides</a> / 
-      <a href="https://github.com/chuanyangjin/DDPM-with-Class-Embeddings">code</a>
-    </div>
-  </div> -->
 
   <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
     <div style="float: left; width: 250px;">
