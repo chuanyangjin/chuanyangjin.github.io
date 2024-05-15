@@ -56,7 +56,6 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 + [May, 2022] Received [COMAP Scholarship](https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf) as the top 4 out of 27,205 teams in MCM
 
 ## Research
-agi_survey.png
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
@@ -122,8 +121,8 @@ agi_survey.png
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /
     <a href="https://www.tshu.io/nested_reasoning/">project</a> /
     <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
-    <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a> /
-    <a href="https://www.tshu.io/nested_reasoning/Nested_Reasoning_Supplementary.pdf">supp</a>
+    <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
+    <!-- <a href="https://www.tshu.io/nested_reasoning/Nested_Reasoning_Supplementary.pdf">supp</a> -->
   </div>
 </div>
 
@@ -180,7 +179,7 @@ agi_survey.png
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/publications/clipcap.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/publications/clip_cap.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <b>Self-Supervised Image Captioning with CLIP</b><br>
