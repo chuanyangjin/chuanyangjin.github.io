@@ -245,7 +245,7 @@ function showMoreProjects() {
 </script>
 
 ## Selected Honors & Awards
-
+- NYU Presidential Honors Scholar and Summa cum Laude (Top 5%), 2024
 - NYU Computer Science Prize for the Most Promising Junior Student (1 person/year), 2023
 - Dean's Undergraduate Research Fund ($5,000), 2023
 - COMAP Scholarship ($10,000), 2022
@@ -255,19 +255,3 @@ function showMoreProjects() {
 - Finalist of FIRST Robotics Competition World Championship (Top 0.2%), 2019
 <!-- - Champion of International Regions Mathematics League, 2018 -->
 - First Prize of Chinese Mathematical Olympiad (Top 0.1%), 2018
-
-<!-- ### Course Projects
-
-+ [Energy-Based Models for Structured Prediction](https://github.com/chuanyangjin/NYU-Course-Projects/blob/master/Energy-Based%20Models%20for%20Structured%20Prediction/Energy-Based%20Models%20for%20Structured%20Prediction.ipynb)
-
-+ [File Recovery Tool](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/FAT32%20File%20Recovery%20Tool)
-
-+ [Parallel Data Encoding](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Parallel%20Data%20Encoding)
-
-+ [German-English Translator](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Transformer-based%20German-English%20Translator)
-
-+ [Unix Shell Implementation](https://github.com/chuanyangjin/NYU-Course-Projects/tree/master/Unix%20Shell%20Implementation)
-
-+ [YOLO Object Detection](https://github.com/chuanyangjin/NYU-Course-Projects/blob/master/YOLO%20Object%20Detection/YOLO%20Object%20Detection.ipynb)
-
-And [many more](https://github.com/chuanyangjin/NYU-Course-Projects)! -->
