@@ -60,7 +60,7 @@ agi_survey.png
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/publications/agi-survey.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/publications/agi_survey.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <b>How Far Are We From AGI?</b><br>
@@ -100,7 +100,7 @@ agi_survey.png
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
-    <a href="http://virtual-home.org/release/MMToMQA/benchmark.zip">benchmark</a> /
+    <!-- <a href="http://virtual-home.org/release/MMToMQA/benchmark.zip">benchmark</a> / -->
     <a href="https://twitter.com/MIT_CSAIL/status/1750925830937604386">tweet </a>
   </div>
 </div>
@@ -180,7 +180,7 @@ agi_survey.png
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/publications/ClipCap.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/publications/clipcap.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <b>Self-Supervised Image Captioning with CLIP</b><br>
