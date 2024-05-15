@@ -222,7 +222,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
   <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
     <div style="float: left; width: 250px;">
-      <img src="/assets/img/projects/gene_mutation_system.png" alt="publication teaser" width="100%" />
+      <img src="/assets/img/projects/gene_mutation.png" alt="publication teaser" width="100%" />
     </div>
     <div style="margin-left: 270px;">
       <b>Gene Mutation Detection System</b><br>
