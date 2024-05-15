@@ -65,7 +65,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://cs.stanford.edu/people/jiaxuan/">Jiaxuan You</a><br>
     <i>ArXiv 2024</i> <br>
     <a href="https://agiworkshop.github.io/files/How_far_are_we_from_AGI_preprint.pdf">paper</a> /
-    <a href="https://github.com/ulab-uiuc/AGI-survey">code</a> /
+    <a href="https://github.com/ulab-uiuc/AGI-survey">project</a> /
     <a href="https://agiworkshop.github.io/">workshop</a>
   </div>
 </div>
@@ -91,7 +91,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
-    <a href="https://twitter.com/MIT_CSAIL/status/1750925830937604386">tweet </a>
+    <a href="https://twitter.com/MIT_CSAIL/status/1750925830937604386">twitter </a>
   </div>
 </div>
 
