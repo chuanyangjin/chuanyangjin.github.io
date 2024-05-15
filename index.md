@@ -54,7 +54,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <img src="/assets/img/publications/agi_survey.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <b>How Far Are We From AGI?</b><br>
+    <!-- <b>How Far Are We From AGI?</b><br> -->
+    <span style="font-size: 20px;"><b>How Far Are We From AGI?</b></span><br>
     <a href="https://github.com/ft2023">Tao Feng*</a>,
     <b>Chuanyang Jin*</b>,
     <a href="https://jingyu6.github.io/">Jingyu Liu*</a>,
