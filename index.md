@@ -55,7 +55,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
-    <i>Under Review 2024</i> <br>
+    Under Review 2024<br>
     <a href="https://github.com/ft2023">Tao Feng*</a>,
     <b>Chuanyang Jin*</b>,
     <a href="https://jingyu6.github.io/">Jingyu Liu*</a>,
@@ -76,7 +76,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>MMToM-QA: Multimodal Theory of Mind Question Answering</b></span><br>
-    <i>ACL 2024</i> <br>
+    ACL 2024 d<br>
     <b>Chuanyang Jin</b>,
     <a href="https://www.linkedin.com/in/yutong-wu-a5a575209/">Yutong Wu</a>,
     <a href="https://www.linkedin.com/in/jingcao26/">Jing Cao</a>,
@@ -101,7 +101,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Neural Amortized Inference for Nested Multi-agent Reasoning</b></span><br>
-    <i>AAAI 2024</i> <br>
+    AAAI 2024<br>
     <a href="https://www.linkedin.com/in/kunal-jha-5728b8182/">Kunal Jha</a>, 
     <a href="https://www.tuananhle.co.uk/">Tuan Anh Le</a>, 
     <b>Chuanyang Jin</b>, 
@@ -122,7 +122,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Dynamics of RNA Localization to Nuclear Speckles are Connected to Splicing Efficiency</b></span><br>
-    <i>Under Review 2024</i><br>
+    Under Review 2024<br>
     <a href="https://feilab.uchicago.edu/group.html">Jinjun Wu*</a>,
     <a href="https://feilab.uchicago.edu/group.html">Yu Xiao*</a>, 
     <a href="https://feilab.uchicago.edu/group.html">Yunzheng Liu*</a>,
