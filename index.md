@@ -42,8 +42,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 + [Dec, 2023] I'm attending NeurIPS 2023. Feel free to reach out if you'd like to have a chat!
 + [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
-+ [Apr, 2023] Received [NYU Computer Science Prize](/assets/prizes/Computer_Science_Prize.pdf) as the top 1 out of 375 students
-+ [May, 2022] Received [COMAP Scholarship](https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf) as the top 4 out of 27,205 teams in MCM
++ [Apr, 2023] Awarded [NYU Computer Science Prize](/assets/prizes/Computer_Science_Prize.pdf), which select one most promising junior student at NYU
+<!-- + [May, 2022] Received [COMAP Scholarship](https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf) as the top 4 out of 27,205 teams in MCM -->
 
 ## Research
 
@@ -85,7 +85,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Association for Computational Linguistics (ACL), 2024</i><br>
-    <span style="color: red;">Nominated for Outstanding Paper Award</span><br>
+    <span style="color: #8B0000;">Nominated for Outstanding Paper Award</span><br>
     <!-- A short version presented at <a href="https://sites.google.com/view/fmdm-neurips23/">NeurIPS'23 FMDM Workshop</a>. <br> -->
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
@@ -107,7 +107,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>AAAI Conference on Artificial Intelligence (AAAI), 2024</i><br>
-    <span style="color: red;">Oral Presentation at AAAI Summer Symposium</span><br>
+    <span style="color: #8B4513;">Oral Presentation at AAAI Summer Symposium</span><br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /
     <a href="https://www.tshu.io/nested_reasoning/">project</a> /
     <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
