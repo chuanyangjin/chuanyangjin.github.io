@@ -55,7 +55,6 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
-    Under Review 2024<br>
     <a href="https://github.com/ft2023">Tao Feng*</a>,
     <b>Chuanyang Jin*</b>,
     <a href="https://jingyu6.github.io/">Jingyu Liu*</a>,
@@ -64,6 +63,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://www.linkedin.com/in/zirui-cheng-044024284/">Zirui Cheng</a>,
     <a href="https://guanyu-lin.github.io/">Guanyu Lin</a>,
     <a href="https://cs.stanford.edu/people/jiaxuan/">Jiaxuan You</a><br>
+    <i>Under Review, 2024</i><br>
     <a href="https://agiworkshop.github.io/files/How_far_are_we_from_AGI_preprint.pdf">paper</a> /
     <a href="https://github.com/ulab-uiuc/AGI-survey">project</a> /
     <a href="https://agiworkshop.github.io/">workshop</a>
@@ -76,7 +76,6 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>MMToM-QA: Multimodal Theory of Mind Question Answering</b></span><br>
-    ACL 2024<br>
     <b>Chuanyang Jin</b>,
     <a href="https://www.linkedin.com/in/yutong-wu-a5a575209/">Yutong Wu</a>,
     <a href="https://www.linkedin.com/in/jingcao26/">Jing Cao</a>,
@@ -87,6 +86,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
+    <i>Association for Computational Linguistics (ACL), 2024</i><br>
+    Nominated for Outstanding Paper Award
     <!-- A short version presented at <a href="https://sites.google.com/view/fmdm-neurips23/">NeurIPS'23 FMDM Workshop</a>. <br> -->
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
@@ -101,7 +102,6 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Neural Amortized Inference for Nested Multi-agent Reasoning</b></span><br>
-    AAAI 2024<br>
     <a href="https://www.linkedin.com/in/kunal-jha-5728b8182/">Kunal Jha</a>, 
     <a href="https://www.tuananhle.co.uk/">Tuan Anh Le</a>, 
     <b>Chuanyang Jin</b>, 
@@ -112,6 +112,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://www.tshu.io/nested_reasoning/">project</a> /
     <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
     <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a><br>
+    <i>AAAI Conference on Artificial Intelligence (AAAI), 2024</i><br>
     Oral Presentation at AAAI Summer Symposium<br>
   </div>
 </div>
@@ -122,7 +123,6 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Dynamics of RNA Localization to Nuclear Speckles are Connected to Splicing Efficiency</b></span><br>
-    Under Review 2024<br>
     <a href="https://feilab.uchicago.edu/group.html">Jinjun Wu*</a>,
     <a href="https://feilab.uchicago.edu/group.html">Yu Xiao*</a>, 
     <a href="https://feilab.uchicago.edu/group.html">Yunzheng Liu*</a>,
@@ -133,6 +133,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://he-group.uchicago.edu/">Chuan He</a>, 
     <a href="https://cims.nyu.edu/~regev/">Oded Regev</a>, 
     <a href="https://feilab.uchicago.edu/group.html">Jingyi Fei</a><br>
+    <i>Under Review, 2024</i><br>
     <a href="https://www.biorxiv.org/content/10.1101/2024.02.29.581881v1">paper</a>
   </div>
 </div>
@@ -173,7 +174,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Self-Supervised Image Captioning with CLIP</b></span><br>
     <b>Chuanyang Jin</b><br>
-    <i>NeurIPS Self-Supervised Learning Workshop 2023</i><br>
+    <i>NeurIPS 2023 Workshop on Self-Supervised Learning</i><br>
     <a href="https://arxiv.org/abs/2306.15111">paper</a>
   </div>
 </div>
