@@ -76,7 +76,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>MMToM-QA: Multimodal Theory of Mind Question Answering</b></span><br>
-    ACL 2024 d<br>
+    ACL 2024<br>
     <b>Chuanyang Jin</b>,
     <a href="https://www.linkedin.com/in/yutong-wu-a5a575209/">Yutong Wu</a>,
     <a href="https://www.linkedin.com/in/jingcao26/">Jing Cao</a>,
@@ -87,7 +87,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
-    A short version presented at <a href="https://sites.google.com/view/fmdm-neurips23/">NeurIPS'23 FMDM Workshop</a>. <br>
+    <!-- A short version presented at <a href="https://sites.google.com/view/fmdm-neurips23/">NeurIPS'23 FMDM Workshop</a>. <br> -->
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
@@ -108,11 +108,11 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://yenlingkuo.com/">Yen-Ling Kuo</a>, 
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
-    Oral Presentation at AAAI Summer Symposium 2023. <br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /
     <a href="https://www.tshu.io/nested_reasoning/">project</a> /
     <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
     <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
+    Oral Presentation at AAAI Summer Symposium <br>
   </div>
 </div>
 
