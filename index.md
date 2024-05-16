@@ -111,8 +111,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /
     <a href="https://www.tshu.io/nested_reasoning/">project</a> /
     <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
-    <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a>
-    Oral Presentation at AAAI Summer Symposium <br>
+    <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a><br>
+    Oral Presentation at AAAI Summer Symposium<br>
   </div>
 </div>
 
