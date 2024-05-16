@@ -38,10 +38,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 
 ## News
-+ [Jan, 2024] Release the [project](/mmtom-qa) and [code](https://github.com/chuanyangjin/MMToM-QA) of MMToM-QA. 
-<!-- Also check its [tweet thread](https://twitter.com/MIT_CSAIL/status/1750925830937604386) in 1min. -->
++ [May, 2024] [MMToM-QA](/mmtom-qa) is accepted to ACL 2024.
 + [Dec, 2023] I'm attending NeurIPS 2023. Feel free to reach out if you'd like to have a chat!
-+ [July, 2023] Presented [our work](/assets/slides/AAAI_Nested_Reasoning.pdf) at AAAI Summer Symposium 2023
 + [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
 + [Apr, 2023] Received [NYU Computer Science Prize](/assets/prizes/Computer_Science_Prize.pdf) as the top 1 out of 375 students
@@ -87,7 +85,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <i>Association for Computational Linguistics (ACL), 2024</i><br>
-    Nominated for Outstanding Paper Award
+    <span style="color: red;">Nominated for Outstanding Paper Award</span><br>
     <!-- A short version presented at <a href="https://sites.google.com/view/fmdm-neurips23/">NeurIPS'23 FMDM Workshop</a>. <br> -->
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
@@ -102,18 +100,18 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Neural Amortized Inference for Nested Multi-agent Reasoning</b></span><br>
-    <a href="https://www.linkedin.com/in/kunal-jha-5728b8182/">Kunal Jha</a>, 
+    <a href="https://kjha02.github.io/">Kunal Jha</a>, 
     <a href="https://www.tuananhle.co.uk/">Tuan Anh Le</a>, 
     <b>Chuanyang Jin</b>, 
     <a href="https://yenlingkuo.com/">Yen-Ling Kuo</a>, 
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
+    <i>AAAI Conference on Artificial Intelligence (AAAI), 2024</i><br>
+    <span style="color: red;">Oral Presentation at AAAI Summer Symposium</span><br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /
     <a href="https://www.tshu.io/nested_reasoning/">project</a> /
     <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
     <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a><br>
-    <i>AAAI Conference on Artificial Intelligence (AAAI), 2024</i><br>
-    Oral Presentation at AAAI Summer Symposium<br>
   </div>
 </div>
 
