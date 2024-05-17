@@ -63,7 +63,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://cs.stanford.edu/people/jiaxuan/">Jiaxuan You</a><br>
     <i>Under Review, 2024</i><br>
     <span style="color: #C04000;">Position Paper for ICLR 2024 AGI Workshop</span><br>
-    <a href="https://agiworkshop.github.io/files/How_far_are_we_from_AGI_preprint.pdf">paper</a> /
+    <a href="https://arxiv.org/abs/2405.10313">paper</a> /
     <a href="https://github.com/ulab-uiuc/AGI-survey">project</a> /
     <a href="https://agiworkshop.github.io/">workshop</a>
   </div>
