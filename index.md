@@ -16,8 +16,8 @@ sitemap: true
 </head>
 
 
-I am an incoming CS PhD student at John Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I completed my B.A. in Honors Computer Science and Mathematics at NYU, where I've had the privilege of working with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/). I was previously a visiting student at MIT advised by [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
-
+I am an incoming CS PhD student at John Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I completed my B.A. in Honors Computer Science and Mathematics at NYU. I was previously a visiting student at MIT working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html).
+<!-- , where I've had the privilege of working with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/) -->
 <!-- I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about: -->
 
 Within Natural Language Processing and Computer Vision, I am particularly interested in:
