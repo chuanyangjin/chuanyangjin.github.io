@@ -65,8 +65,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <span style="color: #C04000;">Position Paper for ICLR 2024 AGI Workshop</span><br>
     <a href="https://arxiv.org/abs/2405.10313">paper</a> /
     <a href="https://github.com/ulab-uiuc/AGI-survey">project</a> /
-    <a href="https://x.com/youjiaxuan/status/1791482599816446027">twitter </a> /
-    <a href="https://agiworkshop.github.io/">workshop</a>
+    <a href="https://agiworkshop.github.io/">workshop</a> /
+    <a href="https://x.com/youjiaxuan/status/1791482599816446027">twitter </a>
   </div>
 </div>
 
