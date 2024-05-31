@@ -49,7 +49,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/publications/agi_survey.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/publications/agi_surv.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
