@@ -30,7 +30,7 @@ Here are some research directions I’m excited about:
 
 + **Embodied AI**: leverage foundation models to build embodied agents capable of long-term decision making through planning, reasoning, managing memory, and learning from human and environment feedback.
 
-+ **Social Intelligence**: develop socially intelligent agents that learn efficiently and collaborate effectively with humans, and improve AI agents’ learning, generalization, coordination, and interaction.
++ **Social Intelligence**: develop socially intelligent agents that learn efficiently and collaborate effectively with humans, and improve their learning, generalization, coordination, and interaction.
 
 <!--
 I'm also fascinated by diffusion models, representation learning, and AI for science.
