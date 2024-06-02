@@ -30,11 +30,9 @@ Here are some research directions I’m excited about:
 
 + **Embodied AI**: leverage foundation models to build embodied agents capable of long-term decision making through planning, reasoning, managing memory, and learning from human and environment feedback.
 
-+ **Social Intelligence**: develop socially intelligent agents that learn efficiently and collaborate effectively with humans, improve AI agents’ learning, coordination, and interaction.
++ **Social Intelligence**: develop socially intelligent agents that learn efficiently and collaborate effectively with humans, and improve AI agents’ learning, generalization, coordination, and interaction.
 
 <!--
-+ **Social Intelligence**: develop socially intelligent systems that master commonsense knowledge, and combine it with new knowledge and skills, so they learn efficiently and collaborate effectively with humans.
-
 I'm also fascinated by diffusion models, representation learning, and AI for science.
 --> 
 
@@ -42,12 +40,12 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 
 ## News
-+ [May, 2024] [MMToM-QA](/mmtom-qa) is accepted to ACL 2024.
++ [May, 2024] [MMToM-QA](/mmtom-qa) is accepted to ACL 2024. See you in Bangkok!
 + [Dec, 2023] I'm attending NeurIPS 2023. Feel free to reach out if you'd like to have a chat!
 + [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
 + [Apr, 2023] Received [NYU Computer Science Prize](/assets/prizes/Computer_Science_Prize.pdf) as the most promising student
-<!-- + [May, 2022] Received [COMAP Scholarship](https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf) as the top 4 out of 27,205 teams in MCM -->
+
 
 ## Research
 
