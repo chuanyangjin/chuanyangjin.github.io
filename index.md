@@ -20,13 +20,17 @@ I am an incoming CS PhD student at Johns Hopkins University, advised by [Prof. T
 <!-- , where I've had the privilege of working with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/) -->
 <!-- I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about: -->
 
-Within Natural Language Processing and Computer Vision, I am particularly interested in:
+<!-- Within Machine Learning, I am particularly interested in: -->
+
+Here are some research directions I’m excited about:
 
 + **Foundation Models**: enhance the robustness, truthfulness, and instruction-adherence of foundation models through diverse experiences (e.g., data instances, structured knowledge, embodied experiences).
 
 + **Commonsense Reasoning**: understand cause and effect as events unfold, improve reasoning under diverse social and cultural contexts, and advance joint inference across multiple modalities.
 
 + **Embodied AI**: leverage foundation models to build embodied agents capable of long-term decision making through planning, reasoning, managing memory, and learning from human and environment feedback.
+
++ **Social Intelligence**: develop socially intelligent agents that learn efficiently and collaborate effectively with humans, improve AI agents’ learning, coordination, and interaction.
 
 <!--
 + **Social Intelligence**: develop socially intelligent systems that master commonsense knowledge, and combine it with new knowledge and skills, so they learn efficiently and collaborate effectively with humans.
