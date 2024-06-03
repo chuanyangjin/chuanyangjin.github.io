@@ -26,7 +26,7 @@ Here are some research directions I’m excited about:
 
 + **Foundation Models**: enhance the robustness, truthfulness, and instruction-adherence of foundation models through diverse experiences (e.g., data instances, structured knowledge, embodied experiences).
 
-+ **Deliberate Reasoning**: combine language models, agent models, and world models in a cognitively grounded way, and foster more robust and versatile reasoning capabilities.
++ **Deliberate Reasoning**: combine language models, agent models, and world models in a cognitively grounded way, and foster more robust and versatile reasoning across multiple modalities.
 
 + **Embodied AI**: leverage foundation models to build embodied agents capable of long-term decision making through planning, reasoning, managing memory, and learning from human and environment feedback.
 
