@@ -19,7 +19,7 @@ I have watched over 1,000 movies. I enjoy Drama, Mystery and Sci-Fi, and have al
 
 I'm a pianist of level 10. Some pieces I love to play: Moonlight Sonata, Flower Dance, and Croatian Rhapsody.
 
-I helped create some fun websites: [Hogwarts](https://www.hogwartsishere.com/courses/by-level/), [UEG](https://uegov.world/), and [Chuanyang University](https://www.linkedin.com/company/chuan-yang-university).
+I helped create some fun websites: [Hogwarts](https://www.hogwartsishere.com/courses/by-level/), [United Earth Government](https://uegov.world/), and [Chuanyang University](https://www.linkedin.com/company/chuan-yang-university).
 
 I'm learning photography.
 
