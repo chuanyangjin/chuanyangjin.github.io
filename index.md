@@ -28,11 +28,12 @@ Here are some research directions I’m excited about:
 
 + **Deliberate Reasoning**: combine language models, agent models, and world models in a cognitively grounded way, and foster more robust and versatile reasoning across multiple modalities.
 
-+ **Embodied AI**: leverage foundation models to build embodied agents capable of long-term decision making through planning, reasoning, managing memory, and learning from human and environment feedback.
++ **AI Agents**: leverage foundation models to build autonomous agents that interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
 + **Social Intelligence**: develop socially intelligent agents that learn efficiently and collaborate effectively with humans, and improve their learning, generalization, coordination, and interaction.
 
 <!--
++ **Embodied AI**: leverage foundation models to build embodied agents capable of long-term decision making through planning, reasoning, managing memory, and learning from human and environment feedback.
 + **Commonsense Reasoning**: understand cause and effect as events unfold, improve reasoning under diverse social and cultural contexts, and advance joint inference across multiple modalities.
 I'm also fascinated by diffusion models, representation learning, and AI for science.
 --> 
