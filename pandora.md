@@ -17,8 +17,8 @@ We introduce <span class="playball-regular">Pandora</span>, a step towards a Gen
  * Allows any-time control with actions expressed in natural language
 {: .mb-4 }
 
-<div class="fit-content grid grid-cols-3 column-gap-3 m-auto justify-center items-center mb-4">
-    <img src="/assets/img/publications/MMToM.png" alt="Maitrix.org"/>
+<div style="text-align: center;">
+    <img src="/assets/img/publications/MMToM.png" style="width: 700px;">
 </div>
 
 
