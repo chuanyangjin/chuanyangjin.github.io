@@ -3,6 +3,12 @@ title: Pandora
 layout: compress
 ---
 
+<style>
+.text-center {
+    text-align: center;
+}
+</style>
+
 # Main Content
 Your main content goes here...
 
