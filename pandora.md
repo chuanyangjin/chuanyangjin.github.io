@@ -1,6 +1,6 @@
 ---
-layout: home
-# Index page
+title: Pandora
+description: >
 ---
 # ![Pandora Logo](/assets/img/pandora-logo.png){: .inline-logo } <span><span class="playball-regular">Pandora</span>: Towards</span> <span>General World Model</span><br><span>with Natural Language Actions</span> <span>and Video States</span>
 {: .text-center }
