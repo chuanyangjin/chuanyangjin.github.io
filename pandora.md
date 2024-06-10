@@ -1,6 +1,6 @@
 ---
 title: Pandora
-layout: pandora
+layout: compress
 ---
 
 <style>
