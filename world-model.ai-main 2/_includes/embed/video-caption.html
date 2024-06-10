@@ -1,0 +1,9 @@
+<div class="px-1 items-center flex flex-col justify-content-end mb-2">
+  <p class="figure-caption text-center m-auto lh-sm w-85 text-wrap-balance">Action: {{ include.caption }}</p>
+  <div class="w-full flex flex-row">
+    <img class="w-50 px-1 do-not-play ratio-8-5" src="{{ include.video }}.jpg" alt="">
+    <video autoplay muted loop playsinline class="w-50 px-1 ratio-8-5">
+      <source src="{{ include.video }}" type="video/mp4">
+    </video>
+  </div>
+</div>
