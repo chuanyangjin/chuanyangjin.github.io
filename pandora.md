@@ -19,6 +19,7 @@ layout: compress
 <!-- ## Introduction
 We propose Bayesian Inverse Planning Accelerated by Language Models (BIP-ALM), a novel method to engineer multimodal Theory of Mind. This method: -->
 
-<div align="center" style="width: 800px; font-family: Lato, sans-serif;">
+<div style="text-align: center; margin: auto; width: 800px; font-family: Lato, sans-serif;">
+<!-- <div align="center" style="width: 800px; font-family: Lato, sans-serif;"> -->
   We propose Bayesian Inverse Planning Accelerated by Language Models (BIP-ALM), a novel method to engineer multimodal Theory of Mind.
 </div>
