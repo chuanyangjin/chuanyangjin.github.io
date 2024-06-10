@@ -1,6 +1,6 @@
 ---
 title: Pandora
-layout: plain
+layout: compress
 ---
 
 # Main Content
