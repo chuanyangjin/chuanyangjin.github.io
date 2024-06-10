@@ -1,6 +1,6 @@
 ---
 title: Pandora
-layout: compress
+layout: pandora
 ---
 
 <style>
@@ -12,20 +12,11 @@ layout: compress
 # <span> MMToM-QA: Multimodal Theory of Mind Question Answering</span>
 {: .text-center }
 
-We introduce <span class="playball-regular">Pandora</span>, a step towards a General World Model (GWM) that: 
- * Simulates world states by generating videos across any domains
- * Allows any-time control with actions expressed in natural language
-{: .mb-4 }
-
 <div style="text-align: center;">
-    <img src="/assets/img/publications/MMToM.png" style="width: 700px;">
+    <img src="/assets/img/publications/MMToM.png" style="width: 800px;">
 </div>
 
-
-# <span> Towards</span> <span>General World Model</span><br><span>with Natural Language Actions</span> <span>and Video States</span>
-{: .text-center }
-
-# ![Pandora Logo](/assets/img/pandora-logo.png){: .inline-logo } <span><span class="playball-regular">Pandora</span>: Towards</span> <span>General World Model</span><br><span>with Natural Language Actions</span> <span>and Video States</span>
-{: .text-center }
-
-
+## Introduction
+Theory of Mind (ToM), the ability to understand people's minds, is an essential ingredient for developing machines with human-level social intelligence. Existing ToM benchmarks use unimodal datasets - either video or text. We introduce a multimodal Theory of Mind question answering (MMToM-QA) benchmark.</li>
+						<li>MMToM-QA comprehensively evaluates machine Theory of Mind both on multimodal data and on different kinds of unimodal data about a person's activity in a household environment.</li>
+						<li>To engineer multimodal Theory of Mind capacity, we propose a novel method, BIP-ALM (Bayesian Inverse Planning Accelerated by Language Models). BIP-ALM extracts unified representations from multimodal data and utilizes language models for scalable Bayesian inverse planning.</li>
