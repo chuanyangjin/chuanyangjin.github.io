@@ -64,11 +64,11 @@
             </span>
             <span class="author-block">
               <a href="https://www.linkedin.com/in/jingcao26/" target="_blank">
-              Jing Cao<sup>2</sup></a>
+              Jing Cao<sup>2</sup></a>,
             </span>
             <span class="author-block">
               <a href="https://szxiangjn.github.io/" target="_blank">
-              Jiannan Xiang<sup>4</sup></a>
+              Jiannan Xiang<sup>4</sup></a>,
             </span>
           </div>
 
@@ -87,11 +87,11 @@
             </span>
             <span class="author-block">
               <a href="https://web.mit.edu/torralba/www/" target="_blank">
-                Antonio Torralba</a><sup>2</sup>
+                Antonio Torralba</a><sup>2</sup>,
             </span>
             <span class="author-block">
               <a href="http://web.mit.edu/cocosci/josh.html" target="_blank">
-                Joshua Tenenbaum</a><sup>2</sup>
+                Joshua Tenenbaum</a><sup>2</sup>,
             </span>
             <span class="author-block">
               <a href="https://www.tshu.io/" target="_blank">
@@ -211,6 +211,103 @@
     </div>
   </div>
 </section>
+
+
+
+<section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Bayesian Inverse Planning Accelerated by Language Models (BIP-ALM)</h2>
+        <div class="content has-text-justified">
+          <p>
+            We propose Bayesian Inverse Planning Accelerated by Language Models (BIP-ALM), a novel method to engineer multimodal Theory of Mind. This method:
+            <ul>
+              <li>Extracts symbolic representations from video (via the Visual Perception Module) and text (using GPT-4);</li>
+              <li>Aligns and fuses these representations to form a unified representation of the event and the physical scene;</li>
+              <li>Conducts inverse inference about the agent's goal and belief using finetuned language models.</li>
+            </ul>
+          </p>
+        </div>
+        <div class="content has-text-centered">
+          <div class=" has-text-centered">
+            <img src="/assets/img/mmtom-qa/model.png" alt="MY ALT TEXT"/>
+          </div>
+          <b class="subtitle is-size-6">
+            
+          </b>
+        </div>  
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Quantitative Results</h2>
+        <div class="content has-text-justified">
+          <p>
+            We evaluate large language models (e.g., GPT-4, LLaMA 2) on the text-only version of MMToM-QA.
+            We assess large multimodal models (e.g., GPT-4V, InstructBLIP, LLaVA) on both multimodal and video-only versions of MMToM-QA. 
+            Furthermore, we measure human performance in these tasks. 
+            <br><br>
+            A summary of our findings:
+            <ul>
+              <li>Human experiment verifies our benchmark design and provides a natural performance yardstick.</li>
+              <li>Current large language models and large multimodal models lack robust ToM capacity.</li>
+              <li>BIP-ALM shows promising results and generalizes effectively.</li>
+            </ul>
+          </p>
+        </div>
+        <div class="content has-text-centered">
+          <div class=" has-text-centered">
+            <img src="/assets/img/mmtom-qa/results.png" alt="MY ALT TEXT"/>
+          </div>
+          <b class="subtitle is-size-6">
+            
+          </b>
+        </div>  
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Qualitative Results & Discussion</h2>
+        <div class="content has-text-justified">
+          <p>
+            <ul>
+              <li>GPT-4 shows strong performance when people have true beliefs, yet it makes systematic errors when people have false beliefs or update their beliefs, and it has poor judgment on goals.</li>
+              <li>BIP-ALM effectively reasons about a person's mental state and tracks the changes in the mental state over time.</li>
+              <li>BIP-ALM benefits from (1) the modality-invariance of symbolic representations, (2) the robustness of inverse planning, and (3) the scalability and zero-shot flexibility of language models.</li>
+            </ul>
+          </p>
+        </div>
+        <div class="content has-text-centered">
+          <div class=" has-text-centered">
+            <img src="/assets/img/mmtom-qa/qualitative_results_1.png" alt="MY ALT TEXT"/>
+          </div>
+          <b class="subtitle is-size-6">   
+          </b>
+          <div class="content has-text-centered">
+            <div class=" has-text-centered">
+              <img src="/assets/img/mmtom-qa/qualitative_results_2.png" alt="MY ALT TEXT"/>
+            </div>
+            <b class="subtitle is-size-6">   
+            </b>
+        </div>  
+      </div>
+    </div>
+  </div>
+</section>
+
 
 
 
@@ -334,7 +431,14 @@
   <section class="section" id="BibTeX">
     <div class="container is-max-desktop content">
       <h2 class="title">BibTeX</h2>
-      <pre><code>BibTex Code Here</code></pre>
+      <pre><code>
+      @article{jin2024mmtom,
+        title={Mmtom-qa: Multimodal theory of mind question answering},
+        author={Jin, Chuanyang and Wu, Yutong and Cao, Jing and Xiang, Jiannan and Kuo, Yen-Ling and Hu, Zhiting and Ullman, Tomer and Torralba, Antonio and Tenenbaum, Joshua B and Shu, Tianmin},
+        journal={arXiv preprint arXiv:2401.08743},
+        year={2024}
+      }
+      </code></pre>
     </div>
 </section>
 <!--End BibTex citation -->
