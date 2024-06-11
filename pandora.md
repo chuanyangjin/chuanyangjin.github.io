@@ -651,17 +651,10 @@ We propose Bayesian Inverse Planning Accelerated by Language Models (BIP-ALM), a
 
 ## On-the-Fly Control with Natural Language
 
-<!-- Pagination Container -->
-<div class="pagination">
-  <!-- Page Item -->
-  <div class="page-item">
-    <a href="#" class="page-link">Pandora accepts free-text actions as inputs *during* video generation to steer the video on the fly.</a>
-  </div>
-  <!-- Page Item -->
-  <div class="page-item">
-    <a href="#" class="page-link">2</a>
-  </div>
-</div>
+
+<p style="@media (max-width: 720px) { font-size: 12px; } @media (min-width: 721px) { font-size: 16px; }">
+  Pandora accepts free-text actions as inputs *during* video generation to steer the video on the fly.
+</p>
 
 
 <div style="text-align: center; margin: auto; width: 800px; font-family: Lato, sans-serif;">
