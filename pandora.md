@@ -645,8 +645,15 @@ li:nth-child(2) {
 </div>
 
 ## Introduction
-We propose Bayesian Inverse Planning Accelerated by Language Models (BIP-ALM), a novel method to engineer multimodal Theory of Mind. This method: -->
 
+We propose Bayesian Inverse Planning Accelerated by Language Models (BIP-ALM), a novel method to engineer multimodal Theory of Mind.
+
+
+## On-the-Fly Control with Natural Language
+
+Pandora accepts free-text actions as inputs *during* video generation to steer the video on the fly.
+This differs crucially from previous text-to-video models which only allow text prompts at the beginning of the video.
+The **on-the-fly control** fulfills the promise of the world model to support **interactive content generation** and enhance **robust reasoning and planning**.
 
 
 <div style="text-align: center; margin: auto; width: 800px; font-family: Lato, sans-serif;">
