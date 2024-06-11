@@ -1,7 +1,0 @@
-@inproceedings{jin2023mmtom,
-  title={MMToM-QA: Multimodal Theory of Mind Question Answering},
-  author={Jin, Chuanyang and Wu, Yutong and Cao, Jing and Xiang, Jiannan and Kuo, Yen-Ling and Hu, Zhiting and Ullman, Tomer and Torralba, Antonio and Tenenbaum, Joshua B and Shu, Tianmin},
-  booktitle={NeurIPS 2023 Foundation Models for Decision Making Workshop},
-  year={2023}
-}
-
