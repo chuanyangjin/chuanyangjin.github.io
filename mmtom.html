@@ -276,8 +276,10 @@
         <h2 class="title is-3">MMToM-QA Benchmark</h2>
         <div class="content has-text-justified">
           <p>
-            MMToM-QA is the first multimodal benchmark to evaluate machine Theory of Mind (ToM), the ability to understand people's minds. MMToM-QA consists of 600 questions. Each question is paired with a clip of the full activity in a video (as RGB-D frames), as well as a text description of the scene and the actions taken by the person in that clip. All questions have two choices. The questions are categorized into seven types, evaluating belief inference and goal inference in rich and diverse situations. Each belief inference type has 100 questions, totaling 300 belief questions; each goal inference type has 75 questions, totaling 300 goal questions. The questions are paired with 134 videos of a person looking for daily objects in household environments.
-					  <br><br>
+            MMToM-QA is the first multimodal benchmark to evaluate machine Theory of Mind (ToM), the ability to understand people's minds. MMToM-QA consists of 600 questions. Each question is paired with a clip of the full activity in a video (as RGB-D frames), as well as a text description of the scene and the actions taken by the person in that clip. All questions have two choices. 
+            <br>
+            The questions are categorized into seven types, evaluating belief inference and goal inference in rich and diverse situations. Each belief inference type has 100 questions, totaling 300 belief questions; each goal inference type has 75 questions, totaling 300 goal questions.
+					  <br>
 					  The instructions for using the MMToM-QA benchmark are available <a href="https://github.com/chuanyangjin/MMToM-QA#mmtom-qa-benchmark">here</a>.
           </p>
         </div>
@@ -429,7 +431,7 @@
             <ul>
               <li>Human experiment verifies our benchmark design and provides a natural performance yardstick.</li>
               <li>Large multimodal models and LLMs are as good as <strong>random guessing</strong> across all question types!
-                <ul>
+                <ul style="list-style-type:none;">
                   <li> As an exception, GPT-4V excels with true beliefs, yet it makes <strong>systematic mistakes</strong> when people have false beliefs or update their beliefs, and has poor judgment on goals.
                 </ul></li>
               <li>BIP-ALM shows promising results and generalizes effectively.</li>
