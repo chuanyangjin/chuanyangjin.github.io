@@ -343,13 +343,13 @@
       <div id="results-carousel" class="carousel results-carousel">
         <div class="item item-video1">
           <video poster="" id="video1" autoplay controls muted loop height="100%">
-            <source src="static/videos/carousel1.mp4"
+            <source src="static/videos/mmtom1.mp4"
             type="video/mp4">
           </video>
         </div>
         <div class="item item-video2">
           <video poster="" id="video2" autoplay controls muted loop height="100%">
-            <source src="static/videos/output1.mp4"
+            <source src="static/videos/mmtom2.mp4"
             type="video/mp4">
           </video>
         </div>
@@ -368,65 +368,6 @@
 
 
 
-<section class="section hero">  
-  <div class="container is-max-desktop">
-      <div class="columns is-justify-content-center">
-        <div class="column is-6"> <!-- 这里设置为占用一半的宽度 -->
-          <!-- <video poster="" id="tree" autoplay controls muted loop height="100%">
-            <source src="static/videos/excel.mov" type="video/mp4">
-          </video> -->
-          <div class="video-container">
-            <iframe width="400" height="225" src="https://www.youtube.com/embed/4zoDwQk91ak?autoplay=1&loop=1&playlist=4zoDwQk91ak&mute=1&control=0" frameborder="0" allowfullscreen></iframe>
-            <p class="has-text-centered"><b>Demo1: Operating Excel Files.</b></p>
-          </div>
-        </div>
-        <div class="column is-6"> <!-- 这里设置为占用一半的宽度 -->
-          <iframe width="400" height="225" src="https://www.youtube.com/embed/4zoDwQk91ak?autoplay=1&loop=1&playlist=4zoDwQk91ak&mute=1&control=0" frameborder="0" allowfullscreen></iframe>
-          <p class="has-text-centered"><b>Demo2: Creating a Webpage.</b></p>
-        </div>
-    </div>  
-      <div class="columns">  
-          <div class="column is-6">
-              <div class="video-container">  
-                <iframe width="400" height="225" src="https://www.youtube.com/embed/4zoDwQk91ak?autoplay=1&loop=1&playlist=4zoDwQk91ak&mute=1&control=0" frameborder="0" allowfullscreen></iframe>
-                <p class="has-text-centered"><b>Demo3: Entering Focused Mode.</b></p>
-              </div>  
-          </div>  
-          <div class="column is-6">  
-              <div class="video-container">  
-                <iframe width="400" height="225" src="https://www.youtube.com/embed/4zoDwQk91ak?autoplay=1&loop=1&playlist=4zoDwQk91ak&mute=1&control=0" frameborder="0" allowfullscreen></iframe>
-                <p class="has-text-centered"><b>Demo4: Playing Music.</b></p>
-              </div>  
-       
-      </div>
-    </div>
-      <div>
-        <p><b>(Stay tuned! More demos are coming soon~)</b></p>
-      </div>  
-  </div>  
-</section> 
-
-
-
-<!-- Video carousel -->
-<!-- <section class="hero is-small">
-  <div class="hero-body">
-    <div class="container">
-      <div class="columns is-centered">
-        <div class="column is-four-fifths">
-        <iframe src="https://www.youtube.com/embed/4zoDwQk91ak?si=sd75qUPfCu7sCX6G" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="width: 100%; height: 100%;"></iframe>
-        <div class="item item-video2">
-          <iframe src="https://www.youtube.com/embed/lN810N3KdjM?si=aWFuKCVNkHOuCvOb" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="width: 100%; height: 100%;"></iframe>
-        </div>
-        <div class="item item-video3">
-          <iframe src="https://www.youtube.com/embed/NsOPbJWPn1c?si=cpVfFozqj1p31z7e" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="width: 100%; height: 100%;"></iframe>
-        </div>
-      </div>
-    </div>
-  </div>
-</section> -->
-<!-- End video carousel -->
-
 
 <section class="section hero">
   <div class="container is-max-desktop">
@@ -437,9 +378,10 @@
           <p>
             We propose Bayesian Inverse Planning Accelerated by Language Models (BIP-ALM), a novel method to engineer multimodal Theory of Mind. This method:
             <ul>
-              <li>Extracts symbolic representations from video (via the Visual Perception Module) and text (using GPT-4);</li>
-              <li>Aligns and fuses these representations to form a unified representation of the event and the physical scene;</li>
-              <li>Conducts inverse inference about the agent's goal and belief using <strong>language models</strong>.</li>
+              <!-- <li>Extracts symbolic representations from video (via the Visual Perception Module) and text (using GPT-4);</li>
+              <li>Aligns and fuses these representations to form a unified representation of the event and the physical scene;</li> -->
+              <li>Extracts, aligns, and fuses symbolic representations from video and text </li>
+              <li>Conducts inverse inference about the agent's goal and belief using <strong>language models</strong> </li>
             </ul>
           </p>
         </div>
@@ -470,12 +412,12 @@
             <br><br>
             A summary of our findings:
             <ul>
-              <li>Human experiment verifies our benchmark design and provides a natural performance yardstick.</li>
-              <li>Large multimodal models and LLMs are as good as <strong>random guessing</strong> across all question types!
+              <li>Human experiment verifies our benchmark design and provides a natural performance yardstick</li>
+              <li>Large multimodal models and LLMs are as good as <strong>random guessing</strong> across all question types
                 <ul style="list-style-type:none;">
-                  <li> As an exception, GPT-4V excels with true beliefs, yet it makes <strong>systematic mistakes</strong> when people have false beliefs or update their beliefs, and has poor judgment on goals.
+                  <li> As an exception, GPT-4V excels with true beliefs, yet it makes <strong>systematic mistakes</strong> when people have false beliefs or update their beliefs, and has poor judgment on goals
                 </ul></li>
-              <li>BIP-ALM shows promising results and generalizes effectively.</li>
+              <li>BIP-ALM shows promising results and generalizes effectively</li>
             </ul>
           </p>
         </div>
