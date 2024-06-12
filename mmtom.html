@@ -276,7 +276,7 @@
         <h2 class="title is-3">MMToM-QA Benchmark</h2>
         <div class="content has-text-justified">
           <p>
-            MMToM-QA systematically evaluates the cognitive ability to understand people's minds both on multimodal data and different unimodal data. MMToM-QA consists of 600 questions. The questions are categorized into seven types, evaluating belief inference and goal inference in rich and diverse situations. Each belief inference type has 100 questions, totaling 300 belief questions; each goal inference type has 75 questions, totaling 300 goal questions.
+            MMToM-QA systematically evaluates the cognitive ability to understand people's minds <strong>both on multimodal data and different unimodal data</strong>. MMToM-QA consists of 600 questions. The questions are categorized into seven types, evaluating <strong>belief inference</strong> and <strong>goal inference</strong> in rich and diverse situations. Each belief inference type has 100 questions, totaling 300 belief questions; each goal inference type has 75 questions, totaling 300 goal questions.
             <!-- MMToM-QA is the first multimodal benchmark to evaluate machine Theory of Mind (ToM), the ability to understand people's minds.  -->
 					  <br><br>
 					  The instructions for using the MMToM-QA benchmark are available <a href="https://github.com/chuanyangjin/MMToM-QA#mmtom-qa-benchmark">here</a>.
@@ -293,7 +293,7 @@
 
         <div class="content has-text-justified">
           <p>
-            Each question is paired with a clip of the full activity in a video (as RGB-D frames), as well as a text description of the scene and the actions taken by the person in that clip. All questions have two choices. 
+            Each question is paired with a clip of the full activity in a video (as RGB-D frames), as well as a text description of the scene and the actions taken by the person in that clip.
             <!-- We provide RGB-D images, instance segmentation maps, human 3D poses, ground-truth scene graphs, ground-truth actions, and camera data. Additionally, a text-only version is available. -->
           </p>
         </div>
@@ -364,6 +364,59 @@
   </div>
 </section>
 <!-- End video carousel -->
+
+
+
+
+<section class="section hero">  
+  <div class="container is-max-desktop">
+      <div class="columns is-justify-content-center">
+        <div class="column is-6"> <!-- 这里设置为占用一半的宽度 -->
+          <!-- <video poster="" id="tree" autoplay controls muted loop height="100%">
+            <source src="static/videos/excel.mov" type="video/mp4">
+          </video> -->
+          <div class="video-container">
+            <video poster="" id="video1" autoplay controls muted loop height="100%">
+              <source src="static/videos/mmtom2" type="video/mp4">
+            </video>
+            <p class="has-text-centered"><b>Demo1: Operating Excel Files.</b></p>
+          </div>
+        </div>
+        <div class="column is-6"> <!-- 这里设置为占用一半的宽度 -->
+          <video poster="" id="tree" autoplay controls muted loop height="100%">
+            <source src="static/videos/mmtom2" type="video/mp4">
+          </video>
+          <p class="has-text-centered"><b>Demo2: Creating a Webpage.</b></p>
+        </div>
+    </div>  
+      <div class="columns">  
+          <div class="column is-6">
+              <div class="video-container">  
+                <video poster="" id="tree" autoplay controls muted loop height="100%">
+            
+                  <source src="static/videos/mmtom2"
+                  type="video/mp4">
+                </video>
+                <p class="has-text-centered"><b>Demo3: Entering Focused Mode.</b></p>
+              </div>  
+          </div>  
+          <div class="column is-6">  
+              <div class="video-container">  
+                <video poster="" id="tree" autoplay controls muted loop height="100%">
+            
+                  <source src="static/videos/mmtom2"
+                  type="video/mp4">
+                </video>
+                <p class="has-text-centered"><b>Demo4: Playing Music.</b></p>
+              </div>  
+       
+      </div>
+    </div>
+      <div>
+        <p><b>(Stay tuned! More demos are coming soon~)</b></p>
+      </div>  
+  </div>  
+</section> 
 
 
 
