@@ -15,6 +15,9 @@
       list-style-type: "♦";
       padding-inline-start: 1ch;
     }
+    ul.specific-style {
+        list-style-type: disc !important; /* This forces the use of bullet points */
+    }
   </style>
 
 
@@ -304,7 +307,7 @@
 <!-- Video carousel -->
 <section class="hero is-small">
   <div class="hero-body">
-    <div class="container" style="width: 775px; margin: auto;">
+    <div class="container" style="width: 750px; margin: auto;">
       <h2 class="title is-3">Video Gallery</h2>
       <div id="results-carousel" class="carousel results-carousel" style="display: flex; justify-content: center;">
         <div class="item item-video1">
@@ -380,8 +383,8 @@
             <ul>
               <li>Human experiment verifies benchmark design and provides a natural performance yardstick</li>
               <li>Large multimodal models and LLMs are as good as <strong>random guessing</strong> across all question types
-                <ul style="list-style-type:disc;">
-                  <li> As an exception, GPT-4V excels with true beliefs, yet it makes <strong>systematic mistakes</strong> when people have false beliefs or update their beliefs, and has poor judgment on goals
+                <ul class="specific-style">
+                  <li>As an exception, GPT-4V excels with true beliefs, yet it makes <strong>systematic mistakes</strong> when people have false beliefs or update their beliefs, and has poor judgment on goals.</li>
                 </ul></li>
               <li>BIP-ALM shows promising results and generalizes effectively</li>
             </ul>
