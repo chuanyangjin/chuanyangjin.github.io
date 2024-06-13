@@ -90,7 +90,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
-    <i>Association for Computational Linguistics (ACL), 2024</i><br>
+    <i>Annual Meeting of the Association for Computational Linguistics (ACL), 2024</i><br>
     <span style="color: #C04000;">Nominated for Outstanding Paper Award</span><br>
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
