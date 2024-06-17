@@ -2,15 +2,11 @@
 <html>
 <head>
   <style>
-    table {
-        width: 100%;
-        border-collapse: collapse;
+    .odd-row {
+      background-color: #e0f4ff;
     }
-    tr:nth-child(odd) {
-        background-color: #f2f2f2; /* Light gray background for odd rows */
-    }
-    tr:nth-child(even) {
-        background-color: #ffffff; /* White background for even rows */
+    .even-row {
+      background-color: #ffffff;
     }
   </style>
 
@@ -255,10 +251,10 @@
 
             <tr>
               <th rowspan="7" style="vertical-align: middle;">Multimodal</th>
-              <td>Human</td>
-              <td>97.5</td>
-              <td>88.5</td>
-              <td>93</td>
+              <td class="odd-row">Human</td>
+              <td class="odd-row">97.5</td>
+              <td class="odd-row">88.5</td>
+              <td class="odd-row">93</td>
             </tr>
             <tr>
               <td>InstructBLIP</td>
@@ -266,7 +262,7 @@
               <td>44.7</td>
               <td>46.7</td>
             </tr>
-            <tr>
+            <tr class="odd-row">
               <td>Video-LLaMA 2</td>
               <td>42.0</td>
               <td>38.3</td>
@@ -278,7 +274,7 @@
               <td>44.0</td>
               <td>43.5</td>
             </tr>
-            <tr>
+            <tr class="odd-row">
               <td>GPT-4V</td>
               <td>55.3</td>
               <td>34.7</td>
@@ -290,7 +286,7 @@
               <td>69.0</td>
               <td>75.3</td>
             </tr>
-            <tr>
+            <tr class="odd-row">
               <td>BIP-ALM w/ LLaMA 2</td>
               <td>80.3</td>
               <td>73.3</td>
@@ -307,7 +303,7 @@
               <td>74.0</td>
               <td>82.5</td>
             </tr>
-            <tr>
+            <tr class="odd-row">
               <td>GPT-4</td>
               <td>62.0</td>
               <td>34.0</td>
@@ -319,7 +315,7 @@
               <td>33.0</td>
               <td>38.3</td>
             </tr>
-            <tr>
+            <tr class="odd-row">
               <td>GPT-J</td>
               <td>49.0</td>
               <td>52.3</td>
@@ -331,7 +327,7 @@
               <td>44.3</td>
               <td>50.3</td>
             </tr>
-            <tr>
+            <tr class="odd-row">
               <td>SimToM w/ GPT-4</td>
               <td>64.3</td>
               <td>40.7</td>
@@ -343,7 +339,7 @@
               <td>47.7</td>
               <td>63.0</td>
             </tr>
-            <tr>
+            <tr class="odd-row">
               <td>BIP-ALM w/ GPT-J</td>
               <td>81.7</td>
               <td>61.7</td>
@@ -362,10 +358,10 @@
 
             <tr>
               <th rowspan="7" style="vertical-align: middle;">Video Only</th>
-              <td>Human</td>
-              <td>73.3</td>
-              <td>64.6</td>
-              <td>68.9</td>
+              <td class="odd-row">Human</td>
+              <td class="odd-row">73.3</td>
+              <td class="odd-row">64.6</td>
+              <td class="odd-row">68.9</td>
             </tr>
             <tr>
               <td>InstructBLIP</td>
@@ -373,7 +369,7 @@
               <td>52.3</td>
               <td>50.8</td>
             </tr>
-            <tr>
+            <tr class="odd-row">
               <td>Video-LLaMA 2</td>
               <td>41.0</td>
               <td>51.0</td>
@@ -385,7 +381,7 @@
               <td>45.3</td>
               <td>42.2</td>
             </tr>
-            <tr>
+            <tr class="odd-row">
               <td>GPT-4V</td>
               <td>45.7</td>
               <td>46.3</td>
@@ -397,7 +393,7 @@
               <td>55.3</td>
               <td>59.7</td>
             </tr>
-            <tr>
+            <tr class="odd-row">
               <td>BIP-ALM w/ LLaMA 2</td>
               <td>64.0</td>
               <td>58.3</td>
