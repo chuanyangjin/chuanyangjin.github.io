@@ -6,7 +6,7 @@ sitemap: true
 
 <head>
   <!-- Meta Description Tag -->
-  <meta name="description" content="Chuanyang Jin is a visiting student at MIT advised by Prof. Josh Tenenbaum, Prof. Antonio Torralba, and Prof. Tianmin Shu. Currently, Chuanyang Jin is a senior student in Honors Computer Science and Mathematics at NYU Courant.">
+  <meta name="description" content="Chuanyang Jin is a Computer Science PhD student at Johns Hopkins University.">
 
   <style>
   a::after, a.external::after {
