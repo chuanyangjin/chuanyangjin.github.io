@@ -14,12 +14,12 @@ I am from [Nanjing](https://en.wikipedia.org/wiki/Nanjing), China. I have also l
 
 My personality type is INFJ. I’m a [Ravenclaw](https://www.wizardingworld.com/collections/ravenclaw).
 
-I have watched over 1,000 movies. I enjoy Drama, Mystery and Sci-Fi, and have also studied Cinema Novo.
+I've watched over 1,000 movies. I enjoy Drama, Mystery and Sci-Fi, and have also studied Cinema Novo.
 <!-- My favourite director is [Christopher Nolan](https://www.imdb.com/name/nm0634240/). -->
 
 I'm a pianist of level 10. Some pieces I love to play: Moonlight Sonata, Flower Dance, and Croatian Rhapsody.
 
-I helped create some fun websites: [Hogwarts](https://www.hogwartsishere.com/courses/by-level/), [United Earth Government](https://uegov.world/), and [Chuanyang University](https://www.linkedin.com/company/chuan-yang-university).
+Check out some fun websites I helped create: [Hogwarts](https://www.hogwartsishere.com/courses/by-level/), [United Earth Government](https://uegov.world/), and [Chuanyang University](https://www.linkedin.com/company/chuan-yang-university).
 
 I'm learning photography.
 
