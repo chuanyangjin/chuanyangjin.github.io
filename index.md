@@ -22,7 +22,7 @@ I am an incoming CS PhD student at Johns Hopkins University, advised by [Prof. T
 
 Here are some research directions I’m excited about:
 
-+ **Deliberate Reasoning**: combine language models, agent models, and world models in a cognitively grounded way, and foster more robust and versatile reasoning across multiple modalities.
++ **Deliberate Reasoning**: combine language models, agent models, and world models in a cognitively grounded way, and promote more robust and versatile reasoning across multiple modalities.
 
 + **AI Agents**: build the next generation of autonomous agents that interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
