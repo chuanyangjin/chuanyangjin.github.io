@@ -26,7 +26,7 @@ Here are some research directions I’m excited about:
 
 + **AI Agents**: build autonomous agents that interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
-+ **Social Intelligence**: develop agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents.
++ **Social Intelligence**: create agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among agents.
 
 
 <!--
