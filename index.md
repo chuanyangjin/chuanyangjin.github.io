@@ -16,7 +16,7 @@ sitemap: true
 </head>
 
 
-I am an incoming CS PhD student at Johns Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Honors Computer Science and Mathematics, and received Computer Science Prize for the Most Promising Student from New York University. I was previously a visiting student at MIT working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
+I am an incoming CS PhD student at Johns Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Honors Computer Science and Mathematics, and received Computer Science Prize for the Most Promising Student from NYU. I was previously a visiting student at MIT working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
 <!-- I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about: -->
 <!-- Within Machine Learning, I am particularly interested in: -->
 
