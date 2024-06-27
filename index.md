@@ -24,7 +24,7 @@ Here are some research directions I’m excited about:
 
 + **Deliberate Reasoning**: combine language models, agent models, and world models in a cognitively grounded way, and foster more robust and versatile reasoning across multiple modalities.
 
-+ **AI Agents**: build autonomous agents that interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
++ **AI Agents**: build the next generation of autonomous agents that interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
 + **Social Intelligence**: create agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among agents.
 
@@ -38,8 +38,6 @@ I obtained my B.A. in Computer Science and Mathematics with the highest honors f
 
 + **Foundation Models**: enhance the robustness, truthfulness, and instruction-adherence of foundation models through diverse experiences (e.g., data instances, structured knowledge, embodied experiences).
 
-
-+ **Commonsense Reasoning**: understand cause and effect as events unfold, improve reasoning under diverse social and cultural contexts, and advance joint inference across multiple modalities.
 I'm also fascinated by diffusion models, representation learning, and AI for science.
 --> 
 
