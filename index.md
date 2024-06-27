@@ -16,7 +16,7 @@ sitemap: true
 </head>
 
 
-I am an incoming CS PhD student at Johns Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Computer Science and Mathematics with the highest honors from NYU, where I was fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/). I was previously a visiting student at MIT working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
+I am an incoming CS PhD student at Johns Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Honors Computer Science and Mathematics, and received Computer Science Prize for the Most Promising Student from New York University. I was previously a visiting student at MIT working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
 <!-- I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about: -->
 <!-- Within Machine Learning, I am particularly interested in: -->
 
@@ -30,6 +30,8 @@ Here are some research directions I’m excited about:
 
 
 <!--
+I obtained my B.A. in Computer Science and Mathematics with the highest honors from NYU, where I was fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/).
+
 + **AI Agents**: leverage foundation models to build autonomous agents that interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
 + **Social Intelligence**: develop socially intelligent agents that learn efficiently and collaborate effectively with humans, and improve their learning, generalization, coordination, and interaction.
@@ -50,7 +52,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 + [Dec, 2023] I'm attending NeurIPS 2023. Feel free to reach out if you'd like to have a chat!
 + [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
 + [May, 2023] [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) released -- SOTA diffusion models with 2x speedup
-+ [Apr, 2023] Received [NYU Computer Science Prize](/assets/prizes/Computer_Science_Prize.pdf) as the most promising student
++ [Apr, 2023] Received NYU Computer Science Prize for the Most Promising Student
 
 
 ## Research
