@@ -24,7 +24,7 @@ Here are some research directions I’m excited about:
 
 + **Deliberate Reasoning**: combine language models, agent models, and world models in a cognitively grounded way, and promote more robust and versatile reasoning across multiple modalities.
 
-+ **AI Agents**: build the next generation of autonomous agents that interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
++ **AI Agents**: build the next generation of language agents that can interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
 + **Social Intelligence**: create agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among agents.
 
