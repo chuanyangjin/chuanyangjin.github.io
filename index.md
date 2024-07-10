@@ -61,8 +61,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
-    <a href="https://github.com/ft2023">Tao Feng*</a>,
     <b>Chuanyang Jin*</b>,
+    <a href="https://github.com/ft2023">Tao Feng*</a>,
     <a href="https://jingyu6.github.io/">Jingyu Liu*</a>,
     <a href="https://github.com/Kunlun-Zhu">Kunlun Zhu*</a>,
     <a href="https://github.com/ImKeTT">Haoqin Tu</a>,
