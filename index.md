@@ -94,7 +94,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
-    <i>Annual Meeting of the Association for Computational Linguistics (ACL), 2024</i><br>
+    <i>Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), 2024</i><br>
     <span style="color: #C04000;">Nominated for Outstanding Paper Award</span><br>
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
@@ -115,7 +115,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://yenlingkuo.com/">Yen-Ling Kuo</a>, 
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
-    <i>AAAI Conference on Artificial Intelligence (AAAI), 2024</i><br>
+    <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2024</i><br>
     <span style="color: #C04000;">Oral Presentation at AAAI Summer Symposium</span><br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /
     <a href="https://www.tshu.io/nested_reasoning/">project</a> /
