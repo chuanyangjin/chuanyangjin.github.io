@@ -19,9 +19,9 @@ I've watched over 1,000 movies. I enjoy Drama, Mystery and Sci-Fi, and have also
 
 I'm a pianist of level 10. Some pieces I love to play: Moonlight Sonata, Flower Dance, and Croatian Rhapsody.
 
-I‘m a Go player adapting to the era of AI.
-
 Check out some fun websites I created: [Hogwarts](https://www.hogwartsishere.com/courses/by-level/), [United Earth Government](https://uegov.world/), and [Chuanyang University](https://www.linkedin.com/company/chuan-yang-university).
+
+I‘m a Go player adapting to the era of AI.
 
 I'm learning photography.
 
