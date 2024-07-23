@@ -254,12 +254,14 @@ function showMoreProjects() {
 
 ## Selected Honors & Awards
 - NYU Presidential Honors Scholar and Summa cum Laude (Top 5%), 2024
-- <span style="background-color: #ADD8E6;">NYU Computer Science Prize for the Most Promising Student (1 person/year)</span>, 2023
+- NYU Founders' Day Award, 2024
+- <span style="background-color: rgba(173, 216, 230, 0.5);">NYU Computer Science Prize for the Most Promising Student (1 person/year)</span>, 2023
 - Dean's Undergraduate Research Fund ($5,000), 2023
-- <span style="background-color: #ADD8E6;">COMAP Scholarship ($10,000)</span>, 2022
-- <span style="background-color: #ADD8E6;">MAA Award in Mathematical Contest in Modeling (Top 0.1%)</span>, 2022
+- <span style="background-color: rgba(173, 216, 230, 0.5);">COMAP Scholarship ($10,000)</span>, 2022
+- <span style="background-color: rgba(173, 216, 230, 0.5);">MAA Award in Mathematical Contest in Modeling (Top 0.1%)</span>, 2022
 - Distinguished Honor Roll of American Mathematics Contest (Top 1%), 2020
 - Bronze Medal of Shing-Tung Yau Computer Science Award ($10,000), 2019
 - Finalist of FIRST Robotics Competition World Championship (Top 0.2%), 2019
+- Outstanding Student Leader Award, 2019
 <!-- - Champion of International Regions Mathematics League, 2018 -->
-- <span style="background-color: #ADD8E6;">First Prize of Chinese Mathematical Olympiad (Top 0.1%)</span>, 2018
+- <span style="background-color: rgba(173, 216, 230, 0.5);">First Prize of Chinese Mathematical Olympiad (Top 0.1%)</span>, 2018
