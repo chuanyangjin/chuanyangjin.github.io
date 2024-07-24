@@ -57,29 +57,6 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/publications/agi_survey.png" alt="publication teaser" width="100%" />
-  </div>
-  <div style="margin-left: 270px;">
-    <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
-    <b>Chuanyang Jin*</b>,
-    <a href="https://github.com/ft2023">Tao Feng*</a>,
-    <a href="https://jingyu6.github.io/">Jingyu Liu*</a>,
-    <a href="https://github.com/Kunlun-Zhu">Kunlun Zhu*</a>,
-    <a href="https://github.com/ImKeTT">Haoqin Tu</a>,
-    <a href="https://www.linkedin.com/in/zirui-cheng-044024284/">Zirui Cheng</a>,
-    <a href="https://guanyu-lin.github.io/">Guanyu Lin</a>,
-    <a href="https://cs.stanford.edu/people/jiaxuan/">Jiaxuan You</a><br>
-    <i>Under Review, 2024</i><br>
-    <span style="color: #C04000;">Position Paper for ICLR 2024 AGI Workshop</span><br>
-    <a href="https://arxiv.org/abs/2405.10313">paper</a> /
-    <a href="https://github.com/ulab-uiuc/AGI-survey">project</a> /
-    <a href="https://agiworkshop.github.io/">workshop</a> /
-    <a href="https://x.com/youjiaxuan/status/1791482599816446027">twitter </a>
-  </div>
-</div>
-
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
     <img src="/assets/img/publications/MMToM.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
@@ -100,6 +77,29 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
     <a href="https://x.com/chuanyang_jin/status/1748336997532315756">twitter </a>
+  </div>
+</div>
+
+<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+  <div style="float: left; width: 250px;">
+    <img src="/assets/img/publications/agi_survey.png" alt="publication teaser" width="100%" />
+  </div>
+  <div style="margin-left: 270px;">
+    <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
+    <b>Chuanyang Jin*</b>,
+    <a href="https://github.com/ft2023">Tao Feng*</a>,
+    <a href="https://jingyu6.github.io/">Jingyu Liu*</a>,
+    <a href="https://github.com/Kunlun-Zhu">Kunlun Zhu*</a>,
+    <a href="https://github.com/ImKeTT">Haoqin Tu</a>,
+    <a href="https://www.linkedin.com/in/zirui-cheng-044024284/">Zirui Cheng</a>,
+    <a href="https://guanyu-lin.github.io/">Guanyu Lin</a>,
+    <a href="https://cs.stanford.edu/people/jiaxuan/">Jiaxuan You</a><br>
+    <i>Under Review, 2024</i><br>
+    <span style="color: #C04000;">Position Paper for ICLR 2024 AGI Workshop</span><br>
+    <a href="https://arxiv.org/abs/2405.10313">paper</a> /
+    <a href="https://github.com/ulab-uiuc/AGI-survey">project</a> /
+    <a href="https://agiworkshop.github.io/">workshop</a> /
+    <a href="https://x.com/youjiaxuan/status/1791482599816446027">twitter </a>
   </div>
 </div>
 
@@ -254,14 +254,14 @@ function showMoreProjects() {
 
 ## Selected Honors & Awards
 - NYU Presidential Honors Scholar and Summa cum Laude (Top 5%), 2024
-- NYU Founders' Day Award, 2024
+<!-- - NYU Founders' Day Award, 2024 -->
 - <span style="background-color: rgba(173, 216, 230, 0.5);">NYU Computer Science Prize for the Most Promising Student (1 person/year)</span>, 2023
 - Dean's Undergraduate Research Fund ($5,000), 2023
-- <span style="background-color: rgba(173, 216, 230, 0.5);">COMAP Scholarship ($10,000)</span>, 2022
+- <span style="background-color: rgba(173, 216, 230, 0.5);">COMAP International Scholarship Award ($10,000)</span>, 2022
 - <span style="background-color: rgba(173, 216, 230, 0.5);">MAA Award in Mathematical Contest in Modeling (Top 0.1%)</span>, 2022
 - Distinguished Honor Roll of American Mathematics Contest (Top 1%), 2020
 - Bronze Medal of Shing-Tung Yau Computer Science Award ($10,000), 2019
 - Finalist of FIRST Robotics Competition World Championship (Top 0.2%), 2019
-- Outstanding Student Leader Award, 2019
+- Outstanding Student Leader Award and Zhou Enlai Scholarship (Top 3%), 2019
 <!-- - Champion of International Regions Mathematics League, 2018 -->
 - <span style="background-color: rgba(173, 216, 230, 0.5);">First Prize of Chinese Mathematical Olympiad (Top 0.1%)</span>, 2018
