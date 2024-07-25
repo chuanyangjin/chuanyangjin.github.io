@@ -71,7 +71,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
-    <span style="color: rgb(173, 216, 230);">ACL 2024</span><br>
+    <span style="color: #6B90DE;">ACL 2024</span><br>
     <!-- <i>Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), 2024</i><br> -->
     <span style="color: #C04000;">Nominated for Outstanding Paper Award</span><br>
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
@@ -95,7 +95,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://www.linkedin.com/in/zirui-cheng-044024284/">Zirui Cheng</a>,
     <a href="https://guanyu-lin.github.io/">Guanyu Lin</a>,
     <a href="https://cs.stanford.edu/people/jiaxuan/">Jiaxuan You</a><br>
-    <span style="color: rgb(173, 216, 230);">Under Review</span><br>
+    <span style="color: #6B90DE;">Under Review</span><br>
     <span style="color: #C04000;">Position Paper for ICLR 2024 AGI Workshop</span><br>
     <a href="https://arxiv.org/abs/2405.10313">paper</a> /
     <a href="https://github.com/ulab-uiuc/AGI-survey">project</a> /
@@ -116,7 +116,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://yenlingkuo.com/">Yen-Ling Kuo</a>, 
     <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
-    <span style="color: rgb(173, 216, 230);">AAAI 2024</span><br>
+    <span style="color: #6B90DE;">AAAI 2024</span><br>
     <!-- <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2024</i><br> -->
     <span style="color: #C04000;">Oral Presentation at AAAI Summer Symposium</span><br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /
@@ -142,7 +142,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://he-group.uchicago.edu/">Chuan He</a>, 
     <a href="https://cims.nyu.edu/~regev/">Oded Regev</a>, 
     <a href="https://feilab.uchicago.edu/group.html">Jingyi Fei</a><br>
-    <span style="color: rgb(173, 216, 230);">Under Review</span><br>
+    <span style="color: #6B90DE;">Under Review</span><br>
     <a href="https://www.biorxiv.org/content/10.1101/2024.02.29.581881v1">paper</a>
   </div>
 </div>
