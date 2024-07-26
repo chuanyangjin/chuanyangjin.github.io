@@ -77,6 +77,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
+    <a href="/assets/slides/MMToM-QA.pdf">slides</a> /
     <a href="https://x.com/chuanyang_jin/status/1748336997532315756">twitter </a>
   </div>
 </div>
@@ -122,7 +123,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /
     <a href="https://www.tshu.io/nested_reasoning/">project</a> /
     <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
-    <a href="/assets/slides/AAAI_Nested_Reasoning.pdf">slides</a><br>
+    <a href="/assets/slides/Nested_Reasoning.pdf">slides</a><br>
   </div>
 </div>
 
