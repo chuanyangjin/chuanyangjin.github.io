@@ -184,7 +184,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Self-Supervised Image Captioning with CLIP</b></span><br>
     <b>Chuanyang Jin</b><br>
-    NeurIPS 2023 Workshop on Self-Supervised Learning<br>
+    <span style="color: #6B90DE;">Self-Supervised Learning Workshop at NeurIPS 2023</span><br>
     <a href="https://arxiv.org/abs/2306.15111">paper</a>
   </div>
 </div>
