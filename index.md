@@ -265,6 +265,6 @@ function showMoreProjects() {
 - Distinguished Honor Roll of American Mathematics Contest (Top 1%), 2020
 - Bronze Medal of Shing-Tung Yau Computer Science Award ($10,000), 2019
 - Finalist of FIRST Robotics Competition World Championship (Top 0.2%), 2019
-- Outstanding Student Leader Award and Zhou Enlai Scholarship (Top 3%), 2019
+- NFLS Outstanding Student Leader Award and Zhou Enlai Scholarship (Top 3%), 2019
 <!-- - Champion of International Regions Mathematics League, 2018 -->
 - <span style="background-color: rgba(173, 216, 230, 0.5);">First Prize of Chinese Mathematical Olympiad (Top 0.1%)</span>, 2018
