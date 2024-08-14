@@ -45,6 +45,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 
 ## News
++ [Aug, 2024] Honored to receive <span style="color: #C04000;">Outstanding Paper Award</span>at ACL 2024!
 + [May, 2024] [MMToM-QA](/mmtom-qa) ([slides](/assets/slides/MMToM-QA.pdf)) is accepted to ACL 2024 with four top ratings. See you in Bangkok!
 + [May, 2024] Released our [position paper](https://arxiv.org/abs/2405.10313) for ICLR 2024 AGI Workshop.
 + [Dec, 2023] I am attending NeurIPS 2023. Feel free to reach out if you'd like to have a chat!
@@ -73,7 +74,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://www.tshu.io/">Tianmin Shu</a><br>
     <span style="color: #6B90DE;">ACL 2024</span><br>
     <!-- <i>Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), 2024</i><br> -->
-    <span style="color: #C04000;">Nominated for Outstanding Paper Award</span><br>
+    <span style="color: #C04000;">Outstanding Paper Award</span><br>
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
@@ -256,6 +257,7 @@ function showMoreProjects() {
 </script>
 
 ## Selected Honors & Awards
+- <span style="background-color: rgba(173, 216, 230, 0.5);">Outstanding Paper Award at ACL 2024</span>, 2024
 - NYU Presidential Honors Scholar and Summa cum Laude (Top 5%), 2024
 <!-- - NYU Founders' Day Award, 2024 -->
 - <span style="background-color: rgba(173, 216, 230, 0.5);">NYU Computer Science Prize for the Most Promising Student (1 person/year)</span>, 2023
