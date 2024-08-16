@@ -262,7 +262,7 @@ function showMoreProjects() {
 - NYU Presidential Honors Scholar and Summa cum Laude (Top 5%), 2024
 <!-- - NYU Founders' Day Award, 2024 -->
 - <span style="background-color: rgba(173, 216, 230, 0.5);">NYU Computer Science Prize for the Most Promising Student (1 person/year), 2023</span>
-- Dean's Undergraduate Research Fund ($5,000), 2023
+- NYU Dean's Undergraduate Research Fund, 2023
 - <span style="background-color: rgba(173, 216, 230, 0.5);">COMAP International Scholarship Award (Top 0.1%), 2022</span>
 - <span style="background-color: rgba(173, 216, 230, 0.5);">MAA Award in Mathematical Contest in Modeling (Top 0.1%), 2022</span>
 - Distinguished Honor Roll of American Mathematics Contest (Top 1%), 2020
