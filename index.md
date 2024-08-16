@@ -158,7 +158,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Fast Diffusion Transformers</b></span><br>
-    <em>DiT models with 2x speedup and 60% less memory, 500+ GitHub Stars.</em><br>
+    <em>DiT models with 2x speedup and 60% less memory, 600+ GitHub Stars.</em><br>
     <!-- Advised by <a href="https://www.sainingxie.com/">Prof. Saining Xie</a>. <br> -->
     <a href="https://github.com/chuanyangjin/fast-DiT">project</a>
   </div>
@@ -263,10 +263,10 @@ function showMoreProjects() {
 <!-- - NYU Founders' Day Award, 2024 -->
 - <span style="background-color: rgba(173, 216, 230, 0.5);">NYU Computer Science Prize for the Most Promising Student (1 person/year), 2023</span>
 - Dean's Undergraduate Research Fund ($5,000), 2023
-- <span style="background-color: rgba(173, 216, 230, 0.5);">COMAP International Scholarship Award (Top 0.1%), 2022</span>
+- <span style="background-color: rgba(173, 216, 230, 0.5);">COMAP International Scholarship Award (Top 0.1%, $10,000), 2022</span>
 - <span style="background-color: rgba(173, 216, 230, 0.5);">MAA Award in Mathematical Contest in Modeling (Top 0.1%), 2022</span>
 - Distinguished Honor Roll of American Mathematics Contest (Top 1%), 2020
-- Bronze Medal of Shing-Tung Yau Computer Science Award ($10,000), 2019
+- Bronze Medal of Shing-Tung Yau Computer Science Award (Top 1%, $10,000), 2019
 - Finalist of FIRST Robotics Competition World Championship (Top 0.2%), 2019
 - NFLS Outstanding Student Leader Award and Zhou Enlai Scholarship (Top 3%), 2019
 <!-- - Champion of International Regions Mathematics League, 2018 -->
