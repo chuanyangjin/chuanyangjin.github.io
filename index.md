@@ -45,10 +45,10 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 
 ## News
-+ [Aug, 2024] Honored to receive <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024!
-+ [May, 2024] [MMToM-QA](/mmtom-qa) ([slides](/assets/slides/MMToM-QA.pdf)) is accepted to ACL 2024. See you in Bangkok!
-+ [May, 2024] Released our [position paper](https://arxiv.org/abs/2405.10313) for ICLR 2024 AGI Workshop.
-+ [Dec, 2023] I am attending NeurIPS 2023. Feel free to reach out if you'd like to have a chat!
++ [Aug, 2024] Honored to receive <span style="color: #C04000;">Outstanding Paper Award</span> () at ACL 2024!
++ [May, 2024] [MMToM-QA](/mmtom-qa) ([slides](/assets/slides/MMToM-QA.pdf)) is accepted to ACL 2024 and nominated for awards. See you in Bangkok!
++ [May, 2024] Released our [position paper](https://arxiv.org/abs/2405.10313) for ICLR 2024 AGI Workshop
+<!-- + [Dec, 2023] I am attending NeurIPS 2023. Feel free to reach out if you'd like to have a chat! -->
 + [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
 + [May, 2023] Released [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) -- SOTA diffusion models with 2x speedup
 + [Apr, 2023] Received NYU Computer Science Prize for the Most Promising Student (1 person/year)
