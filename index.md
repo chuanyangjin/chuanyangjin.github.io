@@ -164,33 +164,34 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
 </div>
 
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/holistic_gpt.png" alt="publication teaser" width="100%" />
-  </div>
-  <div style="margin-left: 270px;">
-    <span style="font-size: 18px;"><b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b></span><br>
-    <b>Chuanyang Jin</b>,
-    <a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang</a>, 
-    <a href="https://www.tshu.io/">Tianmin Shu</a>,
-    <a href="https://zhihan-cui.weebly.com/">Zhihan Cui</a><br>
-    <a href="https://arxiv.org/abs/2308.14242">paper</a>
-  </div>
-</div>
-
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
-    <img src="/assets/img/projects/clipcap.png" alt="publication teaser" width="100%" />
-  </div>
-  <div style="margin-left: 270px;">
-    <span style="font-size: 18px;"><b>Self-Supervised Image Captioning with CLIP</b></span><br>
-    <b>Chuanyang Jin</b><br>
-    <span style="color: #6B90DE;">Self-Supervised Learning Workshop at NeurIPS 2023</span><br>
-    <a href="https://arxiv.org/abs/2306.15111">paper</a>
-  </div>
-</div>
 
 <div id="moreProjects" style="display:none;">
+  <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+    <div style="float: left; width: 250px;">
+      <img src="/assets/img/projects/holistic_gpt.png" alt="publication teaser" width="100%" />
+    </div>
+    <div style="margin-left: 270px;">
+      <span style="font-size: 18px;"><b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b></span><br>
+      <b>Chuanyang Jin</b>,
+      <a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang</a>, 
+      <a href="https://www.tshu.io/">Tianmin Shu</a>,
+      <a href="https://zhihan-cui.weebly.com/">Zhihan Cui</a><br>
+      <a href="https://arxiv.org/abs/2308.14242">paper</a>
+    </div>
+  </div>
+
+  <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+    <div style="float: left; width: 250px;">
+      <img src="/assets/img/projects/clipcap.png" alt="publication teaser" width="100%" />
+    </div>
+    <div style="margin-left: 270px;">
+      <span style="font-size: 18px;"><b>Self-Supervised Image Captioning with CLIP</b></span><br>
+      <b>Chuanyang Jin</b><br>
+      <span style="color: #6B90DE;">Self-Supervised Learning Workshop at NeurIPS 2023</span><br>
+      <a href="https://arxiv.org/abs/2306.15111">paper</a>
+    </div>
+  </div>
+
   <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
     <div style="float: left; width: 250px;">
       <img src="/assets/img/projects/autocorp.png" alt="publication teaser" width="100%" />
