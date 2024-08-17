@@ -59,9 +59,9 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
     <!-- <img src="/assets/img/publications/MMToM.png" alt="publication teaser" width="100%" /> -->
-    <video autoplay loop muted playsinline width="100%">
-      <source src="/assets/img/publications/MMToM-QA.mov" type="video/mp4">
-      Your browser does not support the video tag.
+    <video width="100%" autoplay loop muted>
+        <source src="/assets/img/publications/MMToM-QA.mp4" type="video/mp4">
+        Your browser does not support the video tag.
     </video>
   </div>
   <div style="margin-left: 270px;">
