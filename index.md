@@ -58,7 +58,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/publications/MMToM.png" alt="publication teaser" width="100%" />
+    <img src="/assets/img/publications/MMToM-QA.mov" alt="publication teaser" width="100%"/>
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>MMToM-QA: Multimodal Theory of Mind Question Answering</b></span><br>
