@@ -60,7 +60,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   <div style="float: left; width: 250px;">
     <!-- <img src="/assets/img/publications/MMToM.png" alt="publication teaser" width="100%" /> -->
     <video autoplay loop muted playsinline width="100%">
-      <source src="/assets/videos/MMToM-QA.mov" type="video/mp4">
+      <source src="/assets/img/publications/MMToM-QA.mov" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
