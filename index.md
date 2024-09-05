@@ -16,7 +16,7 @@ sitemap: true
 </head>
 
 
-I am an incoming CS PhD student at Johns Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Honors CS and Mathematics, and received CS Prize for the Most Promising Student from New York University. I was previously a visiting student at Massachusetts Institute of Technology working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
+I am a first-year CS PhD student at Johns Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Honors CS and Mathematics, and received CS Prize for the Most Promising Student from New York University. I was previously a visiting student at Massachusetts Institute of Technology working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
 <!-- I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about: -->
 <!-- Within Machine Learning, I am particularly interested in: -->
 
@@ -45,6 +45,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 
 
 ## News
++ [Sep, 2024] Invited talk at University of Washinton
 + [Aug, 2024] [MMToM-QA](/mmtom-qa) ([slides](/assets/slides/MMToM-QA.pdf)) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024!
 + [May, 2024] Released our [position paper](https://arxiv.org/abs/2405.10313) for ICLR 2024 AGI Workshop
 <!-- + [Dec, 2023] I am attending NeurIPS 2023. Feel free to reach out if you'd like to have a chat! -->
