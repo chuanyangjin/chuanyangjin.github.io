@@ -15,8 +15,7 @@ sitemap: true
   </style>
 </head>
 
-
-I am a first-year CS PhD student at Johns Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Honors CS and Mathematics, and received CS Prize for the Most Promising Student from New York University. I was previously a visiting student at Massachusetts Institute of Technology working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
+I am a first-year CS PhD student at Johns Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Honors CS and Mathematics from New York University, where I received CS Prize for the Most Promising Student. I was previously a visiting student at Massachusetts Institute of Technology working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
 <!-- I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about: -->
 <!-- Within Machine Learning, I am particularly interested in: -->
 
@@ -30,13 +29,9 @@ Here are some research directions I’m excited about:
 
 
 <!--
-I obtained my B.A. in Computer Science and Mathematics with the highest honors from NYU, where I was fortunate to work with [Prof. Oded Regev](https://cims.nyu.edu/~regev/), [Prof. Saining Xie](https://www.sainingxie.com/) and [Prof. He He](https://hhexiy.github.io/).
-
 + **AI Agents**: leverage foundation models to build autonomous agents that interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
 + **Social Intelligence**: develop socially intelligent agents that learn efficiently and collaborate effectively with humans, and improve their learning, generalization, coordination, and interaction.
-
-+ **Foundation Models**: enhance the robustness, truthfulness, and instruction-adherence of foundation models through diverse experiences (e.g., data instances, structured knowledge, embodied experiences).
 
 I'm also fascinated by diffusion models, representation learning, and AI for science.
 --> 
@@ -48,7 +43,6 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 + [Sep, 2024] Invited talk at University of Washinton
 + [Aug, 2024] [MMToM-QA](/mmtom-qa) ([slides](/assets/slides/MMToM-QA.pdf)) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024!
 + [May, 2024] Released our [position paper](https://arxiv.org/abs/2405.10313) for ICLR 2024 AGI Workshop
-<!-- + [Dec, 2023] I am attending NeurIPS 2023. Feel free to reach out if you'd like to have a chat! -->
 + [May, 2023] I am joining MIT Cocosci and CSAIL as a visiting student
 + [May, 2023] Released [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) -- SOTA diffusion models with 2x speedup
 + [Apr, 2023] Received NYU Computer Science Prize for the Most Promising Student (1 person/year)
