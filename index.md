@@ -15,11 +15,9 @@ sitemap: true
   </style>
 </head>
 
-I am a first-year CS PhD student at Johns Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Honors CS and Mathematics from New York University, where I received CS Prize for the Most Promising Student. I was previously a visiting student at Massachusetts Institute of Technology working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
-<!-- I am broadly interested in Natural Language Processing and Computer Vision. Here are some directions I’m particularly excited about: -->
-<!-- Within Machine Learning, I am particularly interested in: -->
+I am a 1st-year CS PhD student at Johns Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Honors CS and Mathematics from New York University, where I received CS Prize for the Most Promising Student. I was previously a visiting student at Massachusetts Institute of Technology working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/).
 
-Here are some research directions I’m excited about:
+Here are some research directions I'm excited about:
 
 + **Deliberate Reasoning**: combine language models, agent models, and world models in a cognitively grounded way, and promote more robust and versatile reasoning across multiple modalities.
 
@@ -29,14 +27,12 @@ Here are some research directions I’m excited about:
 
 
 <!--
-+ **AI Agents**: leverage foundation models to build autonomous agents that interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
-
 + **Social Intelligence**: develop socially intelligent agents that learn efficiently and collaborate effectively with humans, and improve their learning, generalization, coordination, and interaction.
 
 I'm also fascinated by diffusion models, representation learning, and AI for science.
 --> 
 
-Besides academics, I enjoy roaming in movies and books. I am an avid reader of history and scientific fiction, as well as a dedicated writer read by more than 16,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, hiking and so much more.
+Besides academics, I enjoy roaming in movies and books. I am an avid reader of scientific fiction and history, as well as a dedicated writer read by more than 17,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, hiking and so much more.
 
 
 ## News
@@ -48,11 +44,11 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
 + [Apr, 2023] Received NYU Computer Science Prize for the Most Promising Student (1 person/year)
 
 
-## Research
+## Selected Publications
+For full publication list, please refer to my <img src="/assets/img/google-scholar.svg"> [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <!-- <img src="/assets/img/publications/MMToM.png" alt="publication teaser" width="100%" /> -->
     <video width="100%" autoplay loop muted>
         <source src="/assets/img/publications/MMToM-QA.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -76,8 +72,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
-    <a href="/assets/slides/MMToM-QA.pdf">slides</a> /
-    <a href="https://x.com/chuanyang_jin/status/1748336997532315756">twitter </a>
+    <a href="/assets/slides/MMToM-QA.pdf">slides</a>
+    <!-- <a href="https://x.com/chuanyang_jin/status/1748336997532315756">twitter </a> -->
   </div>
 </div>
 
@@ -87,8 +83,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
-    <b>Chuanyang Jin*</b>,
     <a href="https://github.com/ft2023">Tao Feng*</a>,
+    <b>Chuanyang Jin*</b>,
     <a href="https://jingyu6.github.io/">Jingyu Liu*</a>,
     <a href="https://github.com/Kunlun-Zhu">Kunlun Zhu*</a>,
     <a href="https://github.com/ImKeTT">Haoqin Tu</a>,
@@ -98,9 +94,9 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <span style="color: #6B90DE;">Under Review</span><br>
     <span style="color: #C04000;">Position Paper for ICLR 2024 AGI Workshop</span><br>
     <a href="https://arxiv.org/abs/2405.10313">paper</a> /
-    <a href="https://github.com/ulab-uiuc/AGI-survey">project</a> /
-    <a href="https://agiworkshop.github.io/">workshop</a> /
-    <a href="https://x.com/youjiaxuan/status/1791482599816446027">twitter </a>
+    <a href="https://github.com/ulab-uiuc/AGI-survey">project</a>
+    <!-- <a href="https://agiworkshop.github.io/">workshop</a> /
+    <a href="https://x.com/youjiaxuan/status/1791482599816446027">twitter </a> -->
   </div>
 </div>
 
@@ -126,7 +122,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
   </div>
 </div>
 
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+<!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
     <img src="/assets/img/publications/nuclear.png" alt="publication teaser" width="100%" />
   </div>
@@ -145,7 +141,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of h
     <span style="color: #6B90DE;">Under Review</span><br>
     <a href="https://www.biorxiv.org/content/10.1101/2024.02.29.581881v1">paper</a>
   </div>
-</div>
+</div> -->
 
 
 ## Projects
