@@ -44,8 +44,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of s
 
 
 ## Selected Publications
-For full publication list, please refer to my <img src="/assets/img/google-scholar.svg" alt="Google Scholar" style="width: 20px; height: 20px; vertical-align: middle;"> [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).
-<br>
+For full publication list, please refer to my <img src="/assets/icons/google-scholar.svg" alt="Google Scholar" style="width: 20px; height: 20px; vertical-align: middle;"> [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br>
+
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
@@ -56,16 +56,7 @@ For full publication list, please refer to my <img src="/assets/img/google-schol
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>MMToM-QA: Multimodal Theory of Mind Question Answering</b></span><br>
-    <b>Chuanyang Jin</b>,
-    <a href="https://www.linkedin.com/in/yutong-wu-a5a575209/">Yutong Wu</a>,
-    <a href="https://www.linkedin.com/in/jingcao26/">Jing Cao</a>,
-    <a href="https://szxiangjn.github.io/">Jiannan Xiang</a>,
-    <a href="https://yenlingkuo.com/">Yen-Ling Kuo</a>,
-    <a href="http://zhiting.ucsd.edu/">Zhiting Hu</a>,
-    <a href="https://www.tomerullman.org/">Tomer Ullman</a>,
-    <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>,
-    <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
-    <a href="https://www.tshu.io/">Tianmin Shu</a><br>
+    <b>Chuanyang Jin</b>, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu<br>
     <span style="color: #6B90DE;">ACL 2024</span><br>
     <!-- <i>Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), 2024</i><br> -->
     <span style="color: #C04000;">Outstanding Paper Award</span><br>
@@ -83,14 +74,7 @@ For full publication list, please refer to my <img src="/assets/img/google-schol
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
-    <a href="https://github.com/ft2023">Tao Feng*</a>,
-    <b>Chuanyang Jin*</b>,
-    <a href="https://jingyu6.github.io/">Jingyu Liu*</a>,
-    <a href="https://github.com/Kunlun-Zhu">Kunlun Zhu*</a>,
-    <a href="https://github.com/ImKeTT">Haoqin Tu</a>,
-    <a href="https://www.linkedin.com/in/zirui-cheng-044024284/">Zirui Cheng</a>,
-    <a href="https://guanyu-lin.github.io/">Guanyu Lin</a>,
-    <a href="https://cs.stanford.edu/people/jiaxuan/">Jiaxuan You</a><br>
+    Tao Feng*, <b>Chuanyang Jin*</b>, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You<br>
     <span style="color: #6B90DE;">Under Review</span><br>
     <span style="color: #C04000;">Position Paper for ICLR 2024 AGI Workshop</span><br>
     <a href="https://arxiv.org/abs/2405.10313">paper</a> /
@@ -106,12 +90,7 @@ For full publication list, please refer to my <img src="/assets/img/google-schol
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Neural Amortized Inference for Nested Multi-agent Reasoning</b></span><br>
-    <a href="https://kjha02.github.io/">Kunal Jha</a>, 
-    <a href="https://www.tuananhle.co.uk/">Tuan Anh Le</a>, 
-    <b>Chuanyang Jin</b>, 
-    <a href="https://yenlingkuo.com/">Yen-Ling Kuo</a>, 
-    <a href="http://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a>,
-    <a href="https://www.tshu.io/">Tianmin Shu</a><br>
+    Kunal Jha, Tuan Anh Le, <b>Chuanyang Jin</b>, Yen-Ling Kuo, Joshua Tenenbaum, Tianmin Shu<br>
     <span style="color: #6B90DE;">AAAI 2024</span><br>
     <!-- <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2024</i><br> -->
     <span style="color: #C04000;">Oral Presentation at AAAI Summer Symposium</span><br>
