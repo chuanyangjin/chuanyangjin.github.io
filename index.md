@@ -133,7 +133,7 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
     <span style="font-size: 18px;"><b>Fast Diffusion Transformers</b></span><br>
     <em>DiT models with 2x speedup and 60% less memory, 600+ GitHub Stars.</em><br>
     <!-- Advised by <a href="https://www.sainingxie.com/">Prof. Saining Xie</a>. <br> -->
-    <a href="https://github.com/chuanyangjin/fast-DiT">project</a>
+    <a href="https://github.com/chuanyangjin/fast-DiT">code</a>
   </div>
 </div>
 
@@ -145,10 +145,8 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
     </div>
     <div style="margin-left: 270px;">
       <span style="font-size: 18px;"><b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b></span><br>
-      <b>Chuanyang Jin</b>,
-      <a href="https://www.linkedin.com/in/songyang-zhang-306956185/">Songyang Zhang</a>, 
-      <a href="https://www.tshu.io/">Tianmin Shu</a>,
-      <a href="https://zhihan-cui.weebly.com/">Zhihan Cui</a><br>
+      <em>We probe the cultural cognitive traits of ChatGPT.</em><br>
+      Authors: <b>Chuanyang Jin</b>, Songyang Zhang, Tianmin Shu, Zhihan Cui<br>
       <a href="https://arxiv.org/abs/2308.14242">paper</a>
     </div>
   </div>
@@ -159,8 +157,8 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
     </div>
     <div style="margin-left: 270px;">
       <span style="font-size: 18px;"><b>Self-Supervised Image Captioning with CLIP</b></span><br>
-      <b>Chuanyang Jin</b><br>
-      <span style="color: #6B90DE;">Self-Supervised Learning Workshop at NeurIPS 2023</span><br>
+      <em>Presented at Self-Supervised Learning Workshop, NeurIPS 2023.</em><br>
+      Author: <b>Chuanyang Jin</b><br>
       <a href="https://arxiv.org/abs/2306.15111">paper</a>
     </div>
   </div>
@@ -214,8 +212,8 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
       <em>Our system was adopted by leading hospitals.</em><br>
       <a href="http://www.yau-awards.com/lists-winnerslist.html">Bronze Medal</a> (Top 5/500, $10,000),<br>
       Shing-Tung Yau Computer Science Award 2019<br>
-      <a href="https://drive.google.com/file/d/1Zdp33tiYmoppAdzMCOH_P44jzu6V9yW-/view?usp=sharing">demo</a> / 
       <a href="https://oss.linstitute.net/wechatimg/2019/12/qiuchengtong2019combronze3.pdf">report</a> /
+      <a href="https://drive.google.com/file/d/1Zdp33tiYmoppAdzMCOH_P44jzu6V9yW-/view?usp=sharing">demo</a> / 
       <a href="/assets/slides/Yau_Gene_Mutation_Detection.pdf">slides</a>
     </div>
   </div>
