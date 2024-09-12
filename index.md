@@ -157,7 +157,7 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
     </div>
     <div style="margin-left: 270px;">
       <span style="font-size: 18px;"><b>Self-Supervised Image Captioning with CLIP</b></span><br>
-      <em>Presented at Self-Supervised Learning Workshop, NeurIPS 2023.</em><br>
+      <em>Presented at the Self-Supervised Learning Workshop, NeurIPS 2023.</em><br>
       Author: <b>Chuanyang Jin</b><br>
       <a href="https://arxiv.org/abs/2306.15111">paper</a>
     </div>
