@@ -16,7 +16,7 @@ sitemap: true
 
   <style>
   .authors {
-      color: #757575;
+      color: #666666;
     }
   </style>
 
@@ -72,14 +72,11 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
     <span style="font-size: 18px;"><b>MMToM-QA: Multimodal Theory of Mind Question Answering</b></span><br>
     <b>Chuanyang Jin</b>
     <span class="authors">, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu</span><br>
-    <!-- <span style="color: #6B90DE;">ACL 2024</span><br> -->
     <b>ACL 2024 <span class="red">(Outstanding Paper Award)</span></b><br>
-    <!-- <i>Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), 2024</i><br> -->
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
     <a href="/assets/slides/MMToM-QA.pdf">slides</a>
-    <!-- <a href="https://x.com/chuanyang_jin/status/1748336997532315756">twitter </a> -->
   </div>
 </div>
 
@@ -90,10 +87,9 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
     <span class="authors">Tao Feng*,</span>
-    <b>Chuanyang Jin</b>
-    <span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
+    <b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
     <b>ArXiv 2024</b><br>
-    <b><span class="red">Position Paper for ICLR 2024 AGI Workshop</span><br><br>
+    <b><span class="red">Position Paper for ICLR 2024 AGI Workshop</span></b><br>
     <a href="https://arxiv.org/abs/2405.10313">paper</a> /
     <a href="https://github.com/ulab-uiuc/AGI-survey">project</a>
     <!-- <a href="https://agiworkshop.github.io/">workshop</a> /
