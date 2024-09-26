@@ -59,7 +59,7 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of s
 
 ## Selected Publications
 <!-- For full publication list, please refer to my <img src="/assets/icons/google-scholar.svg" alt="Google Scholar" style="width: 20px; height: 20px; vertical-align: middle;"> [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br> -->
-For a more complete list, see the [publications page](/publications), or my [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br>
+For a more complete list, see the [publication page](/publication), or my [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br>
 
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
@@ -112,6 +112,7 @@ For a more complete list, see the [publications page](/publications), or my [Goo
   </div>
 </div>
 
+You can also check out my [project page](/projects) to view my undergrad and high school projects. A mountain of gratitude to those who have kindly mentored and inspired me with their vision and passion!
 
 ## Selected Honors & Awards
 - <span style="background-color: rgba(173, 216, 230, 0.5);">Outstanding Paper Award, ACL 2024</span>
