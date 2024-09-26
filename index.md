@@ -16,7 +16,7 @@ sitemap: true
 
   <style>
   .authors {
-      color: #60716B;
+      color: #132C33;
     }
   </style>
 
@@ -90,8 +90,7 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
     <span class="authors">Tao Feng*,</span>
-    <b>Chuanyang Jin</b>
-    <span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
+    <b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
     <b>ArXiv 2024</b><br>
     <span class="red">Position Paper for ICLR 2024 AGI Workshop</span><br>
     <a href="https://arxiv.org/abs/2405.10313">paper</a> /
