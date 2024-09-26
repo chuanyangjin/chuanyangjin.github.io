@@ -10,7 +10,7 @@ a::after, a.external::after {
 </style>
 
 
-I am from [Nanjing](https://en.wikipedia.org/wiki/Nanjing), China, and have also lived in Shanghai, New York, and Boston.
+I am from [Nanjing](https://en.wikipedia.org/wiki/Nanjing), China, and have also lived in Shanghai, New York, Boston, and Baltimore.
 
 My personality type is INFJ. I’m a [Ravenclaw](https://www.wizardingworld.com/collections/ravenclaw).
 
@@ -26,13 +26,3 @@ I‘m a Go player adapting to the era of AI.
 I'm learning photography.
 
 I love cats!
-
-<!-- ---
-
-Here are some of my notes:
-
-+ [NYU Course Notes & Resources](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources)
-
-+ [Paper Reading Notes](https://github.com/chuanyangjin/Paper-Reading)
-
-+ [Practicing AI + Biology Research](https://chuanyangjin.github.io/AIbio) -->

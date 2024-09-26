@@ -66,7 +66,7 @@ Presented at <b>AAAI Summer Symposium <span class="red">(Oral)</span></b><br>
 <a href="https://arxiv.org/abs/2308.11071">paper</a> /
 <a href="https://www.tshu.io/nested_reasoning/">project</a> /
 <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
-<a href="/assets/slides/Nested_Reasoning.pdf">slides</a><br>
+<a href="/assets/slides/Nested_Reasoning.pdf">slides</a>
 <br>
 
 <span style="font-size: 18px;"><b>Dynamics of RNA Localization to Nuclear Speckles are Connected to Splicing Efficiency</b></span><br>
