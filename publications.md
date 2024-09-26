@@ -75,5 +75,3 @@ Presented at <b>AAAI Summer Symposium <span class="red">(Oral)</span></b><br>
 <b>Science Advances 2024</b><br>
 <a href="https://www.biorxiv.org/content/10.1101/2024.02.29.581881v1">paper</a>
 <br>
-
-You can visit my [project page](/projects) view the projects I completed during my undergrad and high school years. A mountain of gratitude to those who have kindly mentored me and inspired me with their vision and passion!

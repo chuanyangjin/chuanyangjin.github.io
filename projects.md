@@ -120,3 +120,5 @@ description: >
     <a href="/assets/slides/Yau_Gene_Mutation_Detection.pdf">slides</a>
   </div>
 </div>
+
+You can also visit my [project page](/projects) to view the projects I completed during my undergrad and high school years. A mountain of gratitude to those who have kindly mentored and inspired me with their vision and passion!
