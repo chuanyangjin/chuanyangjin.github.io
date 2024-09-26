@@ -13,6 +13,18 @@ sitemap: true
     display: none !important;
   }
   </style>
+
+  <style>
+  .authors {
+      color: #60716B;
+    }
+  </style>
+
+  <style>
+  .red {
+      color: #60716B;
+    }
+  </style>
 </head>
 
 I am a 1st-year CS PhD student at Johns Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Honors CS and Mathematics from New York University, where I received CS Prize for the Most Promising Student. Previously, I was a research intern at Massachusetts Institute of Technology and Shanghai AI Lab.
@@ -58,11 +70,11 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>MMToM-QA: Multimodal Theory of Mind Question Answering</b></span><br>
-    <b>Chuanyang Jin</b><span style="color: #60716B;">, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu</span><br>
+    <b>Chuanyang Jin</b>
+    <span class="authors">, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu</span><br>
     <!-- <span style="color: #6B90DE;">ACL 2024</span><br> -->
-    ACL 2024<br>
+    <b>ACL 2024</b> <span class="red">Outstanding Paper Award</span><br>
     <!-- <i>Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), 2024</i><br> -->
-    <span style="color: #C04000;">Outstanding Paper Award</span><br>
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
@@ -77,9 +89,11 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
-    Tao Feng*, <b>Chuanyang Jin*</b>, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You<br>
+    <span class="authors">Tao Feng*,</span> 
+    <b>Chuanyang Jin*</b>
+    <span class="authors">, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
     <span style="color: #6B90DE;">Under Review</span><br>
-    <span style="color: #C04000;">Position Paper for ICLR 2024 AGI Workshop</span><br>
+    <span class="red">Position Paper for ICLR 2024 AGI Workshop</span><br>
     <a href="https://arxiv.org/abs/2405.10313">paper</a> /
     <a href="https://github.com/ulab-uiuc/AGI-survey">project</a>
     <!-- <a href="https://agiworkshop.github.io/">workshop</a> /
@@ -87,7 +101,7 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
   </div>
 </div>
 
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+<!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
     <img src="/assets/img/publications/nested_reasoning.png" alt="publication teaser" width="100%" />
   </div>
@@ -95,14 +109,14 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
     <span style="font-size: 18px;"><b>Neural Amortized Inference for Nested Multi-agent Reasoning</b></span><br>
     Kunal Jha, Tuan Anh Le, <b>Chuanyang Jin</b>, Yen-Ling Kuo, Joshua Tenenbaum, Tianmin Shu<br>
     <span style="color: #6B90DE;">AAAI 2024</span><br>
-    <!-- <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2024</i><br> -->
+    <!-- <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2024</i><br>
     <span style="color: #C04000;">Oral Presentation at AAAI Summer Symposium</span><br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /
     <a href="https://www.tshu.io/nested_reasoning/">project</a> /
     <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
     <a href="/assets/slides/Nested_Reasoning.pdf">slides</a><br>
   </div>
-</div>
+</div> -->
 
 <!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
