@@ -58,7 +58,8 @@ Besides academics, I enjoy roaming in movies and books. I am an avid reader of s
 
 
 ## Selected Publications
-For full publication list, please refer to my <img src="/assets/icons/google-scholar.svg" alt="Google Scholar" style="width: 20px; height: 20px; vertical-align: middle;"> [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br>
+<!-- For full publication list, please refer to my <img src="/assets/icons/google-scholar.svg" alt="Google Scholar" style="width: 20px; height: 20px; vertical-align: middle;"> [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br> -->
+For a more complete list, see the [publications page](/publications), or my <img src="/assets/icons/google-scholar.svg" alt="Google Scholar" style="width: 20px; height: 20px; vertical-align: middle;"> [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br>
 
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
@@ -110,27 +111,6 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
     <a href="/assets/slides/Nested_Reasoning.pdf">slides</a><br>
   </div>
 </div>
-
-<!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
-    <img src="/assets/img/publications/nuclear.png" alt="publication teaser" width="100%" />
-  </div>
-  <div style="margin-left: 270px;">
-    <span style="font-size: 18px;"><b>Dynamics of RNA Localization to Nuclear Speckles are Connected to Splicing Efficiency</b></span><br>
-    <a href="https://feilab.uchicago.edu/group.html">Jinjun Wu*</a>,
-    <a href="https://feilab.uchicago.edu/group.html">Yu Xiao*</a>, 
-    <a href="https://feilab.uchicago.edu/group.html">Yunzheng Liu*</a>,
-    <a href="https://feilab.uchicago.edu/group.html">Li Wen</a>, 
-    <b>Chuanyang Jin</b>,
-    <a href="https://scholar.google.com/citations?user=zwZ8k9gAAAAJ&hl=zh-CN">Shun Liu</a>, 
-    <a href="https://feilab.uchicago.edu/group.html">Sneha Paul</a>, 
-    <a href="https://he-group.uchicago.edu/">Chuan He</a>, 
-    <a href="https://cims.nyu.edu/~regev/">Oded Regev</a>, 
-    <a href="https://feilab.uchicago.edu/group.html">Jingyi Fei</a><br>
-    <span style="color: #6B90DE;">Under Review</span><br>
-    <a href="https://www.biorxiv.org/content/10.1101/2024.02.29.581881v1">paper</a>
-  </div>
-</div> -->
 
 
 ## Projects
