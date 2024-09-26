@@ -32,7 +32,7 @@ description: >
 
 <div style="margin-bottom: 25px;">
 <span style="font-size: 18px;"><b>MuMA-ToM: Multi-modal Multi-Agent Theory of Mind</b></span><br>
-<span class="authors">Haojun Shi\*, Suyu Ye\*, Xinyu Fang,</span> 
+<span class="authors">Haojun Shi*, Suyu Ye*, Xinyu Fang,</span> 
 <b>Chuanyang Jin</b><span class="authors">, Leyla Isik, Yen-Ling Kuo, Tianmin Shu</span><br>
 <b>ArXiv 2024</b><br>
 <a href="https://arxiv.org/abs/2408.12574">paper</a> /
@@ -52,8 +52,8 @@ description: >
 
 <div style="margin-bottom: 25px;">
 <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
-<span class="authors">Tao Feng\*,</span>
-<b>Chuanyang Jin</b><span class="authors">\*, Jingyu Liu\*, Kunlun Zhu\*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
+<span class="authors">Tao Feng*,</span>
+<b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
 <b>ArXiv 2024</b><br>
 <b><span class="red">Position Paper for ICLR 2024 AGI Workshop</span></b><br>
 <a href="https://arxiv.org/abs/2405.10313">paper</a> /
@@ -74,7 +74,7 @@ Presented at <b>AAAI Summer Symposium <span class="red">(Oral)</span></b><br>
 
 <div style="margin-bottom: 25px;">
 <span style="font-size: 18px;"><b>Dynamics of RNA Localization to Nuclear Speckles are Connected to Splicing Efficiency</b></span><br>
-<span class="authors">Jinjun Wu\*, Yu Xiao\*, Yunzheng Liu\*, Li Wen,</span> 
+<span class="authors">Jinjun Wu*, Yu Xiao*, Yunzheng Liu*, Li Wen,</span> 
 <b>Chuanyang Jin</b><span class="authors">, Shun Liu, Sneha Paul, Chuan He, Oded Regev, Jingyi Fei</span><br>
 <b>Science Advances 2024</b><br>
 <a href="https://www.biorxiv.org/content/10.1101/2024.02.29.581881v1">paper</a>
