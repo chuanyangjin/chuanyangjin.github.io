@@ -16,7 +16,7 @@ sitemap: true
 
   <style>
   .authors {
-      color: #9E9E9E;
+      color: #757575;
     }
   </style>
 
@@ -93,7 +93,7 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
     <b>Chuanyang Jin</b>
     <span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
     <b>ArXiv 2024</b><br>
-    <span class="red">Position Paper for ICLR 2024 AGI Workshop</span><br>
+    <b><span class="red">Position Paper for ICLR 2024 AGI Workshop</span><br><br>
     <a href="https://arxiv.org/abs/2405.10313">paper</a> /
     <a href="https://github.com/ulab-uiuc/AGI-survey">project</a>
     <!-- <a href="https://agiworkshop.github.io/">workshop</a> /
