@@ -112,7 +112,7 @@ For a more complete list, see the [publication page](/publications), or my [Goog
   </div>
 </div>
 
-You can also check out my [project page](/projects) to view my undergrad and high school projects. A mountain of gratitude to those who have kindly mentored and inspired me with their vision and passion!
+You can also check out the [project page](/projects) to view my undergrad and high school projects. A mountain of gratitude to those who have kindly mentored me and inspired me with their vision and passion!
 
 ## Selected Honors & Awards
 - <span style="background-color: rgba(173, 216, 230, 0.5);">Outstanding Paper Award, ACL 2024</span>
