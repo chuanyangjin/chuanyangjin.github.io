@@ -70,8 +70,7 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>MMToM-QA: Multimodal Theory of Mind Question Answering</b></span><br>
-    <b>Chuanyang Jin</b>
-    <span class="authors">, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu</span><br>
+    <b>Chuanyang Jin</b><span class="authors">, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu</span><br>
     <b>ACL 2024 <span class="red">(Outstanding Paper Award)</span></b><br>
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
@@ -92,8 +91,6 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
     <b><span class="red">Position Paper for ICLR 2024 AGI Workshop</span></b><br>
     <a href="https://arxiv.org/abs/2405.10313">paper</a> /
     <a href="https://github.com/ulab-uiuc/AGI-survey">project</a>
-    <!-- <a href="https://agiworkshop.github.io/">workshop</a> /
-    <a href="https://x.com/youjiaxuan/status/1791482599816446027">twitter </a> -->
   </div>
 </div>
 
@@ -104,8 +101,7 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Neural Amortized Inference for Nested Multi-agent Reasoning</b></span><br>
     <span class="authors">Kunal Jha, Tuan Anh Le, </span>
-    <b>Chuanyang Jin</b>
-    <span class="authors">, Yen-Ling Kuo, Joshua Tenenbaum, Tianmin Shu</span><br>
+    <b>Chuanyang Jin</b><span class="authors">, Yen-Ling Kuo, Joshua Tenenbaum, Tianmin Shu</span><br>
     <b>AAAI 2024</b><br>
     Presented at <b>AAAI Summer Symposium <span class="red">(Oral)</span></b><br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /

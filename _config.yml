@@ -42,7 +42,7 @@ logo:                  /assets/img/me.jpg
 author:
   # Used by `jekyll-feed`:
   name:                Chuanyang Jin
-  email:               cj2133@nyu.edu
+  email:               cjin33@jhu.edu
   picture:             /assets/img/me.jpg
 
   # # Used by `jekyll-seo-tag`:
@@ -50,12 +50,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Research
-    url:               /#research
-  #- title:             Publications
-  #  url:               /publications/
-  - title:             Projects
-    url:               /#projects
+  - title:             Publications
+    url:               /publications
+  # - title:           Projects
+  #   url:             /#projects
   - title:             Misc
     url:               /misc/
   #- title:             Résumé*
