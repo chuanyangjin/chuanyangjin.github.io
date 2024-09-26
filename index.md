@@ -58,7 +58,7 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>MMToM-QA: Multimodal Theory of Mind Question Answering</b></span><br>
-    <b>Chuanyang Jin</b><span style="color: #808080;">, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu</span><br>
+    <b>Chuanyang Jin</b><span style="color: #A9A9A9;">, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu</span><br>
     <!-- <span style="color: #6B90DE;">ACL 2024</span><br> -->
     ACL 2024<br>
     <!-- <i>Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), 2024</i><br> -->
