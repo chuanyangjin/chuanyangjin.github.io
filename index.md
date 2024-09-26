@@ -73,7 +73,7 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
     <b>Chuanyang Jin</b>
     <span class="authors">, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu</span><br>
     <!-- <span style="color: #6B90DE;">ACL 2024</span><br> -->
-    ACL 2024 <span class="red">(Outstanding Paper Award)</span><br>
+    <b>ACL 2024 <span class="red">(Outstanding Paper Award)</span></b><br>
     <!-- <i>Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), 2024</i><br> -->
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
@@ -89,10 +89,10 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
-    <span class="authors">Tao Feng*,</span> 
+    <span class="authors">Tao Feng*,</span>
     <b>Chuanyang Jin</b>
     <span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
-    Under Review<br>
+    <b>ArXiv 2024</b><br>
     <span class="red">Position Paper for ICLR 2024 AGI Workshop</span><br>
     <a href="https://arxiv.org/abs/2405.10313">paper</a> /
     <a href="https://github.com/ulab-uiuc/AGI-survey">project</a>
@@ -101,22 +101,23 @@ For full publication list, please refer to my <img src="/assets/icons/google-sch
   </div>
 </div>
 
-<!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
     <img src="/assets/img/publications/nested_reasoning.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Neural Amortized Inference for Nested Multi-agent Reasoning</b></span><br>
-    Kunal Jha, Tuan Anh Le, <b>Chuanyang Jin</b>, Yen-Ling Kuo, Joshua Tenenbaum, Tianmin Shu<br>
-    <span style="color: #6B90DE;">AAAI 2024</span><br>
-    <!-- <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2024</i><br>
-    <span style="color: #C04000;">Oral Presentation at AAAI Summer Symposium</span><br>
+    <span class="authors">Kunal Jha, Tuan Anh Le, </span>
+    <b>Chuanyang Jin</b>
+    <span class="authors">, Yen-Ling Kuo, Joshua Tenenbaum, Tianmin Shu</span><br>
+    <b>AAAI 2024</b><br>
+    Presented at <b>AAAI Summer Symposium <span class="red">(Oral)</span></b><br>
     <a href="https://arxiv.org/abs/2308.11071">paper</a> /
     <a href="https://www.tshu.io/nested_reasoning/">project</a> /
     <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
     <a href="/assets/slides/Nested_Reasoning.pdf">slides</a><br>
   </div>
-</div> -->
+</div>
 
 <!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
