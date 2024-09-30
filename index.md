@@ -88,7 +88,7 @@ For a more complete list, see the [publication page](/publications), or my [Goog
     <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
     <span class="authors">Tao Feng*,</span>
     <b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
-    <b>ArXiv 2024</b><br>
+    <b>TMLR 2024</b><br>
     <b><span class="red">Position Paper for ICLR 2024 AGI Workshop</span></b><br>
     <a href="https://arxiv.org/abs/2405.10313">paper</a> /
     <a href="https://github.com/ulab-uiuc/AGI-survey">project</a>
