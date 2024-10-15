@@ -76,7 +76,8 @@ For a more complete list, see the [publication page](/publications), or my [Goog
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
-    <a href="/assets/slides/MMToM-QA.pdf">slides</a>
+    <a href="/assets/slides/MMToM-QA.pdf">slides</a> /
+    <a href="https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/">news</a>
   </div>
 </div>
 
