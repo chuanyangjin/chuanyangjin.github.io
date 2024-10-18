@@ -31,13 +31,15 @@ I am a 1st-year CS PhD student at Johns Hopkins University, advised by [Prof. Ti
 
 <!-- I was previously a visiting student at Massachusetts Institute of Technology working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/). -->
 
-Here are some research directions I'm excited about:
+<!-- Here are some research directions I'm excited about: -->
+I love working on exciting and game-changing research problems. Here are my current areas of focus:
 
-+ **Deliberate Reasoning**: combine language models, agent models, and world models in a cognitively grounded way, and promote more robust and versatile reasoning across multiple modalities.
++ **Social Intelligence**: create agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among agents.
 
 + **AI Agents**: build the next generation of language agents that can interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
-+ **Social Intelligence**: create agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among agents.
++ **System-2 Reasoning**: combine language models, agent models, and world models in a cognitively grounded way, and promote more robust and versatile reasoning across various modalities.
+
 
 
 <!--
