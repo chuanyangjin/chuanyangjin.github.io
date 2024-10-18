@@ -12,7 +12,9 @@ a::after, a.external::after {
 
 I am from [Nanjing](https://en.wikipedia.org/wiki/Nanjing), China, and have also lived in Shanghai, New York, Boston, and Baltimore.
 
-My personality type is INFJ. I’m a [Ravenclaw](https://www.wizardingworld.com/collections/ravenclaw).
+My personality type is [INFJ](https://www.16personalities.com/infj-personality). I’m a [Ravenclaw](https://www.wizardingworld.com/collections/ravenclaw).
+
+I am an avid reader of scientific fiction and history, as well as a dedicated writer read by more than 17,000,000 times on online platforms.
 
 I've watched over 1,000 movies. I enjoy Drama, Mystery and Sci-Fi, and have also studied Cinema Novo.
 <!-- My favourite director is [Christopher Nolan](https://www.imdb.com/name/nm0634240/). -->

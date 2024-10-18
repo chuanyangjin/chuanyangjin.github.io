@@ -34,21 +34,15 @@ I am a 1st-year CS PhD student at Johns Hopkins University, advised by [Prof. Ti
 <!-- Here are some research directions I'm excited about: -->
 I love working on exciting and game-changing research problems. Here are my current areas of focus:
 
-+ **Social Intelligence**: create agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among agents.
-
-+ **AI Agents**: build the next generation of language agents that can interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
++ **Social Intelligence**: create agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among them.
 
 + **System-2 Reasoning**: combine language models, agent models, and world models in a cognitively grounded way, and promote more robust and versatile reasoning across various modalities.
 
++ **Agents**: build the next generation of language agents that can interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
+<!-- Besides academics, I enjoy roaming in movies and books. I am an avid reader of scientific fiction and history, as well as a dedicated writer read by more than 17,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, hiking and so much more. -->
 
-<!--
-+ **Social Intelligence**: develop socially intelligent agents that learn efficiently and collaborate effectively with humans, and improve their learning, generalization, coordination, and interaction.
-
-I'm also fascinated by diffusion models, representation learning, and AI for science.
---> 
-
-Besides academics, I enjoy roaming in movies and books. I am an avid reader of scientific fiction and history, as well as a dedicated writer read by more than 17,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, hiking and so much more.
+Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much more](/misc).
 
 
 ## News
