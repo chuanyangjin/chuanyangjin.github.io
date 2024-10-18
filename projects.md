@@ -48,7 +48,8 @@ description: >
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b></span><br>
-    <em>Let's probe the cultural cognitive traits of ChatGPT.</em><br>
+    <!-- <em>Let's explore the cultural cognitive traits of ChatGPT.</em><br> -->
+    <em>“One day they'll have secrets. One day they'll have dreams.”</em>
     Authors: <b>Chuanyang Jin</b>, Songyang Zhang, Tianmin Shu, Zhihan Cui<br>
     <a href="https://arxiv.org/abs/2308.14242">paper</a>
   </div>
