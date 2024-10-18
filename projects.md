@@ -48,7 +48,7 @@ description: >
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b></span><br>
-    <em>We probe the cultural cognitive traits of ChatGPT.</em><br>
+    <em>Let's probe the cultural cognitive traits of ChatGPT.</em><br>
     Authors: <b>Chuanyang Jin</b>, Songyang Zhang, Tianmin Shu, Zhihan Cui<br>
     <a href="https://arxiv.org/abs/2308.14242">paper</a>
   </div>
@@ -60,7 +60,7 @@ description: >
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Self-Supervised Image Captioning with CLIP</b></span><br>
-    <em>Presented at the Self-Supervised Learning Workshop, NeurIPS 2023.</em><br>
+    <em>Presented at NeurIPS 2023 Self-Supervised Learning Workshop.</em><br>
     Author: <b>Chuanyang Jin</b><br>
     <a href="https://arxiv.org/abs/2306.15111">paper</a>
   </div>
@@ -86,7 +86,7 @@ description: >
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Social Platform for Recording and Sharing Emotions</b></span><br>
-    <em>We help you out of loneliness. You have the world's resonance.</em><br>
+    <em>From loneliness to connection — you have the world's resonance.</em><br>
     HackNYU 2022<br>
     <a href="https://devpost.com/software/em-k3gf5b">project</a> / 
     <a href="https://github.com/chuanyangjin/em">code</a>
@@ -112,7 +112,7 @@ description: >
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Gene Mutation Detection System</b></span><br>
-    <em>Our system was adopted by leading hospitals.</em><br>
+    <em>Our system powers leading hospitals in Nanjing.</em><br>
     <a href="http://www.yau-awards.com/lists-winnerslist.html">Bronze Medal</a> (Top 5/500, $10,000),<br>
     Shing-Tung Yau Computer Science Award 2019<br>
     <a href="https://oss.linstitute.net/wechatimg/2019/12/qiuchengtong2019combronze3.pdf">report</a> /
