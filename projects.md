@@ -49,7 +49,7 @@ description: >
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b></span><br>
     <!-- <em>Let's explore the cultural cognitive traits of ChatGPT.</em><br> -->
-    <em>“One day they'll have secrets. One day they'll have dreams.”</em>
+    <em>“One day they'll have secrets. One day they'll have dreams.”</em><br>
     Authors: <b>Chuanyang Jin</b>, Songyang Zhang, Tianmin Shu, Zhihan Cui<br>
     <a href="https://arxiv.org/abs/2308.14242">paper</a>
   </div>
@@ -61,7 +61,7 @@ description: >
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Self-Supervised Image Captioning with CLIP</b></span><br>
-    <em>Presented at NeurIPS 2023 Self-Supervised Learning Workshop.</em><br>
+    <em>Course project presented at NeurIPS 2023 Self-Supervised Learning Workshop.</em><br>
     Author: <b>Chuanyang Jin</b><br>
     <a href="https://arxiv.org/abs/2306.15111">paper</a>
   </div>
