@@ -46,7 +46,7 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 
 
 ## News
-+ [Oct, 2024] Our work on [MMToM-QA](/mmtom-qa) was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA) & [JHU News](https://www.cs.jhu.edu/news/ai-cant-read-your-mind-yet/)
++ [Oct, 2024] Our work on [MMToM-QA](/mmtom-qa) was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA) & [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/)
 + [Sep, 2024] Invited talk at University of Washinton
 + [Aug, 2024] [MMToM-QA](/mmtom-qa) ([slides](/assets/slides/MMToM-QA.pdf)) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024!
 + [May, 2024] Released our [position paper](https://arxiv.org/abs/2405.10313) for ICLR 2024 AGI Workshop
