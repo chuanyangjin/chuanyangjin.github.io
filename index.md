@@ -27,7 +27,7 @@ sitemap: true
   </style>
 </head>
 
-I am a 1st-year CS PhD student at Johns Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Honors CS and Mathematics from New York University, where I received CS Prize for the Most Promising Student. Previously, I was a research intern at Massachusetts Institute of Technology and Shanghai AI Lab.
+I am a 1st-year CS PhD student at Johns Hopkins University, advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Honors CS and Mathematics from New York University in 2024, where I received CS Prize for the Most Promising Student. Previously, I was a research intern at Massachusetts Institute of Technology.
 
 <!-- I was previously a visiting student at Massachusetts Institute of Technology working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/). -->
 
