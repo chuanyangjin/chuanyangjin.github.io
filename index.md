@@ -49,7 +49,7 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 + [Oct, 2024] Our work on [MMToM-QA](/mmtom-qa) was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA) & [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/)
 + [Sep, 2024] Invited talk at University of Washinton
 + [Aug, 2024] [MMToM-QA](/mmtom-qa) ([slides](/assets/slides/MMToM-QA.pdf)) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024!
-+ [May, 2024] Released our [position paper](https://arxiv.org/abs/2405.10313) for ICLR 2024 AGI Workshop
++ [May, 2024] Released our [position paper (TMLR 2024)](https://arxiv.org/abs/2405.10313) for ICLR 2024 AGI Workshop
 + [May, 2023] Released [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) -- SOTA diffusion models with 2x speedup
 + [Apr, 2023] Received NYU Computer Science Prize for the Most Promising Student
 
