@@ -36,7 +36,7 @@ I love working on exciting and game-changing research problems. Here are my curr
 
 + **Social Intelligence**: create agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among them.
 
-+ **System-2 Reasoning**: in addition to System-1 intuitive thinking, develop System-2 reasoning that integrates language models, agent models, and world models in a cognitively grounded manner.
++ **System-2 Reasoning**: in addition to System-1 intuitive thinking, develop System-2 deliberate reasoning that integrates language models, agent models, and world models in a cognitively grounded way.
 
 + **Agents**: build the next generation of language agents that can interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
