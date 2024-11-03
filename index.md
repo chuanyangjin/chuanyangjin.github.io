@@ -36,11 +36,12 @@ I love working on exciting and game-changing research problems. Here are my curr
 
 + **Social Intelligence**: create agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among them.
 
-+ **System-2 Reasoning**: combine language models, agent models, and world models in a cognitively grounded way, and promote more robust and versatile reasoning across various modalities.
++ **System-2 Reasoning**: in addition to System-1 intuitive thinking, develop System-2 reasoning that integrates language models, agent models, and world models in a cognitively grounded manner.
 
 + **Agents**: build the next generation of language agents that can interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
-<!-- Besides academics, I enjoy roaming in movies and books. I am an avid reader of scientific fiction and history, as well as a dedicated writer read by more than 17,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, hiking and so much more. -->
+<!-- combine language models, agent models, and world models in a cognitively grounded way, and promote more robust and versatile reasoning across various modalities.
+Besides academics, I enjoy roaming in movies and books. I am an avid reader of scientific fiction and history, as well as a dedicated writer read by more than 17,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, hiking and so much more. -->
 
 Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much more](/misc).
 
