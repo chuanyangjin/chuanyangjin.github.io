@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name:              Chuanyang Jin
-  email:             <mail@domain.tld>
+  email:             cjin33@jhu.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,10 +26,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    email:           cj2133@nyu.edu
+    email:           cjin33@jhu.edu
     github:          chuanyangjin
     twitter:         chuanyang_jin
-    google:          https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN
+    google:          https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=en
     # semantic:        https://www.semanticscholar.org/author/Chuanyang-Jin/2232994133
     linkedin:        chuanyang-jin
     # rss:             https://<url>/feed.xml
