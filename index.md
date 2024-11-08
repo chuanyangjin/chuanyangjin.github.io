@@ -29,9 +29,6 @@ sitemap: true
 
 I am a first-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Honors Computer Science and Mathematics from [New York University](https://www.nyu.edu/) in 2024, where I was awarded the CS Prize for the Most Promising Student. I have spent time as a research intern at [MIT](https://www.mit.edu/).
 
-<!-- I was previously a visiting student at Massachusetts Institute of Technology working with [Prof. Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Prof. Tianmin Shu](https://www.tshu.io/). -->
-
-<!-- Here are some research directions I'm excited about: -->
 I love working on exciting and game-changing research problems. Here are my current areas of focus:
 
 + **Social Intelligence**: create agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among them.
@@ -47,9 +44,8 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 
 
 ## News
-+ [Oct, 2024] Our work on [MMToM-QA](/mmtom-qa) was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA) & [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/)
 + [Sep, 2024] Invited talk at University of Washinton
-+ [Aug, 2024] [MMToM-QA](/mmtom-qa) ([slides](/assets/slides/MMToM-QA.pdf)) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024!
++ [Aug, 2024] [MMToM-QA](/mmtom-qa) ([slides](/assets/slides/MMToM-QA.pdf)) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024 and was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA) & [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/)!
 + [May, 2024] Released our [position paper (TMLR 2024)](https://arxiv.org/abs/2405.10313) for ICLR 2024 AGI Workshop
 + [May, 2023] Released [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT) -- SOTA diffusion models with 2x speedup
 + [Apr, 2023] Received NYU Computer Science Prize for the Most Promising Student
