@@ -44,12 +44,13 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 
 
 ## News
-+ [Oct, 2024] [MMToM-QA](/mmtom-qa) is covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA) & [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/).
++ [Oct, 2024] [MMToM-QA](/mmtom-qa) is covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/).
 + [Sep, 2024] Invited talk @ University of Washinton on "Towards Multimodal Theory of Mind".
 + [Aug, 2024] [MMToM-QA](/mmtom-qa) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024.
 + [May, 2024] Released the [position paper](https://arxiv.org/abs/2405.10313) for ICLR 2024 AGI Workshop.
-+ [May, 2023] Released [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT), state-of-the-art diffusion models with 2x speedup.
-+ [Apr, 2023] Received NYU Computer Science Prize for the Most Promising Student.
+<!-- + [May, 2023] Released [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT), state-of-the-art diffusion models with 2x speedup. -->
++ [May, 2023] Released [fast-DiT](https://github.com/chuanyangjin/fast-DiT), state-of-the-art diffusion models with 2x speedup.
++ [Apr, 2023] Received [NYU Computer Science Prize](/assets/awards/NYU_Computer_Science_Prize.pdf) for the Most Promising Student.
 
 
 ## Selected Publications
