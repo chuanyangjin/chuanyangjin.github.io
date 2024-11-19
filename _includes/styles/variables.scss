@@ -32,9 +32,13 @@ $font-weight:         {{ vars.font_weight         | default:400 }};
 $font-weight-bold:    {{ vars.font_weight_bold    | default:700 }};
 $font-weight-heading: {{ vars.font_weight_heading | default:700 }};
 
-$content-width:   {{ vars.content_width   | default:42 }}rem;
-$content-width-2: {{ vars.content_width_2 | default:48 }}rem;
-$content-width-5: {{ vars.content_width_5 | default:54 }}rem;
+// $content-width:   {{ vars.content_width   | default:42 }}rem;
+// $content-width-2: {{ vars.content_width_2 | default:48 }}rem;
+// $content-width-5: {{ vars.content_width_5 | default:54 }}rem;
+
+$content-width:   {{ vars.content_width   | default:22 }}rem;
+$content-width-2: {{ vars.content_width_2 | default:28 }}rem;
+$content-width-5: {{ vars.content_width_5 | default:34 }}rem;
 
 $content-padding: {{ vars.content_padding | default:1 }}rem;
 
