@@ -16,7 +16,8 @@
 .content {
   // <<< inline
   margin-left: auto;
-  margin-right: auto;
+  // margin-right: auto;
+  margin-right: 2em;
   padding: 8rem $content-padding 12rem;
 
   @media screen {
