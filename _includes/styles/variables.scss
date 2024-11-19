@@ -38,7 +38,7 @@ $content-width-5: {{ vars.content_width_5 | default:54 }}rem;
 
 $content-padding: {{ vars.content_padding | default:1 }}rem;
 
-$sidebar-width: {{ vars.sidebar_width | default:21 }}rem;
+$sidebar-width: {{ vars.sidebar_width | default:11 }}rem;
 
 $break-point-1: {{ vars.break_point_1 | default:42 }}em;
 $break-point-2: {{ vars.break_point_2 | default:54 }}em;
