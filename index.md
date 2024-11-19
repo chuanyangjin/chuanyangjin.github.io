@@ -48,7 +48,6 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 + [Sep, 2024] Invited talk @ University of Washinton on "Towards Multimodal Theory of Mind".
 + [Aug, 2024] [MMToM-QA](/mmtom-qa) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024.
 + [May, 2024] Released the [position paper](https://arxiv.org/abs/2405.10313) for ICLR 2024 AGI Workshop.
-<!-- + [May, 2023] Released [![badge](https://badgen.net/badge/project/%F0%9F%9A%80%20fast-DiT/blue?icon=github)](https://github.com/chuanyangjin/fast-DiT), state-of-the-art diffusion models with 2x speedup. -->
 + [May, 2023] Released [fast-DiT](https://github.com/chuanyangjin/fast-DiT), state-of-the-art diffusion models with 2x speedup.
 + [Apr, 2023] Received [NYU Computer Science Prize](/assets/awards/NYU_Computer_Science_Prize.pdf) for the Most Promising Student.
 
@@ -112,9 +111,8 @@ For a more complete list, see the [publication page](/publications), or my [Goog
 You can also check out the [project page](/projects) to view my undergrad and high school projects. A mountain of gratitude to those who have kindly mentored me and inspired me with their vision and passion!
 
 ## Selected Honors & Awards
-- <span style="background-color: rgba(173, 216, 230, 0.5);">Outstanding Paper Award, ACL 2024</span>
+- <span style="background-color: rgba(173, 216, 230, 0.5);">ACL Outstanding Paper Award, 2024</span>
 - NYU Presidential Honors Scholar and Summa cum Laude (Top 5%), 2024
-<!-- - NYU Founders' Day Award, 2024 -->
 - <span style="background-color: rgba(173, 216, 230, 0.5);">NYU Computer Science Prize for the Most Promising Student (1 person/year), 2023</span>
 - NYU Dean's Undergraduate Research Fund, 2023
 - <span style="background-color: rgba(173, 216, 230, 0.5);">COMAP International Scholarship Award (Top 0.1%), 2022</span>
