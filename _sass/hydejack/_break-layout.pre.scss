@@ -15,7 +15,7 @@
 
 // <<< LINK
 pre, table:not(.highlight), .katex-display, .break-layout, mjx-container[jax="CHTML"][display="true"] {
-  $pad: $content-padding * 2;
+  $pad: $content-padding * 0.5;
 
   @media screen {
     position: relative;
