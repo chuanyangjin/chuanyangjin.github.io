@@ -37,7 +37,7 @@ description: >
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Fast Diffusion Transformers</b></span><br>
-    <em>DiT models with 2x speedup and 60% less memory, 600+ GitHub Stars.</em><br>
+    <em>DiT models with 2x speedup and 60% less memory; 700+ GitHub Stars.</em><br>
     <a href="https://github.com/chuanyangjin/fast-DiT">code</a>
   </div>
 </div>
@@ -73,7 +73,7 @@ description: >
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>AutoCorp: A Fully Autonomous Company</b></span><br>
-    <em>LLM-driven autonomous company, 100K+ Twitter views.</em><br>
+    <em>LLM-driven autonomous company; 100K+ Twitter views.</em><br>
     NYC GPT/LLM Hackathon 2023<br>
     <a href="/autocorp">project</a> / 
     <a href="https://twitter.com/minafahmi_/status/1650861037737091083">tweet</a> / 
