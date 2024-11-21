@@ -29,13 +29,13 @@ sitemap: true
 
 I am a first-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Prof. Tianmin Shu](https://www.tshu.io/). I obtained my B.A. in Honors Computer Science and Mathematics from [New York University](https://www.nyu.edu/) in 2024, where I was awarded the CS Prize for the Most Promising Student. I have spent time as a research intern at [MIT](https://www.mit.edu/).
 
-I love working on exciting and game-changing research problems. Here are my current areas of focus:
+I love working on exciting and game-changing research problems. My current areas of focus include:
 
-+ **Social Intelligence**: create agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among them.
++ **Social Intelligence**: Developing agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among them.
 
-+ **System-2 Reasoning**: in addition to System-1 intuitive thinking, develop System-2 deliberate reasoning that integrates language models, agent models, and world models in a cognitively grounded way.
++ **System-2 Reasoning**: Beyond System-1 intuitive thinking, enhancing System-2 deliberate reasoning by integrating language models, agent models, and world models in a cognitively grounded and scalable manner.
 
-+ **Agents**: build the next generation of language agents that can interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
++ **Agents**: Building the next generation of language agents that can interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
 <!-- combine language models, agent models, and world models in a cognitively grounded way, and promote more robust and versatile reasoning across various modalities.
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of scientific fiction and history, as well as a dedicated writer read by more than 17,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, hiking and so much more. -->
