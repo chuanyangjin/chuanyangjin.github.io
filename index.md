@@ -35,7 +35,7 @@ I love working on exciting and game-changing research problems. My current areas
 
 + **System-2 Reasoning**: Beyond System-1 intuitive thinking, enhancing System-2 deliberate reasoning by integrating language models, agent models, and world models in a cognitively grounded and scalable manner.
 
-+ **Agents**: Building the next generation of language agents that can interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
++ **AI Agents**: Building the next generation of language agents that can interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
 <!-- combine language models, agent models, and world models in a cognitively grounded way, and promote more robust and versatile reasoning across various modalities.
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of scientific fiction and history, as well as a dedicated writer read by more than 17,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, hiking and so much more. -->
