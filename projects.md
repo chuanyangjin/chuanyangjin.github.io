@@ -47,7 +47,7 @@ description: >
     <img src="/assets/img/projects/holistic_gpt.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <span style="font-size: 18px;"><b>The Cultural Psychology of Large Language Models: Is ChatGPT a Holistic or Analytic Thinker?</b></span><br>
+    <span style="font-size: 18px;"><b>The Cultural Psychology of Large Language Models</b></span><br>
     <!-- <em>Let's explore the cultural cognitive traits of ChatGPT.</em><br> -->
     <em>“One day they'll have secrets. One day they'll have dreams.”</em><br>
     Authors: <b>Chuanyang Jin</b>, Songyang Zhang, Tianmin Shu, Zhihan Cui<br>
@@ -101,8 +101,7 @@ description: >
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Asteroid Mining and the Promise of Global Prosperity</b></span><br>
     <em>“Do not go gentle into that good night.”</em><br>
-    MAA Award (Top 5/27205) and <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> (Top 4/27205, $10,000),<br>
-    Mathematical Contest in Modeling 2022<br>
+    MAA Award (Top 5/27205) and <a href="https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/2022_COMAP-Scholarship-Press-Release.pdf">COMAP Scholarship</a> (Top 4/27205, $10,000), Mathematical Contest in Modeling 2022<br>
     <a href="/assets/reports/ICM_Report.pdf">report</a>
   </div>
 </div>
@@ -114,8 +113,7 @@ description: >
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Gene Mutation Detection System</b></span><br>
     <em>Our system powers leading hospitals in Nanjing.</em><br>
-    <a href="http://www.yau-awards.com/lists-winnerslist.html">Bronze Medal</a> (Top 5/500, $10,000),<br>
-    Shing-Tung Yau Computer Science Award 2019<br>
+    <a href="http://www.yau-awards.com/lists-winnerslist.html">Bronze Medal</a> (Top 5/500, $10,000), Shing-Tung Yau Computer Science Award 2019<br>
     <a href="https://oss.linstitute.net/wechatimg/2019/12/qiuchengtong2019combronze3.pdf">report</a> /
     <a href="https://drive.google.com/file/d/1Zdp33tiYmoppAdzMCOH_P44jzu6V9yW-/view?usp=sharing">demo</a> / 
     <a href="/assets/slides/Yau_Gene_Mutation_Detection.pdf">slides</a>
