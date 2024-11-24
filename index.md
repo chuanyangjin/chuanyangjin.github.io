@@ -33,7 +33,7 @@ I love working on exciting and game-changing research problems. My current areas
 
 + **Social Intelligence**: Developing agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among them.
 
-+ **System-2 Reasoning**: In addition to System-1 intuitive thinking, improving System-2 deliberate reasoning by integrating language models, agent models, and world models in a cognitively grounded and scalable manner.
++ **System-2 Reasoning**: In addition to System-1 intuitive thinking, improving System-2 deliberate reasoning by integrating language models, agent models, and world models in a scalable, cognitively grounded way.
 
 + **AI Agents**: Building the next generation of language agents that can interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
