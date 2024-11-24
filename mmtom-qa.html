@@ -15,6 +15,12 @@
       list-style-type: "♦";
       padding-inline-start: 1ch;
     }
+
+    .extra-space {
+        line-height: 2.5;
+        display: block;
+        content: "";
+    }
   </style>
 
 
@@ -428,16 +434,16 @@
     <div class="columns is-centered">
       <div class="column is-four-fifths">
         <h2 class="title is-3">Qualitative Results & Discussion</h2>
-        <div class="content has-text-justified" style="line-height: 1.5;">
+        <div class="content has-text-justified">
           <p>
             BIP-ALM effectively reasons about a person's mental state and tracks the changes in the mental state over time, benefiting from 
-            <br>
+            <br class="extra-space">
             (1) the <span style="color: blue;">modality-invariance</span> of <span style="color: blue;">symbolic representations</span> ,
-            <br>
+            <br class="extra-space">
             (2) the <span style="color: orange;">robustness and interpretability</span> of <span style="color: orange;">inverse planning</span>, and
-            <br>
+            <br class="extra-space">
             (3) the <span style="color: green;">scalability and flexibility</span> of <span style="color: green;">language models</span>.
-            <br>
+            <br><br>
             This can be seen as an inference-time scaling strategy, enabling human-like reasoning by integrating language models, agent models, and world models in a scalable, cognitively grounded way.
         </p>        
         </div>
