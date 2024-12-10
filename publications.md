@@ -41,15 +41,6 @@ description: >
 </div>
 
 <div style="margin-bottom: 25px;">
-<span style="font-size: 18px;"><b>Beyond the Binary: Capturing Diverse Preferences With Reward Regularization</b></span><br>
-<span class="authors">Vishakh Padmakumar,*,</span> 
-<b>Chuanyang Jin</b><span class="authors">*, Hannah Rose Kirk, He He</span><br>
-<b>SoLaR Workshop at NeurIPS 2024</b><br>
-<a href="https://arxiv.org/abs/2412.03822">paper</a> /
-<a href="https://github.com/chuanyangjin/preference-calibration">code</a>
-</div>
-
-<div style="margin-bottom: 25px;">
 <span style="font-size: 18px;"><b>MMToM-QA: Multimodal Theory of Mind Question Answering</b></span><br>
 <b>Chuanyang Jin</b><span class="authors">, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu</span><br>
 <b>ACL 2024 <span class="red">(Outstanding Paper Award)</span></b><br>
@@ -86,4 +77,13 @@ description: >
 <b>Chuanyang Jin</b><span class="authors">, Shun Liu, Sneha Paul, Chuan He, Oded Regev, Jingyi Fei</span><br>
 <b>Science Advances 2024</b><br>
 <a href="https://www.biorxiv.org/content/10.1101/2024.02.29.581881v1">paper</a>
+</div>
+
+<div style="margin-bottom: 25px;">
+<span style="font-size: 18px;"><b>Beyond the Binary: Capturing Diverse Preferences With Reward Regularization</b></span><br>
+<span class="authors">Vishakh Padmakumar,*,</span> 
+<b>Chuanyang Jin</b><span class="authors">*, Hannah Rose Kirk, He He</span><br>
+<b>SoLaR Workshop at NeurIPS 2024</b><br>
+<a href="https://arxiv.org/abs/2412.03822">paper</a> /
+<a href="https://github.com/chuanyangjin/preference-calibration">code</a>
 </div>
