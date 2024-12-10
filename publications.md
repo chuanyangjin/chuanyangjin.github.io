@@ -34,10 +34,19 @@ description: >
 <span style="font-size: 18px;"><b>MuMA-ToM: Multi-modal Multi-Agent Theory of Mind</b></span><br>
 <span class="authors">Haojun Shi*, Suyu Ye*, Xinyu Fang,</span> 
 <b>Chuanyang Jin</b><span class="authors">, Leyla Isik, Yen-Ling Kuo, Tianmin Shu</span><br>
-<b>ArXiv 2024</b><br>
+<b>AAAI 2025</b><br>
 <a href="https://arxiv.org/abs/2408.12574">paper</a> /
 <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">project</a> /
 <a href="https://github.com/SCAI-JHU/MuMA-ToM">code</a>
+</div>
+
+<div style="margin-bottom: 25px;">
+<span style="font-size: 18px;"><b>Beyond the Binary: Capturing Diverse Preferences With Reward Regularization</b></span><br>
+<span class="authors">Vishakh Padmakumar,*,</span> 
+<b>Chuanyang Jin</b><span class="authors">*, Hannah Rose Kirk, He He</span><br>
+<b>SoLaR Workshop at NeurIPS 2024</b><br>
+<a href="https://arxiv.org/abs/2412.03822">paper</a> /
+<a href="https://github.com/chuanyangjin/preference-calibration">code</a>
 </div>
 
 <div style="margin-bottom: 25px;">
