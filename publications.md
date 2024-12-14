@@ -82,7 +82,7 @@ description: >
 <div style="margin-bottom: 25px;">
 <span style="font-size: 18px;"><b>Beyond the Binary: Capturing Diverse Preferences With Reward Regularization</b></span><br>
 <span class="authors">Vishakh Padmakumar,*,</span> 
-<b>Chuanyang Jin</b><span class="authors">*, Hannah Rose Kirk, He He</span><br>
+<b>Chuanyang Jin</b><span class="authors">*, Hannah Rose Kirk*, He He</span><br>
 <b>SoLaR Workshop at NeurIPS 2024</b><br>
 <a href="https://arxiv.org/abs/2412.03822">paper</a> /
 <a href="https://github.com/chuanyangjin/preference-calibration">code</a>
