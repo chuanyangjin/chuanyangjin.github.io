@@ -56,6 +56,19 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 <!-- For full publication list, please refer to my <img src="/assets/icons/google-scholar.svg" alt="Google Scholar" style="width: 20px; height: 20px; vertical-align: middle;"> [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br> -->
 For a more complete list, see the [publication page](/publications), or my [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br>
 
+<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+  <div style="float: left; width: 250px;">
+    <img src="/assets/img/publications/os_genesis.pdf" alt="publication teaser" width="100%" />
+  </div>
+  <div style="margin-left: 270px;">
+    <span style="font-size: 18px;"><b>OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis</b></span><br>
+    <span class="authors">Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*,</span>
+    <b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
+    <b>Preprint</b><br>
+    <a href="https://arxiv.org/abs/2412.19723">paper</a> /
+    <a href="https://qiushisun.github.io/OS-Genesis-Home">project</a>
+  </div>
+</div>
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
