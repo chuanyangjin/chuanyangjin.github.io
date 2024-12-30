@@ -58,7 +58,7 @@ For a more complete list, see the [publication page](/publications), or my [Goog
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
-    <img src="/assets/img/publications/os_genesis.pdf" alt="publication teaser" width="100%" />
+    <img src="/assets/img/publications/os_genesis.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis</b></span><br>
