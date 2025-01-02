@@ -36,7 +36,8 @@ description: >
   <b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
   <b>Preprint</b><br>
   <a href="https://arxiv.org/abs/2412.19723">paper</a> /
-  <a href="https://qiushisun.github.io/OS-Genesis-Home">project</a>
+  <a href="https://qiushisun.github.io/OS-Genesis-Home">project</a> /
+  <a href="https://github.com/OS-Copilot/OS-Genesis">code</a>
 </div>
 
 <div style="margin-bottom: 25px;">
