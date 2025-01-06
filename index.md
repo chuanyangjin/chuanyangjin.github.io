@@ -105,7 +105,7 @@ For a more complete list, see the [publication page](/publications), or my [Goog
   </div>
 </div>
 
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+<!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
     <img src="/assets/img/publications/nested_reasoning.png" alt="publication teaser" width="100%" />
   </div>
@@ -120,7 +120,7 @@ For a more complete list, see the [publication page](/publications), or my [Goog
     <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
     <a href="/assets/slides/Nested_Reasoning.pdf">slides</a><br>
   </div>
-</div>
+</div> -->
 
 You can also take a look at [my undergrad projects](/projects). A mountain of gratitude to those who have kindly mentored me and inspired me with their vision and passion!
 

@@ -94,6 +94,6 @@ description: >
   <span style="font-size: 18px;"><b>Dynamics of RNA Localization to Nuclear Speckles are Connected to Splicing Efficiency</b></span><br>
   <span class="authors">Jinjun Wu*, Yu Xiao*, Yunzheng Liu*, Li Wen,</span> 
   <b>Chuanyang Jin</b><span class="authors">, Shun Liu, Sneha Paul, Chuan He, Oded Regev, Jingyi Fei</span><br>
-  <b>Science Advances 2024</b><br>
+  <b><span class="red">Science Advances</span> 2024</b><br>
   <a href="https://www.biorxiv.org/content/10.1101/2024.02.29.581881v1">paper</a>
 </div>
