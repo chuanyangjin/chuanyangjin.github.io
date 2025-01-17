@@ -83,7 +83,7 @@ description: >
 
 <div style="margin-bottom: 25px;">
   <span style="font-size: 18px;"><b>Beyond the Binary: Capturing Diverse Preferences With Reward Regularization</b></span><br>
-  <span class="authors">Vishakh Padmakumar,*,</span> 
+  <span class="authors">Vishakh Padmakumar*,</span> 
   <b>Chuanyang Jin</b><span class="authors">*, Hannah Rose Kirk*, He He</span><br>
   <b>NeurIPS 2024 SoLaR Workshop</b><br>
   <a href="https://arxiv.org/abs/2412.03822">paper</a> /
