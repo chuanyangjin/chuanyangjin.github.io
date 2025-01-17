@@ -44,7 +44,7 @@ description: >
   <span style="font-size: 18px;"><b>MuMA-ToM: Multi-modal Multi-Agent Theory of Mind</b></span><br>
   <span class="authors">Haojun Shi*, Suyu Ye*, Xinyu Fang,</span> 
   <b>Chuanyang Jin</b><span class="authors">, Leyla Isik, Yen-Ling Kuo, Tianmin Shu</span><br>
-  <b>AAAI 2025</b><br>
+  <b>AAAI 2025 <span class="red">(Oral)</span></b><br>
   <a href="https://arxiv.org/abs/2408.12574">paper</a> /
   <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">project</a> /
   <a href="https://github.com/SCAI-JHU/MuMA-ToM">code</a>
