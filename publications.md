@@ -65,7 +65,7 @@ description: >
   <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
   <span class="authors">Tao Feng*,</span>
   <b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
-  <b>TMLR 2024</b> / <b><span class="red">Position Paper for ICLR 2024 AGI Workshop</span></b><br>
+  <b>TMLR 2024</b> / <b>ICLR 2024 AGI Workshop <span class="red">(Oral)</span></b><br>
   <a href="https://arxiv.org/abs/2405.10313">paper</a> /
   <a href="https://github.com/ulab-uiuc/AGI-survey">project</a>
 </div>
@@ -74,7 +74,7 @@ description: >
   <span style="font-size: 18px;"><b>Neural Amortized Inference for Nested Multi-agent Reasoning</b></span><br>
   <span class="authors">Kunal Jha, Tuan Anh Le, </span>
   <b>Chuanyang Jin</b><span class="authors">, Yen-Ling Kuo, Joshua Tenenbaum, Tianmin Shu</span><br>
-  <b>AAAI 2024</b> / Presented at <b>AAAI 2024 Summer Symposium <span class="red">(Oral)</span></b><br>
+  <b>AAAI 2024</b> / <b>AAAI 2024 Summer Symposium <span class="red">(Oral)</span></b><br>
   <a href="https://arxiv.org/abs/2308.11071">paper</a> /
   <a href="https://www.tshu.io/nested_reasoning/">project</a> /
   <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
@@ -85,7 +85,7 @@ description: >
   <span style="font-size: 18px;"><b>Beyond the Binary: Capturing Diverse Preferences With Reward Regularization</b></span><br>
   <span class="authors">Vishakh Padmakumar,*,</span> 
   <b>Chuanyang Jin</b><span class="authors">*, Hannah Rose Kirk*, He He</span><br>
-  <b>SoLaR Workshop at NeurIPS 2024</b><br>
+  <b>NeurIPS 2024 SoLaR Workshop</b><br>
   <a href="https://arxiv.org/abs/2412.03822">paper</a> /
   <a href="https://github.com/chuanyangjin/preference-calibration">code</a>
 </div>
