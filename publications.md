@@ -74,7 +74,7 @@ description: >
   <span style="font-size: 18px;"><b>Neural Amortized Inference for Nested Multi-agent Reasoning</b></span><br>
   <span class="authors">Kunal Jha, Tuan Anh Le, </span>
   <b>Chuanyang Jin</b><span class="authors">, Yen-Ling Kuo, Joshua Tenenbaum, Tianmin Shu</span><br>
-  <b>AAAI 2024</b> / Presented at <b>AAAI Summer Symposium <span class="red">(Oral)</span></b><br>
+  <b>AAAI 2024</b> / Presented at <b>AAAI 2024 Summer Symposium <span class="red">(Oral)</span></b><br>
   <a href="https://arxiv.org/abs/2308.11071">paper</a> /
   <a href="https://www.tshu.io/nested_reasoning/">project</a> /
   <a href="https://github.com/KJha02/AmortizedNestedReasoning">code</a> /
