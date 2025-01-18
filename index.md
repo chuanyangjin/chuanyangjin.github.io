@@ -74,6 +74,21 @@ For a more complete list, see the [publication page](/publications), or my [Goog
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
+    <img src="/assets/img/publications/muma_tom.png" alt="publication teaser" width="100%" />
+  </div>
+  <div style="margin-left: 270px;">
+    <span style="font-size: 18px;"><b>MuMA-ToM: Multi-modal Multi-Agent Theory of Mind</b></span><br>
+    <span class="authors">Haojun Shi*, Suyu Ye*, Xinyu Fang,</span> 
+    <b>Chuanyang Jin</b><span class="authors">, Leyla Isik, Yen-Ling Kuo, Tianmin Shu</span><br>
+    <b>AAAI 2025 <span class="red">(Oral)</span></b><br>
+    <a href="https://arxiv.org/abs/2408.12574">paper</a> /
+    <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">project</a> /
+    <a href="https://github.com/SCAI-JHU/MuMA-ToM">code</a>
+  </div>
+</div>
+
+<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+  <div style="float: left; width: 250px;">
     <video width="100%" autoplay loop muted>
         <source src="/assets/img/publications/MMToM-QA.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -83,6 +98,7 @@ For a more complete list, see the [publication page](/publications), or my [Goog
     <span style="font-size: 18px;"><b>MMToM-QA: Multimodal Theory of Mind Question Answering</b></span><br>
     <b>Chuanyang Jin</b><span class="authors">, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu</span><br>
     <b>ACL 2024 <span class="red">(Outstanding Paper Award)</span></b><br>
+    <!-- Annual Meeting of the Association for Computational Linguistics (ACL), 2024 -->
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
@@ -99,8 +115,9 @@ For a more complete list, see the [publication page](/publications), or my [Goog
     <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
     <span class="authors">Tao Feng*,</span>
     <b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
-    <b>TMLR 2024</b><br>
-    <b>ICLR 2024 AGI Workshop <span class="red">(Oral)</span></b><br>
+    <!-- <b>TMLR 2024</b><br>
+    <b>ICLR 2024 AGI Workshop <span class="red">(Oral)</span></b><br> -->
+    <b>TMLR 2024</b> / <b>ICLR 2024 AGI Workshop <span class="red">(Oral)</span></b><br>
     <a href="https://arxiv.org/abs/2405.10313">paper</a> /
     <a href="https://github.com/ulab-uiuc/AGI-survey">project</a>
   </div>
