@@ -95,5 +95,5 @@ description: >
   <span class="authors">Jinjun Wu*, Yu Xiao*, Yunzheng Liu*, Li Wen,</span> 
   <b>Chuanyang Jin</b><span class="authors">, Shun Liu, Sneha Paul, Chuan He, Oded Regev, Jingyi Fei</span><br>
   <b><span class="red">Science Advances</span> 2024</b><br>
-  <a href="https://www.biorxiv.org/content/10.1101/2024.02.29.581881v1">paper</a>
+  <a href="https://www.science.org/doi/full/10.1126/sciadv.adp7727">paper</a>
 </div>
