@@ -62,7 +62,7 @@ For a more complete list, see the [publication page](/publications), or my [Goog
     <img src="/assets/img/publications/os_genesis.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <span style="font-size: 18px;"><b>OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis</b></span><br>
+    <span style="font-size: 18px;"><b>OS-Genesis: Automating GUI Agent Trajectory Construction<br>via Reverse Task Synthesis</b></span><br>
     <span class="authors">Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*,</span>
     <b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
     <b>Preprint</b><br>
