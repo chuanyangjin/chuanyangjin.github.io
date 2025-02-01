@@ -44,7 +44,7 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 
 
 ## News
-+ [Jan, 2025] [MuMA-ToM](/https://scai.cs.jhu.edu/projects/MuMA-ToM/) was accepted at AAAI 2025 as an Oral Presentation!
++ [Jan, 2025] [MuMA-ToM](https://scai.cs.jhu.edu/projects/MuMA-ToM/) was accepted at AAAI 2025 as an Oral Presentation!
 + [Oct, 2024] [MMToM-QA](/mmtom-qa) was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/).
 + [Sep, 2024] Invited talk @ University of Washinton on "Towards Multimodal Theory of Mind".
 + [Aug, 2024] [MMToM-QA](/mmtom-qa) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024!
