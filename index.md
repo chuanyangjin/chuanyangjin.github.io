@@ -66,8 +66,9 @@ For a more complete list, see the [publication page](/publications), or my [Goog
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>OS-Genesis: Automating GUI Agent Trajectory<br>Construction via Reverse Task Synthesis</b></span><br>
-    <span class="authors">Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*,</span>
-    <b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
+    <!-- <span class="authors">Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*,</span>
+    <b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br> -->
+    <b>Chuanyang Jin</b><span class="authors">*, Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
     <b>Preprint</b><br>
     <a href="https://arxiv.org/abs/2412.19723">paper</a> /
     <a href="https://qiushisun.github.io/OS-Genesis-Home">project</a> /
@@ -116,8 +117,9 @@ For a more complete list, see the [publication page](/publications), or my [Goog
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
-    <span class="authors">Tao Feng*,</span>
-    <b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
+    <!-- <span class="authors">Tao Feng*,</span>
+    <b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br> -->
+    <b>Chuanyang Jin</b><span class="authors">*, Tao Feng*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
     <!-- <b>TMLR 2024</b><br>
     <b>ICLR 2024 AGI Workshop <span class="red">(Oral)</span></b><br> -->
     <b>TMLR 2024</b> / <b>ICLR 2024 AGI Workshop <span class="red">(Oral)</span></b><br>
