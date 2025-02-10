@@ -62,7 +62,6 @@ description: >
 
 <div style="margin-bottom: 25px;">
   <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
-  <span class="authors">Tao Feng*,</span>
   <b>Chuanyang Jin</b><span class="authors">*, Tao Feng*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
   <b>TMLR 2024</b> / <b>ICLR 2024 AGI Workshop <span class="red">(Oral)</span></b><br>
   <a href="https://arxiv.org/abs/2405.10313">paper</a> /
