@@ -32,7 +32,8 @@ description: >
 
 <div style="margin-bottom: 25px;">
   <span style="font-size: 18px;"><b>OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis</b></span><br>
-  <b>Chuanyang Jin</b><span class="authors">*, Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
+  <span class="authors">Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*,</span>
+  <b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
   <b>Preprint</b><br>
   <a href="https://arxiv.org/abs/2412.19723">paper</a> /
   <a href="https://qiushisun.github.io/OS-Genesis-Home">project</a> /
@@ -62,7 +63,8 @@ description: >
 
 <div style="margin-bottom: 25px;">
   <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
-  <b>Chuanyang Jin</b><span class="authors">*, Tao Feng*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
+  <span class="authors">Tao Feng*,</span>
+  <b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
   <b>TMLR 2024</b> / <b>ICLR 2024 AGI Workshop <span class="red">(Oral)</span></b><br>
   <a href="https://arxiv.org/abs/2405.10313">paper</a> /
   <a href="https://github.com/ulab-uiuc/AGI-survey">project</a>
@@ -81,7 +83,8 @@ description: >
 
 <div style="margin-bottom: 25px;">
   <span style="font-size: 18px;"><b>Beyond the Binary: Capturing Diverse Preferences With Reward Regularization</b></span><br>
-  <b>Chuanyang Jin</b><span class="authors">*, Vishakh Padmakumar*, Hannah Rose Kirk*, He He</span><br>
+  <span class="authors">Vishakh Padmakumar*,</span> 
+  <b>Chuanyang Jin</b><span class="authors">*, Hannah Rose Kirk*, He He</span><br>
   <b>NeurIPS 2024 SoLaR Workshop</b><br>
   <a href="https://arxiv.org/abs/2412.03822">paper</a> /
   <a href="https://github.com/chuanyangjin/preference-calibration">code</a>
