@@ -65,6 +65,22 @@ For a more complete list, see the [publication page](/publications), or my [Goog
     <img src="/assets/img/publications/os_genesis.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
+    <span style="font-size: 18px;"><b>AutoToM : Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind</b></span><br>
+    <span class="authors">Zhining Zhang*,</span> 
+    Chuanyang Jin*†,
+    <span class="authors">Mung Yao Jia* Tianmin Shu</span><br>
+    <b>Preprint</b><br>
+    paper /
+    <a href="/AutoToM/">project</a> /
+    <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
+  </div>
+</div>
+
+<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+  <div style="float: left; width: 250px;">
+    <img src="/assets/img/publications/os_genesis.png" alt="publication teaser" width="100%" />
+  </div>
+  <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>OS-Genesis: Automating GUI Agent Trajectory<br>Construction via Reverse Task Synthesis</b></span><br>
     <span class="authors">Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*,</span>
     <b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
