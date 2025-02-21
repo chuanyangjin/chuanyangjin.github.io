@@ -67,8 +67,7 @@ For a more complete list, see the [publication page](/publications), or my [Goog
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>AutoToM : Automated Bayesian Inverse Planning and<br>Model Discovery for Open-ended Theory of Mind</b></span><br>
     <span class="authors">Zhining Zhang*,</span>
-    <b>Chuanyang Jin</b>
-    <span class="authors">*†, Mung Yao Jia*, Tianmin Shu (†: project lead)</span><br>
+    <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu (†: project lead)</span><br>
     <b>Preprint</b><br>
     paper /
     <a href="/AutoToM/">project</a> /
