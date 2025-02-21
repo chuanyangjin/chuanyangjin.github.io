@@ -65,10 +65,10 @@ For a more complete list, see the [publication page](/publications), or my [Goog
     <img src="/assets/img/publications/autotom.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 270px;">
-    <span style="font-size: 18px;"><b>AutoToM : Automated Bayesian Inverse Planning<br>and Model Discovery for Open-ended Theory of Mind</b></span><br>
-    <span class="authors">Zhining Zhang*,</span> 
+    <span style="font-size: 18px;"><b>AutoToM : Automated Bayesian Inverse Planning and<br>Model Discovery for Open-ended Theory of Mind</b></span><br>
+    <span class="authors">Zhining Zhang*,</span>
     Chuanyang Jin*†,
-    <span class="authors">Mung Yao Jia*, Tianmin Shu</span><br>
+    <span class="authors">Mung Yao Jia*, Tianmin Shu</span> (†: project lead)<br>
     <b>Preprint</b><br>
     paper /
     <a href="/AutoToM/">project</a> /
