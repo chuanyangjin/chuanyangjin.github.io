@@ -275,33 +275,33 @@
               <tbody>
                 <tr>
                   <th rowspan="14" style="vertical-align: middle;">Multimodal</th>
-                  <td class="highlight-grey">Human</td>
-                  <td class="highlight-grey">97.5</td>
-                  <td class="highlight-grey">88.5</td>
-                  <td class="highlight-grey">93</td>
+                  <td class="highlight-gray">Human</td>
+                  <td class="highlight-gray">97.5</td>
+                  <td class="highlight-gray">88.5</td>
+                  <td class="highlight-gray">93</td>
                 </tr>
                 <tr>
                   <td>BIP-ALM (w/ LLaMA 2) <br> <a href="https://chuanyangjin.com/mmtom-qa">Jin et al., '24</a></td>
                   <td>80.3</td>
-                  <td class="highlight-grey">73.3</td>
-                  <td class="highlight-grey">76.7</td>
+                  <td class="highlight-orange">73.3</td>
+                  <td class="highlight-orange">76.7</td>
                 </tr>
                 <tr>
                   <td>AutoToM (w/ GTP-4o) <br> <a href="https://chuanyangjin.com/AutoToM/">Zhang et al., '25</a></td>
-                  <td class="highlight-grey">88.7</td>
+                  <td class="highlight-orange">88.7</td>
                   <td>62.3</td>
                   <td>75.5</td>
                 </tr>
                 <tr>
                   <td>o3-mini</a></td>
-                  <td>-</td>
-                  <td>-</td>
+                  <td>88.7</td>
+                  <td>40.7</td>
                   <td>64.7</td>
                 </tr>
                 <tr>
                   <td>Gemini 2.0 Flash Thinking</a></td>
-                  <td>-</td>
-                  <td>-</td>
+                  <td>73.3</td>
+                  <td>34.7</td>
                   <td>54.0</td>
                 </tr>
                 <tr>
@@ -363,18 +363,24 @@
 
 
                 <tr>
-                  <th rowspan="12" style="vertical-align: middle;">Text Only</th>
-                  <td class="highlight-grey">Human</td>
-                  <td class="highlight-grey">91.0</td>
-                  <td class="highlight-grey">74.0</td>
-                  <td class="highlight-grey">82.5</td>
+                  <th rowspan="13" style="vertical-align: middle;">Text Only</th>
+                  <td class="highlight-gray">Human</td>
+                  <td class="highlight-gray">91.0</td>
+                  <td class="highlight-gray">74.0</td>
+                  <td class="highlight-gray">82.5</td>
                 </tr>
                 <tr>
                   <td>Thought-tracing (w/ GTP-4o)* <br> <a href="https://arxiv.org/abs/2502.11881">Kim et al., '25</td>
-                  <td class="highlight-grey">95.1</td>
-                  <td class="highlight-grey">59.2</td>
-                  <td class="highlight-grey">76.5</td>
-                </tr> 
+                  <td class="highlight-orange">95.1</td>
+                  <td class="highlight-orange">59.2</td>
+                  <td class="highlight-orange">76.5</td>
+                </tr>
+                <tr>
+                  <td>o3-mini</a></td>
+                  <td>97.1</td>
+                  <td>44.9</td>
+                  <td>71.5</td>
+                </tr>
                 <tr>
                   <td>BIP-ALM (w/ LLaMA 2) <br> <a href="https://chuanyangjin.com/mmtom-qa">Jin et al., '24</a></td>
                   <td>82.3</td>
@@ -392,6 +398,12 @@
                   <td>78.4</td>
                   <td>37.8</td>
                   <td>60.0</td>
+                </tr>
+                <tr>
+                  <td>GPT-4o*</td>
+                  <td>74.5</td>
+                  <td>39.8</td>
+                  <td>56.5</td>
                 </tr> 
                 <tr>
                   <td>SimToM (w/ GTP-4o) <br> <a href="https://arxiv.org/abs/2311.10227">Wilf et al., '23</td>
@@ -440,16 +452,16 @@
 
                 <tr>
                   <th rowspan="6" style="vertical-align: middle;">Video Only</th>
-                  <td class="highlight-grey">Human</td>
-                  <td class="highlight-grey">73.3</td>
-                  <td class="highlight-grey">64.6</td>
-                  <td class="highlight-grey">68.9</td>
+                  <td class="highlight-gray">Human</td>
+                  <td class="highlight-gray">73.3</td>
+                  <td class="highlight-gray">64.6</td>
+                  <td class="highlight-gray">68.9</td>
                 </tr>
                 <tr>
                   <td>BIP-ALM (w/ LLaMA 2) <br> <a href="https://chuanyangjin.com/mmtom-qa">Jin et al., '24</a></td>
-                  <td class="highlight-grey">64.0</td>
-                  <td class="highlight-grey">58.3</td>
-                  <td class="highlight-grey">61.2</td>
+                  <td class="highlight-orange">64.0</td>
+                  <td class="highlight-orange">58.3</td>
+                  <td class="highlight-orange">61.2</td>
                 </tr>         
                 <tr>
                   <td>InstructBLIP</td>
