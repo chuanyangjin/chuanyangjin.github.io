@@ -275,10 +275,10 @@
               <tbody>
                 <tr>
                   <th rowspan="14" style="vertical-align: middle;">Multimodal</th>
-                  <td>Human</td>
-                  <td>97.5</td>
-                  <td>88.5</td>
-                  <td>93</td>
+                  <td class="highlight-grey">Human</td>
+                  <td class="highlight-grey">97.5</td>
+                  <td class="highlight-grey">88.5</td>
+                  <td class="highlight-grey">93</td>
                 </tr>
                 <tr>
                   <td>BIP-ALM (w/ LLaMA 2) <br> <a href="https://chuanyangjin.com/mmtom-qa">Jin et al., '24</a></td>
@@ -364,10 +364,10 @@
 
                 <tr>
                   <th rowspan="12" style="vertical-align: middle;">Text Only</th>
-                  <td>Human</td>
-                  <td>91.0</td>
-                  <td>74.0</td>
-                  <td>82.5</td>
+                  <td class="highlight-grey"></td>Human</td>
+                  <td class="highlight-grey">91.0</td>
+                  <td class="highlight-grey">74.0</td>
+                  <td class="highlight-grey">82.5</td>
                 </tr>
                 <tr>
                   <td>Thought-tracing (w/ GTP-4o)* <br> <a href="https://arxiv.org/abs/2502.11881">Kim et al., '25</td>
@@ -435,190 +435,50 @@
                   <td>33.0</td>
                   <td>38.3</td>
                 </tr>
+
+
+
+                <tr>
+                  <th rowspan="6" style="vertical-align: middle;">Video Only</th>
+                  <td class="highlight-grey">Human</td>
+                  <td class="highlight-grey">73.3</td>
+                  <td class="highlight-grey">64.6</td>
+                  <td class="highlight-grey">68.9</td>
+                </tr>
+                <tr>
+                  <td>BIP-ALM (w/ LLaMA 2) <br> <a href="https://chuanyangjin.com/mmtom-qa">Jin et al., '24</a></td>
+                  <td>64.0</td>
+                  <td>58.3</td>
+                  <td>61.2</td>
+                </tr>         
+                <tr>
+                  <td>InstructBLIP</td>
+                  <td>49.3</td>
+                  <td>52.3</td>
+                  <td>50.8</td>
+                </tr>
+                <tr>
+                  <td>Video-LLaMA 2</td>
+                  <td>41.0</td>
+                  <td>51.0</td>
+                  <td>46.0</td>
+                </tr>
+                <tr>
+                  <td>GPT-4V</td>
+                  <td>45.7</td>
+                  <td>46.3</td>
+                  <td>46.0</td>
+                </tr>
+                <tr>
+                  <td>LLaVA</td>
+                  <td>39.0</td>
+                  <td>45.3</td>
+                  <td>42.2</td>
+                </tr>
               </tbody>
             </table>
           </div>
         </div>
-
-
-
-
-
-
-        
-        <table>
-          <thead>
-            
-          </thead>
-          <tbody>
-            <tr>
-              <th></th>
-              <th>Method</th>
-              <th>Belief</th>
-              <th>Goal</th>
-              <th>All</th>
-            </tr>
-
-
-            <tr>
-              <th rowspan="7" style="vertical-align: middle;">Multimodal</th>
-              <td class="odd-row">Human</td>
-              <td class="odd-row">97.5</td>
-              <td class="odd-row">88.5</td>
-              <td class="odd-row">93</td>
-            </tr>
-            <tr>
-              <td>InstructBLIP</td>
-              <td>48.7</td>
-              <td>44.7</td>
-              <td>46.7</td>
-            </tr>
-            <tr class="odd-row">
-              <td>Video-LLaMA 2</td>
-              <td>42.0</td>
-              <td>38.3</td>
-              <td>40.2</td>
-            </tr>
-            <tr>
-              <td>LLaVA</td>
-              <td>43.0</td>
-              <td>44.0</td>
-              <td>43.5</td>
-            </tr>
-            <tr class="odd-row">
-              <td>GPT-4V</td>
-              <td>55.3</td>
-              <td>34.7</td>
-              <td>40.0</td>
-            </tr>
-            <tr>
-              <td>BIP-ALM w/ GPT-J</td>
-              <td>81.7</td>
-              <td>69.0</td>
-              <td>75.3</td>
-            </tr>
-            <tr class="odd-row">
-              <td>BIP-ALM w/ LLaMA 2</td>
-              <td>80.3</td>
-              <td>73.3</td>
-              <td>76.7</td>
-            </tr>
-
-
-
-
-            <tr>
-              <th rowspan="9" style="vertical-align: middle;">Text Only</th>
-              <td>Human</td>
-              <td>91.0</td>
-              <td>74.0</td>
-              <td>82.5</td>
-            </tr>
-            <tr class="odd-row">
-              <td>GPT-4</td>
-              <td>62.0</td>
-              <td>34.0</td>
-              <td>48.0</td>
-            </tr>
-            <tr>
-              <td>GPT-3.5</td>
-              <td>43.7</td>
-              <td>33.0</td>
-              <td>38.3</td>
-            </tr>
-            <tr class="odd-row">
-              <td>GPT-J</td>
-              <td>49.0</td>
-              <td>52.3</td>
-              <td>50.7</td>
-            </tr>
-            <tr>
-              <td>LLaMA 2</td>
-              <td>56.3</td>
-              <td>44.3</td>
-              <td>50.3</td>
-            </tr>
-            <tr class="odd-row">
-              <td>SimToM w/ GPT-4</td>
-              <td>64.3</td>
-              <td>40.7</td>
-              <td>52.5</td>
-            </tr>
-            <tr>
-              <td>SymbolicToM w/ GPT-4</td>
-              <td>78.3</td>
-              <td>47.7</td>
-              <td>63.0</td>
-            </tr>
-            <tr class="odd-row">
-              <td>BIP-ALM w/ GPT-J</td>
-              <td>81.7</td>
-              <td>61.7</td>
-              <td>71.7</td>
-            </tr>
-            <tr>
-              <td>BIP-ALM w/ LLaMA 2</td>
-              <td>82.3</td>
-              <td>58.7</td>
-              <td>70.5</td>
-            </tr>
-
-
-
-
-
-            <tr>
-              <th rowspan="7" style="vertical-align: middle;">Video Only</th>
-              <td class="odd-row">Human</td>
-              <td class="odd-row">73.3</td>
-              <td class="odd-row">64.6</td>
-              <td class="odd-row">68.9</td>
-            </tr>
-            <tr>
-              <td>InstructBLIP</td>
-              <td>49.3</td>
-              <td>52.3</td>
-              <td>50.8</td>
-            </tr>
-            <tr class="odd-row">
-              <td>Video-LLaMA 2</td>
-              <td>41.0</td>
-              <td>51.0</td>
-              <td>46.0</td>
-            </tr>
-            <tr>
-              <td>LLaVA</td>
-              <td>39.0</td>
-              <td>45.3</td>
-              <td>42.2</td>
-            </tr>
-            <tr class="odd-row">
-              <td>GPT-4V</td>
-              <td>45.7</td>
-              <td>46.3</td>
-              <td>46.0</td>
-            </tr>
-            <tr>
-              <td>BIP-ALM w/ GPT-J</td>
-              <td>64.0</td>
-              <td>55.3</td>
-              <td>59.7</td>
-            </tr>
-            <tr class="odd-row">
-              <td>BIP-ALM w/ LLaMA 2</td>
-              <td>64.0</td>
-              <td>58.3</td>
-              <td>61.2</td>
-            </tr>
-          </tbody>
-
-
-          <tfoot>
-            <tr style="border-top: 1px solid black;">
-              <th colspan="5"></th>
-            </tr>
-          </tfoot>
-        </table>
       </div>
     </div>
   </div>
