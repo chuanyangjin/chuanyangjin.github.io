@@ -31,6 +31,16 @@ description: >
 </script> -->
 
 <div style="margin-bottom: 25px;">
+  <span style="font-size: 18px;"><b>AutoToM : Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind</b></span><br>
+  <span class="authors">Zhining Zhang*,</span>
+  <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu (†: project lead)</span><br>
+  <b>Preprint</b><br>
+  <a href="https://arxiv.org/abs/2502.15676">paper</a> /
+  <a href="/AutoToM/">project</a> /
+  <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
+</div>
+
+<div style="margin-bottom: 25px;">
   <span style="font-size: 18px;"><b>OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis</b></span><br>
   <span class="authors">Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*,</span>
   <b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
