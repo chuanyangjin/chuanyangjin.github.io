@@ -47,7 +47,7 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 
 
 ## News
-+ [Feb, 2025] Introducing AutoToM (automated and open-ended Theory of Mind reasoning method) ([Arxiv](https://arxiv.org/abs/2502.15676), [Twitter](https://x.com/chuanyang_jin/status/1894737913499246665)) 
++ [Feb, 2025] Introducing AutoToM (an automated and open-ended Theory of Mind method) ([Arxiv](https://arxiv.org/abs/2502.15676), [Twitter](https://x.com/chuanyang_jin/status/1894737913499246665)) 
 + [Jan, 2025] [MuMA-ToM](https://scai.cs.jhu.edu/projects/MuMA-ToM/) was accepted at AAAI 2025 as an Oral Presentation!
 + [Oct, 2024] [MMToM-QA](/mmtom-qa) was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/).
 + [Sep, 2024] Invited talk @ University of Washinton on "Towards Multimodal Theory of Mind".
