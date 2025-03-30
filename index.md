@@ -28,17 +28,17 @@ sitemap: true
 </head>
 
 I am a first-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Prof. Tianmin Shu](https://www.tshu.io/).
-Previously, I obtained my B.A. in Honors Computer Science and Mathematics from [New York University](https://www.nyu.edu/) in 2024, where I received the CS Prize for the Most Promising Student. 
-I have also spent time as a research intern at [MIT](https://www.mit.edu/) and Shanghai AI Lab.
+Previously, I obtained my B.A. in Honors Computer Science and B.A. in Mathematics from [New York University](https://www.nyu.edu/) in 2024, where I received the Computer Science Prize for the Most Promising Student. 
+I have also spent time as a research intern at [MIT](https://www.mit.edu/).
 I received an Outstanding Paper Award at ACL 2024 for my work on [multimodal Theory of Mind](https://arxiv.org/abs/2401.08743).
 
 I love working on exciting and game-changing research problems. My current areas of focus include:
 
 + **Social Intelligence**: Developing agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among them.
 
-+ **System-2 Reasoning**: In addition to System-1 intuitive thinking, improving System-2 deliberate reasoning by integrating language models, agent models, and world models in a scalable, cognitively grounded way.
++ **Advanced Reasoning**: Improving and integrating System-2 deliberate reasoning with System-1 intuitive thinking by integrating language models, agent models, and world models in a scalable, cognitively grounded way.
 
-+ **Open-Ended Agents**: Building the next generation of language agents that can interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
++ **Open-Ended Agents**: Building the next generation of AI agents that can interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
 
 <!-- combine language models, agent models, and world models in a cognitively grounded way, and promote more robust and versatile reasoning across various modalities.
 Besides academics, I enjoy roaming in movies and books. I am an avid reader of scientific fiction and history, as well as a dedicated writer read by more than 17,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, hiking and so much more. -->
