@@ -56,10 +56,10 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 + [Apr, 2023] Received [NYU Computer Science Prize](/assets/awards/NYU_Computer_Science_Prize.pdf) for the Most Promising Student. -->
 
 
-## Selected Publications<br>
-<!-- For full publication list, please refer to my <img src="/assets/icons/google-scholar.svg" alt="Google Scholar" style="width: 20px; height: 20px; vertical-align: middle;"> [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br> -->
+## Selected Publications
 (* denotes equal contribution; † denotes project lead)<br>
-For a more complete list, please see the [publication page](/publications) or [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br>
+For a more complete list, please see the [publication page](/publications) or [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br>
+<!-- For full publication list, please refer to my <img src="/assets/icons/google-scholar.svg" alt="Google Scholar" style="width: 20px; height: 20px; vertical-align: middle;"> [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br> -->
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
