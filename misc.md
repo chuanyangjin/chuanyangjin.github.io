@@ -28,9 +28,8 @@ I occasionally share [research](http://xhslink.com/a/Wukk5CMK8jI9), popularize [
 
 <!-- I am an avid reader of scientific fiction and history, as well as a dedicated writer read by more than 18,000,000 times on online platforms such as Zhihu, Xiaohongshu, and WeChat OA. -->
 
-I've watched over 1,000 movies, mostly Drama, Sci-Fi, Mystery, and Thriller. Click to sample one of my <a id="random-movie">favorite movies</a>.
+I've watched over 1,000 movies, mostly Drama, Sci-Fi, Mystery, and Thriller. Click to sample one of my <a href="#" onclick="event.preventDefault(); const movies = ['https://en.wikipedia.org/wiki/The_Wandering_Earth', 'https://en.wikipedia.org/wiki/Memento_(film)', 'https://en.wikipedia.org/wiki/The_Dark_Knight', 'https://en.wikipedia.org/wiki/Coco_(2017_film)', 'https://en.wikipedia.org/wiki/Let_the_Bullets_Fly', 'https://en.wikipedia.org/wiki/The_Invisible_Guest', 'https://en.wikipedia.org/wiki/Witness_for_the_Prosecution_(1957_film)']; window.open(movies[Math.floor(Math.random() * movies.length)], '_blank');">favorite movies</a>.
 
-Click to <a href="#" onclick="event.preventDefault(); const movies = ['https://www.imdb.com/title/tt0137523/', 'https://www.imdb.com/title/tt0482571/', 'https://www.imdb.com/title/tt0816692/', 'https://www.imdb.com/title/tt0133093/', 'https://www.imdb.com/title/tt0110912/']; window.open(movies[Math.floor(Math.random() * movies.length)], '_blank');">sample one of my favorite movies</a>.
 
 I'm also a level 10 pianist, and I love playing [Moonlight Sonata](https://www.youtube.com/watch?v=4591dCHe_sE), [Flower Dance](https://www.youtube.com/watch?v=rA_2B7Yj4QE), and [Croatian Rhapsody](https://www.youtube.com/watch?v=ga2y-nkGbRY).
 
