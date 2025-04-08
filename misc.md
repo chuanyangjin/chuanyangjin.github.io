@@ -22,7 +22,7 @@ a::after, a.external::after {
 
 I am from [Nanjing](https://en.wikipedia.org/wiki/Nanjing), a historic, vibrant, and scenic city. I've also lived in Shanghai, New York, Boston, and Baltimore.
 
-My personality type is [INFJ](https://www.16personalities.com/infj-personality). I’m a [Ravenclaw](https://www.wizardingworld.com/collections/ravenclaw).
+My personality type is [INFJ](https://www.16personalities.com/infj-personality), and I’m a proud [Ravenclaw](https://www.wizardingworld.com/collections/ravenclaw).
 
 I occasionally share [research](http://xhslink.com/a/Wukk5CMK8jI9), popularize [memes](https://www.zhihu.com/question/430297692/answer/1715042961?utm_psn=1892904443743273437), and post [random things](https://www.zhihu.com/question/349726516/answer/2753741967?utm_psn=1892904282782663711) on Zhihu and Xiaohongshu, where I've gathered 30k followers and 18 million views (and counting).
 
@@ -37,13 +37,14 @@ const movies = [
   'https://en.wikipedia.org/wiki/Let_the_Bullets_Fly', 
   'https://en.wikipedia.org/wiki/The_Invisible_Guest', 
   'https://en.wikipedia.org/wiki/Witness_for_the_Prosecution_(1957_film)', 
-  'https://en.wikipedia.org/wiki/City_of_God_(2002_film)'
+  'https://en.wikipedia.org/wiki/City_of_God_(2002_film)',
+  'https://en.wikipedia.org/wiki/The_Last_Emperor'
 ]; 
 window.open(movies[Math.floor(Math.random() * movies.length)], '_blank');">favorite movies</a>.
 
 
-I'm also a level 10 pianist, and I love playing [Moonlight Sonata](https://www.youtube.com/watch?v=4591dCHe_sE), [Flower Dance](https://www.youtube.com/watch?v=rA_2B7Yj4QE), and [Croatian Rhapsody](https://www.youtube.com/watch?v=ga2y-nkGbRY).
+I'm a level 10 pianist, and enjoy playing pieces like [Moonlight Sonata](https://www.youtube.com/watch?v=4591dCHe_sE), [Flower Dance](https://www.youtube.com/watch?v=rA_2B7Yj4QE), and [Croatian Rhapsody](https://www.youtube.com/watch?v=ga2y-nkGbRY).
 
 Check out some fun websites I created: [Hogwarts](https://www.hogwartsishere.com/courses/by-level/), [United Earth Government](https://uegov.world/), and [Chuanyang University](https://www.linkedin.com/company/chuan-yang-university).
 
-I’m a Go player, co-evolving with AI. I’m also (slowly) picking up photography. And I love cats—no explanation needed!
+I’m a Go player adapting to the AI era. I’m also (slowly) picking up photography. And I love cats—no explanation needed!
