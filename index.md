@@ -29,8 +29,8 @@ sitemap: true
 
 I am a first-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/).
 
-Previously, I obtained my B.A. in Honors Computer Science and B.A. in Mathematics from [New York University](https://www.nyu.edu/) in 2024, where I received the Computer Science Prize for the Most Promising Student. 
-I have also spent time as a research intern at [MIT](https://www.mit.edu/).
+I received my B.A. in Honors Computer Science and B.A. in Mathematics from [New York University](https://www.nyu.edu/) in 2024, where I was awared the Computer Science Prize for the Most Promising Student. 
+I have also spent time as a research intern at [MIT](https://www.mit.edu/). 
 I received an Outstanding Paper Award at ACL 2024 for my work on [multimodal Theory of Mind](https://arxiv.org/abs/2401.08743).
 
 I love working on exciting and game-changing research problems. My current areas of focus include:
@@ -50,6 +50,7 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 + [Oct, 2024] [MMToM-QA](/mmtom-qa) was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/).
 + [Sep, 2024] Invited talk @ University of Washinton on "Towards Multimodal Theory of Mind".
 + [Aug, 2024] [MMToM-QA](/mmtom-qa) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024!
+
 <!-- + [May, 2024] Released the [position paper](https://arxiv.org/abs/2405.10313) for ICLR 2024 AGI Workshop.
 + [May, 2023] Released [fast-DiT](https://github.com/chuanyangjin/fast-DiT), state-of-the-art diffusion models with 2x speedup.
 + [Apr, 2023] Received [NYU Computer Science Prize](/assets/awards/NYU_Computer_Science_Prize.pdf) for the Most Promising Student. -->
