@@ -59,8 +59,7 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 
 ## Selected Publications
 (* denotes equal contribution; † denotes project lead)<br>
-For a more complete list, please see the [publication page](/publications) or [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br>
-<!-- For full publication list, please refer to my <img src="/assets/icons/google-scholar.svg" alt="Google Scholar" style="width: 20px; height: 20px; vertical-align: middle;"> [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br> -->
+For a more complete list, please see my [publication page](/publications) or [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br>
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
@@ -169,9 +168,9 @@ You can also take a look at [my undergrad projects](/projects). A mountain of gr
 - NYU Dean's Undergraduate Research Fund, 2023
 - <span style="background-color: rgba(173, 216, 230, 0.5);">COMAP International Scholarship Award (Top 0.1%), 2022</span>
 - <span style="background-color: rgba(173, 216, 230, 0.5);">MAA Award in Mathematical Contest in Modeling (Top 0.1%), 2022</span>
-- Distinguished Honor Roll of American Mathematics Contest (Top 1%), 2020
+<!-- - Distinguished Honor Roll of American Mathematics Contest (Top 1%), 2020 -->
 - Bronze Medal of Shing-Tung Yau Computer Science Award (Top 1%), 2019
 - Finalist of FIRST Robotics Competition World Championship (Top 0.2%), 2019
-- NFLS Outstanding Student Leader Award and Zhou Enlai Scholarship (Top 3%), 2019
+- NFLS Outstanding Student Leader Award and Zhou Enlai Scholarship (Top 1%), 2018
 <!-- - Champion of International Regions Mathematics League, 2018 -->
 - <span style="background-color: rgba(173, 216, 230, 0.5);">First Prize of Chinese Mathematical Olympiad (Top 0.1%), 2018</span>
