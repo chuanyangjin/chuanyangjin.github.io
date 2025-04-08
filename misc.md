@@ -9,16 +9,6 @@ a::after, a.external::after {
 }
 </style>
 
-<script>
-  const movieLinks = [
-    "https://en.wikipedia.org/wiki/Interstellar_(film)", // Interstellar
-    "https://en.wikipedia.org/wiki/The_Matrix" // The Matrix
-  ];
-  
-  const randomLink = movieLinks[Math.floor(Math.random() * movieLinks.length)];
-  document.getElementById('random-movie').setAttribute('href', randomLink);
-</script>
-
 
 I am from [Nanjing](https://en.wikipedia.org/wiki/Nanjing), a historic, vibrant, and scenic city. I've also lived in Shanghai, New York, Boston, and Baltimore.
 
@@ -47,4 +37,4 @@ I'm a level 10 pianist, and enjoy playing pieces like [Moonlight Sonata](https:/
 
 Check out some fun websites I created: [Hogwarts](https://www.hogwartsishere.com/courses/by-level/), [United Earth Government](https://uegov.world/), and [Chuanyang University](https://www.linkedin.com/company/chuan-yang-university).
 
-I’m a Go player adapting to the AI era. I’m also (slowly) picking up photography. And I love cats—no explanation needed!
+I’m a Go player adapting to the AI era. I’m also (slowly) picking up photography. And I love cats!
