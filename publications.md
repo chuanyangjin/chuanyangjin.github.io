@@ -30,10 +30,12 @@ description: >
     window.location.href = "https://chuanyangjin.com/#research";
 </script> -->
 
+(* denotes equal contribution; † denotes project lead)
+
 <div style="margin-bottom: 25px;">
   <span style="font-size: 18px;"><b>AutoToM : Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind</b></span><br>
   <span class="authors">Zhining Zhang*,</span>
-  <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu (†: project lead)</span><br>
+  <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
   <b>Preprint</b><br>
   <a href="https://arxiv.org/abs/2502.15676">paper</a> /
   <a href="/AutoToM/">project</a> /

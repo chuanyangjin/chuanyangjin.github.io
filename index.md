@@ -27,21 +27,19 @@ sitemap: true
   </style>
 </head>
 
-I am a first-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Prof. Tianmin Shu](https://www.tshu.io/).
+I am a first-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/).
+
 Previously, I obtained my B.A. in Honors Computer Science and B.A. in Mathematics from [New York University](https://www.nyu.edu/) in 2024, where I received the Computer Science Prize for the Most Promising Student. 
 I have also spent time as a research intern at [MIT](https://www.mit.edu/).
 I received an Outstanding Paper Award at ACL 2024 for my work on [multimodal Theory of Mind](https://arxiv.org/abs/2401.08743).
 
 I love working on exciting and game-changing research problems. My current areas of focus include:
 
-+ **Social Intelligence**: Developing agents that can perceive, reason about, learn from, and respond to affect, behavior, and cognition of humans or other agents, and foster strategic collaborations among them.
++ **Social Intelligence**: Creating capable and friendly agents that can perceive, reason about, learn from, and respond to the behavior and cognition of humans or other agents; promoting strategic communication and collaboration among them.
 
 + **Advanced Reasoning**: Improving and integrating System-2 deliberate reasoning with System-1 intuitive thinking by combining language models, agent models, and world models in a scalable, cognitively grounded way.
 
-+ **Open-Ended Agents**: Building the next generation of AI agents that can interact with the world through reasoning, planning, managing memory, and learning from human and environment feedback.
-
-<!-- combine language models, agent models, and world models in a cognitively grounded way, and promote more robust and versatile reasoning across various modalities.
-Besides academics, I enjoy roaming in movies and books. I am an avid reader of scientific fiction and history, as well as a dedicated writer read by more than 17,000,000 times on different platforms. I also enjoy playing "Go", piano, badminton, hiking and so much more. -->
+<!-- + **Open-Ended Agents**: Building capable and friendly AI agents that can interact with humans and the world through reasoning, planning, managing memory, and learning from human and environment feedback. -->
 
 Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much more](/misc).
 
@@ -52,14 +50,17 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 + [Oct, 2024] [MMToM-QA](/mmtom-qa) was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/).
 + [Sep, 2024] Invited talk @ University of Washinton on "Towards Multimodal Theory of Mind".
 + [Aug, 2024] [MMToM-QA](/mmtom-qa) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024!
-+ [May, 2024] Released the [position paper](https://arxiv.org/abs/2405.10313) for ICLR 2024 AGI Workshop.
+<!-- + [May, 2024] Released the [position paper](https://arxiv.org/abs/2405.10313) for ICLR 2024 AGI Workshop.
 + [May, 2023] Released [fast-DiT](https://github.com/chuanyangjin/fast-DiT), state-of-the-art diffusion models with 2x speedup.
-+ [Apr, 2023] Received [NYU Computer Science Prize](/assets/awards/NYU_Computer_Science_Prize.pdf) for the Most Promising Student.
++ [Apr, 2023] Received [NYU Computer Science Prize](/assets/awards/NYU_Computer_Science_Prize.pdf) for the Most Promising Student. -->
 
 
 ## Selected Publications
 <!-- For full publication list, please refer to my <img src="/assets/icons/google-scholar.svg" alt="Google Scholar" style="width: 20px; height: 20px; vertical-align: middle;"> [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br> -->
-For a more complete list, see the [publication page](/publications), or my [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br>
+
+(* denotes equal contribution; † denotes project lead)
+
+For a more complete list, please see the [publication page](/publications) or [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br>
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
@@ -68,7 +69,7 @@ For a more complete list, see the [publication page](/publications), or my [Goog
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>AutoToM : Automated Bayesian Inverse Planning and<br>Model Discovery for Open-ended Theory of Mind</b></span><br>
     <span class="authors">Zhining Zhang*,</span>
-    <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu (†: project lead)</span><br>
+    <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
     <b>Preprint</b><br>
     <a href="https://arxiv.org/abs/2502.15676">paper</a> /
     <a href="/AutoToM">project</a> /
