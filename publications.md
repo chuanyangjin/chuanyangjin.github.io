@@ -2,7 +2,7 @@
 title: Publications
 description: >
 ---
-(* denotes equal contribution; † denotes project lead)
+(* denotes equal contribution; † denotes project lead)<br><br>
 
 <head>
   <!-- Meta Description Tag -->
@@ -30,7 +30,6 @@ description: >
 <!-- <script>
     window.location.href = "https://chuanyangjin.com/#research";
 </script> -->
-
 
 <div style="margin-bottom: 25px;">
   <span style="font-size: 18px;"><b>AutoToM : Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind</b></span><br>
