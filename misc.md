@@ -12,7 +12,7 @@ a::after, a.external::after {
 
 I am from [Nanjing](https://en.wikipedia.org/wiki/Nanjing), a historic, vibrant, and scenic city. I've also lived in Shanghai, New York, Boston, and Baltimore.
 
-My personality type is [INFJ](https://www.16personalities.com/infj-personality), and I’m a [Ravenclaw](https://www.wizardingworld.com/collections/ravenclaw).
+My personality type is [INFJ](https://www.16personalities.com/infj-personality) according to the Myers-Briggs, and I’m a [Ravenclaw](https://www.wizardingworld.com/collections/ravenclaw).
 
 I occasionally share [research](http://xhslink.com/a/Wukk5CMK8jI9), popularize [memes](https://www.zhihu.com/question/430297692/answer/1715042961?utm_psn=1892904443743273437), and post [random things](https://www.zhihu.com/question/349726516/answer/2753741967?utm_psn=1892904282782663711) on Zhihu and Xiaohongshu, where I've gathered 30k followers and 18 million views.
 
