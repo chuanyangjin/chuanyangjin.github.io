@@ -20,18 +20,20 @@ I occasionally share [research](http://xhslink.com/a/Wukk5CMK8jI9), popularize [
 
 I've watched over 1,000 movies, mostly Drama, Sci-Fi, Mystery, and Thriller. Click to sample one of my <a href="#" onclick="event.preventDefault(); 
 const movies = [
-  'https://en.wikipedia.org/wiki/Witness_for_the_Prosecution_(1957_film)',
-  'https://en.wikipedia.org/wiki/The_Last_Emperor',
-  'https://en.wikipedia.org/wiki/Memento_(film)',
-  'https://en.wikipedia.org/wiki/City_of_God_(2002_film)',
-  'https://en.wikipedia.org/wiki/The_Dark_Knight',
-  'https://en.wikipedia.org/wiki/Let_the_Bullets_Fly',
-  'https://en.wikipedia.org/wiki/The_Invisible_Guest',
-  'https://en.wikipedia.org/wiki/Coco_(2017_film)',
-  'https://en.wikipedia.org/wiki/The_Wandering_Earth',
+  'https://en.wikipedia.org/wiki/Witness_for_the_Prosecution_(1957_film)', <!-- 9.6 (No.19), 8.4 (No.64) -->
+  'https://en.wikipedia.org/wiki/The_Last_Emperor', <!-- 9.3 (No.26), 7.7 -->
+  'https://en.wikipedia.org/wiki/Memento_(film)', <!-- 8.7 (No.186), 8.4 (No.57）-->
+  'https://en.wikipedia.org/wiki/City_of_God_(2002_film)', <!-- 9.0 (No.178), 8.6 (No.25) -->
+  'https://en.wikipedia.org/wiki/The_Dark_Knight', <!-- 9.2 (No.31), 9.0 (No.3)-->
+  'https://en.wikipedia.org/wiki/Let_the_Bullets_Fly', <!-- 9.0 (No.36), 7.3 -->
+  'https://en.wikipedia.org/wiki/The_Invisible_Guest', <!-- 8.8 (No.74）, 8.0 -->
+  'https://en.wikipedia.org/wiki/Coco_(2017_film)', <!-- 9.1 (No.24), 8.4 (No.72) -->
+  'https://en.wikipedia.org/wiki/The_Wandering_Earth', <!-- 7.9, 5.9 -->
 ]; 
 window.open(movies[Math.floor(Math.random() * movies.length)], '_blank');">favorite movies</a>.
 
+<!-- 盗梦空间 9.4 (No.9), 8.8 (No.14)
+信条 7.6, 7.3 -->
 
 I'm a level 10 pianist, and enjoy playing pieces like [Moonlight Sonata](https://www.youtube.com/watch?v=4591dCHe_sE), [Flower Dance](https://www.youtube.com/watch?v=rA_2B7Yj4QE), and [Croatian Rhapsody](https://www.youtube.com/watch?v=ga2y-nkGbRY).
 
