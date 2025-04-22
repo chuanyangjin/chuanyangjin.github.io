@@ -37,7 +37,7 @@ description: >
   </div>
   <div style="margin-left: 270px;">
     <span style="font-size: 18px;"><b>Fast Diffusion Transformers</b></span><br>
-    <em>DiT models with 2x speedup and 60% less memory; 700+ GitHub Stars.</em><br>
+    <em>DiT models with 2x speedup and 60% less memory; 800+ GitHub Stars.</em><br>
     <a href="https://github.com/chuanyangjin/fast-DiT">code</a>
   </div>
 </div>
