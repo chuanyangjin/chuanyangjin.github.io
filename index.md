@@ -27,7 +27,7 @@ sitemap: true
   </style>
 </head>
 
-I am a first-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a research intern in the Fundamental AI Research (FAIR) team at Meta, mentored by [Jason Weston](https://scholar.google.com/citations?hl=en&user=lMkTx0EAAAAJ).
+I am a first-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a research intern in the Fundamental AI Research (FAIR) team at Meta, mentored by [Jason Weston](https://ai.meta.com/people/1163645124801199/jason-weston/).
 
 I received my B.A. in Honors Computer Science and B.A. in Mathematics from [New York University](https://www.nyu.edu/) in 2024, where I was awared the Computer Science Prize for the Most Promising Student. 
 I have also spent time as a research intern at [MIT](https://www.mit.edu/). 
