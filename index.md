@@ -45,8 +45,8 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 
 
 ## News
-+ [Apr, 2025] Co-organizing the Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/) at RSS 2025.
-+ [Feb, 2025] Introducing [AutoToM](/AutoToM): an automated and SOTA Theory of Mind method ([Arxiv](https://arxiv.org/abs/2502.15676), [Twitter](https://x.com/chuanyang_jin/status/1894737913499246665)).
++ [Apr, 2025] Co-organizing the Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/) at RSS 2025. Submit your paper by May 22, and join us via Zoom or in person on June 21!
++ [Feb, 2025] Introducing [AutoToM](/AutoToM): a method for scaling model-based mental inference via automated agent modeling ([Arxiv](https://arxiv.org/abs/2502.15676), [Twitter](https://x.com/chuanyang_jin/status/1894737913499246665)).
 + [Jan, 2025] [MuMA-ToM](https://scai.cs.jhu.edu/projects/MuMA-ToM/) was accepted at AAAI 2025 as an Oral Presentation!
 + [Oct, 2024] [MMToM-QA](/mmtom-qa) was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/).
 + [Sep, 2024] Invited talk @ University of Washinton on "Towards Multimodal Theory of Mind".
@@ -85,7 +85,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <span style="font-size: 18px;"><b>OS-Genesis: Automating GUI Agent Trajectory<br>Construction via Reverse Task Synthesis</b></span><br>
     <span class="authors">Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*,</span>
     <b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
-    <b>Preprint</b><br>
+    <b>ACL 2025</b><br>
     <a href="https://arxiv.org/abs/2412.19723">paper</a> /
     <a href="https://qiushisun.github.io/OS-Genesis-Home">project</a> /
     <a href="https://github.com/OS-Copilot/OS-Genesis">code</a>
