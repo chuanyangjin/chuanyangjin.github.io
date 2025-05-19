@@ -163,6 +163,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
 You can also take a look at [my undergrad projects](/projects). A mountain of gratitude to those who have kindly mentored me and inspired me with their vision and passion!
 
 ## Selected Honors & Awards
+- ICLR Notable Reviewer, 2025
 - <span style="background-color: rgba(173, 216, 230, 0.5);">ACL Outstanding Paper Award, 2024</span>
 - NYU Presidential Honors Scholar and Summa cum Laude (Top 5%), 2024
 - <span style="background-color: rgba(173, 216, 230, 0.5);">NYU Computer Science Prize for the Most Promising Student (1 person/year), 2023</span>
