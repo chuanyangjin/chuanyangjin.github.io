@@ -163,16 +163,15 @@ For a more complete list, please see my [publication page](/publications) or [Go
 You can also take a look at [my undergrad projects](/projects). A mountain of gratitude to those who have kindly mentored me and inspired me with their vision and passion!
 
 ## Selected Honors & Awards
-- ICLR Notable Reviewer, 2025
-- <span style="background-color: rgba(173, 216, 230, 0.5);">ACL Outstanding Paper Award, 2024</span>
-- NYU Presidential Honors Scholar and Summa cum Laude (Top 5%), 2024
-- <span style="background-color: rgba(173, 216, 230, 0.5);">NYU Computer Science Prize for the Most Promising Student (1 person/year), 2023</span>
-- NYU Dean's Undergraduate Research Fund, 2023
+- Notable Reviewer, ICLR 2025
+- <span style="background-color: rgba(173, 216, 230, 0.5);">Outstanding Paper Award, ACL 2024</span>
+- Presidential Honors Scholar and Summa cum Laude, New York University (Top 5%), 2024
+- <span style="background-color: rgba(173, 216, 230, 0.5);">Computer Science Prize for the Most Promising Student, New York University (1 person/year), 2023</span>
+- Dean's Undergraduate Research Fund, New York University, 2023
 - <span style="background-color: rgba(173, 216, 230, 0.5);">COMAP International Scholarship Award (Top 0.1%), 2022</span>
 - <span style="background-color: rgba(173, 216, 230, 0.5);">MAA Award in Mathematical Contest in Modeling (Top 0.1%), 2022</span>
-<!-- - Distinguished Honor Roll of American Mathematics Contest (Top 1%), 2020 -->
 - Bronze Medal of Shing-Tung Yau Computer Science Award (Top 1%), 2019
 - Finalist of FIRST Robotics Competition World Championship (Top 0.2%), 2019
 - NFLS Outstanding Student Leader Award and Zhou Enlai Scholarship (Top 1%), 2018
-<!-- - Champion of International Regions Mathematics League, 2018 -->
 - <span style="background-color: rgba(173, 216, 230, 0.5);">First Prize of Chinese Mathematical Olympiad (Top 0.1%), 2018</span>
+<!-- - Champion of International Regions Mathematics League, 2018 -->
