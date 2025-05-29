@@ -60,7 +60,7 @@ I love working on exciting and game-changing research problems. My current areas
 </details>
 
 <details>
-<summary> <strong>Continual Learning from Human Interaction</strong>: Building AI that continuously integrates human feedback, demonstrations, and nuanced preference signals over time.</summary>
+<summary> <strong>Continual Learning from Human Interaction</strong>: Building AI that continuously integrates human feedback, demonstrations, and nuanced preference signals over time.<br></summary>
 <div style="margin-left: 0.5em; margin-top: 0.5em;">
   <ul>
   <li>
@@ -68,9 +68,7 @@ I love working on exciting and game-changing research problems. My current areas
   </li>
   </ul>
 </div>
-</details><!-- 
-
--->
+</details>
 
 Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much more](/misc).
 
