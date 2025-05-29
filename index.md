@@ -69,7 +69,7 @@ I love working on exciting and game-changing research problems. My current areas
   </ul>
 </div>
 </details>
-
+<!-- -->
 
 Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much more](/misc).
 
