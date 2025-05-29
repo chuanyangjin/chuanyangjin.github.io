@@ -58,6 +58,17 @@ I love working on exciting and game-changing research problems. My current areas
 </ul>
 </div>
 
+<details>
+  <summary> <strong>Continual Reasoning about Human Interaction</strong>: Developing AI systems that can continuously perceive, understand, reason about, and respond to the behavior and cognition of humans or other agents.</summary>
+  <div style="color: #666666; margin-left: 1.5em; margin-top: 0.5em;">
+    <ul>
+      <li>
+      In particular, my works automate agent modeling with LLM backends, advancing Theory of Mind reasoning by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a>, learning from <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> and <a href="https://huggingface.co/datasets/SoMi-ToM/SoMi-ToM">multi-perspective</a> observations, and <a href="https://chuanyangjin.com/AutoToM/">scaling to long-term and complex settings</a>.
+      </li>
+    </ul>
+  </div>
+</details>
+
 <!-- ▸ In particular, my works automate agent modeling with LLM backends, advancing Theory of Mind reasoning by [grounding it in cognitive theories](https://chuanyangjin.com/mmtom-qa), learning from [multi-modal](https://chuanyangjin.com/mmtom-qa), [multi-agent](https://scai.cs.jhu.edu/projects/MuMA-ToM/) and [multi-perspective](https://huggingface.co/datasets/SoMi-ToM/SoMi-ToM) observations, and [scaling to long-term and complex settings](https://chuanyangjin.com/AutoToM/). -->
 
 + **Continual Learning from Human Interaction**: Building AI that continuously integrates human feedback, demonstrations, and nuanced preference signals over time.
