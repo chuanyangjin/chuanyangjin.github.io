@@ -49,7 +49,7 @@ I love working on exciting and game-changing research problems. My current areas
 <!-- + **Open-Ended Agents**: Building capable and friendly AI agents that can interact with humans and the world through reasoning, planning, managing memory, and learning from human and environment feedback. -->
 
 <details style="margin-bottom:1em;">
-<summary> <strong>Continual Reasoning about Human Interaction</strong>: Developing AI systems that can continuously perceive, understand, reason about, and respond to the behavior and cognition of humans or other agents.</summary>
+<summary> <strong>Continual Reasoning about Humans</strong>: Developing AI systems that can continuously perceive, understand, reason about, and respond to the behavior and cognition of humans or other agents.</summary>
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
   <li>
@@ -60,7 +60,7 @@ I love working on exciting and game-changing research problems. My current areas
 </details>
 
 <details style="margin-bottom:1em;">
-<summary> <strong>Continual Learning from Human Interaction</strong>: Building AI that continuously integrates human feedback, demonstrations, and nuanced preference signals over time.</summary>
+<summary> <strong>Continual Learning from Humans</strong>: Building AI that continuously learns from human interactions—either through direct demonstrations, communications, proactive feedback, or collaboration.</summary>
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
   <li>
