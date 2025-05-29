@@ -25,6 +25,13 @@ sitemap: true
       color: #C04000;
     }
   </style>
+
+  <style>
+  ul.triangle li::marker {
+      content: "▸";
+  }
+  </style>
+
 </head>
 
 I am a first-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a research intern in the Fundamental AI Research (FAIR) team at Meta, mentored by [Jason Weston](https://ai.meta.com/people/1163645124801199/jason-weston/).
@@ -43,19 +50,25 @@ I love working on exciting and game-changing research problems. My current areas
 
 + **Continual Reasoning about Human Ineteraction**: Developing AI systems that can continuously perceive, understand, reason about, and respond to the behavior and cognition of humans or other agents. 
 
-<ul>
+<div style="margin-top: -1em; margin-left: 1.5em;">
+<ul class="triangle">
 <li>
-  <div style="margin-top: -1em; margin-left: 1.5em;">
     In particular, my works automate agent modeling with LLM backends, advancing Theory of Mind reasoning by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a>, learning from <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> and <a href="https://huggingface.co/datasets/SoMi-ToM/SoMi-ToM">multi-perspective</a> observations, and <a href="https://chuanyangjin.com/AutoToM/">scaling to long-term and complex settings</a>.
-  </div>
 </li>
 </ul>
+</div>
 
 <!-- ▸ In particular, my works automate agent modeling with LLM backends, advancing Theory of Mind reasoning by [grounding it in cognitive theories](https://chuanyangjin.com/mmtom-qa), learning from [multi-modal](https://chuanyangjin.com/mmtom-qa), [multi-agent](https://scai.cs.jhu.edu/projects/MuMA-ToM/) and [multi-perspective](https://huggingface.co/datasets/SoMi-ToM/SoMi-ToM) observations, and [scaling to long-term and complex settings](https://chuanyangjin.com/AutoToM/). -->
 
 + **Continual Learning from Human Interaction**: Building AI that continuously integrates human feedback, demonstrations, and nuanced preference signals over time.
 
-    ▸ Check out our [RSS Workshop on Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/)!
+<div style="margin-top: -1em; margin-left: 1.5em;">
+<ul class="triangle">
+<li>
+    Check out our <a href="https://continual-robot-learning-from-humans.github.io/">RSS Workshop on Continual Robot Learning from Humans</a>!
+</li>
+</ul>
+</div>
 
 Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much more](/misc).
 
