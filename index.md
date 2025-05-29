@@ -68,8 +68,9 @@ I love working on exciting and game-changing research problems. My current areas
   </li>
   </ul>
 </div>
-</details>
-<!-- -->
+</details><!-- 
+
+-->
 
 Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much more](/misc).
 
