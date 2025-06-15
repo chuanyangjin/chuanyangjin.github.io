@@ -116,7 +116,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <span style="font-size: 18px;"><b>OS-Genesis: Automating GUI Agent Trajectory<br>Construction via Reverse Task Synthesis</b></span><br>
     <span class="authors">Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*,</span>
     <b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
-    <b>ACL 2025</b><br>
+    <b>ACL 2025 <span style="color: rgb(60,130,226)">(Huggingface Daily Paper Top-1)</span></b><br>
     <a href="https://arxiv.org/abs/2412.19723">paper</a> /
     <a href="https://qiushisun.github.io/OS-Genesis-Home">project</a> /
     <a href="https://github.com/OS-Copilot/OS-Genesis">code</a>
