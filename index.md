@@ -40,7 +40,8 @@ I received my B.A. in Honors Computer Science and B.A. in Mathematics from [New 
 I have also spent time as a research intern at [MIT](https://www.mit.edu/).
 I received an Outstanding Paper Award at ACL 2024 for my work on [evaluation and methods for multimodal Theory of Mind.](https://arxiv.org/abs/2401.08743).
 
-I love working on exciting and game-changing research problems. My current areas of focus include:
+I’m interested in developing AI systems with advanced social intelligence. My current areas of focus include:
+<!-- I love working on exciting and game-changing research problems. -->
 <!-- social reasoning, social learning -->
 
 <details style="margin-bottom:1em;">
@@ -55,11 +56,11 @@ I love working on exciting and game-changing research problems. My current areas
 </details>
 
 <details style="margin-bottom:1em;">
-<summary> <strong>Continual Learning from Humans</strong>: Building AI that continuously learns from human interactions—either through direct demonstrations, communications, proactive feedback, or collaboration.</summary>
+<summary> <strong>Continual Learning from Humans</strong>: Building AI that continuously learns from human interactions—either through demonstrations, communications, feedback, or collaboration.</summary>
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
   <li>
-  Check out our <a href="https://continual-robot-learning-from-humans.github.io/">RSS Workshop on Continual Robot Learning from Humans</a>!
+  I'm co-organizing <a href="https://continual-robot-learning-from-humans.github.io/">RSS Workshop on Continual Robot Learning from Humans</a>.
   </li>
   </ul>
 </div>
