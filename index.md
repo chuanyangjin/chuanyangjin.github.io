@@ -78,7 +78,7 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 
 ## News
 + [June, 2025] Co-organized the Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/) at RSS 2025.
-+ [June, 2025] I was selected as an Notable Reviwer for ICLR 2025.
++ [June, 2025] I was selected as a Notable Reviwer for ICLR 2025.
 <!-- + [Feb, 2025] Introducing [AutoToM](/AutoToM): a method for scaling model-based mental inference via automated agent modeling ([Arxiv](https://arxiv.org/abs/2502.15676), [Twitter](https://x.com/chuanyang_jin/status/1894737913499246665)). -->
 + [Jan, 2025] [MuMA-ToM](https://scai.cs.jhu.edu/projects/MuMA-ToM/) was accepted at AAAI 2025 as an Oral Presentation!
 + [Sep, 2024] Invited talk @ University of Washinton on "Towards Multimodal Theory of Mind".
