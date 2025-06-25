@@ -35,7 +35,7 @@ description: >
 </script> -->
 
 <div style="margin-bottom: 25px;">
-  <span class="paper-title"> AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind </span>
+  <span class="paper-title"> AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling </span>
   <span class="authors">Zhining Zhang*,</span>
   <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
   <b>Preprint</b><br>
@@ -51,7 +51,9 @@ description: >
   <b>Preprint</b><br>
   <a href="https://arxiv.org/abs/2412.19723">paper</a> /
   <a href="https://qiushisun.github.io/OS-Genesis-Home">project</a> /
-  <a href="https://github.com/OS-Copilot/OS-Genesis">code</a>
+  <a href="https://github.com/OS-Copilot/OS-Genesis">code</a> /
+  <a href="https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d">model</a> /
+  <a href="https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d">data</a>
 </div>
 
 <div style="margin-bottom: 25px;">
@@ -61,7 +63,9 @@ description: >
   <b>AAAI 2025 <span class="red">(Oral)</span></b><br>
   <a href="https://arxiv.org/abs/2408.12574">paper</a> /
   <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">project</a> /
-  <a href="https://github.com/SCAI-JHU/MuMA-ToM">code</a>
+  <a href="https://github.com/SCAI-JHU/MuMA-ToM">code</a> /
+  <a href="https://huggingface.co/datasets/SCAI-JHU/MUMA-TOM-BENCHMARK">benchmark</a> / 
+  <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/leaderboard.html">leaderboard</a>
 </div>
 
 <div style="margin-bottom: 25px;">
@@ -71,8 +75,11 @@ description: >
   <a href="https://arxiv.org/abs/2401.08743">paper</a> /
   <a href="/mmtom-qa">project</a> /
   <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
+  <a href="https://github.com/chuanyangjin/MMToM-QA?tab=readme-ov-file#-mmtom-qa-benchmark">benchmark</a> /
+  <a href="https://chuanyangjin.com/mmtom-qa-leaderboard">leaderboard</a> /
   <a href="/assets/slides/MMToM-QA.pdf">slides</a> /
-  <a href="https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/">news</a>
+  <a href="https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/">Futurity news</a> /
+  <a href="https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/">JHU news</a>
 </div>
 
 <div style="margin-bottom: 25px;">

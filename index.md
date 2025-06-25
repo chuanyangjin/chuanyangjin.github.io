@@ -100,8 +100,8 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <img src="/assets/img/publications/autotom.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 340px;">
-    <span class="paper-title"> AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind </span>
-    <span class="authors">Zhining Zhang*,</span><b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
+    <span class="paper-title"> AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling </span>
+    <span class="authors">Zhining Zhang*, </span><b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
     <b>Preprint</b><br>
     <a href="https://arxiv.org/abs/2502.15676">paper</a> /
     <a href="/AutoToM">project</a> /
