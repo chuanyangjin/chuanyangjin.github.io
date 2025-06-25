@@ -30,6 +30,14 @@ sitemap: true
   ul.triangle li::marker {
       content: "▸";
   }
+
+  .paper-title {
+    font-size: 18px;
+    color: #002D72;
+    font-weight: bold;
+    /* line-height: 1.4; */
+    display: block;
+  }
   </style>
 
 </head>
@@ -95,11 +103,12 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 For a more complete list, please see my [publication page](/publications) or [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br>
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
+  <div style="float: left; width: 320px;">
     <img src="/assets/img/publications/autotom.png" alt="publication teaser" width="100%" />
   </div>
-  <div style="margin-left: 270px;">
-    <span style="font-size: 18px;"><b>AutoToM : Automated Bayesian Inverse Planning and<br>Model Discovery for Open-ended Theory of Mind</b></span><br>
+  <div style="margin-left: 340px;">
+    <div class="paper-title"> AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind </div>
+    <!-- <span style="font-size: 18px; color: 002D72"><b>AutoToM : Automated Bayesian Inverse Planning and<br>Model Discovery for Open-ended Theory of Mind</b></span><br> -->
     <span class="authors">Zhining Zhang*,</span>
     <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
     <b>Preprint</b><br>
