@@ -115,8 +115,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
   </div>
   <div style="margin-left: 340px;">
     <span class="paper-title"> OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis </span>
-    <span class="authors">Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*,</span>
-    <b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
+    <span class="authors">Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*, </span><b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
     <b>ACL 2025 <span style="color: rgb(60,130,226)">(Huggingface Daily Paper Top-1)</span></b><br>
     <a href="https://arxiv.org/abs/2412.19723">paper</a> /
     <a href="https://qiushisun.github.io/OS-Genesis-Home">project</a> /
@@ -132,8 +131,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
   </div>
   <div style="margin-left: 340px;">
     <span class="paper-title"> MuMA-ToM: Multi-modal Multi-Agent Theory of Mind </span>
-    <span class="authors">Haojun Shi*, Suyu Ye*, Xinyu Fang,</span> 
-    <b>Chuanyang Jin</b><span class="authors">, Leyla Isik, Yen-Ling Kuo, Tianmin Shu</span><br>
+    <span class="authors">Haojun Shi*, Suyu Ye*, Xinyu Fang, </span><b>Chuanyang Jin</b><span class="authors">, Leyla Isik, Yen-Ling Kuo, Tianmin Shu</span><br>
     <b>AAAI 2025 <span class="red">(Oral)</span></b><br>
     <a href="https://arxiv.org/abs/2408.12574">paper</a> /
     <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">project</a> /
@@ -172,8 +170,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
   </div>
   <div style="margin-left: 340px;">
     <span class="paper-title"> How Far Are We From AGI? </span>
-    <span class="authors">Tao Feng*,</span>
-    <b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
+    <span class="authors">Tao Feng*, </span><b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
     <!-- <b>TMLR 2024</b><br>
     <b>ICLR 2024 AGI Workshop <span class="red">(Oral)</span></b><br> -->
     <b>TMLR 2024</b> / <b>ICLR 2024 AGI Workshop <span class="red">(Oral)</span></b><br>

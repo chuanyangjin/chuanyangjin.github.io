@@ -45,10 +45,17 @@ description: >
 </div>
 
 <div style="margin-bottom: 25px;">
+  <span class="paper-title"> Humanity’s Last Exam </span>
+  <span class="authors">Center for AI Safety & Scale AI</span><br>
+  <b>Technical Report</b><br>
+  <a href="https://arxiv.org/abs/2501.14249">paper</a>
+</div>
+
+<div style="margin-bottom: 25px;">
   <span style="font-size: 18px;"><b>OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis</b></span><br>
   <span class="authors">Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*,</span>
   <b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
-  <b>Preprint</b><br>
+  <b>ACL 2025 <span style="color: rgb(60,130,226)">(Huggingface Daily Paper Top-1)</span></b><br>
   <a href="https://arxiv.org/abs/2412.19723">paper</a> /
   <a href="https://qiushisun.github.io/OS-Genesis-Home">project</a> /
   <a href="https://github.com/OS-Copilot/OS-Genesis">code</a> /
@@ -106,7 +113,7 @@ description: >
   <span style="font-size: 18px;"><b>Beyond the Binary: Capturing Diverse Preferences With Reward Regularization</b></span><br>
   <span class="authors">Vishakh Padmakumar*,</span> 
   <b>Chuanyang Jin</b><span class="authors">*, Hannah Rose Kirk*, He He</span><br>
-  <b>NeurIPS 2024 SoLaR Workshop</b><br>
+  <b>NeurIPS 2024 Workshop on Socially Responsible Language Modelling Research</b><br>
   <a href="https://arxiv.org/abs/2412.03822">paper</a> /
   <a href="https://github.com/chuanyangjin/preference-calibration">code</a>
 </div>
