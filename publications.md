@@ -12,18 +12,21 @@ description: >
   a::after, a.external::after {
     display: none !important;
   }
-  </style>
+  .paper-title {
+    font-size: 18px;
+    color: #002D72;
+    font-weight: bold;
+    /* line-height: 1.4; */
+    display: block;
+  }
 
-  <style>
   .authors {
-      color: #60716B;
-    }
-  </style>
+    color: #666666;
+  }
 
-  <style>
   .red {
-      color: #C04000;
-    }
+    color: #C04000;
+  }
   </style>
 </head>
 
@@ -32,7 +35,7 @@ description: >
 </script> -->
 
 <div style="margin-bottom: 25px;">
-  <span style="font-size: 18px;"><b>AutoToM : Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind</b></span><br>
+  <span class="paper-title"> AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind </span>
   <span class="authors">Zhining Zhang*,</span>
   <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
   <b>Preprint</b><br>

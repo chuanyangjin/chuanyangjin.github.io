@@ -33,7 +33,6 @@ sitemap: true
     color: #C04000;
   }
   </style>
-
 </head>
 
 I am a first-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a research intern in the Fundamental AI Research (FAIR) team at Meta, mentored by [Jason Weston](https://ai.meta.com/people/1163645124801199/jason-weston/).
@@ -102,8 +101,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
   </div>
   <div style="margin-left: 340px;">
     <span class="paper-title"> AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind </span>
-    <span class="authors">Zhining Zhang*,</span>
-    <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
+    <span class="authors">Zhining Zhang*,</span><b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
     <b>Preprint</b><br>
     <a href="https://arxiv.org/abs/2502.15676">paper</a> /
     <a href="/AutoToM">project</a> /
