@@ -107,8 +107,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <img src="/assets/img/publications/autotom.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 340px;">
-    <div class="paper-title"> AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind </div>
-    <!-- <span style="font-size: 18px; color: 002D72"><b>AutoToM : Automated Bayesian Inverse Planning and<br>Model Discovery for Open-ended Theory of Mind</b></span><br> -->
+    <span class="paper-title"> AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind </span>
     <span class="authors">Zhining Zhang*,</span>
     <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
     <b>Preprint</b><br>
@@ -119,11 +118,11 @@ For a more complete list, please see my [publication page](/publications) or [Go
 </div>
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
+  <div style="float: left; width: 320px;">
     <img src="/assets/img/publications/os_genesis.png" alt="publication teaser" width="100%" />
   </div>
-  <div style="margin-left: 270px;">
-    <span style="font-size: 18px;"><b>OS-Genesis: Automating GUI Agent Trajectory<br>Construction via Reverse Task Synthesis</b></span><br>
+  <div style="margin-left: 340px;">
+    <span class="paper-title"> OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis </span>
     <span class="authors">Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*,</span>
     <b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
     <b>ACL 2025 <span style="color: rgb(60,130,226)">(Huggingface Daily Paper Top-1)</span></b><br>
@@ -134,10 +133,10 @@ For a more complete list, please see my [publication page](/publications) or [Go
 </div>
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
+  <div style="float: left; width: 320px;">
     <img src="/assets/img/publications/muma_tom.png" alt="publication teaser" width="100%" />
   </div>
-  <div style="margin-left: 270px;">
+  <div style="margin-left: 340px;">
     <span style="font-size: 18px;"><b>MuMA-ToM: Multi-modal Multi-Agent Theory of Mind</b></span><br>
     <span class="authors">Haojun Shi*, Suyu Ye*, Xinyu Fang,</span> 
     <b>Chuanyang Jin</b><span class="authors">, Leyla Isik, Yen-Ling Kuo, Tianmin Shu</span><br>
@@ -149,13 +148,13 @@ For a more complete list, please see my [publication page](/publications) or [Go
 </div>
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
+  <div style="float: left; width: 320px;">
     <video width="100%" autoplay loop muted>
         <source src="/assets/img/publications/MMToM-QA.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
   </div>
-  <div style="margin-left: 270px;">
+  <div style="margin-left: 340px;">
     <span style="font-size: 18px;"><b>MMToM-QA: Multimodal Theory of Mind Question Answering</b></span><br>
     <b>Chuanyang Jin</b><span class="authors">, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu</span><br>
     <b>ACL 2024 <span class="red">(Outstanding Paper Award)</span></b><br>
@@ -169,10 +168,10 @@ For a more complete list, please see my [publication page](/publications) or [Go
 </div>
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
-  <div style="float: left; width: 250px;">
+  <div style="float: left; width: 320px;">
     <img src="/assets/img/publications/agi_survey.png" alt="publication teaser" width="100%" />
   </div>
-  <div style="margin-left: 270px;">
+  <div style="margin-left: 340px;">
     <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
     <span class="authors">Tao Feng*,</span>
     <b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
