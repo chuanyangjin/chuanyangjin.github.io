@@ -122,7 +122,9 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <b>ACL 2025 <span style="color: rgb(60,130,226)">(Huggingface Daily Paper Top-1)</span></b><br>
     <a href="https://arxiv.org/abs/2412.19723">paper</a> /
     <a href="https://qiushisun.github.io/OS-Genesis-Home">project</a> /
-    <a href="https://github.com/OS-Copilot/OS-Genesis">code</a>
+    <a href="https://github.com/OS-Copilot/OS-Genesis">code</a> /
+    <a href="https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d">model</a> /
+    <a href="https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d">data</a>
   </div>
 </div>
 
@@ -138,7 +140,8 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <a href="https://arxiv.org/abs/2408.12574">paper</a> /
     <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">project</a> /
     <a href="https://github.com/SCAI-JHU/MuMA-ToM">code</a> /
-    <a href="https://huggingface.co/datasets/SCAI-JHU/MUMA-TOM-BENCHMARK">benchmark</a>
+    <a href="https://huggingface.co/datasets/SCAI-JHU/MUMA-TOM-BENCHMARK">benchmark</a> / 
+    <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/leaderboard.html">leaderboard</a>
   </div>
 </div>
 
