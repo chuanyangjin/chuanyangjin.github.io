@@ -12,23 +12,9 @@ sitemap: true
   a::after, a.external::after {
     display: none !important;
   }
-  </style>
-
-  <style>
-  .authors {
-      color: #666666;
-    }
-  </style>
-
-  <style>
-  .red {
-      color: #C04000;
-    }
-  </style>
-
-  <style>
+  
   ul.triangle li::marker {
-      content: "▸";
+    content: "▸";
   }
 
   .paper-title {
@@ -37,6 +23,14 @@ sitemap: true
     font-weight: bold;
     /* line-height: 1.4; */
     display: block;
+  }
+
+  .authors {
+    color: #666666;
+  }
+
+  .red {
+    color: #C04000;
   }
   </style>
 
@@ -137,13 +131,14 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <img src="/assets/img/publications/muma_tom.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 340px;">
-    <span style="font-size: 18px;"><b>MuMA-ToM: Multi-modal Multi-Agent Theory of Mind</b></span><br>
+    <span class="paper-title"> MuMA-ToM: Multi-modal Multi-Agent Theory of Mind </span>
     <span class="authors">Haojun Shi*, Suyu Ye*, Xinyu Fang,</span> 
     <b>Chuanyang Jin</b><span class="authors">, Leyla Isik, Yen-Ling Kuo, Tianmin Shu</span><br>
     <b>AAAI 2025 <span class="red">(Oral)</span></b><br>
     <a href="https://arxiv.org/abs/2408.12574">paper</a> /
     <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">project</a> /
-    <a href="https://github.com/SCAI-JHU/MuMA-ToM">code</a>
+    <a href="https://github.com/SCAI-JHU/MuMA-ToM">code</a> /
+    <a href="https://huggingface.co/datasets/SCAI-JHU/MUMA-TOM-BENCHMARK">benchmark</a>
   </div>
 </div>
 
@@ -155,13 +150,15 @@ For a more complete list, please see my [publication page](/publications) or [Go
     </video>
   </div>
   <div style="margin-left: 340px;">
-    <span style="font-size: 18px;"><b>MMToM-QA: Multimodal Theory of Mind Question Answering</b></span><br>
+    <span class="paper-title"> MMToM-QA: Multimodal Theory of Mind Question Answering </span>
     <b>Chuanyang Jin</b><span class="authors">, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu</span><br>
     <b>ACL 2024 <span class="red">(Outstanding Paper Award)</span></b><br>
     <!-- Annual Meeting of the Association for Computational Linguistics (ACL), 2024 -->
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
+    <a href="https://github.com/chuanyangjin/MMToM-QA?tab=readme-ov-file#-mmtom-qa-benchmark">benchmark</a> /
+    <a href="https://chuanyangjin.com/mmtom-qa-leaderboard">leaderboard</a> /
     <a href="/assets/slides/MMToM-QA.pdf">slides</a> /
     <a href="https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/">news</a>
   </div>
@@ -172,7 +169,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <img src="/assets/img/publications/agi_survey.png" alt="publication teaser" width="100%" />
   </div>
   <div style="margin-left: 340px;">
-    <span style="font-size: 18px;"><b>How Far Are We From AGI?</b></span><br>
+    <span class="paper-title"> How Far Are We From AGI? </span>
     <span class="authors">Tao Feng*,</span>
     <b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
     <!-- <b>TMLR 2024</b><br>
