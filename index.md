@@ -163,7 +163,8 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <a href="https://github.com/chuanyangjin/MMToM-QA?tab=readme-ov-file#-mmtom-qa-benchmark">benchmark</a> /
     <a href="https://chuanyangjin.com/mmtom-qa-leaderboard">leaderboard</a> /
     <a href="/assets/slides/MMToM-QA.pdf">slides</a> /
-    <a href="https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/">news</a>
+    <a href="https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/">Futurity news</a> /
+    <a href="https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/">JHU news</a>
   </div>
 </div>
 
