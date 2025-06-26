@@ -31,19 +31,21 @@ description: >
 
   <style>
   .paper-item {
-    display: flex;          /* put number and content side-by-side */
-    gap: 12px;              /* space between number and content */
-    margin-bottom: 25px;    /* keep your existing spacing */
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;   /* top-align number and title */
+    margin-bottom: 25px;
   }
 
-  /* —— number styling —— */
+  /* —— number —— */
   .paper-index {
+    font-size: 18px;           /* match .paper-title */
     font-weight: 700;
-    color: #002D72;         /* dark blue like the screenshot */
-    line-height: 1.2;
-    min-width: 48px;        /* keeps numbers right-aligned */
-    text-align: right;      /* aligns the digits neatly */
-    flex-shrink: 0;         /* don’t let the number shrink */
+    line-height: 1;            /* identical text block height */
+    color: #002D72;
+    min-width: 48px;
+    text-align: right;
+    flex-shrink: 0;
   }
   </style>
 </head>
@@ -67,8 +69,8 @@ description: >
   <div class="paper-content">
     <span class="paper-title">
       AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling
-    </span><br>
-    <span class="authors">Zhining Zhang*,</span>
+    </span>
+    <span class="authors">Zhining Zhang*, </span>
     <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
     <b>Preprint</b><br>
     <a href="https://arxiv.org/abs/2502.15676">paper</a> /
@@ -76,6 +78,7 @@ description: >
     <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
   </div>
 </div>
+
 
 <div style="margin-bottom: 25px;">
   <span class="paper-title"> Humanity’s Last Exam </span>
