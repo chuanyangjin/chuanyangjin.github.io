@@ -32,6 +32,12 @@ sitemap: true
   .red {
     color: #C04000;
   }
+
+  .intro {
+    font-size: 12px;   /* tweak as needed */
+    display: block;
+    margin-top: 4px;
+  }
   </style>
 </head>
 
@@ -159,7 +165,10 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <a href="https://chuanyangjin.com/mmtom-qa-leaderboard">leaderboard</a> /
     <a href="/assets/slides/MMToM-QA.pdf">slides</a> /
     <a href="https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/">Futurity news</a> /
-    <a href="https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/">JHU news</a>
+    <a href="https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/">JHU news</a><br>
+    <span class="small-note">
+      MMToM-QA is the first multimodal benchmark to evaluate the ability to understand human minds. We also propose a robust ToM method that conducts inverse planning using language models.
+    </span>
   </div>
 </div>
 
