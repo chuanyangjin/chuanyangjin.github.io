@@ -30,25 +30,29 @@ description: >
   </style>
 
   <style>
-  .paper-item {
+  .paper-item  { display:flex; gap:12px; align-items:baseline; margin-bottom:25px; }
+  .paper-index { font-size:18px;font-weight:700;color:#002D72;min-width:48px;
+                 text-align:right;flex-shrink:0;line-height:1; }
+
+  /* .paper-item {
     display: flex;
     gap: 12px;
-    align-items: flex-start;   /* top-align number and title */
+    align-items: flex-start;
     margin-bottom: 25px;
   }
 
   /* —— number —— */
-  .paper-index {
-    font-size: 18px;           /* same as title */
+  /* .paper-index {
+    font-size: 18px;        
     font-weight: 700;
     color: #002D72;
     min-width: 48px;
     text-align: right;
     flex-shrink: 0;
 
-    line-height: 1.4;          /* match typical block headline line-height */
-    padding-top: 2px;          /* nudge down so tops line up visually */
-  }
+    line-height: 1.4;        
+    padding-top: 2px;     
+  } */
   </style>
 </head>
 
@@ -136,6 +140,7 @@ description: >
 </div>
 
 
+
 <h2 style="font-size:28px;font-weight:700;margin:40px 0 12px;">Preprints and Under Review</h2>
 
 <div class="paper-item">
@@ -149,6 +154,8 @@ description: >
     <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
   </div>
 </div>
+
+
 
 <h2 style="font-size:28px;font-weight:700;margin:40px 0 12px;">Workshop and Technical Reports</h2>
 
@@ -180,5 +187,27 @@ description: >
     <span class="paper-title"> The Cultural Psychology of Large Language Models </span>
     <b>Chuanyang Jin</b><span class="authors">*, Songyang Zhang*, Tianmin Shu, Zhihan Cui</span><br>
     <a href="https://arxiv.org/abs/2308.14242">paper</a>
+  </div>
+</div>
+
+
+
+<h2 style="font-size:28px;font-weight:700;margin:40px 0 12px;">Open-Source Projects</h2>
+
+<div class="paper-item">
+  <span class="paper-index">O2</span>
+  <div class="paper-content">
+    <span class="paper-title"> OpenCompass: A Universal Evaluation Platform for Foundation Models </span>
+    <span class="authors"> OpenCompass Team </span><br>
+    <a href="https://github.com/open-compass/opencompass">GitHub repository</a>
+  </div>
+</div>
+
+<div class="paper-item">
+  <span class="paper-index">O1</span>
+  <div class="paper-content">
+    <span class="paper-title"> Fast-DiT: Fast Diffusion Models with Transformers </span>
+    <b>Chuanyang Jin</b><span class="authors">, Saining Xie</span><br>
+    <a href="https://github.com/chuanyangjin/fast-DiT">GitHub repository</a>
   </div>
 </div>
