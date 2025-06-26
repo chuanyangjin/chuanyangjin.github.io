@@ -152,7 +152,6 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <span class="paper-title"> MMToM-QA: Multimodal Theory of Mind Question Answering </span>
     <b>Chuanyang Jin</b><span class="authors">, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu</span><br>
     <b>ACL 2024 <span class="red">(Outstanding Paper Award)</span></b><br>
-    <!-- Annual Meeting of the Association for Computational Linguistics (ACL), 2024 -->
     <a href="https://arxiv.org/abs/2401.08743">paper</a> /
     <a href="/mmtom-qa">project</a> /
     <a href="https://github.com/chuanyangjin/MMToM-QA">code</a> /
@@ -171,8 +170,6 @@ For a more complete list, please see my [publication page](/publications) or [Go
   <div style="margin-left: 340px;">
     <span class="paper-title"> How Far Are We From AGI? </span>
     <span class="authors">Tao Feng*, </span><b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
-    <!-- <b>TMLR 2024</b><br>
-    <b>ICLR 2024 AGI Workshop <span class="red">(Oral)</span></b><br> -->
     <b>TMLR 2024</b> / <b>ICLR 2024 AGI Workshop <span class="red">(Oral)</span></b><br>
     <a href="https://arxiv.org/abs/2405.10313">paper</a> /
     <a href="https://github.com/ulab-uiuc/AGI-survey">project</a>
