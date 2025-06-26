@@ -70,7 +70,7 @@ legal:
   #  url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:              © Chuanyang Jin, 2023 | Powered by [Hydejack](https://hydejack.com/)
+copyright:              © Chuanyang Jin, 2023 <br> Powered by [Hydejack](https://hydejack.com/)
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
