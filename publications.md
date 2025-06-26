@@ -28,13 +28,40 @@ description: >
     color: #C04000;
   }
   </style>
+
+  <style>
+  .paper-entry {
+    margin-bottom: 30px;
+    font-family: sans-serif;
+  }
+
+  .paper-number {
+    font-weight: bold;
+    display: inline-block;
+    width: 40px;
+  }
+
+  .paper-title {
+    color: #c00;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  .authors {
+    color: #666;
+  }
+
+  .conference {
+    margin-top: 5px;
+    display: block;
+  }
 </head>
 
 <!-- <script>
     window.location.href = "https://chuanyangjin.com/#research";
 </script> -->
 
-<div style="margin-bottom: 25px;">
+<!-- <div style="margin-bottom: 25px;">
   <span class="paper-title"> AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling </span>
   <span class="authors">Zhining Zhang*,</span>
   <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
@@ -42,6 +69,18 @@ description: >
   <a href="https://arxiv.org/abs/2502.15676">paper</a> /
   <a href="/AutoToM/">project</a> /
   <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
+</div> -->
+
+<div class="paper-entry">
+  <span class="paper-number">P1</span>
+  <span class="paper-title">AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling</span><br>
+  <span class="authors">Zhining Zhang*, <b>Chuanyang Jin</b>*†, Mung Yao Jia*, Tianmin Shu</span><br>
+  <span class="conference"><b>Preprint</b></span>
+  <span class="paper-links">
+    <a href="https://arxiv.org/abs/2502.15676">Paper</a> |
+    <a href="/AutoToM/">Project</a> |
+    <a href="https://github.com/SCAI-JHU/AutoToM">Code</a>
+  </span>
 </div>
 
 <div style="margin-bottom: 25px;">
