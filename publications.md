@@ -30,30 +30,20 @@ description: >
   </style>
 
   <style>
-  .paper-entry {
-    margin-bottom: 30px;
-    font-family: sans-serif;
+  .paper-item {
+    display: flex;          /* put number and content side-by-side */
+    gap: 12px;              /* space between number and content */
+    margin-bottom: 25px;    /* keep your existing spacing */
   }
 
-  .paper-number {
-    font-weight: bold;
-    display: inline-block;
-    width: 40px;
-  }
-
-  .paper-title {
-    color: #c00;
-    font-weight: bold;
-    font-size: 16px;
-  }
-
-  .authors {
-    color: #666;
-  }
-
-  .conference {
-    margin-top: 5px;
-    display: block;
+  /* —— number styling —— */
+  .paper-index {
+    font-weight: 700;
+    color: #002D72;         /* dark blue like the screenshot */
+    line-height: 1.2;
+    min-width: 48px;        /* keeps numbers right-aligned */
+    text-align: right;      /* aligns the digits neatly */
+    flex-shrink: 0;         /* don’t let the number shrink */
   }
   </style>
 </head>
@@ -72,16 +62,19 @@ description: >
   <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
 </div> -->
 
-<div class="paper-entry">
-  <span class="paper-number">P1</span>
-  <span class="paper-title">AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling</span><br>
-  <span class="authors">Zhining Zhang*, <b>Chuanyang Jin</b>*†, Mung Yao Jia*, Tianmin Shu</span><br>
-  <span class="conference"><b>Preprint</b></span>
-  <span class="paper-links">
-    <a href="https://arxiv.org/abs/2502.15676">Paper</a> |
-    <a href="/AutoToM/">Project</a> |
-    <a href="https://github.com/SCAI-JHU/AutoToM">Code</a>
-  </span>
+<div class="paper-item">
+  <span class="paper-index">C32</span>
+  <div class="paper-content">
+    <span class="paper-title">
+      AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling
+    </span><br>
+    <span class="authors">Zhining Zhang*,</span>
+    <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
+    <b>Preprint</b><br>
+    <a href="https://arxiv.org/abs/2502.15676">paper</a> /
+    <a href="/AutoToM/">project</a> /
+    <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
+  </div>
 </div>
 
 <div style="margin-bottom: 25px;">
