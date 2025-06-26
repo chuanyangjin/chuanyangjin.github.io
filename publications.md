@@ -27,32 +27,10 @@ description: >
   .red {
     color: #C04000;
   }
-  </style>
 
-  <style>
   .paper-item  { display:flex; gap:12px; align-items:baseline; margin-bottom:25px; }
-  .paper-index { font-size:18px;font-weight:700;color:#002D72;min-width:48px;
+  .paper-index { font-size:18px;font-weight:700;min-width:48px;
                  text-align:right;flex-shrink:0;line-height:1; }
-
-  /* .paper-item {
-    display: flex;
-    gap: 12px;
-    align-items: flex-start;
-    margin-bottom: 25px;
-  }
-
-  /* —— number —— */
-  /* .paper-index {
-    font-size: 18px;        
-    font-weight: 700;
-    color: #002D72;
-    min-width: 48px;
-    text-align: right;
-    flex-shrink: 0;
-
-    line-height: 1.4;        
-    padding-top: 2px;     
-  } */
   </style>
 </head>
 
@@ -131,7 +109,7 @@ description: >
 <div class="paper-item">
   <span class="paper-index">J1</span>
   <div class="paper-content">
-    <span style="font-size: 18px;"><b>Dynamics of RNA Localization to Nuclear Speckles are Connected to Splicing Efficiency</b></span><br>
+    <span class="paper-title"> Dynamics of RNA Localization to Nuclear Speckles are Connected to Splicing Efficiency </span>
     <span class="authors">Jinjun Wu*, Yu Xiao*, Yunzheng Liu*, Li Wen,</span> 
     <b>Chuanyang Jin</b><span class="authors">, Shun Liu, Sneha Paul, Chuan He, Oded Regev, Jingyi Fei</span><br>
     <b>Science Advances 10 (42), eadp7727</b><br>
