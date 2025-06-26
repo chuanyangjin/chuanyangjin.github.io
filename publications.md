@@ -39,13 +39,15 @@ description: >
 
   /* —— number —— */
   .paper-index {
-    font-size: 18px;           /* match .paper-title */
+    font-size: 18px;           /* same as title */
     font-weight: 700;
-    line-height: 1;            /* identical text block height */
     color: #002D72;
     min-width: 48px;
     text-align: right;
     flex-shrink: 0;
+
+    line-height: 1.4;          /* match typical block headline line-height */
+    padding-top: 2px;          /* nudge down so tops line up visually */
   }
   </style>
 </head>
