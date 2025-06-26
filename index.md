@@ -113,7 +113,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <a href="/AutoToM">project</a> /
     <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
     <span class="intro">
-      AutoToM is an automated agent modeling method for scalable, robust, and interpretable mental inference. It achieves SOTA results on five benchmarks, produces human-like confidence estimates, and supports embodied decision-making.
+      AutoToM is an automated agent modeling method for scalable, robust, and interpretable mental inference. It achieves SOTA on five benchmarks, produces human-like confidence estimates, and supports embodied decision-making.
     </span>
   </div>
 </div>
