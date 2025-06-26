@@ -112,6 +112,9 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <a href="https://arxiv.org/abs/2502.15676">paper</a> /
     <a href="/AutoToM">project</a> /
     <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
+    <span class="intro">
+      AutoToM is an automated agent modeling method for scalable, robust, and interpretable mental inference. It achieves SOTA results on five benchmarks and supports embodied decision-making.
+    </span>
   </div>
 </div>
 
@@ -128,6 +131,9 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <a href="https://github.com/OS-Copilot/OS-Genesis">code</a> /
     <a href="https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d">model</a> /
     <a href="https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d">data</a>
+    <span class="intro">
+      OS-Genesis enables agents to actively explore GUI environments, facilitating the self-collection and self-annotation of high-quality training data.
+    </span>
   </div>
 </div>
 
@@ -144,6 +150,9 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <a href="https://github.com/SCAI-JHU/MuMA-ToM">code</a> /
     <a href="https://huggingface.co/datasets/SCAI-JHU/MUMA-TOM-BENCHMARK">benchmark</a> / 
     <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/leaderboard.html">leaderboard</a>
+    <span class="intro">
+      MuMA-ToM introduces a benchmark and method that extend MMToM-QA to multi-agent interaction scenarios.
+    </span>
   </div>
 </div>
 
@@ -167,7 +176,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <a href="https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/">Futurity news</a> /
     <a href="https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/">JHU news</a><br>
     <span class="intro">
-      Can machines understand people’s minds from multimodal inputs? MMToM-QA introduces the first benchmark and a robust method.
+      Can machines understand people's minds from multimodal inputs? MMToM-QA introduces the first benchmark and a robust method that combines the flexibility of LLMs with the robustness of inverse planning.
     </span>
   </div>
 </div>
@@ -182,6 +191,9 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <b>TMLR 2024</b> / <b>ICLR 2024 AGI Workshop <span class="red">(Oral)</span></b><br>
     <a href="https://arxiv.org/abs/2405.10313">paper</a> /
     <a href="https://github.com/ulab-uiuc/AGI-survey">project</a>
+    <span class="intro">
+      We offer comprehensive analysis and novel insights into potential pathways toward AGI.
+    </span>
   </div>
 </div>
 
