@@ -66,17 +66,16 @@ description: >
   <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
 </div> -->
 
+<h2 style="font-size:36px;font-weight:700;margin:40px 0 12px;">Peer-Reviewed Papers</h2>
+
 <div class="paper-item">
   <span class="paper-index">C32</span>
   <div class="paper-content">
-    <span class="paper-title">
-      AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling
-    </span>
-    <span class="authors">Zhining Zhang*, </span>
-    <b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
+    <span class="paper-title"> AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling </span>
+    <span class="authors">Zhining Zhang*, </span><b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Tianmin Shu</span><br>
     <b>Preprint</b><br>
     <a href="https://arxiv.org/abs/2502.15676">paper</a> /
-    <a href="/AutoToM/">project</a> /
+    <a href="/AutoToM">project</a> /
     <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
   </div>
 </div>
