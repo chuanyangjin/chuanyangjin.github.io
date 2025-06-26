@@ -151,7 +151,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <a href="https://huggingface.co/datasets/SCAI-JHU/MUMA-TOM-BENCHMARK">benchmark</a> / 
     <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/leaderboard.html">leaderboard</a>
     <span class="intro">
-      MuMA-ToM introduces a systematic benchmark and method that extend MMToM-QA to multi-agent interaction scenarios.
+      MuMA-ToM introduces a benchmark and method that extend MMToM-QA to multi-agent interaction scenarios.
     </span>
   </div>
 </div>

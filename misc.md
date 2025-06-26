@@ -14,10 +14,11 @@ I am from [Nanjing](https://en.wikipedia.org/wiki/Nanjing), a historic, vibrant,
 
 My personality type is [INFJ](https://www.16personalities.com/infj-personality) according to the Myers-Briggs, and I’m a [Ravenclaw](https://www.wizardingworld.com/collections/ravenclaw).
 
+I enjoy working on research problems that could have an impact a decade from now, contributing positively towards friendly, capable machine intelligence. 
+<!-- These days, I think a lot about how to navigate my research to have a counterfactual impact, contributing positively towards friendly, capable machine intelligence.  -->
+
 I occasionally share research and post random things on Zhihu and Xiaohongshu, where I've gathered 30k followers and 18 million views.
-
 <!-- I occasionally share [research](http://xhslink.com/a/Wukk5CMK8jI9), popularize [memes](https://www.zhihu.com/question/430297692/answer/1715042961?utm_psn=1892904443743273437), and post [random things](https://www.zhihu.com/question/349726516/answer/2753741967?utm_psn=1892904282782663711) on Zhihu and Xiaohongshu, where I've gathered 30k followers and 18 million views. -->
-
 <!-- I am an avid reader of scientific fiction and history, as well as a dedicated writer read by more than 18,000,000 times on online platforms such as Zhihu, Xiaohongshu, and WeChat OA. -->
 
 I've watched over 1,000 movies, mostly Drama, Sci-Fi, Mystery, and Thriller. Click to sample one of my <a href="#" onclick="event.preventDefault(); 
