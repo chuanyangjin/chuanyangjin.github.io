@@ -34,9 +34,9 @@ sitemap: true
   }
 
   .intro {
-    font-size: 8px;
+    font-size: 12px;
     display: block;
-    margin-top: 8px;
+    margin-top: 10px;
   }
   </style>
 </head>
