@@ -34,9 +34,9 @@ sitemap: true
   }
 
   .intro {
-    font-size: 12px;   /* tweak as needed */
+    font-size: 8px;
     display: block;
-    margin-top: 4px;
+    margin-top: 8px;
   }
   </style>
 </head>
@@ -167,7 +167,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <a href="https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/">Futurity news</a> /
     <a href="https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/">JHU news</a><br>
     <span class="small-note">
-      MMToM-QA is the first multimodal benchmark to evaluate the ability to understand human minds. We also propose a robust ToM method that conducts inverse planning using language models.
+      Can machines understand people’s minds from multimodal inputs? MMToM-QA introduces the first benchmark and a robust method.
     </span>
   </div>
 </div>
