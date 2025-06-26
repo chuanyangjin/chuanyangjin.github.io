@@ -113,7 +113,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <a href="/AutoToM">project</a> /
     <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
     <span class="intro">
-      AutoToM is an automated agent modeling method for scalable, robust, and interpretable mental inference. It achieves SOTA results on five benchmarks and supports embodied decision-making.
+      AutoToM is an automated agent modeling method for scalable, robust, and interpretable mental inference. It achieves SOTA results on five benchmarks, produces human-like confidence estimates, and supports embodied decision-making.
     </span>
   </div>
 </div>
@@ -176,7 +176,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <a href="https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/">Futurity news</a> /
     <a href="https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/">JHU news</a><br>
     <span class="intro">
-      Can machines understand people's minds from multimodal inputs? MMToM-QA introduces the first benchmark and a robust method that combines the flexibility of LLMs with the robustness of inverse planning.
+      Can machines understand people's minds from multimodal inputs? MMToM-QA introduces the first benchmark and a promising method that combines the flexibility of LLMs with the robustness of inverse planning.
     </span>
   </div>
 </div>
