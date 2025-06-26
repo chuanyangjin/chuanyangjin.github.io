@@ -166,7 +166,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <a href="/assets/slides/MMToM-QA.pdf">slides</a> /
     <a href="https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/">Futurity news</a> /
     <a href="https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/">JHU news</a><br>
-    <span class="small-note">
+    <span class="intro">
       Can machines understand people’s minds from multimodal inputs? MMToM-QA introduces the first benchmark and a robust method.
     </span>
   </div>
