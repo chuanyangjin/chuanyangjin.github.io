@@ -14,7 +14,7 @@ I am from [Nanjing](https://en.wikipedia.org/wiki/Nanjing), a historic, vibrant,
 
 My personality type is [INFJ](https://www.16personalities.com/infj-personality) according to the Myers-Briggs, and I’m a [Ravenclaw](https://www.wizardingworld.com/collections/ravenclaw).
 
-I enjoy working on research problems that could have an impact a decade from now, contributing positively towards friendly, capable machine intelligence. 
+These days, I enjoy working on research problems that could have an impact a decade from now, contributing positively towards friendly, capable machine intelligence. 
 <!-- These days, I think a lot about how to navigate my research to have a counterfactual impact, contributing positively towards friendly, capable machine intelligence.  -->
 
 I occasionally share research and post random things on Zhihu and Xiaohongshu, where I've gathered 30k followers and 18 million views.
