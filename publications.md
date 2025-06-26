@@ -55,7 +55,7 @@ description: >
 <h2 style="font-size:36px;font-weight:700;margin:40px 0 12px;">Peer-Reviewed Papers</h2>
 
 <div class="paper-item">
-  <span class="paper-index">C5</span>
+  <span class="paper-index">C4</span>
   <div class="paper-content">
     <span class="paper-title"> OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis </span>
     <span class="authors">Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*, </span><b>Chuanyang Jin</b><span class="authors">*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu</span><br>
@@ -69,7 +69,7 @@ description: >
 </div>
 
 <div class="paper-item">
-  <span class="paper-index">C4</span>
+  <span class="paper-index">C3</span>
   <div class="paper-content">
     <span class="paper-title"> MuMA-ToM: Multi-modal Multi-Agent Theory of Mind </span>
     <span class="authors">Haojun Shi*, Suyu Ye*, Xinyu Fang, </span><b>Chuanyang Jin</b><span class="authors">, Leyla Isik, Yen-Ling Kuo, Tianmin Shu</span><br>
@@ -83,7 +83,7 @@ description: >
 </div>
 
 <div class="paper-item">
-  <span class="paper-index">C3</span>
+  <span class="paper-index">C2</span>
   <div class="paper-content">
     <span class="paper-title"> MMToM-QA: Multimodal Theory of Mind Question Answering </span>
     <b>Chuanyang Jin</b><span class="authors">, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu</span><br>
@@ -100,7 +100,7 @@ description: >
 </div>
 
 <div class="paper-item">
-  <span class="paper-index">C2</span>
+  <span class="paper-index">J2</span>
   <div class="paper-content">
     <span class="paper-title"> How Far Are We From AGI? </span>
     <span class="authors">Tao Feng*, </span><b>Chuanyang Jin</b><span class="authors">*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You</span><br>
