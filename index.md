@@ -130,7 +130,8 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <a href="https://qiushisun.github.io/OS-Genesis-Home">project</a> /
     <a href="https://github.com/OS-Copilot/OS-Genesis">code</a> /
     <a href="https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d">model</a> /
-    <a href="https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d">data</a>
+    <a href="https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d">data</a> /
+    <a href="/assets/slides/OS-Genesis.pdf">slides</a>
     <span class="intro">
       OS-Genesis enables agents to actively explore web and mobile environments, facilitating the self-collection and self-annotation of high-quality training data.
     </span>
