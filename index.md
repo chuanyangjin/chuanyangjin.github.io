@@ -97,7 +97,8 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 -->
 
 
-## Selected Publications
+<!-- ## Selected Publications -->
+## Recent Publications
 (* denotes equal contribution; † denotes project lead)<br>
 For a more complete list, please see my [publication page](/publications) or [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br>
 
@@ -183,7 +184,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
   </div>
 </div>
 
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+<!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 320px;">
     <img src="/assets/img/publications/agi_survey.png" alt="publication teaser" width="100%" />
   </div>
@@ -197,7 +198,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
       We offer comprehensive analysis and novel insights into potential pathways toward AGI.
     </span>
   </div>
-</div>
+</div> -->
 
 <!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 250px;">
