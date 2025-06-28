@@ -166,6 +166,7 @@ description: >
   <div class="paper-content">
     <span class="paper-title"> The Cultural Psychology of Large Language Models </span>
     <b>Chuanyang Jin</b><span class="authors">*, Songyang Zhang*, Tianmin Shu, Zhihan Cui</span><br>
+    <b>Technical Report</b><br>
     <a href="https://arxiv.org/abs/2308.14242">paper</a>
   </div>
 </div>
@@ -179,7 +180,7 @@ description: >
   <div class="paper-content">
     <span class="paper-title"> OpenCompass: A Universal Evaluation Platform for Foundation Models </span>
     <span class="authors"> OpenCompass Team </span><br>
-    <b><a href="https://github.com/open-compass/opencompass">GitHub repository</a> <span style="color: rgb(60,130,226)">(Over 5k stars)</span></b><br>
+    <b>GitHub repository <span style="color: rgb(60,130,226)">(Over 5k stars)</span></b><br>
   </div>
 </div>
 
@@ -188,6 +189,6 @@ description: >
   <div class="paper-content">
     <span class="paper-title"> Fast-DiT: Fast Diffusion Models with Transformers </span>
     <b>Chuanyang Jin</b><span class="authors">, Saining Xie</span><br>
-    <b><a href="https://github.com/chuanyangjin/fast-DiT">GitHub repository</a> <span style="color: rgb(60,130,226)">(Over 800 stars)</span></b><br>
+    <b>GitHub repository <span style="color: rgb(60,130,226)">(Over 800 stars)</span></b><br>
   </div>
 </div>
