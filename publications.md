@@ -140,8 +140,8 @@ description: >
   <div class="paper-content">
     <span class="paper-title"> SoMi-ToM: Evaluating Multi-Perspective Theory of Mind in Embodied Social Interactions </span>
     <span class="authors">Xianzhe Fan, Xuhui Zhou, </span><b>Chuanyang Jin</b><span class="authors">, Kolby Nottingham, Hao Zhu, Maarten Sap</span><br>
-    <b>ACL 2025 Findings</b><br>
-    <a href="https://arxiv.org/abs/2506.21876">paper</a> /
+    <b>Preprint</b><br>
+    <a href="https://arxiv.org/abs/2506.23046">paper</a> /
     <a href="https://github.com/XianzheFan/SoMi-ToM">code</a> /
     <a href="https://huggingface.co/datasets/SoMi-ToM/SoMi-ToM">benchmark</a>
   </div>
