@@ -55,7 +55,7 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
 <summary> <strong>Continual Reasoning about Humans</strong>: Developing AI systems that can continuously perceive, understand, reason about, and respond to the behavior and cognition of humans or other agents.</summary>
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
-  <li> We all want our AI to understand us. My research addresses this through a model-based approach, developing agent models that capture people's behaviors and mental states (e.g., goals, beliefs, desires) from observations (e.g., speech, motion).
+  <li> We all want our AI to understand us. My research addresses this through a model-based approach, developing agent models that capture human behavior and infer mental states (e.g., goals, beliefs, desires) from observations (e.g., speech, motion).
   </li>
   <li> In particular, my works automate agent modeling with LLM backends, advancing Theory of Mind reasoning by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a>, learning from <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> and <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> observations, and <a href="https://chuanyangjin.com/AutoToM/">scaling to long-term and complex settings</a>.
   </li>
