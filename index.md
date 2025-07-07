@@ -45,7 +45,7 @@ I am a first-year Ph.D. student in Computer Science at [Johns Hopkins University
 
 I received my B.A. in Honors Computer Science and B.A. in Mathematics from [New York University](https://www.nyu.edu/) in 2024, where I was awarded the Computer Science Prize for the Most Promising Student. 
 I have also spent time as a research intern at [MIT](https://www.mit.edu/).
-I received an Outstanding Paper Award at ACL 2024 for my work on [evaluation and methods for multimodal Theory of Mind.](https://arxiv.org/abs/2401.08743).
+I received an Outstanding Paper Award at ACL 2024 for my work on [evaluation and methods for multimodal Theory of Mind](https://arxiv.org/abs/2401.08743).
 
 I’m interested in developing AI systems with *advanced social intelligence (ASI)*. My current areas of focus include:
 <!-- I love working on exciting and game-changing research problems. -->
