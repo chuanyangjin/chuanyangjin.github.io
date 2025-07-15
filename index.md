@@ -21,8 +21,12 @@ sitemap: true
     font-size: 18px;
     color: #002D72;
     font-weight: bold;
-    /* line-height: 1.4; */
     display: block;
+  }
+
+  @media (prefers-color-scheme: dark) {
+  .paper-title {
+    color: #6ab0ff;   /* lighter cyan‑blue for dark mode */
   }
 
   .authors {
