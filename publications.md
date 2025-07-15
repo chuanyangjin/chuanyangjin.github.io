@@ -12,11 +12,12 @@ description: >
   a::after, a.external::after {
     display: none !important;
   }
+  
   .paper-title {
     font-size: 18px;
-    color: #002D72;
+    color: #3C82E2;
+    /* color: #002D72; */
     font-weight: bold;
-    /* line-height: 1.4; */
     display: block;
   }
 

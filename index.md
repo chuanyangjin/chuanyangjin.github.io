@@ -19,19 +19,10 @@ sitemap: true
 
   .paper-title {
     font-size: 18px;
-    color: #002D72;
+    color: #3C82E2;
+    /* color: #002D72; */
     font-weight: bold;
     display: block;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    .paper-title {
-      color: #C04000 !important;  // high‑contrast cyan‑blue
-    }
-  }
-
-  .dark-mode .paper-title {        // body.dark-mode added by dark‑mode‑fix.js
-    color: #C04000 !important;
   }
 
   .authors {
