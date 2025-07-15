@@ -25,8 +25,13 @@ sitemap: true
   }
 
   @media (prefers-color-scheme: dark) {
-  .paper-title {
-    color: #6ab0ff;   /* lighter cyan‑blue for dark mode */
+    .paper-title {
+      color: #C04000 !important;  // high‑contrast cyan‑blue
+    }
+  }
+
+  .dark-mode .paper-title {        // body.dark-mode added by dark‑mode‑fix.js
+    color: #C04000 !important;
   }
 
   .authors {
