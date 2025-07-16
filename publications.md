@@ -15,7 +15,7 @@ description: >
   
   .paper-title {
     font-size: 18px;
-    color: #3C82E2;
+    color: #D08000;
     /* color: #002D72; */
     font-weight: bold;
     display: block;

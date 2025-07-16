@@ -19,7 +19,7 @@ sitemap: true
 
   .paper-title {
     font-size: 18px;
-    color: #E68A00;
+    color: #D08000;
     /* color: #002D72; */
     font-weight: bold;
     display: block;
