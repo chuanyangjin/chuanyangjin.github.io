@@ -44,7 +44,7 @@ sitemap: true
 I am a first-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a research intern in the Fundamental AI Research (FAIR) team at Meta, mentored by [Jason Weston](https://ai.meta.com/people/1163645124801199/jason-weston/).
 
 I received my B.A. in Honors Computer Science and B.A. in Mathematics from [New York University](https://www.nyu.edu/) (2020-2024), where I was awarded the Computer Science Prize for the Most Promising Student. 
-I have spent time as a research intern at [MIT](https://www.mit.edu/), advised by [Joshua Tenenbaum](https://web.mit.edu/cocosci/josh.html).
+I have spent time as a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html).
 I received an Outstanding Paper Award at ACL 2024 for my work on [evaluation and methods for multimodal Theory of Mind](https://arxiv.org/abs/2401.08743).
 
 I’m interested in developing AI systems with *advanced social intelligence (ASI)*. My current areas of focus include:
