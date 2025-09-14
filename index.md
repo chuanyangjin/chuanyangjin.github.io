@@ -232,5 +232,5 @@ You can also take a look at [my undergrad projects](/projects). A mountain of gr
 - Bronze Medal of Shing-Tung Yau Computer Science Award (Top 1%), 2019
 - Finalist of FIRST Robotics Competition World Championship (Top 0.2%), 2019
 - NFLS Outstanding Student Leader Award and Zhou Enlai Scholarship (Top 1%), 2018
-- <span style="background-color: rgba(173, 216, 230, 0.5);">First Prize of Chinese Mathematical Olympiad (Top 0.1%), 2018</span>
-<!-- - Champion of International Regions Mathematics League, 2018 -->
+- First Prize of Chinese Mathematical Olympiad (Top 0.1%), 2018
+- Champion of International Regions Mathematics League, 2018
