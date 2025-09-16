@@ -65,11 +65,12 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
 </details>
 
 <details style="margin-bottom:1em;">
-<summary> <strong>Continual Learning from Humans</strong>: Building AI that continuously learns from human interactions—either through demonstrations, communications, feedback, or collaboration.</summary>
+<summary> <strong>Continual Learning from Humans</strong>: Building AI that continuously learns from real-world human interactions.</summary>
+<!-- Building AI that continuously learns from human interactions—either through demonstrations, communications, feedback, or collaboration. -->
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
   <li>
-  I'm co-organizing <a href="https://continual-robot-learning-from-humans.github.io/">RSS Workshop on Continual Robot Learning from Humans</a>.
+  I initiated <a href="https://continual-robot-learning-from-humans.github.io/">RSS Workshop on Continual Robot Learning from Humans</a>.
   </li>
   </ul>
 </div>
