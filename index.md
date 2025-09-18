@@ -123,7 +123,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
   </div>
 </div>
 
-<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+<!-- <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 320px;">
     <img src="/assets/img/publications/os_genesis.png" alt="publication teaser" width="100%" />
   </div>
@@ -141,7 +141,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
       OS-Genesis enables agents to actively explore web and mobile environments, facilitating the self-collection and self-annotation of high-quality training data.
     </span>
   </div>
-</div>
+</div> -->
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 320px;">
