@@ -38,6 +38,30 @@ description: >
 <h2 style="font-size:28px;font-weight:700;margin:0 0 12px;">Peer-Reviewed Papers</h2>
 
 <div class="paper-item">
+  <span class="paper-index">C7</span>
+  <div class="paper-content">
+    <span class="paper-title"> AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling </span>
+    <span class="authors">Zhining Zhang*, </span><b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Shunchi Zhang*, Tianmin Shu</span> (†: project lead)<br>
+    <b>NeurIPS 2025 <span class="red">(Spotlight)</span></b><br>
+    <a href="https://arxiv.org/abs/2502.15676">paper</a> /
+    <a href="/AutoToM">project</a> /
+    <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
+  </div>
+</div>
+
+<div class="paper-item">
+  <span class="paper-index">C6</span>
+  <div class="paper-content">
+    <span class="paper-title"> SoMi-ToM: Evaluating Multi-Perspective Theory of Mind in Embodied Social Interactions </span>
+    <span class="authors">Xianzhe Fan, Xuhui Zhou, </span><b>Chuanyang Jin</b><span class="authors">, Kolby Nottingham, Hao Zhu, Maarten Sap</span><br>
+    <b>NeurIPS D&B 2025</b><br>
+    <a href="https://arxiv.org/abs/2506.23046">paper</a> /
+    <a href="https://github.com/XianzheFan/SoMi-ToM">code</a> /
+    <a href="https://huggingface.co/datasets/SoMi-ToM/SoMi-ToM">benchmark</a>
+  </div>
+</div>
+
+<div class="paper-item">
   <span class="paper-index">C5</span>
   <div class="paper-content">
     <span class="paper-title"> Do VLMs have internal World Models? Towards an Atomic Evaluation </span>
@@ -135,30 +159,6 @@ description: >
 
 
 <h2 style="font-size:28px;font-weight:700;margin:40px 0 12px;">Preprints and Under Review</h2>
-
-<div class="paper-item">
-  <span class="paper-index">P2</span>
-  <div class="paper-content">
-    <span class="paper-title"> SoMi-ToM: Evaluating Multi-Perspective Theory of Mind in Embodied Social Interactions </span>
-    <span class="authors">Xianzhe Fan, Xuhui Zhou, </span><b>Chuanyang Jin</b><span class="authors">, Kolby Nottingham, Hao Zhu, Maarten Sap</span><br>
-    <b>Preprint</b><br>
-    <a href="https://arxiv.org/abs/2506.23046">paper</a> /
-    <a href="https://github.com/XianzheFan/SoMi-ToM">code</a> /
-    <a href="https://huggingface.co/datasets/SoMi-ToM/SoMi-ToM">benchmark</a>
-  </div>
-</div>
-
-<div class="paper-item">
-  <span class="paper-index">P1</span>
-  <div class="paper-content">
-    <span class="paper-title"> AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling </span>
-    <span class="authors">Zhining Zhang*, </span><b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Shunchi Zhang*, Tianmin Shu</span><br>
-    <b>Preprint</b><br>
-    <a href="https://arxiv.org/abs/2502.15676">paper</a> /
-    <a href="/AutoToM">project</a> /
-    <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
-  </div>
-</div>
 
 
 
