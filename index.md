@@ -87,6 +87,7 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 
 
 ## News
++ [Sep, 2025] [AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Paper</span>!
 + [June, 2025] Co-organized the Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/) at RSS 2025.
 + [June, 2025] I was selected as a <span style="color: #C04000;">Notable Reviwer</span> for ICLR 2025.
 <!-- + [Feb, 2025] Introducing [AutoToM](/AutoToM): a method for scaling model-based mental inference via automated agent modeling ([Arxiv](https://arxiv.org/abs/2502.15676), [Twitter](https://x.com/chuanyang_jin/status/1894737913499246665)). -->
@@ -112,7 +113,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
   <div style="margin-left: 340px;">
     <span class="paper-title"> AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling </span>
     <span class="authors">Zhining Zhang*, </span><b>Chuanyang Jin</b><span class="authors">*†, Mung Yao Jia*, Shunchi Zhang*, Tianmin Shu</span><br>
-    <b>Preprint</b><br>
+    <b>NeurIPS 2025 <span class="red">(Spotlight)</span></b><br>
     <a href="https://arxiv.org/abs/2502.15676">paper</a> /
     <a href="/AutoToM">project</a> /
     <a href="https://github.com/SCAI-JHU/AutoToM">code</a>
