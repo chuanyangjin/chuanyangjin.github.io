@@ -61,7 +61,7 @@ description: >
   </div>
 </div>
 
-<div class="paper-item">
+<!-- <div class="paper-item">
   <span class="paper-index">C5</span>
   <div class="paper-content">
     <span class="paper-title"> Do VLMs have internal World Models? Towards an Atomic Evaluation </span>
@@ -86,7 +86,7 @@ description: >
     <a href="https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d">data</a> /
     <a href="/assets/slides/OS-Genesis.pdf">slides</a>
   </div>
-</div>
+</div> -->
 
 <div class="paper-item">
   <span class="paper-index">C3</span>
