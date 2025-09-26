@@ -45,7 +45,7 @@ I am a 2nd-year Ph.D. student in Computer Science at [Johns Hopkins University](
 
 I received bachelor degrees in Honors Computer Science and Mathematics from [New York University](https://www.nyu.edu/) (2020-2024), where I was awarded the Computer Science Prize for the Most Promising Student.
 I was as a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html).
-I received an Outstanding Paper Award at ACL 2024 for my work on [evaluation and methods for multimodal Theory of Mind](https://arxiv.org/abs/2401.08743).
+I received an Outstanding Paper Award at ACL 2024 for my work on [multimodal Theory of Mind](https://arxiv.org/abs/2401.08743).
 <!-- I have spent time as a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html). -->
 
 I’m interested in developing AI systems with *advanced social intelligence (ASI)*. My current areas of focus include:
