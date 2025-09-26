@@ -221,7 +221,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
   </div>
 </div> -->
 
-You can also take a look at [my undergrad projects](/projects). A mountain of gratitude to those who have kindly mentored me and inspired me with their vision and passion!
+Feel free to check out [my undergrad projects](/projects). A mountain of gratitude to those who have kindly mentored and inspired me with their vision and passion!
 
 ## Selected Honors & Awards
 - Notable Reviewer, ICLR 2025
