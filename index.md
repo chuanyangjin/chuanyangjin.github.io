@@ -69,7 +69,7 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
 <!-- Building AI that continuously learns from human interactions—either through demonstrations, communications, feedback, or collaboration. -->
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
-  <li> Instead of relying on static, annotated human feedback, we advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a> that learns from real users' diverse goals and preferences, adapts to situational demands, and scales with actual usage. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a> which learns from in-the-wild user conversations and outperforms RLHF at the user level. </li>
+  <li> Instead of relying on annotated human feedback, we advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a> that learns from real users' diverse goals and preferences, adapts to situational demands, and scales with actual usage. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a> which learns from in-the-wild user conversations and outperforms RLHF at the user level. </li>
   <li> I initiated <a href="https://continual-robot-learning-from-humans.github.io/">RSS Workshop on Continual Robot Learning from Humans</a>. </li>
   </ul>
 </div>
