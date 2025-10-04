@@ -157,9 +157,17 @@ description: >
 </div>
 
 
-
 <h2 style="font-size:28px;font-weight:700;margin:40px 0 12px;">Preprints and Under Review</h2>
 
+<div class="paper-item">
+  <span class="paper-index">P1</span>
+  <div class="paper-content">
+    <span class="paper-title"> The Era of Real-World Human Interaction: RL from User Conversations </span>
+    <b>Chuanyang Jin</b><span class="authors">, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston</span><br>
+    <b>arXiv Preprint</b><br>
+    <a href="https://arxiv.org/abs/2509.25137">paper</a>
+  </div>
+</div>
 
 
 <h2 style="font-size:28px;font-weight:700;margin:40px 0 12px;">Workshop and Technical Reports</h2>

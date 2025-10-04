@@ -69,9 +69,8 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
 <!-- Building AI that continuously learns from human interactions—either through demonstrations, communications, feedback, or collaboration. -->
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
-  <li>
-  I initiated <a href="https://continual-robot-learning-from-humans.github.io/">RSS Workshop on Continual Robot Learning from Humans</a>.
-  </li>
+  <li> Instead of relying on static, annotated human feedback, we advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a> that learns from real users' diverse goals and preferences, adapts to situational demands, and scales with actual usage. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a> which learns from in-the-wild user conversations and outperforms RLHF at the user level.
+  <li> I initiated <a href="https://continual-robot-learning-from-humans.github.io/">RSS Workshop on Continual Robot Learning from Humans</a>. </li>
   </ul>
 </div>
 </details>
@@ -105,6 +104,21 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 ## Recent Publications
 (* denotes equal contribution; † denotes project lead)<br>
 For a more complete list, please see my [publication page](/publications) or [Google Scholar page](https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-CN).<br><br>
+
+<div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
+  <div style="float: left; width: 320px;">
+    <img src="/assets/img/publications/rlhi.png" alt="publication teaser" width="100%" />
+  </div>
+  <div style="margin-left: 340px;">
+    <span class="paper-title"> The Era of Real-World Human Interaction: RL from User Conversations </span>
+    <b>Chuanyang Jin</b><span class="authors">, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston</span><br>
+    <b>arXiv Preprint</b><br>
+    <a href="https://arxiv.org/abs/2509.25137">paper</a>
+    <span class="intro">
+      Reinforcement Learning from Human Interaction (RLHI) is a simple and scalable framework for learning directly from real-world user conversations. It outperforms RLHF at the user level and enables personalized, contextual, and continually improving AI assistants.
+    </span>
+  </div>
+</div>
 
 <div class="pubteaser" style="overflow: auto; margin-bottom: 30px;"> 
   <div style="float: left; width: 320px;">
