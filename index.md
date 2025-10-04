@@ -115,7 +115,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <b>arXiv Preprint</b><br>
     <a href="https://arxiv.org/abs/2509.25137">paper</a>
     <span class="intro">
-      Reinforcement Learning from Human Interaction (RLHI) is a simple and scalable framework for learning directly from real-world user conversations. It outperforms RLHF at the user level and enables personalized, contextual, and continually improving AI assistants.
+      Reinforcement Learning from Human Interaction (RLHI) learns directly from real-world user conversations, beating RLHF at the user level and enabling personalized, contextual, and continually improving AI assistants.
     </span>
   </div>
 </div>
