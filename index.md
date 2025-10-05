@@ -69,7 +69,7 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
 <!-- Building AI that continuously learns from human interactions—either through demonstrations, communications, feedback, or collaboration. -->
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
-  <li> Instead of relying on annotated human feedback, we advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a> that learns from real users' diverse goals and preferences, adapts to situational demands, and scales with actual usage. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a> which learns from in-the-wild user conversations and outperforms RLHF at the user level. </li>
+  <li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a> that learns from real users' diverse goals and preferences, adapts to situational demands, and scales with actual usage. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a>, which learns directly from user conversations and outperforms RLHF at the user level. </li>
   <li> I initiated <a href="https://continual-robot-learning-from-humans.github.io/">RSS Workshop on Continual Robot Learning from Humans</a>. </li>
   </ul>
 </div>
@@ -86,6 +86,7 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 
 
 ## News
++ [Oct, 2025] Invited talk @ Google on [RLHI](https://arxiv.org/abs/2509.25137).
 + [Sep, 2025] [AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!
 + [June, 2025] Co-organized the Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/) at RSS 2025.
 + [June, 2025] I was selected as a <span style="color: #C04000;">Notable Reviwer</span> for ICLR 2025.
@@ -113,7 +114,8 @@ For a more complete list, please see my [publication page](/publications) or [Go
     <span class="paper-title"> The Era of Real-World Human Interaction: RL from User Conversations </span>
     <b>Chuanyang Jin</b><span class="authors">, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston</span><br>
     <b>arXiv Preprint</b><br>
-    <a href="https://arxiv.org/abs/2509.25137">paper</a>
+    <a href="https://arxiv.org/abs/2509.25137">paper</a> / 
+    <a href="https://x.com/jaseweston/status/1972851921255051489">tweet</a>
     <span class="intro">
       Reinforcement Learning from Human Interaction (RLHI) learns directly from real-world user conversations, beating RLHF at the user level and enabling personalized, contextual, and continually improving AI assistants.
     </span>
