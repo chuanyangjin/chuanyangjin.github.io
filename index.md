@@ -86,11 +86,10 @@ Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much mo
 
 
 ## News
-+ [Oct, 2025] Invited talk @ Google on [RLHI](https://arxiv.org/abs/2509.25137).
+<!-- + [Oct, 2025] Invited talk @ Google on [RLHI](https://arxiv.org/abs/2509.25137). -->
 + [Sep, 2025] [AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!
 + [June, 2025] Co-organized the Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/) at RSS 2025.
 + [June, 2025] I was selected as a <span style="color: #C04000;">Notable Reviwer</span> for ICLR 2025.
-<!-- + [Feb, 2025] Introducing [AutoToM](/AutoToM): a method for scaling model-based mental inference via automated agent modeling ([Arxiv](https://arxiv.org/abs/2502.15676), [Twitter](https://x.com/chuanyang_jin/status/1894737913499246665)). -->
 + [Jan, 2025] [MuMA-ToM](https://scai.cs.jhu.edu/projects/MuMA-ToM/) is accepted by AAAI 2025 as an <span style="color: #C04000;">Oral Presentation</span>!
 + [Sep, 2024] Invited talk @ University of Washinton on "Towards Multimodal Theory of Mind".
 + [Aug, 2024] [MMToM-QA](/mmtom-qa) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024! It was also covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/).
@@ -113,7 +112,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
   <div style="margin-left: 340px;">
     <span class="paper-title"> The Era of Real-World Human Interaction: RL from User Conversations </span>
     <b>Chuanyang Jin</b><span class="authors">, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston</span><br>
-    <b>arXiv Preprint <span style="color: rgb(60,130,226)">(DAIR.AI Weekly Papers Top-3, Invited Talk at Google)</span></b><br>
+    <b>arXiv Preprint <span style="color: rgb(60,130,226)">(DAIR.AI Weekly Papers Top-3; Invited Talk at Google)</span></b><br>
     <a href="https://arxiv.org/abs/2509.25137">paper</a> / 
     <a href="https://x.com/jaseweston/status/1972851921255051489">tweet</a>
     <span class="intro">
