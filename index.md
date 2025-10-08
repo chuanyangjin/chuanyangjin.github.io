@@ -53,7 +53,7 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
 <!-- social reasoning, social learning -->
 
 <details style="margin-bottom:1em;">
-<summary> <strong>Continual Reasoning about Humans</strong>: Developing AI systems that can continuously perceive, understand, reason about, and respond to the behavior and cognition of humans or other agents.</summary>
+<summary> <strong>Reasoning about Human Interaction</strong>: Developing AI that can continuously perceive, reason about, and respond to human behavior and cognition.</summary>
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
   <li> We all want our AI to understand us. My research addresses this through a model-based approach, developing agent models that capture human behavior and infer mental states (e.g., goals, beliefs, desires) from observations (e.g., speech, motion).
@@ -65,7 +65,7 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
 </details>
 
 <details style="margin-bottom:1em;">
-<summary> <strong>Continual Learning from Humans</strong>: Building AI that continuously learns from real-world human interactions.</summary>
+<summary> <strong>Learning from Human Interaction</strong>: Building AI that continuously learns from real-world human interactions.</summary>
 <!-- Building AI that continuously learns from human interactions—either through demonstrations, communications, feedback, or collaboration. -->
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
@@ -77,7 +77,11 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
 
 Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much more](/misc).
 
-<!-- + **Social Intelligence**: Creating capable and friendly agents that can perceive, reason about, learn from, and respond to the behavior and cognition of humans or other agents; promoting strategic communication and collaboration among them.
+<!-- 
+
+Developing AI systems that continuously perceive, reason about, and respond to human behavior and cognition.
+
++ **Social Intelligence**: Creating capable and friendly agents that can perceive, reason about, learn from, and respond to the behavior and cognition of humans or other agents; promoting strategic communication and collaboration among them.
 
 + **Advanced Reasoning**: Improving and integrating System-2 deliberate reasoning with System-1 intuitive thinking; combining language models, agent models, and world models in a scalable, cognitively grounded way.
 
