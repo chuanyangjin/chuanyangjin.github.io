@@ -90,7 +90,8 @@ Developing AI systems that continuously perceive, reason about, and respond to h
 
 
 ## News
-<!-- + [Oct, 2025] Invited talk @ Google on [RLHI](https://arxiv.org/abs/2509.25137). -->
++ [Oct, 2025] Honored to receive the <span style="color: #C04000;">Amazon AI Fellowship</span>!
++ [Oct, 2025] Invited talk @ Google on [RLHI](https://arxiv.org/abs/2509.25137).
 + [Sep, 2025] [AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!
 + [June, 2025] Co-organized the Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/) at RSS 2025.
 + [June, 2025] I was selected as a <span style="color: #C04000;">Notable Reviwer</span> for ICLR 2025.
@@ -243,6 +244,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
 Feel free to check out [my undergrad projects](/projects). A mountain of gratitude to those who have kindly mentored and inspired me with their vision and passion!
 
 ## Selected Honors & Awards
+- <span style="background-color: rgba(173, 216, 230, 0.5);">Amazon AI Fellowship, 2025</span>
 - Notable Reviewer, ICLR 2025
 - <span style="background-color: rgba(173, 216, 230, 0.5);">Outstanding Paper Award, ACL 2024</span>
 - Presidential Honors Scholar and Summa cum Laude, New York University (Top 5%), 2024

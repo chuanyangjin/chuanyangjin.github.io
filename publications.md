@@ -66,7 +66,7 @@ description: >
   <div class="paper-content">
     <span class="paper-title"> Do VLMs have internal World Models? Towards an Atomic Evaluation </span>
     <span class="authors">Qiyue Gao*, Xinyu Pi*, Kevin Liu, Junrong Chen, Ruolan Yang, Xinqi Huang, Xinyu Fang, Lu Sun, Gautham Kishore, Bo Ai, Stone Tao, Mengyang Liu, Jiaxi Yang, Chao-Jung Lai, </span><b>Chuanyang Jin</b><span class="authors">, Jiannan Xiang, Benhao Huang, Zeming Chen, David Danks, Hao Su, Tianmin Shu, Ziqiao Ma, Lianhui Qin, Zhiting Hu</span><br>
-    <b>ACL 2025 Findings</b><br>
+    <b>ACL 2025 Findings <span style="color: rgb(60,130,226)">(Huggingface Daily Papers Top-3)</b><br>
     <a href="https://arxiv.org/abs/2506.21876">paper</a> /
     <a href="https://wm-abench.maitrix.org/">project</a> /
     <a href="https://huggingface.co/datasets/maitrix-org/WM-ABench">benchmark</a>
