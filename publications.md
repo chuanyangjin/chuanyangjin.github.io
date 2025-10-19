@@ -164,7 +164,7 @@ description: >
   <div class="paper-content">
     <span class="paper-title"> The Era of Real-World Human Interaction: RL from User Conversations </span>
     <b>Chuanyang Jin</b><span class="authors">, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston</span><br>
-    <b>arXiv Preprint <span style="color: rgb(60,130,226)">(DAIR.AI Weekly Papers Top-3; Invited Talk at Google)</span></b><br>
+    <b>arXiv Preprint <span style="color: rgb(60,130,226)">(Invited Talk at Google; Paper of the Week by Huggingface/DAIR.AI/TuringPost)</span></b><br>
     <a href="https://arxiv.org/abs/2509.25137">paper</a>
   </div>
 </div>

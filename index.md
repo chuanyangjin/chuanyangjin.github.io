@@ -41,7 +41,7 @@ sitemap: true
   </style>
 </head>
 
-I am a 2nd-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a research intern at Meta FAIR, mentored by [Jason Weston](https://ai.meta.com/people/1163645124801199/jason-weston/).
+I am a 2nd-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a part-time student researcher at Meta FAIR, mentored by [Jason Weston](https://ai.meta.com/people/1163645124801199/jason-weston/).
 
 I received bachelor degrees in Honors Computer Science and Mathematics from [New York University](https://www.nyu.edu/) (2020-2024), where I was awarded the Computer Science Prize for the Most Promising Student.
 I was as a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html).
@@ -53,7 +53,7 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
 <!-- social reasoning, social learning -->
 
 <details style="margin-bottom:1em;">
-<summary> <strong>Reasoning about Human Interaction</strong>: Developing AI that can continuously perceive, reason about, and respond to human behavior and cognition.</summary>
+<summary> <strong>Reasoning about Human Interaction</strong>: Building AI that can continuously perceive, reason about, and respond to human behavior and cognition.</summary>
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
   <li> We all want our AI to understand us. My research addresses this through a model-based approach, developing agent models that capture human behavior and infer mental states (e.g., goals, beliefs, desires) from observations (e.g., speech, motion).
@@ -117,7 +117,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
   <div style="margin-left: 340px;">
     <span class="paper-title"> The Era of Real-World Human Interaction: RL from User Conversations </span>
     <b>Chuanyang Jin</b><span class="authors">, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston</span><br>
-    <b>arXiv Preprint <span style="color: rgb(60,130,226)">(DAIR.AI Weekly Papers Top-3; Invited Talk at Google)</span></b><br>
+    <b>arXiv Preprint <span style="color: rgb(60,130,226)">(Invited Talk at Google; Paper of the Week by Huggingface/DAIR.AI/TuringPost)</span></b><br>
     <a href="https://arxiv.org/abs/2509.25137">paper</a> / 
     <a href="https://x.com/jaseweston/status/1972851921255051489">tweet</a>
     <span class="intro">
