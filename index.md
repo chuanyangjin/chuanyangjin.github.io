@@ -41,7 +41,7 @@ sitemap: true
   </style>
 </head>
 
-I am a 2nd-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a part-time student researcher at Meta FAIR, mentored by [Jason Weston](https://ai.meta.com/people/1163645124801199/jason-weston/).
+I am a 2nd-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a part-time student researcher at Meta FAIR, mentored by [Jason Weston](https://ai.meta.com/people/1163645124801199/jason-weston/). My research is funded by the [Amazon AI PhD Fellowship](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
 
 I received bachelor degrees in Honors Computer Science and Mathematics from [New York University](https://www.nyu.edu/) (2020-2024), where I was awarded the Computer Science Prize for the Most Promising Student.
 I was as a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html).
@@ -90,7 +90,7 @@ Developing AI systems that continuously perceive, reason about, and respond to h
 
 
 ## News
-+ [Oct, 2025] Honored to receive the <span style="color: #C04000;">Amazon PhD Fellowship</span>!
++ [Oct, 2025] Honored to receive the <span style="color: #C04000;">Amazon AI PhD Fellowship</span>!
 + [Oct, 2025] Invited talk @ Google on [RLHI](https://arxiv.org/abs/2509.25137).
 + [Sep, 2025] [AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!
 + [June, 2025] Co-organized the Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/) at RSS 2025.
@@ -244,7 +244,7 @@ For a more complete list, please see my [publication page](/publications) or [Go
 Feel free to check out [my undergrad projects](/projects). A mountain of gratitude to those who have kindly mentored and inspired me with their vision and passion!
 
 ## Selected Honors & Awards
-- <span style="background-color: rgba(173, 216, 230, 0.5);">Amazon PhD Fellowship, 2025</span>
+- <span style="background-color: rgba(173, 216, 230, 0.5);">Amazon AI PhD Fellowship, 2025</span>
 - Notable Reviewer, ICLR 2025
 - <span style="background-color: rgba(173, 216, 230, 0.5);">Outstanding Paper Award, ACL 2024</span>
 - Presidential Honors Scholar and Summa cum Laude, New York University (Top 5%), 2024
