@@ -169,6 +169,16 @@ description: >
   </div>
 </div>
 
+<div class="paper-item">
+  <span class="paper-index">P2</span>
+  <div class="paper-content">
+    <span class="paper-title"> SPICE: Self-Play In Corpus Environments Improves Reasoning </span>
+    <span class="authors">Bo Liu, </span><b>Chuanyang Jin</b><span class="authors">, Seungone Kim, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston</span><br>
+    <b>arXiv Preprint</b><br>
+    <a href="https://arxiv.org/abs/2509.25137">paper</a>
+  </div>
+</div>
+
 
 <h2 style="font-size:28px;font-weight:700;margin:40px 0 12px;">Workshop and Technical Reports</h2>
 

@@ -75,7 +75,9 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
 </div>
 </details>
 
-Besides academics, I enjoy playing Go, piano, badminton, hiking, and [so much more](/misc).
+I love mentoring undergraduates—several of my mentees have been recognized with top research honors. Please send me an email if you're interested in working with me!
+
+Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much more](/misc).
 
 <!-- 
 
@@ -90,8 +92,8 @@ Developing AI systems that continuously perceive, reason about, and respond to h
 
 
 ## News
-+ [Oct, 2025] Honored to receive the <span style="color: #C04000;">Amazon AI PhD Fellowship</span>!
-+ [Oct, 2025] Invited talk @ Google on [RLHI](https://arxiv.org/abs/2509.25137).
++ [Oct, 2025] Excited to be awarded the <span style="color: #C04000;">[Amazon AI PhD Fellowship](https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/)</span>!
++ [Oct, 2025] Invited talk @ Google on [Reinforcement Learning from Human Interaction](https://arxiv.org/abs/2509.25137).
 + [Sep, 2025] [AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!
 + [June, 2025] Co-organized the Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/) at RSS 2025.
 + [June, 2025] I was selected as a <span style="color: #C04000;">Notable Reviwer</span> for ICLR 2025.
