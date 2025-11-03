@@ -75,7 +75,7 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
 </div>
 </details>
 
-I love mentoring undergraduates—several of my mentees have been recognized with top research honors. Please send me an email if you're interested in working with me!
+I love mentoring undergraduates—several of my mentees have been recognized with top research honors. Please fill out [this application](https://docs.google.com/forms/d/e/1FAIpQLSe2ETXOX-d8-BCV4Y9aqDnMMOlu3JlNPPgek_XkzPY2xBXT7Q/viewform) form and send me an email if you're interested in working with me!
 
 Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much more](/misc).
 
