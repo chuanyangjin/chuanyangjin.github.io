@@ -57,7 +57,7 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
   <!-- <li> We all want our AI to understand us. My research addresses this through a model-based approach, developing agent/human models that capture human behavior and infer mental states (e.g., goals, beliefs, desires) from observations (e.g., speech, motion). </li> -->
-  <li> I have developed general-purpose agent/human models to advance machine Theory of Mind (ToM), the ability to understand people's minds (e.g., goals, beliefs) based on observations (e.g., motion, speech), with papers recognized as <a href="https://chuanyangjin.com/mmtom-qa">ACL'24 Outstanding Paper</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">AAAI'25 Oral</a>, and <a href="https://chuanyangjin.com/AutoToM/">NeurIPS'25 Spotlight</a>. </li>
+  <li> I have developed general-purpose agent models to advance machine Theory of Mind (ToM), the ability to understand people's minds (e.g., goals, beliefs) based on observations (e.g., motion, speech), with papers recognized as <a href="https://chuanyangjin.com/mmtom-qa">ACL'24 Outstanding Paper</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">AAAI'25 Oral</a>, and <a href="https://chuanyangjin.com/AutoToM/">NeurIPS'25 Spotlight</a>. </li>
   <li> In particular, my works automate agent modeling with LLM backends, advancing ToM reasoning by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a>, learning from <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> and <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> observations, and <a href="https://chuanyangjin.com/AutoToM/">scaling to long-term and complex settings</a>. </li>
   </ul>
 </div>
@@ -68,7 +68,7 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
 <!-- Building AI that continuously learns from human interactions—either through demonstrations, communications, feedback, or collaboration. -->
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
-  <li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a> that learns from real users' diverse goals and preferences, adapts to situational demands, and scales with actual usage. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a>, which learns directly from user conversations and outperforms RLHF at the user level. </li>
+  <li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from real users' diverse goals and preferences, adapt to situational demands, and scale with actual usage. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a>, which learns directly from user conversations and outperforms RLHF at the user level. </li>
   <li> I initiated <a href="https://continual-robot-learning-from-humans.github.io/">RSS Workshop on Continual Robot Learning from Humans</a>. </li>
   </ul>
 </div>
