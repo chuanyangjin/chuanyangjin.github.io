@@ -41,7 +41,7 @@ sitemap: true
   </style>
 </head>
 
-I am a 2nd-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a part-time student researcher at Meta FAIR, mentored by [Jason Weston](https://ai.meta.com/people/1163645124801199/jason-weston/). My research is funded by the [Amazon AI PhD Fellowship](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
+I am a 2nd-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a part-time student researcher at Meta FAIR, mentored by [Jason Weston](https://ai.meta.com/people/1163645124801199/jason-weston/). My research is funded by the [Amazon AI PhD Fellowship](https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/).
 
 I received bachelor degrees in Honors Computer Science and Mathematics from [New York University](https://www.nyu.edu/) (2020-2024), where I was awarded the Computer Science Prize for the Most Promising Student.
 I was as a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html).
@@ -53,19 +53,18 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
 <!-- social reasoning, social learning -->
 
 <details style="margin-bottom:1em;">
-<summary> <strong>Reasoning about Human Interaction</strong>: Building AI that can continuously perceive, reason about, and respond to human behavior and cognition.</summary>
+<summary> <strong>Reasoning about Human Interaction</strong>: Developing AI that can continuously perceive, reason about, and respond to human behavior and cognition.</summary>
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
-  <li> We all want our AI to understand us. My research addresses this through a model-based approach, developing agent models that capture human behavior and infer mental states (e.g., goals, beliefs, desires) from observations (e.g., speech, motion).
-  </li>
-  <li> In particular, my works automate agent modeling with LLM backends, advancing Theory of Mind reasoning by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a>, learning from <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> and <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> observations, and <a href="https://chuanyangjin.com/AutoToM/">scaling to long-term and complex settings</a>.
-  </li>
+  <!-- <li> We all want our AI to understand us. My research addresses this through a model-based approach, developing agent/human models that capture human behavior and infer mental states (e.g., goals, beliefs, desires) from observations (e.g., speech, motion). </li> -->
+  <li> I have developed general-purpose agent/human models that capture human behavior and infer mental states (e.g., goals, beliefs, desires) from observations (e.g., speech, motion), with papers recognized as <a href="https://chuanyangjin.com/mmtom-qa">ACL Outstanding Paper</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">AAAI Oral</a>, and <a href="https://chuanyangjin.com/AutoToM/">NeurIPS Spotlight</a>. </li>
+  <li> In particular, my works automate agent modeling with LLM backends, advancing Theory of Mind reasoning by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a>, learning from <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> and <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> observations, and <a href="https://chuanyangjin.com/AutoToM/">scaling to long-term and complex settings</a>. </li>
   </ul>
 </div>
 </details>
 
 <details style="margin-bottom:1em;">
-<summary> <strong>Learning from Human Interaction</strong>: Building AI that continuously learns from real-world human interactions.</summary>
+<summary> <strong>Learning from Human Interaction</strong>: Developing AI that can continuously learn from real-world human interactions.</summary>
 <!-- Building AI that continuously learns from human interactions—either through demonstrations, communications, feedback, or collaboration. -->
 <div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
   <ul>
@@ -92,7 +91,7 @@ Developing AI systems that continuously perceive, reason about, and respond to h
 
 
 ## News
-+ [Oct, 2025] Excited to be awarded the <a href="https://hub.jhu.edu/2025/11/03/amazon-ai-phd-fellowship-program/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!
++ [Oct, 2025] Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!
 + [Oct, 2025] Invited talk @ Google on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137).
 + [Sep, 2025] [AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!
 + [June, 2025] Co-organized the Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/) at RSS 2025.
