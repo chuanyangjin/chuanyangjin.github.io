@@ -1,0 +1,8 @@
+@misc{jin2024mmtomqa,
+      title={MMToM-QA: Multimodal Theory of Mind Question Answering}, 
+      author={Chuanyang Jin and Yutong Wu and Jing Cao and Jiannan Xiang and Yen-Ling Kuo and Zhiting Hu and Tomer Ullman and Antonio Torralba and Joshua B. Tenenbaum and Tianmin Shu},
+      year={2024},
+      eprint={2401.08743},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}

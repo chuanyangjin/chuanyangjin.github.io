@@ -1,11 +1,11 @@
 ---
-title: Projects
+title: Undergrad Projects
 description: >
 ---
 
 <head>
   <!-- Meta Description Tag -->
-  <meta name="description" content="Projects by Chuanyang Jin.">
+  <meta name="description" content="Undergrad projects by Chuanyang Jin.">
 
   <style>
   a::after, a.external::after {

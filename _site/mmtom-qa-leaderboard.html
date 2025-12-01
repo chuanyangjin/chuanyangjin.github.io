@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .odd-row {
+      background-color: rgb(196, 216, 242);
+    }
+    .even-row {
+      background-color: #ffffff;
+    }
+    .highlight {
+        background-color: #e6ffe6;
+        font-weight: bold;
+    }
+
+    .highlight-green {
+        background-color: #e6ffe6;
+    }
+
+    .highlight-orange {
+        background-color: #fff2e6;
+    }
+
+    .highlight-gray{
+        background-color: #f2f2f2;
+    }
+
+    .highlight-blue {
+        background-color: #e6f2ff;
+    }
+  </style>
+
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="MMToM-QA: Multimodal Theory of Mind Question Answering">
+  <meta property="og:title" content="MMToM-QA: Multimodal Theory of Mind Question Answering"/>
+  <meta property="og:description" content="MMToM-QA: Multimodal Theory of Mind Question Answering"/>
+  <meta property="og:url" content="URL OF THE WEBSITE"/>
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+
+
+  <meta name="twitter:title" content="MMToM-QA: Multimodal Theory of Mind Question Answering">
+  <meta name="twitter:description" content="Jin et al. ACL 2024.">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <meta name="twitter:image" content="/assets/img/publications/MMToM.png">
+  <meta name="twitter:card" content="/assets/img/publications/MMToM.png">
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="Theory of Mind">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>MMToM-QA: Multimodal Theory of Mind Question Answering</title>
+  <link rel="icon" type="image/x-icon" href="assets/icons/favicon-cj.ico">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+
+
+<body>
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">MMToM-QA: Multimodal Theory of Mind Question Answering</h1>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <a href="https://www.chuanyangjin.com" target="_blank">
+                Chuanyang Jin</a><sup>1</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://www.linkedin.com/in/yutong-wu-a5a575209/" target="_blank">
+                Yutong Wu</a><sup>2</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://www.linkedin.com/in/jingcao26/" target="_blank">
+                Jing Cao</a><sup>3</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://szxiangjn.github.io/" target="_blank">
+                Jiannan Xiang</a><sup>4</sup>,
+              </span>
+            </div>
+  
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <a href="https://yenlingkuo.com/" target="_blank">
+                  Yen-Ling Kuo</a><sup>5</sup>,
+              </span>
+              <span class="author-block">
+                <a href="http://zhiting.ucsd.edu/" target="_blank">
+                  Zhiting Hu</a><sup>4</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://www.tomerullman.org/" target="_blank">
+                  Tomer Ullman</a><sup>2</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://web.mit.edu/torralba/www/" target="_blank">
+                  Antonio Torralba</a><sup>3</sup>,
+              </span>
+              <span class="author-block">
+                <a href="http://web.mit.edu/cocosci/josh.html" target="_blank">
+                  Joshua Tenenbaum</a><sup>3</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://www.tshu.io/" target="_blank">
+                  Tianmin Shu</a><sup>6</sup>
+              </span>
+            </div>
+  
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <sup>1</sup>NYU,
+                <sup>2</sup>Harvard,
+                <sup>3</sup>MIT,
+                <sup>4</sup>UCSD,
+                <sup>5</sup>UVA,
+                <sup>6</sup>JHU
+              </span>
+            </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">ACL 2024</span>
+          </div>
+
+          <div class="is-size-4 publication-authors">
+            <span class="author-block" style="color: red; font-weight: bold;">Outstanding Paper Award</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <span class="link-block">
+                <a href="https://chuanyangjin.com/mmtom-qa" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  📑
+                </span>
+                <span>Blog</span>
+              </a>
+              </span>
+
+
+              <!-- Arxiv PDF link -->
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2401.08743" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="fas fa-file-pdf"></i>
+                </span>
+                <span>Paper</span>
+              </a>
+              </span>
+
+              <!-- Github link -->
+              <span class="link-block">
+                <a href="https://github.com/chuanyangjin/MMToM-QA" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="fab fa-github"></i>
+                </span>
+                <span>Code</span>
+              </a>
+              </span>
+
+
+              <span class="link-block">
+                <a href="https://x.com/MIT_CSAIL/status/1750925830937604386" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="fab fa-twitter"></i>
+                </span>
+                <span>Twitter</span>
+                </a>
+              </span>
+
+
+              <span class="link-block">
+                <a href="https://github.com/chuanyangjin/MMToM-QA?tab=readme-ov-file#mmtom-qa-benchmark" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  📣
+                </span>
+                <span>Benchmark</span>
+                </a>
+              </span>
+
+
+              <span class="link-block">
+                <a href="https://chuanyangjin.com/mmtom-qa-leaderboard" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  🏆
+                </span>
+                <span>Leaderboard</span>
+                </a>
+              </span>
+
+            </div>
+          </div>
+
+          <!-- <div class="content has-text-justified">
+            <p>
+              <br><br>
+              MMToM-QA systematically evaluates the cognitive ability to understand people's minds <strong>both on multimodal data and different unimodal data</strong>. The questions evaluate <strong>belief inference</strong> and <strong>goal inference</strong> in rich and diverse situations.
+              <br><br>
+              For a detailed explanation of the evaluation metric and analysis of the results, please refer to our <a href="https://chuanyangjin.com/mmtom-qa">blog</a> and <a href="https://arxiv.org/abs/2401.08743">paper</a>. The instructions for using or submitting to the MMToM-QA benchmark are available <a href="https://github.com/chuanyangjin/MMToM-QA#mmtom-qa-benchmark">here</a>.
+            </p>
+          </div> -->
+
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- </section> -->
+
+
+<!-- <section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Leaderboard</h2>
+      </div>
+    </div>
+  </div>
+</section> -->
+
+
+<!-- <section class="section hero"> -->
+  <div class="container is-max-desktop content">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <!-- <h2 class="title is-3">Leaderboard</h2> -->
+        <div class="content has-text-justified" style="margin-bottom: 0; padding-bottom: 0;">
+          <p style="margin-top: 0; padding-top: 0;">
+            MMToM-QA systematically evaluates the cognitive ability to understand people's minds <strong>both on multimodal data and different unimodal data</strong>. The questions are categorized into seven types, evaluating <strong>belief inference</strong> and <strong>goal inference</strong> in rich and diverse situations.
+            <br><br>
+            For a detailed explanation of the evaluation metric and analysis of the results, please refer to our <a href="https://chuanyangjin.com/mmtom-qa">blog</a> and <a href="https://arxiv.org/abs/2401.08743">paper</a>. The instructions for using or submitting to the MMToM-QA benchmark are available <a href="https://github.com/chuanyangjin/MMToM-QA#mmtom-qa-benchmark">here</a>.
+            <br><br>
+          </p>
+        </div>
+
+        <div id="tab:results" style="display: flex; flex-direction: column; align-items: center;">
+          <div class="table-container">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th></th>
+                  <th>Method</th>
+                  <th>Belief</th>
+                  <th>Goal</th>
+                  <th>All</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th class="highlight-blue" rowspan="15" style="vertical-align: middle;">Multimodal</th>
+                  <td class="highlight-gray">Human</td>
+                  <td class="highlight-gray">97.5</td>
+                  <td class="highlight-gray">88.5</td>
+                  <td class="highlight-gray">93</td>
+                </tr>
+                <tr>
+                  <td>AutoToM + Model Spec. (w/ GTP-4o) <br> <a href="https://chuanyangjin.com/AutoToM/">Zhang et al., '25</a></td>
+                  <td class="highlight-orange">94.0</td>
+                  <td>65.7</td>
+                  <td class="highlight-orange">79.8</td>
+                </tr>
+                <tr>
+                  <td>BIP-ALM (w/ LLaMA 2) <br> <a href="https://chuanyangjin.com/mmtom-qa">Jin et al., '24</a></td>
+                  <td>80.3</td>
+                  <td class="highlight-orange">73.3</td>
+                  <td>76.7</td>
+                </tr>
+                <tr>
+                  <td>AutoToM (w/ GTP-4o) <br> <a href="https://chuanyangjin.com/AutoToM/">Zhang et al., '25</a></td>
+                  <td>88.7</td>
+                  <td>62.3</td>
+                  <td>75.5</td>
+                </tr>
+                <tr>
+                  <td>o3-mini</a></td>
+                  <td>88.7</td>
+                  <td>40.7</td>
+                  <td>64.7</td>
+                </tr>
+                <tr>
+                  <td>Gemini 2.0 Flash Thinking</a></td>
+                  <td>73.3</td>
+                  <td>34.7</td>
+                  <td>54.0</td>
+                </tr>
+                <tr>
+                  <td>SimToM (w/ GTP-4o) <br> <a href="https://arxiv.org/abs/2311.10227">Wilf, et al., '23</a></td>
+                  <td>75.7</td>
+                  <td>26.3</td>
+                  <td>51.0</td>
+                </tr>
+                <tr>
+                  <td>Gemini 2.0 Pro</td>
+                  <td>57.0</td>
+                  <td>44.7</td>
+                  <td>50.8</td>
+                </tr>
+                <tr>
+                  <td>Gemini 2.0 Flash</td>
+                  <td>62.7</td>
+                  <td>33.3</td>
+                  <td>48.0</td>
+                </tr>
+                <tr>
+                  <td>InstructBLIP</td>
+                  <td>48.7</td>
+                  <td>44.7</td>
+                  <td>46.7</td>
+                </tr>
+                <tr>
+                  <td>GPT-4o</td>
+                  <td>55.7</td>
+                  <td>32.3</td>
+                  <td>44.0</td>
+                </tr>
+                <tr>
+                  <td>Llama 3.1 70B</td>
+                  <td>51.3</td>
+                  <td>36.3</td>
+                  <td>43.8</td>
+                </tr>
+                <tr>
+                  <td>LLaVA</td>
+                  <td>43.0</td>
+                  <td>44.0</td>
+                  <td>43.5</td>
+                </tr>
+                <tr>
+                  <td>Video-LLaMA 2</td>
+                  <td>42.0</td>
+                  <td>38.3</td>
+                  <td>40.2</td>
+                </tr>
+                <tr>
+                  <td>GPT-4V</td>
+                  <td>55.3</td>
+                  <td>34.7</td>
+                  <td>40.0</td>
+                </tr>
+
+
+
+
+                <tr>
+                  <th class="highlight-green" rowspan="17" style="vertical-align: middle;">Text Only</th>
+                  <td class="highlight-gray">Human</td>
+                  <td class="highlight-gray">91.0</td>
+                  <td class="highlight-gray">74.0</td>
+                  <td class="highlight-gray">82.5</td>
+                </tr>
+                <tr>
+                  <td>o1*</a></td>
+                  <td>95.1</td>
+                  <td class="highlight-orange">59.2</td>
+                  <td class="highlight-orange">76.5</td>
+                </tr>
+                <tr>
+                  <td>o3-mini*</a></td>
+                  <td class="highlight-orange">97.1</td>
+                  <td>44.9</td>
+                  <td>71.5</td>
+                </tr>
+                <tr>
+                  <td>BIP-ALM (w/ LLaMA 2) <br> <a href="https://chuanyangjin.com/mmtom-qa">Jin et al., '24</a></td>
+                  <td>82.3</td>
+                  <td>58.7</td>
+                  <td>70.5</td>
+                </tr>
+                <tr>
+                  <td>Thought-tracing + CoT (w/ GTP-4o)* <br> <a href="https://arxiv.org/abs/2502.11881">Kim et al., '25</a></td>
+                  <td>93.1</td>
+                  <td>42.9</td>
+                  <td>69.0</td>
+                </tr>
+                <tr>
+                  <td>SymbolicToM (w/ GPT-4) <br> <a href="https://arxiv.org/abs/2306.00924">Sclar et al., '23</a></td>
+                  <td>78.3</td>
+                  <td>47.7</td>
+                  <td>63.0</td>
+                </tr>
+                <tr>
+                  <td>Thought-tracing (w/ GTP-4o)* <br> <a href="https://arxiv.org/abs/2502.11881">Kim et al., '25</a></td>
+                  <td>78.4</td>
+                  <td>37.8</td>
+                  <td>60.0</td>
+                </tr>
+                <tr>
+                  <td>GPT-4o*</td>
+                  <td>74.5</td>
+                  <td>39.8</td>
+                  <td>56.5</td>
+                </tr> 
+                <tr>
+                  <td>SimToM (w/ GTP-4o) <br> <a href="https://arxiv.org/abs/2311.10227">Wilf et al., '23</td>
+                  <td>64.3</td>
+                  <td>40.7</td>
+                  <td>52.5</td>
+                </tr>  
+                <tr>
+                  <td>GPT-J</td>
+                  <td>49.0</td>
+                  <td>52.3</td>
+                  <td>50.7</td>
+                </tr>
+                <tr>
+                  <td>LLaMA 2</td>
+                  <td>56.3</td>
+                  <td>44.3</td>
+                  <td>50.3</td>
+                </tr>
+                <tr>
+                  <td>Gemini 1.5 Pro*</td>
+                  <td>70.6</td>
+                  <td>28.6</td>
+                  <td>50.0</td>
+                </tr>
+                <tr>
+                  <td>DeepSeek R1*</td>
+                  <td>73.5</td>
+                  <td>24.5</td>
+                  <td>49.0</td>
+                </tr>
+                <tr>
+                  <td>GPT-4</td>
+                  <td>62.0</td>
+                  <td>34.0</td>
+                  <td>48.0</td>
+                </tr>
+                <tr>
+                  <td>Llama 3.3 70B*</td>
+                  <td>50.0</td>
+                  <td>42.9</td>
+                  <td>47.0</td>
+                </tr> 
+                <tr>
+                  <td>Qwen 2.5 72B*</td>
+                  <td>51.0</td>
+                  <td>32.7</td>
+                  <td>41.5</td>
+                </tr>
+                <tr>
+                  <td>GPT-3.5</td>
+                  <td>43.7</td>
+                  <td>33.0</td>
+                  <td>38.3</td>
+                </tr>
+
+
+
+                <tr>
+                  <th class="highlight-blue" rowspan="6" style="vertical-align: middle;">Video Only</th>
+                  <td class="highlight-gray">Human</td>
+                  <td class="highlight-gray">73.3</td>
+                  <td class="highlight-gray">64.6</td>
+                  <td class="highlight-gray">68.9</td>
+                </tr>
+                <tr>
+                  <td>BIP-ALM (w/ LLaMA 2) <br> <a href="https://chuanyangjin.com/mmtom-qa">Jin et al., '24</a></td>
+                  <td class="highlight-orange">64.0</td>
+                  <td class="highlight-orange">58.3</td>
+                  <td class="highlight-orange">61.2</td>
+                </tr>         
+                <tr>
+                  <td>InstructBLIP</td>
+                  <td>49.3</td>
+                  <td>52.3</td>
+                  <td>50.8</td>
+                </tr>
+                <tr>
+                  <td>Video-LLaMA 2</td>
+                  <td>41.0</td>
+                  <td>51.0</td>
+                  <td>46.0</td>
+                </tr>
+                <tr>
+                  <td>GPT-4V</td>
+                  <td>45.7</td>
+                  <td>46.3</td>
+                  <td>46.0</td>
+                </tr>
+                <tr>
+                  <td>LLaVA</td>
+                  <td>39.0</td>
+                  <td>45.3</td>
+                  <td>42.2</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="content has-text-justified" style="margin-bottom: 0; padding-bottom: 0;">
+            <p style="margin-top: 0; padding-top: 0;">
+              * indicates that the method was tested on a 200-sample subset of MMToM-QA, as reported by <a href="https://arxiv.org/abs/2502.11881">Kim et al., '25</a>.
+            </p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+

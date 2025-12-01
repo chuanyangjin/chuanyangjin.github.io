@@ -1,0 +1,649 @@
+<!doctype html>
+
+<style>
+  /* put this once in your CSS */
+  .bold-divider td {               /* cells inside the special row   */
+    border-top: 3px solid #000 !important;  /* bold black line         */
+  }
+</style>
+
+<html lang="en">
+    <head>
+        <title>AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling</title>
+        <link rel="icon" type="image/x-icon" href="/static/img/icons/jellyfish.ico">
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Open Graph -->
+        <meta property="og:url" content="https://chuanyangjin.com/AutoToM/" />
+        <!-- <meta property="og:image" content="https://cambrian-mllm.github.io/static/img/preview.png" /> -->
+        <meta property="og:image" content="https://chuanyangjin.com/AutoToM/static/img/poster.png" />
+        <meta property="og:title" content="AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling" />
+        <meta property="og:description" content="AutoToM is an automated agent modeling method for scalable, robust, and interpretable mental inference. It achieves SOTA on five benchmarks, produces human-like confidence estimates, and supports embodied decision-making." />
+        
+        <!-- Twitter -->
+        <meta name="twitter:url" content="https://chuanyangjin.com/AutoToM/" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <!-- <meta property="og:image" content="https://cambrian-mllm.github.io/static/img/preview.png" /> -->
+        <meta property="og:image" content="https://chuanyangjin.com/AutoToM/static/img/poster.png" />
+        <meta name="twitter:title" content="AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling" />
+        <meta name="twitter:description" content="AutoToM is an automated agent modeling method for scalable, robust, and interpretable mental inference. It achieves SOTA on five benchmarks, produces human-like confidence estimates, and supports embodied decision-making." />
+
+        <script src="./static/js/distill_template.v2.js"></script>
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="https://d3js.org/d3-collection.v1.min.js"></script>
+        <script src="https://rawgit.com/nstrayer/slid3r/master/dist/slid3r.js"></script>
+
+        <script defer="" src="./static/js/hider.js"></script>
+        <script src="./static/js/image_interact.js"></script>
+        <script src="./static/js/switch_videos.js"></script>
+
+        <link rel="stylesheet" href="./static/css/style.css">
+        <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+        <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+        <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous"
+            onload="renderMathInElement(document.body);"></script>
+        <script defer src="./static/js/fontawesome.all.min.js"></script>
+
+
+        <!-- medium zoom https://github.com/francoischalifour/medium-zoom -->
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>  <!-- jquery -->
+        <script defer src="./static/js/medium-zoom.min.js"></script>
+        <script defer src="./static/js/zoom.js"></script>
+    </head>
+    <body>
+        <div class="header-wrapper">
+            <div class="header-container" id="header-container">
+                <div class="header-content">
+                    <h1 style="margin-top: 0px"><i>AutoToM</i></h1>
+                    <h2>Scaling Model-based Mental Inference<br>
+                        via Automated Agent Modeling</h2>
+                        <p>
+                            Introducing AutoToM, an
+                            <em><strong>automated</strong></em> and <em><strong>open-ended</strong></em>
+                            Theory of Mind reasoning method. AutoToM is characterized by the following features: 
+                        </p>
+
+                        <div class="icon-container">
+                            <div class="icon-item">
+                                <img src="./static/img/icons/visual.svg" alt="Visual Representation Icon">
+                                <div><strong>Open-ended ToM</strong>: AutoToM is a model-based method that can operate in any domain, infer any mental variable, and conduct robust ToM reasoning of any order.</div>
+                            </div>
+                            <div class="icon-item">
+                                <img src="./static/img/icons/connector.svg" alt="Connector Design Icon">
+                                <div><strong>LLM Meets Bayesian inference</strong>: AutoToM integrates the <i>flexibility</i> of LLMs with the <i>robustness</i> of Bayesian inverse planning, automating the hypothesis sampling and Bayesian inference.</div>
+                            </div>
+                            <div class="icon-item">
+                                <img src="./static/img/icons/magnifier.svg" alt="Magnifier Icon">
+                                <div><strong>Automated Agent Model Discovery</strong>: AutoToM performs automated model proposals and iteratively refines the model by adjusting variables and timesteps.</div>
+                            </div>
+                            <div class="icon-item">
+                                <img src="./static/img/icons/eval.svg" alt="Benchmarking Icon">
+                                <div><strong>Performance</strong>: AutoToM achieves SOTA on five benchmarks, produces human-like confidence estimates, and supports embodied decision-making.</div>
+                            </div>
+                            <!-- <div class="icon-item">
+                                <img src="./static/img/icons/recipe.svg" alt="Instruction Tuning Recipes Icon">
+                                <div><strong>In-the-wild Performance</strong>: AutoToM produces human-like confidence estimates, and supports embodied decision-making.</div>
+                            </div> -->
+                        </div>
+
+                    <div class="button-container">
+                        <!-- replace arxiv -->
+                        <a href="https://arxiv.org/abs/2502.15676" class="button paper-link" target="_blank">
+                            <span class="icon is-small">
+                                <i class="ai ai-arxiv"></i>
+                            </span>
+                            arXiv
+                        </a>
+                        <!-- replace pdf -->
+                        <a href="https://arxiv.org/pdf/2502.15676" class="button paper-link" target="_blank">
+                            <span class="icon is-small">
+                                <i class="fas fa-file-pdf"></i>
+                            </span>
+                            <span>pdf</span>
+                        </a>
+                        <!-- replace image -->
+                        <a href="https://github.com/SCAI-JHU/AutoToM" class="button" target="_blank">
+                            <span class="icon is-small">
+                                <i class="fab fa-github"></i>
+                            </span>
+                            <span>Code</span>
+                        </a>
+                        <!-- <a href="https://huggingface.co/collections/nyu-visionx/cambrian-data-6667ce801e179b4fbe774e11" class="button" target="_blank">
+                            <span class="icon is-small">
+                                <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face logo" style="height: 1em;">
+                            </span>
+                            <span>Data</span>
+                        </a> -->
+                    </div>
+                </div>
+                <div class="header-image">
+                    <img draggable="false" src="static/img/autotom.png" alt="Teaser Image" class="teaser-image">
+                </div>
+            </div>
+        </div>
+    <d-article>
+        <div class="byline">
+            <div class="byline-container">
+                <p>
+                    <a href="https://github.com/zzn-nzz" class="author-link" target="_blank">Zhining Zhang</a><sup>1*</sup> &emsp;
+                    <a href="https://chuanyangjin.com/" class="author-link" target="_blank">Chuanyang Jin</a><sup>2*&dagger;</sup> &emsp;
+                    <a href="https://www.linkedin.com/in/mung-yao-jia/" class="author-link" target="_blank">Mung Yao Jia</a><sup>2*</sup> &emsp;
+                    <a href="https://zssc.tech/" class="author-link" target="_blank">Shunchi Zhang</a><sup>2*</sup> &emsp;
+                    <a href="https://www.tshu.io/" class="author-link" target="_blank">Tianmin Shu</a><sup>2</sup> &emsp;
+                    <p></p>
+                </p>
+                    <sup>1</sup><a href="https://english.pku.edu.cn/" class="author-link" target="_blank">Peking University</a> &emsp;
+                    <sup>2</sup><a href="https://www.jhu.edu/" class="author-link" target="_blank">Johns Hopkins University</a>
+                <p style="text-align: center; font-size: 1.35em; color: red; font-weight: bold;">
+                    <!-- <a href="https://neurips.cc/virtual/2024/poster/94880" target="_blank">NeurIPS 2024 (Oral)</a> -->
+                    NeurIPS 2025 (Spotlight)
+                </p>
+                <p style="text-align: center; margin-bottom: 0;">
+                    <span class="author-note"><sup>*</sup>Equal Contribution</span>&emsp;
+                    <span class="author-note"><sup>&dagger;</sup>Project Lead</span>
+                </p>
+            </div>
+        </div>
+
+        
+        <p class="text abstract">
+            
+            Theory of Mind (ToM), the ability to understand people's minds based on their behavior, is key to developing socially intelligent agents.
+            We introduce AutoToM, an automated agent modeling method for <strong>scalable</strong>, <strong>robust</strong>, and <strong>interpretable</strong> mental inference.
+            AutoToM achieves <i>state-of-the-art performance across five benchmarks</i>, produces human-like confidence estimates, and enables online mental inference for <i>embodied decision-making</i>.
+
+            <!-- <br><br>
+            AutoToM is characterized by the following features:
+            <ol class="text">
+                <li><strong>&sect;Open-ended ToM</strong>: AutoToM is a model-based method that can operate in any domain, infer any mental variable, and conduct robust ToM reasoning of any order.</li>
+                <li><strong>&sect;LLM Meets Bayesian inference</strong>: AutoToM integrates the <i>flexibility</i> of LLMs with the <i>robustness</i> of Bayesian inverse planning.</li>
+                <li><strong>&sect;Automated Bayesian Inverse Planning</strong>: AutoToM conducts inverse planning for any specified model, automating the hypothesis sampling and Bayesian inference.</li>
+                <li><strong>&sect;Automated Model Discovery</strong>: AutoToM performs automated model proposals and iteratively refines the model by adjusting variables and timesteps.</li>
+                <li><strong>&sect;Performance</strong>: AutoToM outperforms existing methods in diverse domains, offering a scalable, robust, and interpretable approach to machine ToM.</li>
+            </ol> -->
+
+            <d-figure id="fig-experiments" >
+                    <figure>
+                        <div style="text-align: center;">
+                            <img data-zoomable="" draggable="false" src="static/img/experiments.png" alt="Experiments" style="width: 75%;">
+                        </div>
+                        <figcaption>
+                            <strong>Figure 1:</strong> Overview of AutoToM's capacities and applications evaluated in this work.
+                        </figcaption>
+                    </figure>
+                </d-figure>
+            
+            <!-- To this end, AutoToM not only achieves state-of-the-art performance in diverse domains, but also serves as a open cookbook for integrating the flexibility of LLMs with the robustness of model-based reasoning. -->
+        </p>
+
+        <div class="icon-row">
+            <a href="#sec:tom" class="icon-link">
+                <img src="static/img/icons/visual.svg" alt="Visual Representation Logo" class="icon">
+                Model-based<br>Reasoning
+            </a>
+            <a href="#sec:automated_bayesian_inverse_planning" class="icon-link">
+                <img src="./static/img/icons/recipe.svg" alt="Instruction Tuning Recipes Icon" class="icon">
+                Inverse<br>Planning
+            </a>
+            <a href="#sec:automated_model_discovery" class="icon-link">
+                <img src="./static/img/icons/magnifier.svg" alt="Magnifier Icon" class="icon">
+                Model<br>Discovery
+            </a>
+            <a href="#sec:performance" class="icon-link">
+                <img src="./static/img/icons/eval.svg" alt="Benchmarking Icon" class="icon">
+                State-of-the-art<br>Performance
+            </a>
+        </div>
+
+        <p class="click-hint" style="width: 85%;">
+            <img src="static/img/icons/click.gif" style="width: 1.5rem">
+            <strong>Click to jump to each section.</strong>
+        </p>
+
+        
+
+        <hr>
+
+        <div id='visual_representations' class="vision-block">
+            
+            <div id="sec:tom" class="sub-section">
+                <h1 class="text">Model-based Theory of Mind</h1>
+
+                    <p class="text">
+                        <h3 class="text">Understanding the Challenge of Theory of Mind</h3>
+                        <p class="text">
+                            <!-- <strong>The challenge of Theory of Mind.</strong>  -->
+                            Theory of Mind (ToM), the ability to understand people's mental variables based on their behavior, is key to developing socially intelligent agents. 
+                            <!-- Current approaches to Theory of Mind reasoning either rely on prompting Large Language Models (LLMs), which are prone to systematic errors, 
+                            or use rigid, handcrafted Bayesian Theory of Mind (BToM) models, which are more robust but cannot generalize across different domains.</li> -->
+                        </p>
+                        <p class="text">
+                            There are two current approaches to Theory of Mind reasoning: 
+                            <ol class="text">
+                                <li>Directly applying LLMs to reason about people's mental states with prompting strategies such as perspective-taking, change-tracking, and temporal-spatial reasoning<d-cite key="sclar2023minding"></d-cite><d-cite key="wilf2023think"></d-cite><d-cite key="hou2024timetom"></d-cite>. However, even with these advanced prompting techniques, LLMs still make systematic errors in complex scenarios<d-cite key="jin2024mmtom"></d-cite>. </li>
+                                <li>Using model-based inference, particularly Bayesian Inverse Planning (BIP). 
+                                    Recent works have proposed to combine BIP and LLMs to achieve scalable yet robust model-based ToM inference<d-cite key="jin2024mmtom"></d-cite><d-cite key="shi2024muma"></d-cite>. 
+                                    While these methods significantly outperform LLMs in specific domains, they use rigid, handcrafted models, which cannot generalize across different domains.</li>
+                            </ol>
+                        </p>
+                        <h3 class="text">Bayesian Inverse Planning: A Robust Framework</h3>
+                        <p class="text">
+                            <!-- <strong>Bayesian Inverse Planning.</strong>  -->
+                            Bayesian Inverse Planning (BIP) models how observers infer unobservable mental states—such as beliefs and goals—from an agent's behavior<d-cite key="baker2009action"></d-cite>. 
+                            It assumes that the agent acts rationally according to a Bayesian Theory of Mind (BToM) agent model, which specifies how internal variables lead to observable actions. 
+                            BIP then inverts this generative process to assess what latent mental variables can lead to observed behavior, serving as a robust solution to ToM challenges.
+                        </p>
+                        <p class="text">
+                            To conduct BIP in different scenarios, there are several key challenges:
+                            1) Different ToM inference problem requires different agent models (see <a href="#fig-benchmarks">Figure 1(a)</a>), but we don't know which is most suitable;
+                            2) There are many time steps in a given context, and we need to reason which steps are relevant;
+                            3) There is no predefined hypothesis space for each mental variable.
+                        </p>
+                        <h3 class="text">AutoToM: A Paradigm Shift</h3>
+                        <!-- A Paradigm Shift in Model-Based Reasoning. A Revolutionary Approach.-->
+                        <p class="text">
+                            <!-- <strong>A Revolutionary Approach.</strong>  -->
+                            We introduce AutoToM, a fully <strong>automated</strong> and <strong>open-ended</strong> model-based Theory of Mind reasoning method.
+                            It automates every aspect of Bayesian inverse planning, including the proposal and adjustment of model structures, the identification of relevant timesteps, 
+                            the generation of hypotheses, and the execution of Bayesian inference. 
+                            It is designed to operate in <i>any context</i>, infer <i>any mental state</i>, reason about <i>any number of agents</i>, and support <i>any order of recursive reasoning</i>, 
+                            which represents our vision of an open-ended and robust machine Theory of Mind.
+                            <!-- It is the first model-based ToM method that addresses open-ended scenarios, offering a scalable, robust, and interpretable approach to machine ToM.  -->
+                        </p>
+                    <d-figure id="fig-overview" >
+                        <figure>
+                            <img data-zoomable="" draggable="false" src="static/img/overview.png" alt="Overview">
+                            <figcaption>
+                                <strong>Figure 2:</strong> An overview of AutoToM. 
+                                \( X^{t_s:t} \) are observable variables, \( V^{t_s:t} \) are latent mental variables, and \( q \) is the query. <br>
+                                \( t_s:t \) denotes timesteps from \( t_s \) to \( t \) in the context that are considered for inference. 
+                                Variables \( s^t, o^t, b^t, a^t, g^t \) represent state, observation, belief, action, and goal, respectively, with solid arrows indicating dependencies defined in the models. 
+                            </figcaption>
+                        </figure>
+                    </d-figure>
+                    <p class="text">
+                        <a href="#fig-overview">Figure 2</a> provides an overview of AutoToM. 
+                        Given a question, we extract the observable variables (information extraction) and propose an initial agent model. 
+                        This is followed by automated Bayesian inverse planning and iterative model adjustment.
+                        When the model utility is high enough, we will produce the final answer based on the inference result.
+                    </p>
+            </div>
+        
+
+
+            <div id="sec:automated_bayesian_inverse_planning" class="sub-section">
+            <h1 class="text">Automated Bayesian Inverse Planning</h1>
+                <p class="text">
+                    Given an agent model, we integrate LLMs as the computational backend to implement every aspect of the Bayesian inverse planning. 
+                    This includes hypothesis sampling for latent mental variables, and probabilistic inference for the target mental variable (<a href="#fig-inverse-planning">Figure 3</a>).
+                    The construction, information flow, and computations within the agent model are entirely automated.
+                </p>
+                <p class="text">
+                    <strong>Hypothesis Sampling. </strong> 
+                    Conventional BIP assumes a manually defined hypothesis space as well as hypothesis representation for each latent mental variable. 
+                    Our hypothesis sampling module instead leverages an LLM to propose only a small set of quality hypotheses for each latent variable,
+                    <!-- in \( V^{t_s:t} \). -->
+                    conditioned on observable variables and their values extracted from the context.
+                    We further apply <i>hypothesis reduction</i> to eliminate unlikely hypotheses and reduce the hypothesis space.
+                </p>
+                
+                <p class="text">
+                    <strong>Bayesian Inference.</strong> 
+                    <!-- We estimate each local conditional in \( P(V^{t_s:t}, X^{t_s:t}) \) using an LLM.  -->
+                    We estimate each local conditional in the agent model using an LLM.
+                    After marginalizing the joint distribution over non-target latent variables, we then produce the posterior probabilities of the target variable in the query.
+                    We greatly generalize prior methods by enabling any ToM inference based on any agent model structure, simultaneously considering multiple non-target latent variables 
+                    and supporting arbitrary levels of recursion for high-order ToM inference.
+                </p>
+                <d-figure id="fig-inverse-planning" >
+                    <figure>
+                        <img data-zoomable="" draggable="false" src="static/img/inverse_planning.png" alt="Automated Bayesian Inverse Planning">
+                        <figcaption>
+                            <strong>Figure 3:</strong> Illustration of automated Bayesian inverse planning given a specified agent model.
+                        </figcaption>
+                    </figure>
+                </d-figure>
+            </div>
+
+
+            <div id='sec:automated_model_discovery' class="sub-section">
+            <h1 class="text">Automated Agent Model Discovery </h1>
+                
+                <p class="text">
+                    Prior works on Bayesian inverse planning rely on manually designed agent models, which limits their applicability to domain-specific scenarios. In contrast, the Automated Agent Model Discovery component automatically proposes a model and dynamically adjusts it to ensure both the <i>effectiveness</i> of the model—confidently inferring agents' mental states—and the <i>efficiency</i> of the inference by minimizing model complexity.
+                </p>
+                <p class="text">
+                    <strong>Information Extraction.</strong> 
+                    The information extraction module processes the given context to identify the values of observable variables,
+                    <!-- The information extraction module processes the given context to identify the values of observable variables \( X^{1:t} \),  -->
+                    including states, actions, and utterances, organized along a timeline. 
+                    When there are multiple agents, we first identify whose mental state the question is asking about, 
+                    and then construct the timesteps based on its actions.
+                </p>
+                <p class="text">
+                    <strong>Initial Model Proposal.</strong> 
+                    We employ an LLM to propose an initial agent model tailored to the available information and the query. 
+                    Following this model, we conduct <a href="#sec:automated_bayesian_inverse_planning">&sect;automated Bayesian inverse planning</a>.
+                    If the model utility exceeds a threshold, we accept the inference result as the final answer. 
+                    Otherwise, we use the model utility to guide model adjustments.
+                </p>
+                <p class="text">
+                    <strong>Model Adjustment.</strong> 
+                    We iteratively adjust the proposed model by considering two types of model adjustments: variable adjustment and timestep adjustment (<a href="#fig-model-adjustment">Figure 4</a>).
+                </p>
+                <p class="text">
+                    <i>Variable Adjustment.</i> 
+                    We refine the model structure at a specific timestep by iteratively introducing new, relevant latent variables into the model to address uncertainty in the inference. 
+                    For each adjustment, we compute the updated model utility and accept the modification that offers the biggest increase in utility.
+                <p class="text">
+                    <i>Timestep Adjustment.</i> 
+                    If the model utility remains low and no significant improvements can be achieved through variable adjustment given the current timesteps \( t_s:t \), 
+                    we may incorporate an additional timestep, \( t_s-1 \), to provide more context for the inference. 
+                    When we add one more timestep, we first apply the model structure in the initial model proposal, and then conduct variable adjustments for this new timestep as well.
+                </p>
+                
+                <d-figure id="fig-model-adjustment" >
+                    <figure>
+                        <div style="text-align: center;">
+                            <img data-zoomable="" draggable="false" src="static/img/model_adjustment.png" alt="Model Adjustment" style="width: 75%;">
+                        </div>
+                        <figcaption>
+                            <strong>Figure 4:</strong> We automatically refine the agent model by alternating between variable adjustment and timestep adjustment.
+                        </figcaption>
+                    </figure>
+                </d-figure>
+                
+            </div>
+        </div>
+
+
+        <div id='sec:performance' class="sub-section">
+            <h1 class="text">Experiment 1: Evaluation on ToM Benchmarks</h1>
+            <p class="text">
+                We evaluated our method on multiple Theory of Mind benchmarks, including ToMi<d-cite key="le2019revisiting"></d-cite>, BigToM<d-cite key="gandhi2024understanding"></d-cite>, 
+                MMToM-QA<d-cite key="jin2024mmtom"></d-cite>, MuMA-ToM<d-cite key="shi2024muma"></d-cite>, and Hi-ToM<d-cite key="he2023hi"></d-cite>. 
+                As shown in <a href="#fig-experiments">Figure 1(a)</a>, these benchmarks encompass different mental variables, observable contexts, numbers of agents, the presence or absence of utterances, wording styles, and modalities.
+                AutoToM autonomously discovers the appropriate agent models for them.
+            </p>
+            
+            <p class="text">
+                The main results are summarized in <a href="#tab:results">Table 1</a>.
+                AutoToM demonstrates the strongest overall performance among all methods, including large reasoning models. 
+                As shown in <a href="#fig-experiment1">Figure 5</a> AutoToM demonstrates robust scalability and exhibits a much lower degree of volatility under different conditions than large reasoning models. 
+                This is because Bayesian inverse planning is more robust in inferring mental states given <i>long context</i> with complex environments and agent behavior.
+                It is also more adept at <i>recursive reasoning</i> which is key to higher-order inference.
+            </p>
+            <div id="tab:results" style="display: flex; flex-direction: column; align-items: center;">
+                <div class="table-container">
+                    <table class="data-table">
+                      <thead>
+                        <tr>
+                          <th>Method</th>
+                          <th>ToMi</th>
+                          <th>BigToM</th>
+                          <th>MMToM-QA</th>
+                          <th>MuMA-ToM</th>
+                          <th>Hi-ToM</th>
+                          <th>All</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>LLaMA 3.1 70B</td>
+                          <td>72.00</td>
+                          <td>77.83</td>
+                          <td>43.83</td> 
+                          <td>55.78</td>
+                          <td>35.00</td>
+                          <td>56.89</td>
+                        </tr>
+                        <tr>
+                          <td>GPT-4o</td>
+                          <td>77.00</td>
+                          <td>82.42</td>
+                          <td>44.00</td>
+                          <td>63.55</td>
+                          <td>50.00</td>
+                          <td>63.39</td>
+                        </tr>
+                        <tr>
+                          <td>Gemini 2.0 Flash</td>
+                          <td>66.70</td>
+                          <td>82.00</td>
+                          <td>48.00</td>
+                          <td>55.33</td>
+                          <td>52.50</td>
+                          <td>60.91</td>
+                        </tr>
+                        <tr>
+                          <td>Gemini 2.0 Pro</td>
+                          <td>71.90</td>
+                          <td>86.33</td>
+                          <td>50.84</td>
+                          <td>62.22</td>
+                          <td>57.50</td>
+                          <td>65.76</td>
+                        </tr>
+                        <tr class="bold-divider">
+                          <td>SymbolicToM</td>
+                          <td class="highlight-orange">98.60</td>
+                          <td>-</td>
+                          <td>-</td>
+                          <td>-</td>
+                          <td>44.50</td>
+                          <td>-</td>
+                        </tr>
+                        <tr>
+                          <td>SimToM</td>
+                          <td>79.90</td>
+                          <td>77.50</td>
+                          <td>51.00</td>
+                          <td>47.63</td>
+                          <td>71.00</td>
+                          <td>65.41</td>
+                        </tr>
+                        <tr class="bold-divider">
+                          <td>DeepSeek-R1</td>
+                          <td>89.40</td>
+                          <td>86.25</td>
+                          <td>49.67</td>
+                          <td>63.44</td>
+                          <td>56.50</td>
+                          <td>69.05</td>
+                        </tr>
+                        <tr>
+                          <td>Gemini 2.0 Flash Thinking</td>
+                          <td>78.00</td>
+                          <td>82.83</td>
+                          <td>54.00</td>
+                          <td>82.56</td>
+                          <td>73.50</td>
+                          <td>74.18</td>
+                        </tr>
+                        <tr>
+                          <td>o3-mini-high</td>
+                          <td>73.10</td>
+                          <td class="highlight-orange">86.92</td>
+                          <td>64.67</td>
+                          <td>70.00</td>
+                          <td>75.00</td>
+                          <td>73.94</td>
+                        </tr>
+                        <tr class="bold-divider">
+                          <td>BIP-ALM</td>
+                          <td>55.60</td>
+                          <td>50.33</td>
+                          <td>56.17</td>
+                          <td>33.90</td>
+                          <td>14.50</td>
+                          <td>42.10</td>
+                        </tr>
+                        <tr>
+                          <td>LIMP</td>
+                          <td>44.60</td>
+                          <td>61.67</td>
+                          <td>55.33</td>
+                          <td>76.60</td>
+                          <td>6.50</td>
+                          <td>48.94</td>
+                        </tr>
+                        <tr>
+                          <td class="highlight-orange">AutoToM (w/ GPT-4o)</td>
+                          <td class="highlight-orange">88.30</td>
+                          <td class="highlight-orange">86.92</td>
+                          <td class="highlight-orange">83.00</td>
+                          <td class="highlight-orange">81.44</td>
+                          <td class="highlight-orange">72.50</td>
+                          <td class="highlight-orange">82.43</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+            </div>
+            <figcaption style="text-align: center; width: 100%;">
+                <strong>Table 1:</strong> Results of all methods on ToM benchmarks, grouped by model types: LLMs, ToM prompting, large reasoning models, and model-based inference.
+            </figcaption>
+
+            <d-figure id="fig-experiment1">
+                <figure>
+                    <img data-zoomable="" draggable="false" src="static/img/experiment1.png" alt="Incorporating System Prompt in Instruction Tuning Data alleviates “Answer Machine Phenomenon”">
+                    <figcaption>
+                        <strong>Figure 5:</strong> Comparison of AutoToM and large reasoning models across various conditions.
+                    </figcaption>
+                </figure>
+            </d-figure>
+
+            <p class="text">
+                    <strong>Ablation Study.</strong> 
+                    The results from our ablation study (<a href="#fig-comparison">Figure 6</a>) highlight the benefits of variable adjustment, timestep adjustment, and hypothesis reduction.
+                    The automatic agent model discovery in AutoToM can construct a suitable agent model that not only enables rich ToM inferences but also reduces compute, balancing accuracy and cost.
+                </p>
+
+                <d-figure id="fig-comparison" >
+                    <figure>
+                        <div style="text-align: center;">
+                            <img data-zoomable="" draggable="false" src="static/img/comparison.png" alt="Comparison" style="width: 75%;">
+                        </div>
+                        <figcaption>
+                            <strong>Figure 6:</strong> Averaged performance and compute of AutoToM and the ablated methods on all benchmarks.
+                        </figcaption>
+                    </figure>
+                </d-figure>
+        </div>
+
+        <div id='sec:experiment2' class="sub-section">
+            <h1 class="text">Experiment 2: Evaluation on Classic Cognitive Studies</h1>
+            <p class="text">
+            AutoToM produces posterior distributions over the hypothesis space, offering uncertainty estimates. This allows us to compare the model uncertainties with human judgments. 
+            We adapted two well-known cognitive studies on human ToM: online goal inference<d-cite key="baker2009action"></d-cite> and desire and belief inferences in the food truck scenarios<d-cite key="baker2017rational"></d-cite>.
+            <br>
+            We computed the correlation between model responses and human judgments reported in the original studies. 
+            As shown in <a href="#tab:experiment2">Table 2</a>, AutoToM aligns well with human confidence judgments on all three tasks.
+            </p>
+
+            <div id="tab:experiment2" style="display: flex; flex-direction: column; align-items: center;">
+                <div class="table-container">
+                    <table class="data-table">
+                      <thead>
+                        <tr>
+                          <th>Task</th>
+                          <th>AutoToM</th>
+                          <th>GPT-4o</th>
+                          <th>o3-mini-high</th>
+                          <th>Gemini 2.0 Flash Thinking</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>Online goal inference (full obs.)</td>
+                          <td>0.93**</td>
+                          <td>0.81** </td>
+                          <td>0.97** </td> 
+                          <td>0.95**</td>
+                        </tr>
+                        <tr>
+                          <td>Desire inference (partial obs.)</td>
+                          <td>0.88**</td>
+                          <td>0.30</td>
+                          <td>0.52*</td> 
+                          <td>0.58*</td>
+                        </tr>
+                        <tr>
+                          <td>Belief inference (partial obs.)</td>
+                          <td>0.73**</td>
+                          <td>0.04</td>
+                          <td>0.03 </td> 
+                          <td>0.60*</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+            </div>
+                        
+        </div>
+
+        <div id='sec:experiment2' class="sub-section">
+            <h1 class="text">Experiment 3: Embodied Assistance</h1>
+            <p class="text">
+            We evaluated AutoToM in an embodied assistance benchmark, Online Watch-And-Help (O-WAH)<d-cite key="puig2023nopa"></d-cite>, 
+            where a helper agent must simultaneously observe a main agent's actions, infer its goal, and assist it to reach the inferred goal faster in realistic household environments. 
+            <br>
+            As shown in <a href="#fig-experiment3">Figure 7</a>, AutoToM achieves the highest speedup of 27.7%, significantly outperforming all baselines.
+            </p>
+
+            <d-figure id="fig-experiment3" >
+                    <figure>
+                        <div style="text-align: center;">
+                            <img data-zoomable="" draggable="false" src="static/img/experiment3.png" alt="Comparison" style="width: 75%;">
+                        </div>
+                        <figcaption>
+                            <strong>Figure 7:</strong> Averaged speedup of AutoToM and baselines on the O-WAH benchmark.
+                        </figcaption>
+                    </figure>
+        </div>
+
+        <div id="conclusion" style="position: relative; margin-top: 40px; margin-bottom: 0px;">
+            <h2 class="text" style="margin-top:0px; margin-bottom:10px">Conclusion</h2>
+            <p class="text">
+                To conclude, AutoToM is a novel framework for open-ended Theory of Mind. 
+                Given any ToM inference problem, AutoToM can automatically construct a suitable agent model and conduct automated Bayesian inverse planning with an LLM backend. 
+                It suggests a promising direction toward cognitively grounded ToM modeling that is scalable, robust, and open-ended.
+            </p>
+        </div>
+
+        <div id="acknowledgement" style="position: relative; margin-top: 40px; margin-bottom: 0px;">
+            <h2 class="text" style="margin-top:0px; margin-bottom:10px">Acknowledgement</h2>
+            <p class="text">
+                We would like to thank Hyokun Yun and Tanya Roosta for their helpful comments, 
+                and the <a href="https://cambrian-mllm.github.io/Cambrian">Cambrian</a> authors for providing this webpage template.
+            </p>
+        </div>
+
+        </d-article>
+        <d-appendix>
+            <h3>BibTeX</h3>
+            <p class="bibtex">
+                @article{zhang2025autotom,<br>
+                &nbsp;&nbsp;title={AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind},<br>
+                &nbsp;&nbsp;author={Zhang, Zhining and Jin, Chuanyang and Jia, Mung Yao and Shu, Tianmin},<br>
+                &nbsp;&nbsp;journal={arXiv preprint arXiv:2502.15676},<br>
+                &nbsp;&nbsp;year={2025}<br>
+                }
+            </p>
+
+            <d-footnote-list></d-footnote-list>
+            <d-citation-list></d-citation-list>
+        </d-appendix>   
+        <!-- bibliography will be inlined during Distill pipeline's pre-rendering -->
+        <d-bibliography src="bibliography.bib"></d-bibliography>
+        <script src="./static/js/nav-bar.js"></script>
+    </body>
+</html>

@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    li:nth-child(1) {
+      list-style-type: "♠";
+      padding-inline-start: 1ch;
+    }
+
+    li:nth-child(2) {
+      list-style-type: "♣";
+      padding-inline-start: 1ch;
+    }
+    li:nth-child(3) {
+      list-style-type: "♦";
+      padding-inline-start: 1ch;
+    }
+
+    .custom-br {
+        display: block;
+        height: 0.5em;
+    }
+  </style>
+
+
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="MMToM-QA: Multimodal Theory of Mind Question Answering">
+  <meta property="og:title" content="Jin et al. ACL 2024."/>
+  <meta property="og:description" content="MMToM-QA: Multimodal Theory of Mind Question Answering"/>
+  <meta property="og:url" content="URL OF THE WEBSITE"/>
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+
+
+  <meta name="twitter:title" content="MMToM-QA: Multimodal Theory of Mind Question Answering">
+  <meta name="twitter:description" content="Jin et al. ACL 2024.">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <meta name="twitter:image" content="/assets/img/publications/MMToM.png">
+  <meta name="twitter:card" content="/assets/img/publications/MMToM.png">
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="Theory of Mind">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>MMToM-QA: Multimodal Theory of Mind Question Answering</title>
+  <link rel="icon" type="image/x-icon" href="assets/icons/favicon-cj.ico">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+<body>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">MMToM-QA: Multimodal Theory of Mind Question Answering</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://www.chuanyangjin.com" target="_blank">
+              Chuanyang Jin</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://www.linkedin.com/in/yutong-wu-a5a575209/" target="_blank">
+              Yutong Wu</a><sup>2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://www.linkedin.com/in/jingcao26/" target="_blank">
+              Jing Cao</a><sup>3</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://szxiangjn.github.io/" target="_blank">
+              Jiannan Xiang</a><sup>4</sup>,
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://yenlingkuo.com/" target="_blank">
+                Yen-Ling Kuo</a><sup>5</sup>,
+            </span>
+            <span class="author-block">
+              <a href="http://zhiting.ucsd.edu/" target="_blank">
+                Zhiting Hu</a><sup>4</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://www.tomerullman.org/" target="_blank">
+                Tomer Ullman</a><sup>2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://web.mit.edu/torralba/www/" target="_blank">
+                Antonio Torralba</a><sup>3</sup>,
+            </span>
+            <span class="author-block">
+              <a href="http://web.mit.edu/cocosci/josh.html" target="_blank">
+                Joshua Tenenbaum</a><sup>3</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://www.tshu.io/" target="_blank">
+                Tianmin Shu</a><sup>6</sup>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <sup>1</sup>NYU,
+              <sup>2</sup>Harvard,
+              <sup>3</sup>MIT,
+              <sup>4</sup>UCSD,
+              <sup>5</sup>UVA,
+              <sup>6</sup>JHU
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">ACL 2024</span>
+          </div>
+
+          <div class="is-size-3 publication-authors">
+            <span class="author-block" style="color: red; font-weight: bold;">Outstanding Paper Award</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <span class="link-block">
+                <a href="https://chuanyangjin.com/mmtom-qa" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  📑
+                </span>
+                <span>Blog</span>
+              </a>
+              </span>
+
+
+              <!-- Arxiv PDF link -->
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2401.08743" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="fas fa-file-pdf"></i>
+                </span>
+                <span>Paper</span>
+              </a>
+              </span>
+
+              <!-- Github link -->
+              <span class="link-block">
+                <a href="https://github.com/chuanyangjin/MMToM-QA" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="fab fa-github"></i>
+                </span>
+                <span>Code</span>
+              </a>
+              </span>
+
+
+              <span class="link-block">
+                <a href="https://x.com/MIT_CSAIL/status/1750925830937604386" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <i class="fab fa-twitter"></i>
+                </span>
+                <span>Twitter</span>
+                </a>
+              </span>
+
+
+              <span class="link-block">
+                <a href="https://github.com/chuanyangjin/MMToM-QA?tab=readme-ov-file#-mmtom-qa-benchmark" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  📣
+                </span>
+                <span>Benchmark</span>
+                </a>
+              </span>
+
+
+              <span class="link-block">
+                <a href="https://chuanyangjin.com/mmtom-qa-leaderboard" target="_blank"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  🏆
+                </span>
+                <span>Leaderboard</span>
+                </a>
+              </span>
+
+              
+
+            </div>
+          </div>
+
+          <!-- <div class=" has-text-centered">
+            <img style="width:800px" src="/assets/img/publications/MMToM.png" alt="MY ALT TEXT"/>
+          </div>
+          <b class="subtitle is-size-6"> -->
+
+          <div class="item item-video4">
+            <video poster="" id="video4" autoplay controls muted loop style="width: 100%; max-width: 1000px;">\
+              <source src="static/videos/mmtom_video.mp4"
+              type="video/mp4">
+            </video>
+          </div>
+            
+          </b>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- Paper abstract -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Theory of Mind (ToM), the ability to understand people's mental states, is an essential ingredient for developing machines with human-level social intelligence. Recent machine learning models, particularly large language models, seem to show some aspects of ToM understanding. However, existing ToM benchmarks use unimodal datasets - either video or text. Human ToM, on the other hand, is more than video or text understanding. People can flexibly reason about another person's mind based on conceptual representations (e.g., goals, beliefs, plans) extracted from any available data. To address this, we introduce a multimodal Theory of Mind question answering (MMToM-QA) benchmark. MMToM-QA comprehensively evaluates machine ToM both on multimodal data and on different kinds of unimodal data about a person's activity in a household environment. To engineer multimodal ToM capacity, we propose a novel method, BIP-ALM (Bayesian Inverse Planning Accelerated by Language Models). BIP-ALM extracts unified representations from multimodal data and utilizes language models for scalable Bayesian inverse planning. We conducted a systematic comparison of human performance, BIP-ALM, and state-of-the-art models, including GPT-4. The experiments demonstrate that large language models and large multimodal models still lack robust ToM capacity. BIP-ALM, on the other hand, shows promising results, by leveraging the power of both model-based mental inference and language models.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End paper abstract -->
+
+
+<section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">MMToM-QA Benchmark</h2>
+        <div class="content has-text-justified">
+          <p>
+            MMToM-QA systematically evaluates the cognitive ability to understand people's minds <strong>both on multimodal data and different unimodal data</strong>. MMToM-QA consists of 600 questions. The questions are categorized into seven types, evaluating <strong>belief inference</strong> and <strong>goal inference</strong> in rich and diverse situations. Each belief inference type has 100 questions, totaling 300 belief questions; each goal inference type has 75 questions, totaling 300 goal questions.
+            <!-- MMToM-QA is the first multimodal benchmark to evaluate machine Theory of Mind (ToM), the ability to understand people's minds.  -->
+					  <br><br>
+					  The MMToM-QA benchmark and usage instructions are available in the <a href="https://github.com/chuanyangjin/MMToM-QA#mmtom-qa-benchmark">GitHub repository</a>. A text-only version is also available for download from <a href="https://huggingface.co/datasets/Chuanyang-Jin/MMToM-QA">Hugging Face</a>.
+          </p>
+        </div>
+        <div class="content has-text-centered">
+          <div class=" has-text-centered">
+            <img src="/assets/img/publications/MMToM.png" alt="MY ALT TEXT"/>
+          </div>
+          <!-- <b class="subtitle is-size-6">
+            Sketch of the MMToM-QA benchmark.
+          </b> -->
+          <div class=" has-text-centered">
+            <img src="/assets/img/mmtom-qa/overview.png" alt="MY ALT TEXT"/>
+          </div>
+          <b class="subtitle is-size-6">
+            Question types in MMToM-QA with examples.
+          </b>
+        </div>
+
+        <div class="content has-text-justified">
+          <p>
+            <br>
+            Each question is paired with a clip of the full activity in a video (as RGB-D frames), as well as a text description of the scene and the actions taken by the person in that clip.
+            <!-- We provide RGB-D images, instance segmentation maps, human 3D poses, ground-truth scene graphs, ground-truth actions, and camera data. Additionally, a text-only version is available. -->
+          </p>
+        </div>
+
+        <div class="container is-max-desktop" style="margin-bottom: 20px;">  
+          <div class="columns">  
+            <div class="column is-5">
+                <div class="image">    
+                    <img src="/assets/img/mmtom-qa/available_data_type.png" alt="Image 1"> 
+                  </div> 
+                <p style="margin: 10px 0;" class="subtitle is-6 has-text-centered">(a) Types of data provided </p>  
+            </div>
+            <div class="column is-1">
+          </div>  
+            <div class="column is-6">  
+                <div class="image">  
+                    <img src="/assets/img/mmtom-qa/procedural_generation.png"  alt="Image 2">  
+                </div>  
+                <p style="margin: 10px 0;" class="subtitle is-6 has-text-centered">(b) The procedural generation process  </p>  
+            </div>  
+          </div>  
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<!-- Video carousel -->
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container" style="width: 750px; margin: auto;">
+      <h2 class="title is-3">Example Scenarios</h2>
+      <div id="results-carousel" class="carousel results-carousel" style="display: flex; justify-content: center;">
+        <div class="item item-video0">
+          <video poster="" id="video0" autoplay controls muted loop height="100%">
+            <source src="static/videos/mmtom_example_0.mp4"
+            type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-video1">
+          <video poster="" id="video1" autoplay controls muted loop height="100%">
+            <source src="static/videos/mmtom_example_1.mp4"
+            type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-video2">
+          <video poster="" id="video2" autoplay controls muted loop height="100%">
+            <source src="static/videos/mmtom_example_2.mp4"
+            type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-video3">
+          <video poster="" id="video3" autoplay controls muted loop height="100%">\
+            <source src="static/videos/mmtom_example_3.mp4"
+            type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-video4">
+          <video poster="" id="video4" autoplay controls muted loop height="100%">\
+            <source src="static/videos/mmtom_example_4.mp4"
+            type="video/mp4">
+          </video>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End video carousel -->
+
+
+
+
+
+<section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Bayesian Inverse Planning Accelerated by Language Models (BIP-ALM)</h2>
+        <div class="content has-text-justified">
+          <p>
+            We propose Bayesian Inverse Planning Accelerated by Language Models (BIP-ALM), a novel method to engineer multimodal Theory of Mind. This method:
+            <ul>
+              <!-- <li>Extracts symbolic representations from video (via the Visual Perception Module) and text (using GPT-4);</li>
+              <li>Aligns and fuses these representations to form a unified representation of the event and the physical scene;</li> -->
+              <li>Extracts, aligns, and fuses <strong>symbolic representations</strong> from video and text </li>
+              <li>Conducts inverse planning about the agent's goal and belief using <strong>language models</strong> </li>
+            </ul>
+          </p>
+        </div>
+        <div class="content has-text-centered">
+          <div class=" has-text-centered">
+            <img src="/assets/img/mmtom-qa/model.png" alt="MY ALT TEXT"/>
+          </div>
+          <b class="subtitle is-size-6">
+            
+          </b>
+        </div>  
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Quantitative Results</h2>
+        <div class="content has-text-justified">
+          <p>
+            We evaluate large language models (e.g., GPT-4, LLaMA 2) on the text-only version of MMToM-QA.
+            We assess large multimodal models (e.g., GPT-4V, InstructBLIP, LLaVA) on both multimodal and video-only versions of MMToM-QA. 
+            Furthermore, we measure human performance in these tasks. 
+            <br><br>
+            A summary of our findings:
+            <ul>
+              <li>Human experiment verifies benchmark design and provides a natural performance yardstick</li>
+              <li>Large multimodal models and LLMs are as good as <strong>random guessing</strong> across all question types
+                <ul>
+                  <li>As an exception, GPT-4V excels with true beliefs, yet it makes <strong>systematic mistakes</strong> when people have false beliefs or update their beliefs, and has poor judgment on goals.</li>
+                </ul></li>
+              <li>BIP-ALM shows promising results and generalizes effectively</li>
+            </ul>
+          </p>
+        </div>
+        <div class="content has-text-centered">
+          <div class=" has-text-centered">
+            <img src="/assets/img/mmtom-qa/results.png" alt="MY ALT TEXT"/>
+          </div>
+          <b class="subtitle is-size-6">
+            
+          </b>
+        </div>  
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Qualitative Results & Discussion</h2>
+        <div class="content has-text-justified">
+          <p>
+            BIP-ALM effectively reasons about a person's mental state and tracks the changes in the mental state over time, benefiting from 
+            <span class="custom-br"></span>
+            (1) the <span style="color: blue;">modality-invariance</span> of <span style="color: blue;">symbolic representations</span>,
+            <span class="custom-br"></span>
+            (2) the <span style="color: orange;">robustness and interpretability</span> of <span style="color: orange;">inverse planning</span>, and
+            <span class="custom-br"></span>
+            (3) the <span style="color: green;">scalability and flexibility</span> of <span style="color: green;">language models</span>.
+            <br><br>
+            This can be seen as an inference-time scaling strategy, enabling human-like reasoning by integrating language models, agent models, and world models in a scalable, cognitively grounded way.
+        </p>        
+        </div>
+        <div class="content has-text-centered">
+          <div class=" has-text-centered">
+            <img src="/assets/img/mmtom-qa/qualitative_results_1.png" alt="MY ALT TEXT"/>
+          </div>
+          <b class="subtitle is-size-6">
+            How BIP-ALM evaluates the likelihood of different hypotheses via the action likelihood estimation.
+          </b>
+        </div>
+        <div class="content has-text-centered">
+          <div class=" has-text-centered">
+            <img src="/assets/img/mmtom-qa/qualitative_results_2.png" alt="MY ALT TEXT"/>
+          </div>
+          <b class="subtitle is-size-6">
+            How different modalities contribute to the mental state reasoning.
+          </b>
+        </div>  
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<!-- Image carousel -->
+<!-- <section class="hero is-small">
+  <div class="hero-body">
+    <div class="container">
+      <div id="results-carousel" class="carousel results-carousel">
+       <div class="item">
+        <img src="static/images/carousel1.jpg" alt="MY ALT TEXT"/>
+        <h2 class="subtitle has-text-centered">
+          First image description.
+        </h2>
+      </div>
+      <div class="item">
+        <img src="static/images/carousel2.jpg" alt="MY ALT TEXT"/>
+        <h2 class="subtitle has-text-centered">
+          Second image description.
+        </h2>
+      </div>
+      <div class="item">
+        <img src="static/images/carousel3.jpg" alt="MY ALT TEXT"/>
+        <h2 class="subtitle has-text-centered">
+         Third image description.
+       </h2>
+     </div>
+     <div class="item">
+      <img src="static/images/carousel4.jpg" alt="MY ALT TEXT"/>
+      <h2 class="subtitle has-text-centered">
+        Fourth image description.
+      </h2>
+    </div>
+  </div>
+</div>
+</div>
+</section> -->
+<!-- End image carousel -->
+
+
+
+
+<!-- Youtube video -->
+<!-- <section class="hero is-small is-light">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title is-3">Video Presentation</h2>
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          
+          <div class="publication-video">
+            <iframe src="https://www.youtube.com/embed/JkaxUblCGz0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> -->
+<!-- End youtube video -->
+
+
+
+
+
+
+
+<!-- Paper poster -->
+<!-- <section class="hero is-small is-light">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title">Poster</h2>
+
+      <iframe  src="static/pdfs/sample.pdf" width="100%" height="550">
+          </iframe>
+        
+      </div>
+    </div>
+  </section> -->
+<!--End paper poster -->
+
+
+<!--BibTex citation -->
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>
+      @article{jin2024mmtom,
+        title={Mmtom-qa: Multimodal theory of mind question answering},
+        author={Jin, Chuanyang and Wu, Yutong and Cao, Jing and Xiang, Jiannan and Kuo, Yen-Ling and Hu, Zhiting and Ullman, Tomer and Torralba, Antonio and Tenenbaum, Joshua B and Shu, Tianmin},
+        journal={arXiv preprint arXiv:2401.08743},
+        year={2024}
+      }
+      </code></pre>
+    </div>
+</section>
+<!--End BibTex citation -->
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+
+          <p>
+            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
+            You are free to borrow the of this website, we just ask that you link back to this page in the footer. <br> This website is licensed under a <a rel="license"  href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Statcounter tracking code -->
+  
+<!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+
+    <!-- End of Statcounter Code -->
+
+  </body>
+  </html>
