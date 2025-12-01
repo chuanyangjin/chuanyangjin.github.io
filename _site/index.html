@@ -102,7 +102,7 @@
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2025-12-01T00:57:26-05:00',
+    INDEX_KEY: 'index--2025-12-01T02:07:38-05:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -250,7 +250,7 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79,177,186,0.5);
     left: 0;
     width: 0%;
     height: 2px;
-    background-color: #333333; /* Dark grey */
+    background-color: #666666; /* Grey */
     opacity: 0; /* Hidden by default */
   }
 
@@ -318,36 +318,42 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79,177,186,0.5);
     font-size: 14px;
     color: #666666;
     margin-bottom: 20px;
-  }
-  
+  }  
   </style>
 </head>
 
 <p>Hello! I am a 2nd-year Ph.D. student in Computer Science at <a href="https://www.jhu.edu/">Johns Hopkins University</a>, advised by <a href="https://www.tshu.io/">Tianmin Shu</a>. I’m also a part-time student researcher at Meta FAIR, mentored by <a href="https://ai.meta.com/people/1163645124801199/jason-weston/">Jason Weston</a>. My research is funded by the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/">Amazon AI PhD Fellowship</a>.</p>
 
-<p>I received bachelor degrees in Honors Computer Science and Mathematics from <a href="https://www.nyu.edu/">New York University</a> (2020-2024), where I was awarded the Computer Science Prize for the Most Promising Student.
+<p>I received bachelor’s degrees in Honors Computer Science and Mathematics from <a href="https://cims.nyu.edu/dynamic/">NYU Courant</a> (2020–2024), where the CS Department recognized me as its <a href="/assets/awards/most_promising_student.pdf">Most Promising Student</a>.
 I was as a research intern at <a href="https://www.mit.edu/">MIT</a> (2023), advised by <a href="https://web.mit.edu/cocosci/josh.html">Josh Tenenbaum</a>.
-I received an Outstanding Paper Award at ACL 2024 for my work on <a href="https://arxiv.org/abs/2401.08743">multimodal Theory of Mind</a>.
-I’m interested in developing AI systems with <em>advanced social intelligence (ASI)</em>. My current areas of focus include:</p>
-<details style="margin-bottom:1em;">
-<summary> <strong>Reasoning about Human Interaction</strong>: Developing AI that can continuously perceive, reason about, and respond to human behavior and cognition.</summary>
-<div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
-  <ul>
-  <li> I have developed general-purpose agent models to advance machine Theory of Mind (ToM), the ability to understand people's minds (e.g., goals, beliefs) based on observations (e.g., motion, speech), with papers recognized as <a href="https://chuanyangjin.com/mmtom-qa">ACL'24 Outstanding Paper</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">AAAI'25 Oral</a>, and <a href="https://chuanyangjin.com/AutoToM/">NeurIPS'25 Spotlight</a>. </li>
-  <li> In particular, my works automate agent modeling with LLM backends, and advance ToM reasoning by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a>, learning from <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> and <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> observations, and <a href="https://chuanyangjin.com/AutoToM/">scaling to long-term and complex settings</a>. </li>
-  </ul>
-</div>
-</details>
+I received an Outstanding Paper Award at ACL 2024 for my work on <a href="https://arxiv.org/abs/2401.08743">multimodal Theory of Mind</a>.</p>
 
-<details style="margin-bottom:1em;">
-<summary> <strong>Learning from Human Interaction</strong>: Developing AI that can continuously learn from real-world human interactions.</summary>
-<div style="margin-left: 0.5em; margin-top: 0.5em; margin-bottom: 1em">
-  <ul>
-  <li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from real users' diverse goals and preferences, adapt to situational demands, and scale with actual usage. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a>, which learns directly from user conversations and outperforms RLHF at the user level. </li>
-  <li> I initiated <a href="https://continual-robot-learning-from-humans.github.io/">RSS Workshop on Continual Robot Learning from Humans</a>. </li>
-  </ul>
+<p>I’m interested in developing AI systems with <em>advanced social intelligence (ASI)</em>. My current areas of focus include:</p>
+
+<div class="pub-item" style="margin: 0; padding: 0 0 4px 0;">
+  <span style="font-size: 10px; font-weight: normal; color: #333333; display: inline-block; margin-right: 5px; vertical-align: middle;">▶</span><span style="font-size: 16px; font-weight: normal; color: #333333; display: inline;"><strong>Reasoning about Human Interaction:</strong> Developing AI that can continuously perceive, reason about, and respond to human behavior and cognition.</span>
+  
+  <div class="pub-details">
+    <span class="intro">
+      <ul>
+      <li> I have developed general-purpose agent models to advance machine Theory of Mind (ToM), the ability to understand people's minds (e.g., goals, beliefs) based on observations (e.g., motion, speech), with papers recognized as <a href="https://chuanyangjin.com/mmtom-qa">ACL'24 Outstanding Paper</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">AAAI'25 Oral</a>, and <a href="https://chuanyangjin.com/AutoToM/">NeurIPS'25 Spotlight</a>. </li>
+      <li> In particular, my works automate agent modeling with LLM backends, and advance ToM reasoning by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a>, learning from <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> and <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> observations, and <a href="https://chuanyangjin.com/AutoToM/">scaling to long-term and complex settings</a>. </li>
+      </ul>
+    </span>
+  </div>
 </div>
-</details>
+<div class="pub-item" style="margin: 0; padding: 0 0 4px 0;">
+  <span style="font-size: 10px; font-weight: normal; color: #333333; display: inline-block; margin-right: 5px; vertical-align: middle;">▶</span><span style="font-size: 16px; font-weight: normal; color: #333333; display: inline;"><strong>Learning from Human Interaction:</strong> Developing AI that can continuously learn from real-world human interactions.</span>
+
+  <div class="pub-details">
+    <span class="intro">
+      <ul>
+      <li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from real users' diverse goals and preferences, adapt to situational demands, and scale with actual usage. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a>, which learns directly from user conversations and outperforms RLHF at the user level. </li>
+      <li> I initiated <a href="https://continual-robot-learning-from-humans.github.io/">RSS Workshop on Continual Robot Learning from Humans</a>. </li>
+      </ul>
+    </span>
+  </div>
+</div>
 
 <p>I love mentoring undergraduates—several of my mentees have been recognized with top research honors. Please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2ETXOX-d8-BCV4Y9aqDnMMOlu3JlNPPgek_XkzPY2xBXT7Q/viewform">this application</a> form and/or send me an email if you’re interested in working with me!</p>
 
@@ -388,7 +394,8 @@ I’m interested in developing AI systems with <em>advanced social intelligence 
     </span>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2509.25137">paper</a> / 
-      <a href="https://x.com/jaseweston/status/1972851921255051489">tweet</a>
+      <a href="https://x.com/jaseweston/status/1972851921255051489">tweet</a> /
+      <a href="https://docs.google.com/presentation/d/1bJHKHFH3eS-vvWcu-vpTT-Zm3Od6p2Cg0wI-qnwEO-4/edit?usp=sharing">slides</a>
     </div>
   </div>
 </div>
