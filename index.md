@@ -303,6 +303,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
       <a href="httpss://chuanyangjin.com/mmtom-qa-leaderboard">leaderboard</a> /
       <a href="/assets/slides/MMToM-QA.pdf">slides</a> /
       <a href="https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/">Futurity news</a> /
+      <a href="https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA">Synced news</a> /
       <a href="https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/">JHU news</a>
     </div>
   </div>
