@@ -127,7 +127,7 @@ sitemap: true
     font-size: 14px;
     color: #666666;
     margin-bottom: 20px;
-  }  
+  }
   </style>
 </head>
 
@@ -215,7 +215,6 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
   <div class="venue">
     <b>NeurIPS 2025 <span class="red">(Spotlight)</span></b>
   </div>
-  
   <div class="pub-details">
     <span class="intro">
       AutoToM is an automated agent modeling method for scalable, robust, and interpretable mental inference. It achieves SOTA on five benchmarks, produces human-like confidence estimates, and supports embodied decision-making.
@@ -236,10 +235,8 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
   <div class="venue">
     <b>ACL 2025 <span style="color: rgb(60,130,226)">(Huggingface Daily Papers Top-1)</span></b>
   </div>
-
   <div class="pub-details">
     <span class="intro">
-      <!-- OS-Genesis enables agents to actively explore web and mobile environments, facilitating the self-collection and self-annotation of high-quality training data. -->
       We introduce OS-Genesis, a manual-free data pipeline for synthesizing GUI agent trajectory.
       It enables agents to actively explore web and mobile environments through stepwise interactions, then derive meaningful low- and high-level task instructions from observed interactions and state changes.
     </span>
@@ -262,10 +259,8 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
   <div class="venue">
     <b>AAAI 2025 <span class="red">(Oral)</span></b>
   </div>
-
   <div class="pub-details">
     <span class="intro">
-      <!-- MuMA-ToM introduces a benchmark and method that extend MMToM-QA to multi-agent interaction scenarios. -->
       MuMA-ToM evaluates Theory of Mind reasoning in embodied multi-agent interactions, revealing that current multimodal LLMs significantly lag behind human performance.
       To bridge this gap, we propose LIMP, a method that combines language models with inverse multi-agent planning to achieve superior results.
     </span>
@@ -288,7 +283,6 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
   <div class="venue">
     <b>ACL 2024 <span class="red">(Outstanding Paper Award)</span></b>
   </div>
-
   <div class="pub-details">
     <span class="intro">
       Can machines understand people's minds from multimodal inputs?
