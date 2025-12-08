@@ -145,8 +145,10 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
   <div class="pub-details">
     <span class="intro">
       <ul>
-      <li> I have developed general-purpose agent models to advance machine Theory of Mind (ToM), the ability to understand people's minds (e.g., goals, beliefs) based on observations (e.g., motion, speech), with papers recognized as <a href="https://chuanyangjin.com/mmtom-qa">ACL'24 Outstanding Paper</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">AAAI'25 Oral</a>, and <a href="https://chuanyangjin.com/AutoToM/">NeurIPS'25 Spotlight</a>. </li>
-      <li> In particular, my works automate agent modeling with LLM backends, and advance ToM reasoning by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a>, learning from <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> and <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> observations, and <a href="https://chuanyangjin.com/AutoToM/">scaling to long-term and complex settings</a>. </li>
+      <li>My works push the frontier of machine Theory of Mind (ToM), teaching AI systems to understand people's minds (e.g., goals, beliefs) based on their behavior (e.g., motion, speech). 
+      This line of research has led to papers recognized as <a href="https://chuanyangjin.com/mmtom-qa">ACL'24 Outstanding Paper</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">AAAI'25 Oral</a>, and <a href="https://chuanyangjin.com/AutoToM/">NeurIPS'25 Spotlight</a>. </li>
+      <li> More specifically, I develop <a href="https://arxiv.org/abs/2312.05230">agent models</a> that combine the flexibility of LLMs with the robustness of Bayesian inverse planning.
+      They advance ToM reasoning by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a>, leveraging <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> and <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> data, and <a href="https://chuanyangjin.com/AutoToM/">scaling to long-context, complex scenarios</a>.</li>
       </ul>
     </span>
   </div>
@@ -190,7 +192,8 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     <b>Chuanyang Jin</b>, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston
   </div>
   <div class="venue">
-    <b>arXiv Preprint <span style="color: rgb(60,130,226)">(Invited Talk at Google; Featured as Paper of the Week by Huggingface, DAIR.AI, and TuringPost)</span></b>
+    <!-- <b>arXiv Preprint <span style="color: rgb(60,130,226)">(Invited Talk at Google; Featured as Paper of the Week by Huggingface, DAIR.AI, and TuringPost)</span></b> -->
+    arXiv Preprint / 🔍  Invited Talk at Google and Meta TBD Lab / ⭐️ Paper of the Week by Huggingface, DAIR.AI, and TuringPost
   </div>
   
   <div class="pub-details">
@@ -213,7 +216,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     Zhining Zhang*, <b>Chuanyang Jin</b>*†, Mung Yao Jia*, Shunchi Zhang*, Tianmin Shu (†: project lead)
   </div>
   <div class="venue">
-    <b>NeurIPS 2025 <span class="red">(Spotlight)</span></b>
+    NeurIPS 2025 <span class="red"><b>(Spotlight)</b></span>
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -233,7 +236,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*, <b>Chuanyang Jin</b>*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
   </div>
   <div class="venue">
-    <b>ACL 2025 <span style="color: rgb(60,130,226)">(Huggingface Daily Papers Top-1)</span></b>
+    ACL 2025 / ⭐️ Huggingface Daily Papers Top-1
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -257,7 +260,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     Haojun Shi*, Suyu Ye*, Xinyu Fang, <b>Chuanyang Jin</b>, Leyla Isik, Yen-Ling Kuo, Tianmin Shu
   </div>
   <div class="venue">
-    <b>AAAI 2025 <span class="red">(Oral)</span></b>
+    AAAI 2025 <span class="red"><b>(Oral)</b></span>
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -281,7 +284,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     <b>Chuanyang Jin</b>, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu
   </div>
   <div class="venue">
-    <b>ACL 2024 <span class="red">(Outstanding Paper Award)</span></b>
+    ACL 2024 <span class="red"><b>(Outstanding Paper Award)</b></span> / 🔍  Invited Talk at University of Washinton
   </div>
   <div class="pub-details">
     <span class="intro">

@@ -142,7 +142,7 @@ description: >
     <b>Chuanyang Jin</b>, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston
   </div>
   <div class="venue">
-    <b>arXiv Preprint <span style="color: rgb(60,130,226)">(Invited Talk at Google; Featured as Paper of the Week by Huggingface, DAIR.AI, and TuringPost)</span></b>
+    arXiv Preprint / 🔍  Invited Talk at Google and Meta TBD Lab / ⭐️ Paper of the Week by Huggingface, DAIR.AI, and TuringPost
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -164,7 +164,7 @@ description: >
     Bo Liu, <b>Chuanyang Jin</b>, Seungone Kim, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston
   </div>
   <div class="venue">
-    <b>arXiv Preprint</b>
+    arXiv Preprint
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -184,7 +184,7 @@ description: >
     Zhining Zhang*, <b>Chuanyang Jin</b>*†, Mung Yao Jia*, Shunchi Zhang*, Tianmin Shu (†: project lead)
   </div>
   <div class="venue">
-    <b>NeurIPS 2025 <span class="red">(Spotlight)</span></b>
+    NeurIPS 2025 <span class="red"><b>(Spotlight)</b></span>
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -205,7 +205,7 @@ description: >
     Xianzhe Fan, Xuhui Zhou, <b>Chuanyang Jin</b>, Kolby Nottingham, Hao Zhu, Maarten Sap
   </div>
   <div class="venue">
-    <b>NeurIPS D&B 2025</b>
+    NeurIPS D&B 2025
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -226,7 +226,7 @@ description: >
     Qiyue Gao*, Xinyu Pi*, Kevin Liu, Junrong Chen, Ruolan Yang, Xinqi Huang, Xinyu Fang, Lu Sun, Gautham Kishore, Bo Ai, Stone Tao, Mengyang Liu, Jiaxi Yang, Chao-Jung Lai, <b>Chuanyang Jin</b>, Jiannan Xiang, Benhao Huang, Zeming Chen, David Danks, Hao Su, Tianmin Shu, Ziqiao Ma, Lianhui Qin, Zhiting Hu
   </div>
   <div class="venue">
-    <b>ACL 2025 Findings <span style="color: rgb(60,130,226)">(Huggingface Daily Papers Top-3)</span></b><br>
+    ACL 2025 Findings / ⭐️ Huggingface Daily Papers Top-3
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -246,7 +246,7 @@ description: >
     Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*, <b>Chuanyang Jin</b>*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
   </div>
   <div class="venue">
-    <b>ACL 2025 <span style="color: rgb(60,130,226)">(Huggingface Daily Papers Top-1)</span></b>
+    ACL 2025 / ⭐️ Huggingface Daily Papers Top-1
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -270,7 +270,7 @@ description: >
     Long Phan et al., with 600+ contributors.
   </div>
   <div class="venue">
-    <b>Technical Report <span style="color: rgb(60,130,226)">(Featured in The New York Times and Reuters)</span></b>
+    Technical Report / 📰 Featured in The New York Times, Reuters, ...
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -291,7 +291,7 @@ description: >
     Haojun Shi*, Suyu Ye*, Xinyu Fang, <b>Chuanyang Jin</b>, Leyla Isik, Yen-Ling Kuo, Tianmin Shu
   </div>
   <div class="venue">
-    <b>AAAI 2025 <span class="red">(Oral)</span></b>
+    AAAI 2025 <span class="red"><b>(Oral)</b></span>
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -315,7 +315,7 @@ description: >
     <b>Chuanyang Jin</b>, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu
   </div>
   <div class="venue">
-    <b>ACL 2024 <span class="red">(Outstanding Paper Award)</span></b>
+    ACL 2024 <span class="red"><b>(Outstanding Paper Award)</b></span> / 🔍  Invited Talk at University of Washinton
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -343,7 +343,7 @@ description: >
     Tao Feng*, <b>Chuanyang Jin</b>*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You
   </div>
   <div class="venue">
-    <b>TMLR 2024</b> / <b>ICLR 2024 AGI Workshop <span class="red">(Oral)</span></b>
+    TMLR 2024 / ICLR 2024 AGI Workshop <span class="red"><b>(Oral)</b></span>
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -363,7 +363,7 @@ description: >
     Kunal Jha, Tuan Anh Le, <b>Chuanyang Jin</b>, Yen-Ling Kuo, Joshua Tenenbaum, Tianmin Shu
   </div>
   <div class="venue">
-    <b>AAAI 2024</b> / <b>AAAI 2024 Summer Symposium <span class="red">(Oral)</span></b>
+    AAAI 2024 / AAAI 2024 Summer Symposium <span class="red"><b>(Oral)</b></span> / 🔍  Invited Talk at MIT
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -386,7 +386,7 @@ description: >
     Vishakh Padmakumar*,<b>Chuanyang Jin</b>*, Hannah Rose Kirk*, He He
   </div>
   <div class="venue">
-    <b>NeurIPS 2024 Workshop on Socially Responsible Language Modelling Research</b>
+    NeurIPS 2024 Workshop on Socially Responsible Language Modelling Research
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -406,7 +406,7 @@ description: >
     <b>Chuanyang Jin</b>*, Songyang Zhang*, Tianmin Shu, Zhihan Cui
   </div>
   <div class="venue">
-    <b>Technical Report</b>
+    Technical Report
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -425,7 +425,7 @@ description: >
     Jinjun Wu*, Yu Xiao*, Yunzheng Liu*, Li Wen, <b>Chuanyang Jin</b>, Shun Liu, Sneha Paul, Chuan He, Oded Regev, Jingyi Fei
   </div>
   <div class="venue">
-    <b>Science Advances 10 (42), eadp7727</b><br>
+    Science Advances 10 (42), eadp7727
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -444,7 +444,7 @@ description: >
     OpenCompass Team
   </div>
   <div class="venue">
-    <b>GitHub repository <span style="color: rgb(60,130,226)">(Over 6k stars)</span></b>
+    Open-source Project / ⭐️ 6K Github Stars
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -462,11 +462,11 @@ description: >
     <b>Chuanyang Jin</b>, Saining Xie
   </div>
   <div class="venue">
-    <b>GitHub repository <span style="color: rgb(60,130,226)">(Over 800 stars)</span></b>
+    Open-source Project / ⭐️ 900 Github Stars
   </div>
   <div class="pub-details">
     <span class="intro">
-      Fast-DiT is an improved PyTorch implementation of the Scalable Diffusion Models with Transformers (DiT) paper, focused on enhancing performance and efficiency. It incorporates features like gradient checkpointing, mixed precision training, and feature pre-extraction, resulting in a 95% speed increase and 60% memory reduction compared to the original implementation.
+      Fast-DiT enhances the efficiency of Diffusion Transformers (DiTs). It integrates features such as gradient checkpointing, mixed-precision training, and feature pre-extraction, yielding a 95% speed increase and a 60% reduction in memory usage, and has been incorporated into the official DiT implementation.
     </span>
     <div class="pub-links">
       <a href="https://github.com/chuanyangjin/fast-DiT">code</a>
