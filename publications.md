@@ -363,7 +363,7 @@ description: >
     Kunal Jha, Tuan Anh Le, <b>Chuanyang Jin</b>, Yen-Ling Kuo, Joshua Tenenbaum, Tianmin Shu
   </div>
   <div class="venue">
-    AAAI 2024 / AAAI 2024 Summer Symposium <span class="red"><b>(Oral)</b></span> / 🔍  Invited Talk at MIT
+    AAAI 2024 / AAAI 2024 Summer Symposium <span class="red"><b>(Oral)</b></span>
   </div>
   <div class="pub-details">
     <span class="intro">
