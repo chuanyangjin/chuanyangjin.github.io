@@ -209,7 +209,7 @@ description: >
   </div>
   <div class="pub-details">
     <span class="intro">
-      We introduce SOMI-TOM, a Minecraft-based benchmark designed to evaluate Vision-Language Models' Theory of Mind capabilities through complex, multi-agent social interactions. 
+      SoMi-ToM is a Minecraft-based benchmark designed to evaluate Vision-Language Models' Theory of Mind capabilities through complex, multi-agent social interactions. 
       Experiments reveal that current models significantly underperform compared to humans.
     </span>
     <div class="pub-links">
@@ -250,7 +250,7 @@ description: >
   </div>
   <div class="pub-details">
     <span class="intro">
-      We introduce OS-Genesis, a manual-free data pipeline for synthesizing GUI agent trajectory.
+      OS-Genesis is a manual-free data pipeline for synthesizing GUI agent trajectory.
       It enables agents to actively explore web and mobile environments through stepwise interactions, then derive meaningful low- and high-level task instructions from observed interactions and state changes.
     </span>
     <div class="pub-links">
@@ -347,8 +347,8 @@ description: >
   </div>
   <div class="pub-details">
     <span class="intro">
-      We explores the trajectory toward Artificial General Intelligence by comprehensively analyzing requisite capabilities across internal, interface, and system dimensions. 
-      We further outline a roadmap for responsibly achieving AGI.
+      We explore the trajectory toward Artificial General Intelligence by comprehensively analyzing the requisite capabilities across internal, interface, and system dimensions. 
+      We also outline a roadmap for responsibly achieving AGI.
     </span>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2405.10313">paper</a> /
@@ -368,8 +368,7 @@ description: >
   <div class="pub-details">
     <span class="intro">
       Multi-agent interactions often rely on higher-order social inference, i.e., understanding how others infer oneself.
-      We introduce a neural amortized inference method to accelerate computationally expensive nested multi-agent reasoning within the I-POMDP framework. 
-      The approach significantly reduces computational costs while maintaining high accuracy.
+      We introduce a neural amortized inference method to accelerate computationally expensive nested multi-agent reasoning within the I-POMDP framework, significantly reducing computational costs while maintaining high accuracy.
     </span>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2308.11071">paper</a> /
@@ -390,7 +389,7 @@ description: >
   </div>
   <div class="pub-details">
     <span class="intro">
-      Standard binary feedback fails to capture the diversity of user opinions in subjective tasks. 
+      Standard binary feedback in RLHF fails to capture the diversity of user opinions in subjective tasks. 
       To address this, we propose a training method that incorporates estimated user disagreement, leading to reward models that better align with aggregate human preferences.
     </span>
     <div class="pub-links">
@@ -466,7 +465,8 @@ description: >
   </div>
   <div class="pub-details">
     <span class="intro">
-      Fast-DiT enhances the efficiency of Diffusion Transformers (DiTs). It integrates features such as gradient checkpointing, mixed-precision training, and feature pre-extraction, yielding a 95% speed increase and a 60% reduction in memory usage, and has been incorporated into the official DiT implementation.
+      Fast-DiT improves the efficiency of Diffusion Transformers (DiTs) by incorporating features such as gradient checkpointing, mixed-precision training, and feature pre-extraction. 
+      It delivers a 95% speed increase and a 60% reduction in memory usage, and has been integrated into the official DiT implementation.
     </span>
     <div class="pub-links">
       <a href="https://github.com/chuanyangjin/fast-DiT">code</a>
