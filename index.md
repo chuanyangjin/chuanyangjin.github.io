@@ -146,7 +146,7 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
     <span class="intro">
       <ul>
       <li>My works push the frontier of machine Theory of Mind (ToM), teaching AI systems to understand people's minds (e.g., goals, beliefs) based on their behavior (e.g., motion, speech). 
-      This line of research has led to algorithms and benchmarks recognized as <a href="https://chuanyangjin.com/mmtom-qa">ACL'24 Outstanding Paper</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">AAAI'25 Oral</a>, and <a href="https://chuanyangjin.com/AutoToM/">NeurIPS'25 Spotlight</a>. </li>
+      This line of research has led to widely used algorithms and benchmarks recognized as <a href="https://chuanyangjin.com/mmtom-qa">ACL'24 Outstanding Paper</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">AAAI'25 Oral</a>, and <a href="https://chuanyangjin.com/AutoToM/">NeurIPS'25 Spotlight</a>. </li>
       <li> More specifically, my research pioneers the connection between the deliberate human-like reasoning of <a href="https://arxiv.org/abs/2312.05230"><strong><em>agent models</em></strong></a> and the adaptability of <strong><em>language models</em></strong>. It advances ToM reasoning by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a>, leveraging <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> and <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> data, and <a href="https://chuanyangjin.com/AutoToM/">scaling to long-context, complex scenarios</a>.</li>
       </ul>
     </span>
