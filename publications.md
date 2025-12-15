@@ -164,7 +164,7 @@ description: >
     Bo Liu, <b>Chuanyang Jin</b>, Seungone Kim, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston
   </div>
   <div class="venue">
-    arXiv Preprint
+    arXiv Preprint /  📰 Featured in VentureBeat
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -267,7 +267,7 @@ description: >
 <div class="pub-item">
   <span class="paper-title">Humanity’s Last Exam</span>
   <div class="authors">
-    Long Phan et al., with 600+ contributors.
+    Long Phan et al., with 1000+ contributors.
   </div>
   <div class="venue">
     Technical Report / 📰 Featured in The New York Times, Reuters, ...

@@ -312,7 +312,7 @@ Feel free to check out [my undergrad projects](/projects). A mountain of gratitu
 - <span style="background-color: rgba(173, 216, 230, 0.5);">Amazon AI PhD Fellowship, 2025</span>
 - Notable Reviewer, ICLR 2025
 - <span style="background-color: rgba(173, 216, 230, 0.5);">Outstanding Paper Award, ACL 2024</span>
-- Presidential Honors Scholar and Summa cum Laude, New York University (Top 5%), 2024
+- Presidential Honors Scholar and Summa cum Laude, New York University, 2024
 - <span style="background-color: rgba(173, 216, 230, 0.5);">Computer Science Prize for the Most Promising Student, New York University (1 person/year), 2023</span>
 - Dean's Undergraduate Research Fund, New York University, 2023
 - <span style="background-color: rgba(173, 216, 230, 0.5);">COMAP International Scholarship Award (Top 0.1%), 2022</span>
