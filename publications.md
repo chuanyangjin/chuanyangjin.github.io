@@ -172,7 +172,7 @@ description: >
       By grounding this self-play in corpora, SPICE addresses hallucination and lack of diversity issues, significantly outperforming standard (ungrounded) self-play across reasoning benchmarks.
     </span>
     <div class="pub-links">
-      <a href="https://arxiv.org/abs/2509.25137">paper</a>
+      <a href="https://arxiv.org/abs/2510.24684">paper</a>
     </div>
   </div>
 </div>
