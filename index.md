@@ -210,6 +210,26 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 </div>
 
 <div class="pub-item">
+  <span class="paper-title">SPICE: Self-Play In Corpus Environments Improves Reasoning</span>
+  <div class="authors">
+    Bo Liu, <b>Chuanyang Jin</b>, Seungone Kim, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston
+  </div>
+  <div class="venue">
+    arXiv Preprint /  📰 Featured in VentureBeat
+  </div>
+  <div class="pub-details">
+    <span class="intro">
+      SPICE is a reinforcement learning framework where a single model improves itself by playing two roles: a Challenger that creates tasks based on corpora, and a Reasoner that solves them. 
+      By grounding this self-play in corpora, SPICE addresses hallucination and lack of diversity issues, significantly outperforming standard (ungrounded) self-play across reasoning benchmarks.
+    </span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2510.24684">paper</a> / 
+      <a href="https://x.com/jaseweston/status/1983343787465150814">tweet</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
   <span class="paper-title">AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling</span>
   <div class="authors">
     Zhining Zhang*, <b>Chuanyang Jin</b>*†, Mung Yao Jia*, Shunchi Zhang*, Tianmin Shu (†: project lead)

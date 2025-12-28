@@ -172,11 +172,11 @@ description: >
       By grounding this self-play in corpora, SPICE addresses hallucination and lack of diversity issues, significantly outperforming standard (ungrounded) self-play across reasoning benchmarks.
     </span>
     <div class="pub-links">
-      <a href="https://arxiv.org/abs/2510.24684">paper</a>
+      <a href="https://arxiv.org/abs/2510.24684">paper</a> / 
+      <a href="https://x.com/jaseweston/status/1983343787465150814">tweet</a>
     </div>
   </div>
 </div>
-
 
 <div class="pub-item">
   <span class="paper-title">AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling</span>
