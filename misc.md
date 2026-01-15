@@ -10,7 +10,7 @@ a::after, a.external::after {
 </style>
 
 
-I am from [Nanjing](https://en.wikipedia.org/wiki/Nanjing), a historic, vibrant, and scenic city. I've also lived in Shanghai, New York, Boston, and Baltimore.
+I am from [Nanjing](https://en.wikipedia.org/wiki/Nanjing), a historic, vibrant, and scenic city. I've also lived in Shanghai, New York, Boston, Seattle, and Baltimore.
 
 My personality type is [INFJ](https://www.16personalities.com/infj-personality) according to the Myers-Briggs, and I’m a [Ravenclaw](https://www.wizardingworld.com/collections/ravenclaw).
 
@@ -56,6 +56,6 @@ I'm a level 10 pianist, and enjoy playing pieces like [Moonlight Sonata](https:/
 
 Check out some fun websites I created: [Hogwarts](https://www.hogwartsishere.com/courses/by-level/), [United Earth Government](https://uegov.world/), and [Chuanyang University](https://www.linkedin.com/company/chuan-yang-university).
 
-Recently, I've gotten into playing Werewolf and scripted murder-mystery game with friends.
+Recently, I've gotten into playing Werewolf and board games with friends.
 
 I’m a Go player adapting to the AI era. I’m also (slowly) picking up photography. And I love cats!
