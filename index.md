@@ -131,7 +131,7 @@ sitemap: true
   </style>
 </head>
 
-Hello! I am a 2nd-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a part-time student researcher at Meta FAIR, mentored by [Jason Weston](https://ai.meta.com/people/1163645124801199/jason-weston/). My research is funded by the [Amazon AI PhD Fellowship](https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/).
+Hello! I am a 2nd-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a part-time student researcher at Meta FAIR, mentored by [Jason Weston](https://www.thespermwhale.com/jaseweston/index.html). My research is funded by the [Amazon AI PhD Fellowship](https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/).
 
 I received bachelor's degrees in Honors Computer Science and Mathematics from [NYU Courant](https://cims.nyu.edu/dynamic/) (2020–2024), where the CS Department recognized me as its [Most Promising Student](/assets/awards/most_promising_student.pdf).
 I was as a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html).
