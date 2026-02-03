@@ -221,6 +221,28 @@ description: >
 </div>
 
 <div class="pub-item">
+  <span class="paper-title">A Benchmark of Expert-Level Academic Questions to Assess AI Capabilities</span>
+  <div class="authors">
+    Center for AI Safety, Scale AI, HLE Contributors Consortium
+    <!-- Long Phan et al., with 1000+ contributors. -->
+  </div>
+  <div class="venue">
+    Nature 649 (8099), 1139-1146
+  </div>
+  <div class="pub-details">
+    <span class="intro">
+      Humanity's Last Exam (HLE) is a multi-modal benchmark designed to be the final closed-ended academic benchmark with broad subject coverage. 
+      I contributed several challenging mathematics and cognitive science questions. 
+    </span>
+    <div class="pub-links">
+      <a href="https://www.nature.com/articles/s41586-025-09962-4">paper</a> /
+      <a href="https://agi.safe.ai/">project</a> /
+      <a href="https://huggingface.co/datasets/cais/hle">benchmark</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
   <span class="paper-title">Do VLMs have internal World Models? Towards an Atomic Evaluation</span>
   <div class="authors">
     Qiyue Gao*, Xinyu Pi*, Kevin Liu, Junrong Chen, Ruolan Yang, Xinqi Huang, Xinyu Fang, Lu Sun, Gautham Kishore, Bo Ai, Stone Tao, Mengyang Liu, Jiaxi Yang, Chao-Jung Lai, <b>Chuanyang Jin</b>, Jiannan Xiang, Benhao Huang, Zeming Chen, David Danks, Hao Su, Tianmin Shu, Ziqiao Ma, Lianhui Qin, Zhiting Hu
@@ -260,27 +282,6 @@ description: >
       <a href="https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d">model</a> /
       <a href="https::/huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d">data</a> /
       <a href="/assets/slides/OS-Genesis.pdf">slides</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-item">
-  <span class="paper-title">Humanity’s Last Exam</span>
-  <div class="authors">
-    Long Phan et al., with 1000+ contributors.
-  </div>
-  <div class="venue">
-    Technical Report / 📰 Featured in The New York Times, Reuters, ...
-  </div>
-  <div class="pub-details">
-    <span class="intro">
-      Humanity's Last Exam (HLE) is a multi-modal benchmark designed to be the final closed-ended academic benchmark with broad subject coverage. 
-      I contributed several challenging mathematics and cognitive science questions. 
-    </span>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2501.14249">paper</a> /
-      <a href="https://agi.safe.ai/">project</a> /
-      <a href="https://huggingface.co/datasets/cais/hle">benchmark</a>
     </div>
   </div>
 </div>
