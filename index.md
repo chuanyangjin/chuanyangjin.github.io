@@ -158,7 +158,7 @@ I’m interested in developing AI systems with *advanced social intelligence (AS
     <span class="intro">
       <ul>
       <li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from real users' diverse goals and preferences, adapt to situational demands, and scale with actual usage. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a>, a paradigm that learns directly from in-the-wild user conversations and outperforms RLHF at the user level. </li>
-      <li> I co-organized <a href="https://continual-robot-learning-from-humans.github.io/">Continual Robot Learning from Humans @ RSS 2025</a> and <a href="/">Can AI Still Learn from Humans @ CVPR 2026</a>. </li>
+      <li> I co-organized <a href="https://continual-robot-learning-from-humans.github.io/">Continual Robot Learning from Humans @ RSS 2025</a> and <a href="https://relearncvpr26.github.io/ReLearn/">ReLearn @ CVPR 2026</a>. </li>
       </ul>
     </span>
   </div>
@@ -169,14 +169,14 @@ I love mentoring undergraduates—several of my mentees have been recognized wit
 Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much more](/misc).
 
 ## News
++ [Feb, 2026] Co-organizing CVPR 2026 Workshop on ["ReLearn: Rediscovering Intelligence: Can AI Still Learn from Humans?"](https://relearncvpr26.github.io/ReLearn/).
++ [Oct, 2025] Gave invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google Deepmind, WashU, and Northwestern.
 + [Oct, 2025] Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!
-+ [Oct, 2025] Invited talk @ Google on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137).
 + [Sep, 2025] [AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!
-+ [June, 2025] Co-organized the Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/) at RSS 2025.
++ [June, 2025] Co-organized the RSS 2025 Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/).
 + [June, 2025] I was selected as a <span style="color: #C04000;">Notable Reviwer</span> for ICLR 2025.
 + [Jan, 2025] [MuMA-ToM](https://scai.cs.jhu.edu/projects/MuMA-ToM/) is accepted by AAAI 2025 as an <span style="color: #C04000;">Oral Presentation</span>!
-+ [Sep, 2024] Invited talk @ University of Washinton on ["Towards Multimodal Theory of Mind"](/mmtom-qa).
-+ [Aug, 2024] [MMToM-QA](/mmtom-qa) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024! It was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/).
++ [Aug, 2024] [MMToM-QA](/mmtom-qa) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024! It was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/). Gave an invited talks at UW.
 
 
 ## Recent Publications
