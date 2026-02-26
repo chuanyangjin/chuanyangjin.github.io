@@ -192,7 +192,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     <b>Chuanyang Jin</b>, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston
   </div>
   <div class="venue">
-    arXiv Preprint / 🔍  Invited Talk at Google DeepMind, Meta TBD Lab, ... / ⭐️ Paper of the Week by Huggingface, DAIR.AI, TuringPost
+    arXiv Preprint / 🔍  Invited Talk at Google DeepMind, Meta TBD Lab / ⭐️ Paper of the Week by Huggingface, DAIR.AI, TuringPost
   </div>
   <div class="pub-details">
     <span class="intro">
