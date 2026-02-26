@@ -192,13 +192,13 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     <b>Chuanyang Jin</b>, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston
   </div>
   <div class="venue">
-    arXiv Preprint / 🔍  Invited Talk at Google and Meta TBD Lab / ⭐️ Paper of the Week by Huggingface, DAIR.AI, and TuringPost
+    arXiv Preprint / 🔍  Invited Talk at Google DeepMind, Meta TBD Lab / ⭐️ Paper of the Week by Huggingface, DAIR.AI, TuringPost
   </div>
   <div class="pub-details">
     <span class="intro">
       We posit that to achieve continual model improvement and multifaceted alignment, future models must learn from natural human interaction.
       We introduce Reinforcement Learning from Human Interaction (RLHI), a paradigm that learns directly from in-the-wild user conversations, leveraging organic replies and long-term history as learning signals.
-      Trained on WildChat, RLHI outperforms RLHF at the user level and enabling personalized, contextual, and continually improving AI assistants.
+      Trained on WildChat, RLHI outperforms RLHF in personalization and instruction-following, and similar feedback enhances performance on reasoning benchmarks.
     </span>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2509.25137">paper</a> / 
@@ -303,7 +303,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     <b>Chuanyang Jin</b>, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu
   </div>
   <div class="venue">
-    ACL 2024 <span class="red"><b>(Outstanding Paper Award)</b></span> / 🔍  Invited Talk at University of Washinton /  📰 Featured in Futurity, Synced, and JHU news
+    ACL 2024 <span class="red"><b>(Outstanding Paper Award)</b></span> / 🔍  Invited Talk at University of Washinton /  📰 Featured in Futurity, Synced, ...
   </div>
   <div class="pub-details">
     <span class="intro">
