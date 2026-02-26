@@ -170,7 +170,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 
 ## News
 + [Feb, 2026] Co-organizing CVPR 2026 Workshop on ["ReLearn: Rediscovering Intelligence: Can AI Still Learn from Humans?"](https://relearncvpr26.github.io/ReLearn/).
-+ [Oct, 2025] Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google, WashU, and Northwestern.
++ [Oct, 2025] Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google, Meta, WashU, and Northwestern.
 + [Oct, 2025] Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!
 + [Sep, 2025] [AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!
 + [June, 2025] Co-organized the RSS 2025 Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/).
@@ -192,7 +192,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     <b>Chuanyang Jin</b>, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston
   </div>
   <div class="venue">
-    arXiv Preprint / 🔍  Invited Talk at Google DeepMind, Meta TBD Lab / ⭐️ Paper of the Week by Huggingface, DAIR.AI, TuringPost
+    arXiv Preprint / 🔍  Invited Talk at Google DeepMind, Meta TBD Lab, ... / ⭐️ Paper of the Week by Huggingface, DAIR.AI, TuringPost
   </div>
   <div class="pub-details">
     <span class="intro">
