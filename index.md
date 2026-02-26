@@ -279,7 +279,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     Haojun Shi*, Suyu Ye*, Xinyu Fang, <b>Chuanyang Jin</b>, Leyla Isik, Yen-Ling Kuo, Tianmin Shu
   </div>
   <div class="venue">
-    AAAI 2025 <span class="red"><b>(Oral)</b></span> / 🏅 Featured as a challenge at ReLearn@CVPR 2026
+    AAAI 2025 <span class="red"><b>(Oral)</b></span> / ⭐️ Featured as a Challenge at CVPR 2026
   </div>
   <div class="pub-details">
     <span class="intro">
