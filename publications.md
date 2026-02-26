@@ -147,8 +147,8 @@ description: >
   <div class="pub-details">
     <span class="intro">
       We posit that to achieve continual model improvement and multifaceted alignment, future models must learn from natural human interaction.
-      We introduce Reinforcement Learning from Human Interaction (RLHI), a paradigm that learns directly from in-the-wild user conversations.
-      RLHI beats RLHF at the user level and enabling personalized, contextual, and continually improving AI assistants.
+      We introduce Reinforcement Learning from Human Interaction (RLHI), a paradigm that learns directly from in-the-wild user conversations, leveraging organic replies and long-term history as learning signals.
+      Trained on WildChat, RLHI outperforms RLHF at the user level and enabling personalized, contextual, and continually improving AI assistants.
     </span>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2509.25137">paper</a> / 
@@ -173,7 +173,29 @@ description: >
     </span>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2510.24684">paper</a> / 
-      <a href="https://x.com/jaseweston/status/1983343787465150814">tweet</a>
+      <a href="https://x.com/jaseweston/status/1983343787465150814">tweet</a> /
+      <a href="https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason">VentureBeat news</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <span class="paper-title">A Benchmark of Expert-Level Academic Questions to Assess AI Capabilities</span>
+  <div class="authors">
+    Center for AI Safety, Scale AI, HLE Contributors Consortium
+  </div>
+  <div class="venue">
+    Nature 649 (8099), 1139-1146
+  </div>
+  <div class="pub-details">
+    <span class="intro">
+      Humanity's Last Exam (HLE) is a multi-modal benchmark designed to be the final closed-ended academic benchmark with broad subject coverage. 
+      I contributed several challenging mathematics and cognitive science questions. 
+    </span>
+    <div class="pub-links">
+      <a href="https://www.nature.com/articles/s41586-025-09962-4">paper</a> /
+      <a href="https://agi.safe.ai/">project</a> /
+      <a href="https://huggingface.co/datasets/cais/hle">benchmark</a>
     </div>
   </div>
 </div>
@@ -216,28 +238,6 @@ description: >
       <a href="https://arxiv.org/abs/2506.23046">paper</a> /
       <a href="https://github.com/XianzheFan/SoMi-ToM">code</a> /
       <a href="https://huggingface.co/datasets/SoMi-ToM/SoMi-ToM">benchmark</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-item">
-  <span class="paper-title">A Benchmark of Expert-Level Academic Questions to Assess AI Capabilities</span>
-  <div class="authors">
-    Center for AI Safety, Scale AI, HLE Contributors Consortium
-    <!-- Long Phan et al., with 1000+ contributors. -->
-  </div>
-  <div class="venue">
-    Nature 649 (8099), 1139-1146
-  </div>
-  <div class="pub-details">
-    <span class="intro">
-      Humanity's Last Exam (HLE) is a multi-modal benchmark designed to be the final closed-ended academic benchmark with broad subject coverage. 
-      I contributed several challenging mathematics and cognitive science questions. 
-    </span>
-    <div class="pub-links">
-      <a href="https://www.nature.com/articles/s41586-025-09962-4">paper</a> /
-      <a href="https://agi.safe.ai/">project</a> /
-      <a href="https://huggingface.co/datasets/cais/hle">benchmark</a>
     </div>
   </div>
 </div>
@@ -316,7 +316,7 @@ description: >
     <b>Chuanyang Jin</b>, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu
   </div>
   <div class="venue">
-    ACL 2024 <span class="red"><b>(Outstanding Paper Award)</b></span> / 🔍  Invited Talk at University of Washinton
+    ACL 2024 <span class="red"><b>(Outstanding Paper Award)</b></span> / 🔍  Invited Talk at University of Washinton /  📰 Featured in Futurity, Synced, and JHU news
   </div>
   <div class="pub-details">
     <span class="intro">
