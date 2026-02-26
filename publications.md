@@ -292,7 +292,7 @@ description: >
     Haojun Shi*, Suyu Ye*, Xinyu Fang, <b>Chuanyang Jin</b>, Leyla Isik, Yen-Ling Kuo, Tianmin Shu
   </div>
   <div class="venue">
-    AAAI 2025 <span class="red"><b>(Oral)</b></span>
+    AAAI 2025 <span class="red"><b>(Oral)</b></span> / ⭐️ Featured as a CVPR 2026 Challenge
   </div>
   <div class="pub-details">
     <span class="intro">
