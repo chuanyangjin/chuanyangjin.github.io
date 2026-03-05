@@ -137,7 +137,7 @@ I received bachelor's degrees in Honors Computer Science and Mathematics from [N
 I was as a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html).
 I received an Outstanding Paper Award at ACL 2024 for my work on [multimodal Theory of Mind](https://arxiv.org/abs/2401.08743).
 
-I’m interested in developing AI systems with *advanced social intelligence (ASI)*. My current areas of focus include:
+I’m interested in developing AI models and agents with *advanced social intelligence (ASI)*. My current areas of focus include:
 
 <div class="pub-item" style="margin: 0; padding: 0 0 4px 0;">
   <span style="font-size: 10px; font-weight: normal; color: #333333; display: inline-block; margin-right: 5px; vertical-align: middle;">▶</span><span style="font-size: 16px; font-weight: normal; color: #333333; display: inline;"><strong>Reasoning about Human Interaction:</strong> Developing AI that can continuously perceive, reason about, and respond to human behavior and cognition.</span>
@@ -173,7 +173,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 + [Oct, 2025] Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google, Meta, WashU, and Northwestern.
 + [Oct, 2025] Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!
 + [Sep, 2025] [AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!
-+ [June, 2025] Lead-organized the RSS 2025 Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/).
++ [June, 2025] Lead-organized RSS 2025 Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/).
 + [June, 2025] I was selected as a <span style="color: #C04000;">Notable Reviwer</span> for ICLR 2025.
 + [Jan, 2025] [MuMA-ToM](https://scai.cs.jhu.edu/projects/MuMA-ToM/) is accepted by AAAI 2025 as an <span style="color: #C04000;">Oral Presentation</span>!
 + [Aug, 2024] [MMToM-QA](/mmtom-qa) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024! It was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/). 
