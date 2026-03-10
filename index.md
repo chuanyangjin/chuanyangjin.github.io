@@ -137,7 +137,7 @@ I received bachelor's degrees in Honors Computer Science and Mathematics from [N
 I was as a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html).
 I received an Outstanding Paper Award at ACL 2024 for my work on [multimodal Theory of Mind](https://arxiv.org/abs/2401.08743).
 
-I’m interested in developing AI models and agents with *advanced social intelligence (ASI)*. My current areas of focus include:
+I'm developing AI models and agents with *advanced social intelligence (ASI)*. My current areas of focus include:
 
 <div class="pub-item" style="margin: 0; padding: 0 0 4px 0;">
   <span style="font-size: 10px; font-weight: normal; color: #333333; display: inline-block; margin-right: 5px; vertical-align: middle;">▶</span><span style="font-size: 16px; font-weight: normal; color: #333333; display: inline;"><strong>Reasoning about Human Interaction:</strong> Developing AI that can continuously perceive, reason about, and respond to human behavior and cognition.</span>
@@ -169,7 +169,7 @@ I love mentoring undergraduates—several of my mentees have been recognized wit
 Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much more](/misc).
 
 ## News
-+ [Feb, 2026] Co-organizing CVPR 2026 Workshop on ["ReLearn: Rediscovering Intelligence: Can AI Still Learn from Humans?"](https://relearncvpr26.github.io/ReLearn/).
++ [Feb, 2026] Co-organizing CVPR 2026 Workshop on ["Rediscovering Intelligence: Can AI Still Learn from Humans?"](https://relearncvpr26.github.io/ReLearn/).
 + [Oct, 2025] Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google, Meta, WashU, and Northwestern.
 + [Oct, 2025] Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!
 + [Sep, 2025] [AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!
