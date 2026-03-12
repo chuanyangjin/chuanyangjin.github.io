@@ -344,7 +344,7 @@ description: >
     Tao Feng*, <b>Chuanyang Jin</b>*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You
   </div>
   <div class="venue">
-    TMLR 2024 / ICLR 2024 AGI Workshop <span class="red"><b>(Oral)</b></span>
+    TMLR 2024 / ICLR 2024 AGI Workshop <span class="red"><b>(Spotlight)</b></span>
   </div>
   <div class="pub-details">
     <span class="intro">
