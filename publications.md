@@ -211,6 +211,7 @@ description: >
   <div class="pub-details">
     <span class="intro">
       AutoToM is an automated agent modeling method for scalable, robust, and interpretable mental inference. 
+      Given a ToM problem, AutoToM proposes a minimal agent model, performs Bayesian inverse planning based on the model, and iteratively refines the model until it can confidently infer the target mental state.
       It achieves SOTA on five benchmarks, produces human-like confidence estimates, and supports embodied decision-making.
     </span>
     <div class="pub-links">

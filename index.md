@@ -174,10 +174,9 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 + [Oct, 2025] Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!
 + [Sep, 2025] [AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!
 + [June, 2025] Lead-organized RSS 2025 Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/).
-+ [June, 2025] I was selected as a <span style="color: #C04000;">Notable Reviwer</span> for ICLR 2025.
++ [June, 2025] I was selected as a <span style="color: #C04000;">Notable Reviewer</span> for ICLR 2025.
 + [Jan, 2025] [MuMA-ToM](https://scai.cs.jhu.edu/projects/MuMA-ToM/) is accepted by AAAI 2025 as an <span style="color: #C04000;">Oral Presentation</span>!
 + [Aug, 2024] [MMToM-QA](/mmtom-qa) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024! It was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/). 
-<!-- Gave an invited talks at UW. -->
 
 
 ## Recent Publications
@@ -239,7 +238,9 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
   </div>
   <div class="pub-details">
     <span class="intro">
-      AutoToM is an automated agent modeling method for scalable, robust, and interpretable mental inference. It achieves SOTA on five benchmarks, produces human-like confidence estimates, and supports embodied decision-making.
+      AutoToM is an automated agent modeling method for scalable, robust, and interpretable mental inference. 
+      Given a ToM problem, AutoToM proposes a minimal agent model, performs Bayesian inverse planning based on the model, and iteratively refines the model until it can confidently infer the target mental state.
+      It achieves SOTA on five benchmarks, produces human-like confidence estimates, and supports embodied decision-making.
     </span>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2502.15676">paper</a> /
