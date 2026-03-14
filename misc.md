@@ -30,6 +30,7 @@ const movies = [
   'https://en.wikipedia.org/wiki/The_Dark_Knight',
   'https://en.wikipedia.org/wiki/Inception',
   'https://en.wikipedia.org/wiki/Let_the_Bullets_Fly',
+  'https://en.wikipedia.org/wiki/La_La_Land',
   'https://en.wikipedia.org/wiki/The_Invisible_Guest',
   'https://en.wikipedia.org/wiki/Coco_(2017_film)',
   'https://en.wikipedia.org/wiki/The_Wandering_Earth',          
@@ -44,9 +45,10 @@ window.open(movies[Math.floor(Math.random() * movies.length)], '_blank');">favor
 5. The Dark Knight (2008)             – 9.2 (No.31), 9.0 (No.3)
 6. Let the Bullets Fly (2010)         – 9.0 (No.36), 7.3
 7. Inception (2010)                   - 9.4 (No.9), 8.8 (No.14)
-8. The Invisible Guest (2016)         – 8.8 (No.74), 8.0
-9. Coco (2017)                        – 9.1 (No.24), 8.4 (No.72)
-10. The Wandering Earth (2019)        – 7.9, 5.9
+8. La La Land (2016)                  - 8.4 (No.211), 8.0
+9. The Invisible Guest (2016)         – 8.8 (No.74), 8.0
+10. Coco (2017)                       – 9.1 (No.24), 8.4 (No.72)
+11. The Wandering Earth (2019)        – 7.9, 5.9
 
 n. Triangle (2009)                    - 8.5 (No.193), 6.9
 n. Tenet (2020)                       - 7.6, 7.3
