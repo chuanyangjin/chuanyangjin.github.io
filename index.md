@@ -164,13 +164,13 @@ I'm developing AI models and agents with *advanced social intelligence (ASI)*. M
   </div>
 </div>
 
-I love mentoring undergraduates—several of my mentees have been recognized with top research honors. Please fill out [this application](https://docs.google.com/forms/d/e/1FAIpQLSe2ETXOX-d8-BCV4Y9aqDnMMOlu3JlNPPgek_XkzPY2xBXT7Q/viewform) form and/or send me an email if you're interested in working with me!
+I love mentoring undergraduates-several of my mentees have been recognized with top research honors. Please fill out [this application](https://docs.google.com/forms/d/e/1FAIpQLSe2ETXOX-d8-BCV4Y9aqDnMMOlu3JlNPPgek_XkzPY2xBXT7Q/viewform) form and/or send me an email if you're interested in working with me!
 
 Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much more](/misc).
 
 ## News
 + [Feb, 2026] Co-organizing CVPR 2026 Workshop on ["Rediscovering Intelligence: Can AI Still Learn from Humans?"](https://relearncvpr26.github.io/ReLearn/).
-+ [Oct, 2025] Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google, Meta, WashU, and Northwestern.
++ [Oct, 2025] Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google DeepMind, Meta TBD Lab, WashU, and Northwestern.
 + [Oct, 2025] Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!
 + [Sep, 2025] [AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!
 + [June, 2025] Lead-organized RSS 2025 Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/).
@@ -328,6 +328,12 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 
 
 Feel free to check out [my undergrad projects](/projects). A mountain of gratitude to those who have kindly mentored and inspired me with their vision and passion!
+
+## Services
+- Co-organizer: Workshop on Continual Robot Learning from Humans (CRLH @ RSS 2025)
+- Co-organizer: Rediscovering Intelligence: Can AI Still Learn from Humans? (ReLearn @ CVPR 2026)
+- Conference Program Committee: Machine Learning (ICLR - Notable Reviewer Award, NeurIPS, ICML, AAAI), Natural Language Processing (ARR, ACL, EMNLP, NAACL), Computer Vision (CVPR), Robotics (RSS)
+- Head Teaching Assistant: JHU EN.601 Machine Social Intelligence with Tianmin Shu
 
 ## Selected Honors & Awards
 - <span style="background-color: rgba(173, 216, 230, 0.5);">Amazon AI PhD Fellowship, 2025</span>
