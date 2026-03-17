@@ -333,7 +333,7 @@ Feel free to check out [my undergrad projects](/projects). A mountain of gratitu
 - Co-organizer: [CVPR 2026 Workshop on Rediscovering Intelligence: Can AI Still Learn from Humans? (ReLearn @ CVPR 2026)](https://relearncvpr26.github.io/ReLearn/)
 - Co-organizer: [RSS 2025 Workshop on Continual Robot Learning from Humans (CRLH @ RSS 2025)](https://continual-robot-learning-from-humans.github.io/)
 - Conference Program Committee: Machine Learning (ICLR - Notable Reviewer Award, NeurIPS, ICML, AAAI), Natural Language Processing (ARR, ACL, EMNLP, NAACL), Computer Vision (CVPR), Robotics (RSS)
-- Head Teaching Assistant: JHU EN.601 Machine Social Intelligence with Tianmin Shu
+- Head Teaching Assistant: [JHU EN.601 Machine Social Intelligence](https://www.tshu.io/teaching/MSI/sp26/) with Tianmin Shu
 
 ## Selected Honors & Awards
 - <span style="background-color: rgba(173, 216, 230, 0.5);">Amazon AI PhD Fellowship, 2025</span>
