@@ -330,9 +330,9 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 Feel free to check out [my undergrad projects](/projects). A mountain of gratitude to those who have kindly mentored and inspired me with their vision and passion!
 
 ## Services
-- <span style="color:red"><strong>Co-organizer</strong></span>: Workshop on Continual Robot Learning from Humans (CRLH @ RSS 2025)
-- <span style="color:red"><strong>Co-organizer</strong></span>: Rediscovering Intelligence: Can AI Still Learn from Humans? (ReLearn @ CVPR 2026)
-- Conference Program Committee: Machine Learning (ICLR - <span style="color:red"><strong>Notable Reviewer Award</strong></span>, NeurIPS, ICML, AAAI), Natural Language Processing (ARR, ACL, EMNLP, NAACL), Computer Vision (CVPR), Robotics (RSS)
+- Co-organizer: [Workshop on Continual Robot Learning from Humans (CRLH @ RSS 2025)](https://relearncvpr26.github.io/ReLearn/)
+- Co-organizer: [Rediscovering Intelligence: Can AI Still Learn from Humans? (ReLearn @ CVPR 2026)](https://continual-robot-learning-from-humans.github.io/)
+- Conference Program Committee: Machine Learning (ICLR - Notable Reviewer Award, NeurIPS, ICML, AAAI), Natural Language Processing (ARR, ACL, EMNLP, NAACL), Computer Vision (CVPR), Robotics (RSS)
 - Head Teaching Assistant: JHU EN.601 Machine Social Intelligence with Tianmin Shu
 
 ## Selected Honors & Awards
