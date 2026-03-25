@@ -329,12 +329,6 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 
 Feel free to check out [my undergrad projects](/projects). A mountain of gratitude to those who have kindly mentored and inspired me with their vision and passion!
 
-## Services
-- Co-organizer: [CVPR 2026 Workshop on Rediscovering Intelligence: Can AI Still Learn from Humans? (ReLearn @ CVPR 2026)](https://relearncvpr26.github.io/ReLearn/)
-- Co-organizer: [RSS 2025 Workshop on Continual Robot Learning from Humans (CRLH @ RSS 2025)](https://continual-robot-learning-from-humans.github.io/)
-- Conference Program Committee: Machine Learning (ICLR - Notable Reviewer Award, NeurIPS, ICML, AAAI), Natural Language Processing (ARR, ACL, EMNLP, NAACL), Computer Vision (CVPR), Robotics (RSS)
-- Head Teaching Assistant: [JHU EN.601 Machine Social Intelligence](https://www.tshu.io/teaching/MSI/sp26/) with Tianmin Shu
-
 ## Selected Honors & Awards
 - <span style="background-color: rgba(173, 216, 230, 0.5);">Amazon AI PhD Fellowship, 2025</span>
 - Notable Reviewer Award, ICLR 2025
@@ -349,3 +343,9 @@ Feel free to check out [my undergrad projects](/projects). A mountain of gratitu
 - NFLS Outstanding Student Leader Award and Zhou Enlai Scholarship (Top 1%), 2018
 - First Prize of Chinese Mathematical Olympiad (Top 0.1%), 2018
 - Champion of International Regions Mathematics League, 2018
+
+
+## Services
+- Co-organizer: [CVPR 2026 Workshop on Rediscovering Intelligence: Can AI Still Learn from Humans? (ReLearn @ CVPR 2026)](https://relearncvpr26.github.io/ReLearn/), [RSS 2025 Workshop on Continual Robot Learning from Humans (CRLH @ RSS 2025)](https://continual-robot-learning-from-humans.github.io/)
+- Conference Program Committee / Reviewer: Machine Learning (ICLR - Notable Reviewer Award, NeurIPS, ICML, AAAI), Natural Language Processing (ARR, ACL, EMNLP, NAACL), Computer Vision (CVPR), Robotics (RSS)
+- Head Teaching Assistant: [JHU EN.601 Machine Social Intelligence](https://www.tshu.io/teaching/MSI/sp26/) with Tianmin Shu
