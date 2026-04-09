@@ -17,11 +17,11 @@ My personality type is [INFJ](https://www.16personalities.com/infj-personality) 
 These days, I enjoy working on research problems that could have an impact a decade from now, contributing positively towards friendly, capable machine intelligence. 
 <!-- These days, I think a lot about how to navigate my research to have a counterfactual impact, contributing positively towards friendly, capable machine intelligence.  -->
 
-I occasionally share research and post random things on Zhihu and Xiaohongshu, where I've gathered 30k followers and 18 million views.
+I occasionally share research and fun content on Zhihu and Xiaohongshu, where I've gathered 30k followers and 20 million views.
 <!-- I occasionally share [research](http://xhslink.com/a/Wukk5CMK8jI9), popularize [memes](https://www.zhihu.com/question/430297692/answer/1715042961?utm_psn=1892904443743273437), and post [random things](https://www.zhihu.com/question/349726516/answer/2753741967?utm_psn=1892904282782663711) on Zhihu and Xiaohongshu, where I've gathered 30k followers and 18 million views. -->
 <!-- I am an avid reader of scientific fiction and history, as well as a dedicated writer read by more than 18,000,000 times on online platforms such as Zhihu, Xiaohongshu, and WeChat OA. -->
 
-I've watched over 1,000 movies, mostly Drama, Sci-Fi, Mystery, and Thriller. Click to sample one of my <a href="#" onclick="event.preventDefault(); 
+I've watched over 1,000 movies! Click to sample one of my <a href="#" onclick="event.preventDefault(); 
 const movies = [
   'https://en.wikipedia.org/wiki/Witness_for_the_Prosecution_(1957_film)',
   'https://en.wikipedia.org/wiki/The_Last_Emperor',
@@ -54,10 +54,12 @@ n. Triangle (2009)                    - 8.5 (No.193), 6.9
 n. Tenet (2020)                       - 7.6, 7.3
 -->
 
-I'm a level 10 pianist, and enjoy playing pieces like [Moonlight Sonata](https://www.youtube.com/watch?v=4591dCHe_sE), [Flower Dance](https://www.youtube.com/watch?v=rA_2B7Yj4QE), and [Croatian Rhapsody](https://www.youtube.com/watch?v=ga2y-nkGbRY).
+I'm a level 10 pianist and enjoy playing pieces like [Moonlight Sonata](https://www.youtube.com/watch?v=4591dCHe_sE), [Flower Dance](https://www.youtube.com/watch?v=rA_2B7Yj4QE), and [Croatian Rhapsody](https://www.youtube.com/watch?v=ga2y-nkGbRY).
 
 Check out some fun websites I created: [Hogwarts](https://www.hogwartsishere.com/courses/by-level/), [United Earth Government](https://uegov.world/), and [Chuanyang University](https://www.linkedin.com/company/chuan-yang-university).
 
+I enjoy all kinds of sports, especially badminton, swimming, and rock climbing these days.
+
 Recently, I've gotten into playing Werewolf and board games with friends.
 
-I’m a Go player adapting to the AI era. I’m also (slowly) picking up photography. And I love cats!
+I'm a 3-dan Go player adapting to the AI era. I'm also (slowly) picking up photography. And I love cats!
