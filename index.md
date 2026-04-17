@@ -191,7 +191,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     <b>Chuanyang Jin</b>, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston
   </div>
   <div class="venue">
-    arXiv Preprint / 🔍  Invited Talk at Google DeepMind, Meta TBD Lab / ⭐️ Paper of the Week by Huggingface, DAIR.AI, TuringPost
+    Technical Report, 2025 / 🔍  Invited Talk at Google DeepMind, Meta TBD Lab / ⭐️ Paper of the Week by Huggingface, DAIR.AI, TuringPost
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -213,7 +213,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     Bo Liu, <b>Chuanyang Jin</b>, Seungone Kim, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston
   </div>
   <div class="venue">
-    arXiv Preprint /  📰 Featured in VentureBeat
+    Technical Report, 2025 /  📰 Featured in VentureBeat
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -253,7 +253,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 <div class="pub-item">
   <span class="paper-title">OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis</span>
   <div class="authors">
-    Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*, <b>Chuanyang Jin</b>*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
+    <b>Chuanyang Jin</b>*, Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
   </div>
   <div class="venue">
     ACL 2025 / ⭐️ Huggingface Daily Papers Top-1
