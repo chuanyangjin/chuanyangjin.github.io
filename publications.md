@@ -266,14 +266,14 @@ description: >
 <div class="pub-item">
   <span class="paper-title">OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis</span>
   <div class="authors">
-    Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*, <b>Chuanyang Jin</b>*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
+    <b>Chuanyang Jin</b>*, Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
   </div>
   <div class="venue">
     ACL 2025 / ⭐️ Huggingface Daily Papers Top-1
   </div>
   <div class="pub-details">
     <span class="intro">
-      OS-Genesis is a manual-free data pipeline for synthesizing GUI agent trajectory.
+      We introduce OS-Genesis, a manual-free data pipeline for synthesizing GUI agent trajectory.
       It enables agents to actively explore web and mobile environments through stepwise interactions, then derive meaningful low- and high-level task instructions from observed interactions and state changes.
     </span>
     <div class="pub-links">
