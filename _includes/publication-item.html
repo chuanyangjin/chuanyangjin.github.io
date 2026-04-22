@@ -1,0 +1,26 @@
+{%- comment -%}
+Renders a single publication card.
+Usage: {% include publication-item.html pub=pub %}
+Expects `pub` to have: title, authors, venue, intro, links (list of {label, url}).
+{%- endcomment -%}
+<div class="pub-item">
+  <span class="paper-title">{{ include.pub.title }}</span>
+  <div class="authors">
+    {{ include.pub.authors }}
+  </div>
+  <div class="venue">
+    {{ include.pub.venue }}
+  </div>
+  <div class="pub-details">
+    <span class="intro">
+      {{ include.pub.intro }}
+    </span>
+    {%- if include.pub.links and include.pub.links.size > 0 %}
+    <div class="pub-links">
+      {%- for link in include.pub.links -%}
+      <a href="{{ link.url }}">{{ link.label }}</a>{% unless forloop.last %} / {% endunless %}
+      {%- endfor %}
+    </div>
+    {%- endif %}
+  </div>
+</div>
