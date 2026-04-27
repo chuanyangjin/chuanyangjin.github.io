@@ -156,6 +156,57 @@ http://localhost:4000 -->
     color: #666666;
     margin-bottom: 20px;
   }
+
+  /* Dark mode overrides */
+  body.dark-mode .paper-title,
+  body.dark-mode .authors b,
+  body.dark-mode .focus-header span {
+    color: #e0e0e0 !important;
+  }
+  body.dark-mode .pub-item .authors,
+  body.dark-mode .pub-note,
+  body.dark-mode .pub-note a {
+    color: #aaa !important;
+  }
+  body.dark-mode .pub-item .venue {
+    color: #bbb;
+  }
+  body.dark-mode .pub-details {
+    border-left-color: #444;
+  }
+  body.dark-mode .focus-header {
+    background-color: #2a2a2a !important;
+    border-color: #444 !important;
+  }
+  body.dark-mode .pub-item:hover .focus-details {
+    border-color: #444;
+  }
+
+  @media screen and (prefers-color-scheme: dark) {
+    body:not(.light-mode) .paper-title,
+    body:not(.light-mode) .authors b,
+    body:not(.light-mode) .focus-header span {
+      color: #e0e0e0 !important;
+    }
+    body:not(.light-mode) .pub-item .authors,
+    body:not(.light-mode) .pub-note,
+    body:not(.light-mode) .pub-note a {
+      color: #aaa !important;
+    }
+    body:not(.light-mode) .pub-item .venue {
+      color: #bbb;
+    }
+    body:not(.light-mode) .pub-details {
+      border-left-color: #444;
+    }
+    body:not(.light-mode) .focus-header {
+      background-color: #2a2a2a !important;
+      border-color: #444 !important;
+    }
+    body:not(.light-mode) .pub-item:hover .focus-details {
+      border-color: #444;
+    }
+  }
   </style>
 </head>
 

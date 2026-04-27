@@ -129,6 +129,39 @@ description: >
     color: #666666;
     margin-bottom: 20px;
   }
+
+  /* Dark mode overrides */
+  body.dark-mode .paper-title,
+  body.dark-mode .authors b {
+    color: #e0e0e0 !important;
+  }
+  body.dark-mode .pub-item .authors,
+  body.dark-mode .pub-note {
+    color: #aaa !important;
+  }
+  body.dark-mode .pub-item .venue {
+    color: #bbb;
+  }
+  body.dark-mode .pub-details {
+    border-left-color: #444;
+  }
+
+  @media screen and (prefers-color-scheme: dark) {
+    body:not(.light-mode) .paper-title,
+    body:not(.light-mode) .authors b {
+      color: #e0e0e0 !important;
+    }
+    body:not(.light-mode) .pub-item .authors,
+    body:not(.light-mode) .pub-note {
+      color: #aaa !important;
+    }
+    body:not(.light-mode) .pub-item .venue {
+      color: #bbb;
+    }
+    body:not(.light-mode) .pub-details {
+      border-left-color: #444;
+    }
+  }
   </style>
 </head>
 
