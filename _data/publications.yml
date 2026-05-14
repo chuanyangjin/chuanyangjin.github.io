@@ -61,9 +61,9 @@
   authors: 'Shunchi Zhang*, Jin Lu*, <b>Chuanyang Jin</b>*, Yichao Zhou*, Zhining Zhang, Tianmin Shu'
   venue: 'ICML 2026 / HCAIR@ICLR 2026 <span class="red"><b>(Oral)</b></span>'
   intro: >
-    We introduce MindZero, a self-supervised reinforcement learning framework that trains multimodal LLMs for efficient and robust online Theory-of-Mind reasoning.
+    We introduce <i>MindZero</i>, a self-supervised reinforcement learning framework that trains multimodal LLMs for efficient and robust online Theory-of-Mind reasoning.
     During training, the model is rewarded for generating mental state hypotheses that best explain observed human actions.
-    Across four experimental settings, MindZero significantly outperforms LLMs and model-based methods in accuracy and efficiency.
+    Across four experimental settings, <i>MindZero</i> significantly outperforms LLMs and model-based methods in accuracy and efficiency.
   links:
     - label: paper
       url: https://openreview.net/pdf?id=0xDjjEfz6T
@@ -94,8 +94,8 @@
   authors: 'Zhining Zhang*, <b>Chuanyang Jin</b>*†, Mung Yao Jia*, Shunchi Zhang*, Tianmin Shu (†: project lead)'
   venue: 'NeurIPS 2025 <span class="red"><b>(Spotlight)</b></span>'
   intro: >
-    AutoToM is an automated agent modeling method for scalable, robust, and interpretable mental inference.
-    Given a ToM problem, AutoToM proposes a minimal agent model, performs Bayesian inverse planning based on the model, and iteratively refines the model until it can confidently infer the target mental state.
+    <i>AutoToM</i> is an automated agent modeling method for scalable, robust, and interpretable mental inference.
+    Given a ToM problem, <i>AutoToM</i> proposes a minimal agent model, performs Bayesian inverse planning based on the model, and iteratively refines the model until it can confidently infer the target mental state.
     It achieves SOTA on five benchmarks, produces human-like confidence estimates, and supports embodied decision-making.
   links:
     - label: paper
@@ -142,7 +142,7 @@
   authors: '<b>Chuanyang Jin</b>*, Qiushi Sun*, Kanzhi Cheng*, Zichen Ding*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu'
   venue: 'ACL 2025 / ⭐️ Huggingface Daily Papers Top-1'
   intro: >
-    We introduce OS-Genesis, a manual-free data pipeline for synthesizing GUI agent trajectory.
+    We introduce <i>OS-Genesis</i>, a manual-free data pipeline for synthesizing GUI agent trajectory.
     It enables agents to actively explore web and mobile environments through stepwise interactions, then derive meaningful low- and high-level task instructions from observed interactions and state changes.
   links:
     - label: paper
