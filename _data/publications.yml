@@ -14,13 +14,13 @@
     opening new directions for user modeling, model training, and evaluation.
   links:
     - label: paper
-      url: https://thoughttrace-project.github.io/ThoughtTrace.pdf
+      url: https://arxiv.org/abs/2605.20087
     - label: project
       url: https://thoughttrace-project.github.io
     - label: data
       url: https://huggingface.co/datasets/SCAI-JHU/ThoughtTrace
     - label: code
-      url: https://github.com/thoughttrace-project/thoughttrace
+      url: https://github.com/thoughttrace-project/ThoughtTrace
 
 - id: rlhi
   selected: true
