@@ -1,4 +1,4 @@
-# Publications data - single source of truth.
+# Publications data
 # To show a publication under "Recent Publications" on the homepage (index.md),
 # add `selected: true` to its entry below. Remove or set to false to hide it.
 # The `publications.md` page always renders every entry, in order.
@@ -21,6 +21,8 @@
       url: https://huggingface.co/datasets/SCAI-JHU/ThoughtTrace
     - label: code
       url: https://github.com/thoughttrace-project/ThoughtTrace
+    - label: tweet
+      url: https://x.com/chuanyang_jin/status/2057111965101670842?s=20
 
 - id: rlhi
   selected: true
