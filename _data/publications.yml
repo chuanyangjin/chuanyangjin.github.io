@@ -72,9 +72,11 @@
     - label: paper
       url: https://openreview.net/pdf?id=0xDjjEfz6T
     - label: project
-      url: https://mindzero.github.io/
+      url: https://scai.cs.jhu.edu/MindZero/
     - label: code
       url: https://github.com/SCAI-JHU/MindZero
+    - label: data & model
+      url: https://huggingface.co/collections/SCAI-JHU/mindzero
 
 - id: hle
   selected: false
