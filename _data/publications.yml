@@ -7,7 +7,7 @@
   selected: true
   title: "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions"
   authors: '<b>Chuanyang Jin</b>, Binze Li, Haopeng Xie, Cathy Mengying Fang, Tianjian Li, Shayne Longpre, Hongxiang Gu, Maximillian Chen, Tianmin Shu'
-  venue: 'Tech Report / ⭐️ Paper of the Week by Huggingface'
+  venue: 'Tech Report / ⭐️ Paper of the Week by Huggingface /  📰 Featured in Synced'
   intro: >
     We introduce <i>ThoughtTrace</i>, the first large-scale dataset that pairs real-world multi-turn human-AI conversations with users' self-reported thoughts.
     Our analysis shows that these thoughts are distinct from messages, difficult for frontier LLMs to infer, and provide actionable signals for user-behavior prediction and model alignment, 
@@ -23,6 +23,8 @@
       url: https://github.com/thoughttrace-project/ThoughtTrace
     - label: tweet
       url: https://x.com/chuanyang_jin/status/2057111965101670842?s=20
+    - label: Synced news
+      url: https://mp.weixin.qq.com/s/fxYJRiIsVNbVHO3HMZ9TEQ
 
 - id: rlhi
   selected: true
