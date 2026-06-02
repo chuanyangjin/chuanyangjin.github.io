@@ -70,13 +70,15 @@
     Across four experimental settings, <i>MindZero</i> significantly outperforms LLMs and model-based methods in accuracy and efficiency.
   links:
     - label: paper
-      url: https://openreview.net/pdf?id=0xDjjEfz6T
+      url: https://arxiv.org/abs/2606.00240
     - label: project
       url: https://scai.cs.jhu.edu/MindZero/
     - label: code
       url: https://github.com/SCAI-JHU/MindZero
     - label: data & model
       url: https://huggingface.co/collections/SCAI-JHU/mindzero
+    - label: slides
+      url: https://icml.cc/media/icml-2026/Slides/62654.pdf
 
 - id: hle
   selected: false
