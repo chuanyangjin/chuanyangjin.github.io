@@ -102,7 +102,7 @@
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2026-05-14T12:36:27-04:00',
+    INDEX_KEY: 'index--2026-06-10T14:25:46-07:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -209,8 +209,92 @@ http://localhost:4000 -->
     display: none !important;
   }
   
-  ul.triangle li::marker {
-    content: "▸";
+  /* --- Section headings: subtle divider --- */
+  article.page h2 {
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid #e8e8e8;
+  }
+
+  /* --- News list: muted date column + hairline separators --- */
+  .news-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .news-list li {
+    position: relative;
+    margin: 0;
+    padding: 8px 0 8px 92px;
+    border-bottom: 1px solid #eeeeee;
+    line-height: 1.55;
+  }
+  .news-list li:last-child {
+    border-bottom: none;
+  }
+  .news-date {
+    position: absolute;
+    left: 0;
+    top: 9px;
+    width: 84px;
+    color: #999999;
+    font-size: 14px;
+    font-variant-numeric: tabular-nums;
+  }
+  @media screen and (max-width: 500px) {
+    .news-list li { padding-left: 0; padding-top: 26px; }
+    .news-date { top: 7px; }
+  }
+
+  /* --- Award highlight --- */
+  .hl {
+    background: rgba(79, 177, 186, 0.16);
+    padding: 1px 6px;
+    border-radius: 4px;
+  }
+
+  /* --- Awards: name left, muted year right --- */
+  .award-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .award-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 16px;
+    margin: 0;
+    padding: 7px 0;
+    border-bottom: 1px solid #eeeeee;
+    line-height: 1.5;
+  }
+  .award-list li:last-child {
+    border-bottom: none;
+  }
+  .award-year {
+    flex-shrink: 0;
+    color: #999999;
+    font-size: 14px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* --- Services: bold role label + hairline rows --- */
+  .service-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .service-list li {
+    margin: 0;
+    padding: 8px 0;
+    border-bottom: 1px solid #eeeeee;
+    line-height: 1.55;
+  }
+  .service-list li:last-child {
+    border-bottom: none;
+  }
+  .service-role {
+    font-weight: 600;
   }
 
   .paper-title {
@@ -319,16 +403,44 @@ http://localhost:4000 -->
     margin-top: 0 !important;
   }
   .pub-item:hover .focus-header {
-    border-radius: 10px 10px 0 0 !important;
+    border-radius: 10px 10px 0 0;
   }
   .pub-item:hover .focus-details {
-    border: 1px solid #e5e5e5;
+    border: 1px solid rgba(79, 177, 186, 0.35);
+    border-left: 3px solid rgb(79, 177, 186);
     border-top: none;
     border-radius: 0 0 10px 10px;
-    padding: 10px 20px 4px !important;
+    padding: 10px 20px 4px 18px !important;
   }
   .pub-item .focus-details ul {
     margin-bottom: 10px;
+  }
+  .focus-header {
+    padding: 10px 18px 10px 16px;
+    background: rgba(79, 177, 186, 0.09);
+    border: 1px solid rgba(79, 177, 186, 0.35);
+    border-left: 3px solid rgb(79, 177, 186);
+    border-radius: 10px;
+    line-height: 1.3;
+    transition: box-shadow 0.15s ease;
+  }
+  .pub-item:hover .focus-header {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+  }
+  .focus-caret {
+    font-size: 12px;
+    color: rgb(79, 177, 186);
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: middle;
+    transition: transform 0.2s ease;
+  }
+  .pub-item:hover .focus-caret {
+    transform: rotate(90deg);
+  }
+  .focus-title {
+    font-size: 16px;
+    color: #000000;
   }
   
   .pub-item .pub-details .intro {
@@ -351,7 +463,7 @@ http://localhost:4000 -->
   /* Dark mode overrides */
   body.dark-mode .paper-title,
   body.dark-mode .authors b,
-  body.dark-mode .focus-header span {
+  body.dark-mode .focus-title {
     color: #e0e0e0 !important;
   }
   body.dark-mode .pub-item .authors,
@@ -366,17 +478,38 @@ http://localhost:4000 -->
     border-left-color: #444;
   }
   body.dark-mode .focus-header {
-    background-color: #2a2a2a !important;
-    border-color: #444 !important;
+    background: rgba(79, 177, 186, 0.12);
+    border-color: rgba(79, 177, 186, 0.45);
+    border-left-color: rgb(79, 177, 186);
   }
   body.dark-mode .pub-item:hover .focus-details {
-    border-color: #444;
+    border-color: rgba(79, 177, 186, 0.45);
+    border-left-color: rgb(79, 177, 186);
+  }
+  body.dark-mode .award-list li,
+  body.dark-mode .service-list li {
+    border-bottom-color: #333;
+  }
+  body.dark-mode .award-year {
+    color: #888;
+  }
+  body.dark-mode article.page h2 {
+    border-bottom-color: #3a3a3a;
+  }
+  body.dark-mode .news-list li {
+    border-bottom-color: #333;
+  }
+  body.dark-mode .news-date {
+    color: #888;
+  }
+  body.dark-mode .hl {
+    background: rgba(79, 177, 186, 0.28);
   }
 
   @media screen and (prefers-color-scheme: dark) {
     body:not(.light-mode) .paper-title,
     body:not(.light-mode) .authors b,
-    body:not(.light-mode) .focus-header span {
+    body:not(.light-mode) .focus-title {
       color: #e0e0e0 !important;
     }
     body:not(.light-mode) .pub-item .authors,
@@ -391,17 +524,38 @@ http://localhost:4000 -->
       border-left-color: #444;
     }
     body:not(.light-mode) .focus-header {
-      background-color: #2a2a2a !important;
-      border-color: #444 !important;
+      background: rgba(79, 177, 186, 0.12);
+      border-color: rgba(79, 177, 186, 0.45);
+      border-left-color: rgb(79, 177, 186);
     }
     body:not(.light-mode) .pub-item:hover .focus-details {
-      border-color: #444;
+      border-color: rgba(79, 177, 186, 0.45);
+      border-left-color: rgb(79, 177, 186);
+    }
+    body:not(.light-mode) .award-list li,
+    body:not(.light-mode) .service-list li {
+      border-bottom-color: #333;
+    }
+    body:not(.light-mode) .award-year {
+      color: #888;
+    }
+    body:not(.light-mode) article.page h2 {
+      border-bottom-color: #3a3a3a;
+    }
+    body:not(.light-mode) .news-list li {
+      border-bottom-color: #333;
+    }
+    body:not(.light-mode) .news-date {
+      color: #888;
+    }
+    body:not(.light-mode) .hl {
+      background: rgba(79, 177, 186, 0.28);
     }
   }
   </style>
 </head>
 
-<p>Hello! I am a 2nd-year Ph.D. student in Computer Science at <a href="https://www.jhu.edu/">Johns Hopkins University</a>, advised by <a href="https://www.tshu.io/">Tianmin Shu</a>. I’m also a student researcher at Meta FAIR, mentored by <a href="https://www.thespermwhale.com/jaseweston/index.html">Jason Weston</a>. My research is funded by the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/">Amazon AI PhD Fellowship</a>.</p>
+<p>Hello! I am a 2nd-year Ph.D. student in Computer Science at <a href="https://www.jhu.edu/">Johns Hopkins University</a>, advised by <a href="https://www.tshu.io/">Tianmin Shu</a>. I’m also a student researcher at Meta FAIR, mentored by <a href="https://www.thespermwhale.com/jaseweston/index.html">Jason Weston</a>. I’m honored to be named an <a href="https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program">Amazon AI PhD Fellow</a>.</p>
 
 <p>I received bachelor’s degrees in Honors Computer Science and Mathematics from <a href="https://cims.nyu.edu/dynamic/">NYU Courant</a> (2020–2024), where the CS Department recognized me as its <a href="/assets/awards/most_promising_student.pdf">most promising student</a>.
 I was as a research intern at <a href="https://www.mit.edu/">MIT</a> (2023), advised by <a href="https://web.mit.edu/cocosci/josh.html">Josh Tenenbaum</a>.
@@ -410,8 +564,8 @@ I received an Outstanding Paper Award at ACL 2024 for my work on <a href="https:
 <p>I’m developing AI models and agents with <em>advanced social intelligence (ASI)</em>. Particularly, I am working on:</p>
 
 <div class="pub-item" style="margin: 10px 0; padding: 0;">
-  <div class="focus-header" style="padding: 10px 20px; background-color: #f5f5f5; border: 1px solid #e5e5e5; border-radius: 10px; line-height: 1.3;">
-    <span style="font-size: 12px; font-weight: normal; color: #333333; display: inline-block; margin-right: 8px; vertical-align: middle;">▶</span><span style="font-size: 16px; color: #000000; display: inline;"><strong>Reasoning about Human Interaction</strong></span>
+  <div class="focus-header">
+    <span class="focus-caret">▶</span><span class="focus-title"><strong>Reasoning about Human Interaction</strong></span>
     <!-- Developing AI that can continuously perceive, reason about, and respond to human behavior and cognition. -->
   </div>
 
@@ -425,8 +579,8 @@ I received an Outstanding Paper Award at ACL 2024 for my work on <a href="https:
   </div>
 </div>
 <div class="pub-item" style="margin: 10px 0; padding: 0;">
-  <div class="focus-header" style="padding: 10px 20px; background-color: #f5f5f5; border: 1px solid #e5e5e5; border-radius: 10px; line-height: 1.3;">
-    <span style="font-size: 12px; font-weight: normal; color: #333333; display: inline-block; margin-right: 8px; vertical-align: middle;">▶</span><span style="font-size: 16px; color: #000000; display: inline;"><strong>Learning from Human Interaction</strong></span>
+  <div class="focus-header">
+    <span class="focus-caret">▶</span><span class="focus-title"><strong>Learning from Human Interaction</strong></span>
     <!-- Developing AI that can continuously learn from real-world human interactions. -->
   </div>
 
@@ -445,15 +599,16 @@ I received an Outstanding Paper Award at ACL 2024 for my work on <a href="https:
 Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much more](/misc). -->
 
 <h2 id="news">News</h2>
-<ul>
-  <li>[Feb, 2026] Co-organizing CVPR 2026 Workshop on <a href="https://relearncvpr26.github.io/ReLearn/">“Rediscovering Intelligence: Can AI Still Learn from Humans?”</a>.</li>
-  <li>[Oct, 2025] Invited talks on <a href="https://arxiv.org/abs/2509.25137">“Reinforcement Learning from Human Interaction”</a> at Google DeepMind, Meta TBD Lab, WashU, and Northwestern.</li>
-  <li>[Oct, 2025] Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!</li>
-  <li>[Sep, 2025] <a href="/AutoToM">AutoToM</a> is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!</li>
-  <li>[June, 2025] Lead-organized RSS 2025 Workshop on <a href="https://continual-robot-learning-from-humans.github.io/">Continual Robot Learning from Humans</a>.</li>
-  <li>[June, 2025] I was selected as a <span style="color: #C04000;">Notable Reviewer</span> for ICLR 2025.</li>
-  <li>[Jan, 2025] <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">MuMA-ToM</a> is accepted by AAAI 2025 as an <span style="color: #C04000;">Oral Presentation</span>!</li>
-  <li>[Aug, 2024] <a href="/mmtom-qa">MMToM-QA</a> won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024! It was covered by <a href="https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/">Futurity</a>, <a href="https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA">Synced</a>, and <a href="https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/">JHU News</a>.</li>
+
+<ul class="news-list">
+  <li><span class="news-date">Feb 2026</span>Co-organizing CVPR 2026 Workshop on <a href="https://relearncvpr26.github.io/ReLearn/">“Rediscovering Intelligence: Can AI Still Learn from Humans?”</a>.</li>
+  <li><span class="news-date">Oct 2025</span>Invited talks on <a href="https://arxiv.org/abs/2509.25137">“Reinforcement Learning from Human Interaction”</a> at Google DeepMind, Meta TBD Lab, WashU, and Northwestern.</li>
+  <li><span class="news-date">Oct 2025</span>Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!</li>
+  <li><span class="news-date">Sep 2025</span><a href="/AutoToM">AutoToM</a> is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!</li>
+  <li><span class="news-date">Jun 2025</span>Lead-organized RSS 2025 Workshop on <a href="https://continual-robot-learning-from-humans.github.io/">Continual Robot Learning from Humans</a>.</li>
+  <li><span class="news-date">Jun 2025</span>I was selected as a <span style="color: #C04000;">Notable Reviewer</span> for ICLR 2025.</li>
+  <li><span class="news-date">Jan 2025</span><a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">MuMA-ToM</a> is accepted by AAAI 2025 as an <span style="color: #C04000;">Oral Presentation</span>!</li>
+  <li><span class="news-date">Aug 2024</span><a href="/mmtom-qa">MMToM-QA</a> won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024! It was covered by <a href="https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/">Futurity</a>, <a href="https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA">Synced</a>, and <a href="https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/">JHU News</a>.</li>
 </ul>
 
 <h2 id="recent-publications">Recent Publications</h2>
@@ -468,14 +623,14 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     <b>Chuanyang Jin</b>, Binze Li, Haopeng Xie, Cathy Mengying Fang, Tianjian Li, Shayne Longpre, Hongxiang Gu, Maximillian Chen, Tianmin Shu
   </div>
   <div class="venue">
-    Tech Report
+    Tech Report / ⭐️ Paper of the Week by Huggingface /  📰 Featured in Synced
   </div>
   <div class="pub-details">
     <span class="intro">
       We introduce <i>ThoughtTrace</i>, the first large-scale dataset that pairs real-world multi-turn human-AI conversations with users' self-reported thoughts. Our analysis shows that these thoughts are distinct from messages, difficult for frontier LLMs to infer, and provide actionable signals for user-behavior prediction and model alignment,  opening new directions for user modeling, model training, and evaluation.
 
     </span>
-    <div class="pub-links"><a href="https://thoughttrace-project.github.io/ThoughtTrace.pdf">paper</a> / <a href="https://thoughttrace-project.github.io">project</a> / <a href="https://huggingface.co/datasets/SCAI-JHU/ThoughtTrace">data</a> / <a href="https://github.com/thoughttrace-project/thoughttrace">code</a>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2605.20087">paper</a> / <a href="https://thoughttrace-project.github.io">project</a> / <a href="https://huggingface.co/datasets/SCAI-JHU/ThoughtTrace">data</a> / <a href="https://github.com/thoughttrace-project/ThoughtTrace">code</a> / <a href="https://x.com/chuanyang_jin/status/2057111965101670842?s=20">tweet</a> / <a href="https://mp.weixin.qq.com/s/fxYJRiIsVNbVHO3HMZ9TEQ">Synced news</a>
     </div>
   </div>
 </div>
@@ -486,7 +641,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     <b>Chuanyang Jin</b>, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston
   </div>
   <div class="venue">
-    Tech Report / 🔍  Invited Talk at Google DeepMind, Meta TBD Lab / ⭐️ Paper of the Week by Huggingface, DAIR.AI, TuringPost
+    <img src="/assets/img/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;" />Tech Report / 🔍  Invited Talk at Google DeepMind, Meta TBD Lab / ⭐️ Paper of the Week by Huggingface, DAIR.AI, TuringPost
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -504,7 +659,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
     Bo Liu, <b>Chuanyang Jin</b>, Seungone Kim, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston
   </div>
   <div class="venue">
-    Tech Report /  📰 Featured in VentureBeat
+    <img src="/assets/img/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;" />Tech Report /  📰 Featured in VentureBeat
   </div>
   <div class="pub-details">
     <span class="intro">
@@ -529,7 +684,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
       We introduce <i>MindZero</i>, a self-supervised reinforcement learning framework that trains multimodal LLMs for efficient and robust online Theory-of-Mind reasoning. During training, the model is rewarded for generating mental state hypotheses that best explain observed human actions. Across four experimental settings, <i>MindZero</i> significantly outperforms LLMs and model-based methods in accuracy and efficiency.
 
     </span>
-    <div class="pub-links"><a href="https://openreview.net/pdf?id=0xDjjEfz6T">paper</a> / <a href="https://mindzero.github.io/">project</a> / <a href="https://github.com/SCAI-JHU/MindZero">code</a>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2606.00240">paper</a> / <a href="https://scai.cs.jhu.edu/MindZero/">project</a> / <a href="https://github.com/SCAI-JHU/MindZero">code</a> / <a href="https://huggingface.co/collections/SCAI-JHU/mindzero">data &amp; model</a> / <a href="https://icml.cc/media/icml-2026/Slides/62654.pdf">slides</a>
     </div>
   </div>
 </div>
@@ -606,31 +761,33 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
   </div>
 </div>
 
-<p>Feel free to check out <a href="/projects">my undergrad projects</a>. A mountain of gratitude to those who have kindly mentored and inspired me with their vision and passion!</p>
+<p>My research journey began with <a href="/projects">these undergrad projects</a>. I’m deeply grateful to the mentors who have guided me along the way and inspired me with their vision and passion.</p>
 
 <h2 id="selected-honors--awards">Selected Honors &amp; Awards</h2>
-<ul>
-  <li><span style="background-color: rgba(173, 216, 230, 0.5);">Amazon AI PhD Fellowship, 2025</span></li>
-  <li>Notable Reviewer Award, ICLR 2025</li>
-  <li><span style="background-color: rgba(173, 216, 230, 0.5);">Outstanding Paper Award, ACL 2024</span></li>
-  <li>Presidential Honors Scholar and Summa cum Laude, New York University, 2024</li>
-  <li><span style="background-color: rgba(173, 216, 230, 0.5);">Computer Science Prize for the Most Promising Student, New York University (1 person/year), 2023</span></li>
-  <li>Dean’s Undergraduate Research Fund, New York University, 2023</li>
-  <li><span style="background-color: rgba(173, 216, 230, 0.5);">COMAP International Scholarship Award (Top 0.1%), 2022</span></li>
-  <li><span style="background-color: rgba(173, 216, 230, 0.5);">MAA Award in Mathematical Contest in Modeling (Top 0.1%), 2022</span></li>
-  <li>Bronze Medal of Shing-Tung Yau Computer Science Award (Top 1%), 2019</li>
-  <li>Finalist of FIRST Robotics Competition World Championship (Top 0.2%), 2019</li>
-  <li>NFLS Outstanding Student Leader Award and Zhou Enlai Scholarship (Top 1%), 2018</li>
-  <li>First Prize of Chinese Mathematical Olympiad (Top 0.1%), 2018</li>
-  <li>Champion of International Regions Mathematics League, 2018</li>
+
+<ul class="award-list">
+  <li><span><span class="hl">Amazon AI PhD Fellowship</span></span><span class="award-year">2025</span></li>
+  <li><span>Notable Reviewer Award, ICLR</span><span class="award-year">2025</span></li>
+  <li><span><span class="hl">Outstanding Paper Award, ACL</span></span><span class="award-year">2024</span></li>
+  <li><span>Presidential Honors Scholar and Summa cum Laude, New York University</span><span class="award-year">2024</span></li>
+  <li><span><span class="hl">Computer Science Prize for the Most Promising Student, New York University (1 person/year)</span></span><span class="award-year">2023</span></li>
+  <li><span>Dean's Undergraduate Research Fund, New York University</span><span class="award-year">2023</span></li>
+  <li><span><span class="hl">COMAP International Scholarship Award (Top 0.1%)</span></span><span class="award-year">2022</span></li>
+  <li><span><span class="hl">MAA Award in Mathematical Contest in Modeling (Top 0.1%)</span></span><span class="award-year">2022</span></li>
+  <li><span>Bronze Medal of Shing-Tung Yau Computer Science Award (Top 1%)</span><span class="award-year">2019</span></li>
+  <li><span>Finalist of FIRST Robotics Competition World Championship (Top 0.2%)</span><span class="award-year">2019</span></li>
+  <li><span>NFLS Outstanding Student Leader Award and Zhou Enlai Scholarship (Top 1%)</span><span class="award-year">2018</span></li>
+  <li><span>First Prize of Chinese Mathematical Olympiad (Top 0.1%)</span><span class="award-year">2018</span></li>
+  <li><span>Champion of International Regions Mathematics League</span><span class="award-year">2018</span></li>
 </ul>
 
 <h2 id="services">Services</h2>
-<ul>
-  <li>Co-organizer: <a href="https://relearncvpr26.github.io/ReLearn/">CVPR 2026 Workshop on Rediscovering Intelligence: Can AI Still Learn from Humans? (ReLearn @ CVPR 2026)</a></li>
-  <li>Co-organizer: <a href="https://continual-robot-learning-from-humans.github.io/">RSS 2025 Workshop on Continual Robot Learning from Humans (CRLH @ RSS 2025)</a></li>
-  <li>Conference Program Committee / Reviewer: Machine Learning (ICLR - Notable Reviewer Award, NeurIPS, ICML, AAAI), Natural Language Processing (ARR, ACL, EMNLP, NAACL), Computer Vision (CVPR), Robotics (RSS)</li>
-  <li>Head Teaching Assistant: <a href="https://www.tshu.io/teaching/MSI/sp26/">JHU EN.601 Machine Social Intelligence</a> with Tianmin Shu</li>
+
+<ul class="service-list">
+  <li><span class="service-role">Co-organizer:</span> <a href="https://relearncvpr26.github.io/ReLearn/">CVPR 2026 Workshop on Rediscovering Intelligence: Can AI Still Learn from Humans? (ReLearn @ CVPR 2026)</a></li>
+  <li><span class="service-role">Co-organizer:</span> <a href="https://continual-robot-learning-from-humans.github.io/">RSS 2025 Workshop on Continual Robot Learning from Humans (CRLH @ RSS 2025)</a></li>
+  <li><span class="service-role">Conference Program Committee / Reviewer:</span> Machine Learning (ICLR - Notable Reviewer Award, NeurIPS, ICML, AAAI), Natural Language Processing (ARR, ACL, EMNLP, NAACL), Computer Vision (CVPR), Robotics (RSS)</li>
+  <li><span class="service-role">Head Teaching Assistant:</span> <a href="https://www.tshu.io/teaching/MSI/sp26/">JHU EN.601 Machine Social Intelligence</a> with Tianmin Shu</li>
 </ul>
 
 </article>

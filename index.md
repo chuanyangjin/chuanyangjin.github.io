@@ -18,8 +18,92 @@ http://localhost:4000 -->
     display: none !important;
   }
   
-  ul.triangle li::marker {
-    content: "▸";
+  /* --- Section headings: subtle divider --- */
+  article.page h2 {
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid #e8e8e8;
+  }
+
+  /* --- News list: muted date column + hairline separators --- */
+  .news-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .news-list li {
+    position: relative;
+    margin: 0;
+    padding: 8px 0 8px 92px;
+    border-bottom: 1px solid #eeeeee;
+    line-height: 1.55;
+  }
+  .news-list li:last-child {
+    border-bottom: none;
+  }
+  .news-date {
+    position: absolute;
+    left: 0;
+    top: 9px;
+    width: 84px;
+    color: #999999;
+    font-size: 14px;
+    font-variant-numeric: tabular-nums;
+  }
+  @media screen and (max-width: 500px) {
+    .news-list li { padding-left: 0; padding-top: 26px; }
+    .news-date { top: 7px; }
+  }
+
+  /* --- Award highlight --- */
+  .hl {
+    background: rgba(79, 177, 186, 0.16);
+    padding: 1px 6px;
+    border-radius: 4px;
+  }
+
+  /* --- Awards: name left, muted year right --- */
+  .award-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .award-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 16px;
+    margin: 0;
+    padding: 7px 0;
+    border-bottom: 1px solid #eeeeee;
+    line-height: 1.5;
+  }
+  .award-list li:last-child {
+    border-bottom: none;
+  }
+  .award-year {
+    flex-shrink: 0;
+    color: #999999;
+    font-size: 14px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* --- Services: bold role label + hairline rows --- */
+  .service-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .service-list li {
+    margin: 0;
+    padding: 8px 0;
+    border-bottom: 1px solid #eeeeee;
+    line-height: 1.55;
+  }
+  .service-list li:last-child {
+    border-bottom: none;
+  }
+  .service-role {
+    font-weight: 600;
   }
 
   .paper-title {
@@ -128,16 +212,44 @@ http://localhost:4000 -->
     margin-top: 0 !important;
   }
   .pub-item:hover .focus-header {
-    border-radius: 10px 10px 0 0 !important;
+    border-radius: 10px 10px 0 0;
   }
   .pub-item:hover .focus-details {
-    border: 1px solid #e5e5e5;
+    border: 1px solid rgba(79, 177, 186, 0.35);
+    border-left: 3px solid rgb(79, 177, 186);
     border-top: none;
     border-radius: 0 0 10px 10px;
-    padding: 10px 20px 4px !important;
+    padding: 10px 20px 4px 18px !important;
   }
   .pub-item .focus-details ul {
     margin-bottom: 10px;
+  }
+  .focus-header {
+    padding: 10px 18px 10px 16px;
+    background: rgba(79, 177, 186, 0.09);
+    border: 1px solid rgba(79, 177, 186, 0.35);
+    border-left: 3px solid rgb(79, 177, 186);
+    border-radius: 10px;
+    line-height: 1.3;
+    transition: box-shadow 0.15s ease;
+  }
+  .pub-item:hover .focus-header {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+  }
+  .focus-caret {
+    font-size: 12px;
+    color: rgb(79, 177, 186);
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: middle;
+    transition: transform 0.2s ease;
+  }
+  .pub-item:hover .focus-caret {
+    transform: rotate(90deg);
+  }
+  .focus-title {
+    font-size: 16px;
+    color: #000000;
   }
   
   .pub-item .pub-details .intro {
@@ -160,7 +272,7 @@ http://localhost:4000 -->
   /* Dark mode overrides */
   body.dark-mode .paper-title,
   body.dark-mode .authors b,
-  body.dark-mode .focus-header span {
+  body.dark-mode .focus-title {
     color: #e0e0e0 !important;
   }
   body.dark-mode .pub-item .authors,
@@ -175,17 +287,38 @@ http://localhost:4000 -->
     border-left-color: #444;
   }
   body.dark-mode .focus-header {
-    background-color: #2a2a2a !important;
-    border-color: #444 !important;
+    background: rgba(79, 177, 186, 0.12);
+    border-color: rgba(79, 177, 186, 0.45);
+    border-left-color: rgb(79, 177, 186);
   }
   body.dark-mode .pub-item:hover .focus-details {
-    border-color: #444;
+    border-color: rgba(79, 177, 186, 0.45);
+    border-left-color: rgb(79, 177, 186);
+  }
+  body.dark-mode .award-list li,
+  body.dark-mode .service-list li {
+    border-bottom-color: #333;
+  }
+  body.dark-mode .award-year {
+    color: #888;
+  }
+  body.dark-mode article.page h2 {
+    border-bottom-color: #3a3a3a;
+  }
+  body.dark-mode .news-list li {
+    border-bottom-color: #333;
+  }
+  body.dark-mode .news-date {
+    color: #888;
+  }
+  body.dark-mode .hl {
+    background: rgba(79, 177, 186, 0.28);
   }
 
   @media screen and (prefers-color-scheme: dark) {
     body:not(.light-mode) .paper-title,
     body:not(.light-mode) .authors b,
-    body:not(.light-mode) .focus-header span {
+    body:not(.light-mode) .focus-title {
       color: #e0e0e0 !important;
     }
     body:not(.light-mode) .pub-item .authors,
@@ -200,11 +333,32 @@ http://localhost:4000 -->
       border-left-color: #444;
     }
     body:not(.light-mode) .focus-header {
-      background-color: #2a2a2a !important;
-      border-color: #444 !important;
+      background: rgba(79, 177, 186, 0.12);
+      border-color: rgba(79, 177, 186, 0.45);
+      border-left-color: rgb(79, 177, 186);
     }
     body:not(.light-mode) .pub-item:hover .focus-details {
-      border-color: #444;
+      border-color: rgba(79, 177, 186, 0.45);
+      border-left-color: rgb(79, 177, 186);
+    }
+    body:not(.light-mode) .award-list li,
+    body:not(.light-mode) .service-list li {
+      border-bottom-color: #333;
+    }
+    body:not(.light-mode) .award-year {
+      color: #888;
+    }
+    body:not(.light-mode) article.page h2 {
+      border-bottom-color: #3a3a3a;
+    }
+    body:not(.light-mode) .news-list li {
+      border-bottom-color: #333;
+    }
+    body:not(.light-mode) .news-date {
+      color: #888;
+    }
+    body:not(.light-mode) .hl {
+      background: rgba(79, 177, 186, 0.28);
     }
   }
   </style>
@@ -219,8 +373,8 @@ I received an Outstanding Paper Award at ACL 2024 for my work on [multimodal The
 I'm developing AI models and agents with *advanced social intelligence (ASI)*. Particularly, I am working on:
 
 <div class="pub-item" style="margin: 10px 0; padding: 0;">
-  <div class="focus-header" style="padding: 10px 20px; background-color: #f5f5f5; border: 1px solid #e5e5e5; border-radius: 10px; line-height: 1.3;">
-    <span style="font-size: 12px; font-weight: normal; color: #333333; display: inline-block; margin-right: 8px; vertical-align: middle;">▶</span><span style="font-size: 16px; color: #000000; display: inline;"><strong>Reasoning about Human Interaction</strong></span>
+  <div class="focus-header">
+    <span class="focus-caret">▶</span><span class="focus-title"><strong>Reasoning about Human Interaction</strong></span>
     <!-- Developing AI that can continuously perceive, reason about, and respond to human behavior and cognition. -->
   </div>
 
@@ -233,8 +387,8 @@ I'm developing AI models and agents with *advanced social intelligence (ASI)*. P
     </span>
   </div>
 </div><div class="pub-item" style="margin: 10px 0; padding: 0;">
-  <div class="focus-header" style="padding: 10px 20px; background-color: #f5f5f5; border: 1px solid #e5e5e5; border-radius: 10px; line-height: 1.3;">
-    <span style="font-size: 12px; font-weight: normal; color: #333333; display: inline-block; margin-right: 8px; vertical-align: middle;">▶</span><span style="font-size: 16px; color: #000000; display: inline;"><strong>Learning from Human Interaction</strong></span>
+  <div class="focus-header">
+    <span class="focus-caret">▶</span><span class="focus-title"><strong>Learning from Human Interaction</strong></span>
     <!-- Developing AI that can continuously learn from real-world human interactions. -->
   </div>
 
@@ -253,14 +407,17 @@ I'm developing AI models and agents with *advanced social intelligence (ASI)*. P
 Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much more](/misc). -->
 
 ## News
-+ [Feb, 2026] Co-organizing CVPR 2026 Workshop on ["Rediscovering Intelligence: Can AI Still Learn from Humans?"](https://relearncvpr26.github.io/ReLearn/).
-+ [Oct, 2025] Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google DeepMind, Meta TBD Lab, WashU, and Northwestern.
-+ [Oct, 2025] Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!
-+ [Sep, 2025] [AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!
-+ [June, 2025] Lead-organized RSS 2025 Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/).
-+ [June, 2025] I was selected as a <span style="color: #C04000;">Notable Reviewer</span> for ICLR 2025.
-+ [Jan, 2025] [MuMA-ToM](https://scai.cs.jhu.edu/projects/MuMA-ToM/) is accepted by AAAI 2025 as an <span style="color: #C04000;">Oral Presentation</span>!
-+ [Aug, 2024] [MMToM-QA](/mmtom-qa) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024! It was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/). 
+
+<ul class="news-list">
+  <li markdown="span"><span class="news-date">Feb 2026</span>Co-organizing CVPR 2026 Workshop on ["Rediscovering Intelligence: Can AI Still Learn from Humans?"](https://relearncvpr26.github.io/ReLearn/).</li>
+  <li markdown="span"><span class="news-date">Oct 2025</span>Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google DeepMind, Meta TBD Lab, WashU, and Northwestern.</li>
+  <li markdown="span"><span class="news-date">Oct 2025</span>Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!</li>
+  <li markdown="span"><span class="news-date">Sep 2025</span>[AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!</li>
+  <li markdown="span"><span class="news-date">Jun 2025</span>Lead-organized RSS 2025 Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/).</li>
+  <li markdown="span"><span class="news-date">Jun 2025</span>I was selected as a <span style="color: #C04000;">Notable Reviewer</span> for ICLR 2025.</li>
+  <li markdown="span"><span class="news-date">Jan 2025</span>[MuMA-ToM](https://scai.cs.jhu.edu/projects/MuMA-ToM/) is accepted by AAAI 2025 as an <span style="color: #C04000;">Oral Presentation</span>!</li>
+  <li markdown="span"><span class="news-date">Aug 2024</span>[MMToM-QA](/mmtom-qa) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024! It was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/).</li>
+</ul>
 
 
 ## Recent Publications
@@ -275,26 +432,32 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 {% endfor %}
 
 
-Feel free to check out [my undergrad projects](/projects). A mountain of gratitude to those who have kindly mentored and inspired me with their vision and passion!
+My research journey began with [these undergrad projects](/projects). I'm deeply grateful to the mentors who have guided me along the way and inspired me with their vision and passion.
 
 ## Selected Honors & Awards
-- <span style="background-color: rgba(173, 216, 230, 0.5);">Amazon AI PhD Fellowship, 2025</span>
-- Notable Reviewer Award, ICLR 2025
-- <span style="background-color: rgba(173, 216, 230, 0.5);">Outstanding Paper Award, ACL 2024</span>
-- Presidential Honors Scholar and Summa cum Laude, New York University, 2024
-- <span style="background-color: rgba(173, 216, 230, 0.5);">Computer Science Prize for the Most Promising Student, New York University (1 person/year), 2023</span>
-- Dean's Undergraduate Research Fund, New York University, 2023
-- <span style="background-color: rgba(173, 216, 230, 0.5);">COMAP International Scholarship Award (Top 0.1%), 2022</span>
-- <span style="background-color: rgba(173, 216, 230, 0.5);">MAA Award in Mathematical Contest in Modeling (Top 0.1%), 2022</span>
-- Bronze Medal of Shing-Tung Yau Computer Science Award (Top 1%), 2019
-- Finalist of FIRST Robotics Competition World Championship (Top 0.2%), 2019
-- NFLS Outstanding Student Leader Award and Zhou Enlai Scholarship (Top 1%), 2018
-- First Prize of Chinese Mathematical Olympiad (Top 0.1%), 2018
-- Champion of International Regions Mathematics League, 2018
+
+<ul class="award-list">
+  <li><span><span class="hl">Amazon AI PhD Fellowship</span></span><span class="award-year">2025</span></li>
+  <li><span>Notable Reviewer Award, ICLR</span><span class="award-year">2025</span></li>
+  <li><span><span class="hl">Outstanding Paper Award, ACL</span></span><span class="award-year">2024</span></li>
+  <li><span>Presidential Honors Scholar and Summa cum Laude, New York University</span><span class="award-year">2024</span></li>
+  <li><span><span class="hl">Computer Science Prize for the Most Promising Student, New York University (1 person/year)</span></span><span class="award-year">2023</span></li>
+  <li><span>Dean's Undergraduate Research Fund, New York University</span><span class="award-year">2023</span></li>
+  <li><span><span class="hl">COMAP International Scholarship Award (Top 0.1%)</span></span><span class="award-year">2022</span></li>
+  <li><span><span class="hl">MAA Award in Mathematical Contest in Modeling (Top 0.1%)</span></span><span class="award-year">2022</span></li>
+  <li><span>Bronze Medal of Shing-Tung Yau Computer Science Award (Top 1%)</span><span class="award-year">2019</span></li>
+  <li><span>Finalist of FIRST Robotics Competition World Championship (Top 0.2%)</span><span class="award-year">2019</span></li>
+  <li><span>NFLS Outstanding Student Leader Award and Zhou Enlai Scholarship (Top 1%)</span><span class="award-year">2018</span></li>
+  <li><span>First Prize of Chinese Mathematical Olympiad (Top 0.1%)</span><span class="award-year">2018</span></li>
+  <li><span>Champion of International Regions Mathematics League</span><span class="award-year">2018</span></li>
+</ul>
 
 
 ## Services
-- Co-organizer: [CVPR 2026 Workshop on Rediscovering Intelligence: Can AI Still Learn from Humans? (ReLearn @ CVPR 2026)](https://relearncvpr26.github.io/ReLearn/)
-- Co-organizer: [RSS 2025 Workshop on Continual Robot Learning from Humans (CRLH @ RSS 2025)](https://continual-robot-learning-from-humans.github.io/)
-- Conference Program Committee / Reviewer: Machine Learning (ICLR - Notable Reviewer Award, NeurIPS, ICML, AAAI), Natural Language Processing (ARR, ACL, EMNLP, NAACL), Computer Vision (CVPR), Robotics (RSS)
-- Head Teaching Assistant: [JHU EN.601 Machine Social Intelligence](https://www.tshu.io/teaching/MSI/sp26/) with Tianmin Shu
+
+<ul class="service-list">
+  <li markdown="span"><span class="service-role">Co-organizer:</span> [CVPR 2026 Workshop on Rediscovering Intelligence: Can AI Still Learn from Humans? (ReLearn @ CVPR 2026)](https://relearncvpr26.github.io/ReLearn/)</li>
+  <li markdown="span"><span class="service-role">Co-organizer:</span> [RSS 2025 Workshop on Continual Robot Learning from Humans (CRLH @ RSS 2025)](https://continual-robot-learning-from-humans.github.io/)</li>
+  <li markdown="span"><span class="service-role">Conference Program Committee / Reviewer:</span> Machine Learning (ICLR - Notable Reviewer Award, NeurIPS, ICML, AAAI), Natural Language Processing (ARR, ACL, EMNLP, NAACL), Computer Vision (CVPR), Robotics (RSS)</li>
+  <li markdown="span"><span class="service-role">Head Teaching Assistant:</span> [JHU EN.601 Machine Social Intelligence](https://www.tshu.io/teaching/MSI/sp26/) with Tianmin Shu</li>
+</ul>
