@@ -396,7 +396,7 @@ I'm developing AI models and agents with *advanced social intelligence (ASI)*. P
     <span class="intro">
       <ul>
       <li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from natural human interaction for continual improvement and multifaceted alignment. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a> as a starting point. </li>
-      <li> We present <a href="https://thoughttrace-project.github.io">ThoughtTrace</a> for understanding and learning from user thoughts in real-world LLM interactions. </li>
+      <li> We present the <a href="https://thoughttrace-project.github.io">ThoughtTrace</a> dataset for understanding and learning from user thoughts in real-world LLM interactions. </li>
       <li> I co-organized <a href="https://continual-robot-learning-from-humans.github.io/">Continual Robot Learning from Humans @ RSS 2025</a> and <a href="https://relearncvpr26.github.io/ReLearn/">ReLearn @ CVPR 2026</a>. </li>
       </ul>
     </span>
