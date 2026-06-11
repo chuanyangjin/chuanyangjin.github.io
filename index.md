@@ -382,7 +382,7 @@ I'm developing AI models and agents with *advanced social intelligence (ASI)*. P
     <span class="intro">
       <ul>
       <li>I lead <a href="https://chuanyangjin.com/mmtom-qa">MMToM-QA</a> (ACL'24 Outstanding Paper) and <a href="https://chuanyangjin.com/AutoToM/">AutoToM</a> (NeurIPS'25 Spotlight), pushing the frontier of machine Theory of Mind (ToM)—teaching AI systems to understand people's minds (e.g., goals, beliefs) from their behavior.</li>
-      <li>We bridge the deliberate human-like reasoning of <a href="https://chuanyangjin.com/AutoToM/"><em>agent models</em></a> with the adaptability of <em>language models</em>, advancing ToM by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a>, leveraging <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a>, <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a>, and <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> data, <a href="https://chuanyangjin.com/AutoToM/">scaling to long-context, complex scenarios</a>, and <a href="https://openreview.net/forum?id=R2V8TaxsCH">learning with zero mental annotations</a>.</li>
+      <li>We bridge the deliberate human-like reasoning of <a href="https://chuanyangjin.com/AutoToM/"><em>agent models</em></a> with the adaptability of <em>language models</em>, advancing ToM by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a> and <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a> / <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> / <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> data, <a href="https://chuanyangjin.com/AutoToM/">scaling inference to long-context / complex scenarios</a>, and enabling <a href="https://arxiv.org/abs/2606.00240">self-supervised learning from observed human actions</a>.</li>
       </ul>
     </span>
   </div>
@@ -395,7 +395,8 @@ I'm developing AI models and agents with *advanced social intelligence (ASI)*. P
   <div class="pub-details focus-details">
     <span class="intro">
       <ul>
-      <li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from natural human interaction to achieve continual model improvement and multifaceted alignment. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a>, a paradigm that learns directly from in-the-wild user conversations. </li>
+      <li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from natural human interaction for continual improvement and multifaceted alignment. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a> as a starting point. </li>
+      <li> We present <a href="https://thoughttrace-project.github.io">ThoughtTrace</a> for understanding and learning from user thoughts in real-world LLM interactions. </li>
       <li> I co-organized <a href="https://continual-robot-learning-from-humans.github.io/">Continual Robot Learning from Humans @ RSS 2025</a> and <a href="https://relearncvpr26.github.io/ReLearn/">ReLearn @ CVPR 2026</a>. </li>
       </ul>
     </span>
