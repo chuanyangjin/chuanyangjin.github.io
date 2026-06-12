@@ -439,7 +439,7 @@ My research journey began with [these undergrad projects](/projects). I'm deeply
 ## Selected Honors & Awards
 
 <ul class="award-list">
-  <li><span><span class="hl">Best Paper Award at RLxF Workshop at ICML 2026</span></span><span class="award-year">2026</span></li>
+  <li><span><span class="hl">Best Paper Award, RLxF Workshop at ICML 2026</span></span><span class="award-year">2026</span></li>
   <li><span><span class="hl">Amazon AI PhD Fellowship</span></span><span class="award-year">2025</span></li>
   <li><span>Notable Reviewer Award, ICLR</span><span class="award-year">2025</span></li>
   <li><span><span class="hl">Outstanding Paper Award, ACL</span></span><span class="award-year">2024</span></li>
