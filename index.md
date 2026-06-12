@@ -410,6 +410,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 ## News
 
 <ul class="news-list">
+  <li markdown="span"><span class="news-date">Jue 2026</span>[ThoughtTrace](https://thoughttrace-project.github.io/) received <span style="color: #C04000;">Best Paper Award</span> [RLxF Workshop](https://sites.google.com/view/rlxf-icml2026) at ICML 2026!</li>
   <li markdown="span"><span class="news-date">Feb 2026</span>Co-organizing CVPR 2026 Workshop on ["Rediscovering Intelligence: Can AI Still Learn from Humans?"](https://relearncvpr26.github.io/ReLearn/).</li>
   <li markdown="span"><span class="news-date">Oct 2025</span>Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google DeepMind, Meta TBD Lab, WashU, and Northwestern.</li>
   <li markdown="span"><span class="news-date">Oct 2025</span>Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!</li>
@@ -417,7 +418,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
   <li markdown="span"><span class="news-date">Jun 2025</span>Lead-organized RSS 2025 Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/).</li>
   <li markdown="span"><span class="news-date">Jun 2025</span>I was selected as a <span style="color: #C04000;">Notable Reviewer</span> for ICLR 2025.</li>
   <li markdown="span"><span class="news-date">Jan 2025</span>[MuMA-ToM](https://scai.cs.jhu.edu/projects/MuMA-ToM/) is accepted by AAAI 2025 as an <span style="color: #C04000;">Oral Presentation</span>!</li>
-  <li markdown="span"><span class="news-date">Aug 2024</span>[MMToM-QA](/mmtom-qa) won the <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024! It was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/).</li>
+  <li markdown="span"><span class="news-date">Aug 2024</span>[MMToM-QA](/mmtom-qa) received <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024! It was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/).</li>
 </ul>
 
 
@@ -438,6 +439,7 @@ My research journey began with [these undergrad projects](/projects). I'm deeply
 ## Selected Honors & Awards
 
 <ul class="award-list">
+  <li><span><span class="hl">Best Paper Award at RLxF Workshop at ICML 2026</span></span><span class="award-year">2026</span></li>
   <li><span><span class="hl">Amazon AI PhD Fellowship</span></span><span class="award-year">2025</span></li>
   <li><span>Notable Reviewer Award, ICLR</span><span class="award-year">2025</span></li>
   <li><span><span class="hl">Outstanding Paper Award, ACL</span></span><span class="award-year">2024</span></li>
