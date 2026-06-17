@@ -366,7 +366,7 @@ http://localhost:4000 -->
 
 Hello! I am a 2nd-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a student researcher at Meta FAIR, mentored by [Jason Weston](https://www.thespermwhale.com/jaseweston/index.html). I'm honored to be named an [Amazon AI PhD Fellow](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
 
-I received bachelor's degrees in Honors Computer Science and Mathematics from [NYU Courant](https://cims.nyu.edu/dynamic/) (2020–2024), where the CS Department recognized me as its [most promising student](/assets/awards/most_promising_student.pdf).
+I received bachelor's degrees in Honors Computer Science and Mathematics from [NYU Courant](https://cims.nyu.edu/dynamic/) (2020–2024), where I was recognized as the [most promising student](/assets/awards/most_promising_student.pdf).
 I was as a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html).
 I received an Outstanding Paper Award at ACL 2024 for my work on [multimodal Theory of Mind](https://arxiv.org/abs/2401.08743).
 
