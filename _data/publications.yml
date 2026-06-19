@@ -7,7 +7,7 @@
   selected: true
   title: "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions"
   authors: '<b>Chuanyang Jin</b>, Binze Li, Haopeng Xie, Cathy Mengying Fang, Tianjian Li, Shayne Longpre, Hongxiang Gu, Maximillian Chen, Tianmin Shu'
-  venue: 'ICML 2026 RLxF Workshop <span class="red"><b>(Best Paper Award)</b></span> / ⭐️ Paper of the Week by Huggingface /  📰 Featured in Synced'
+  venue: 'RLxF Workshop at ICML 2026 <span class="red"><b>(Best Paper Award)</b></span> / ⭐️ Paper of the Week by Huggingface /  📰 Featured in Synced'
   intro: >
     We introduce <i>ThoughtTrace</i>, the first large-scale dataset that pairs real-world multi-turn human-AI conversations with users' self-reported thoughts.
     Our analysis shows that these thoughts are distinct from messages, difficult for frontier LLMs to infer, and provide actionable signals for user-behavior prediction and model alignment, 
@@ -221,7 +221,7 @@
   selected: false
   title: "How Far Are We From AGI?"
   authors: 'Tao Feng*, <b>Chuanyang Jin</b>*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You'
-  venue: 'TMLR 2024 / ICLR 2024 AGI Workshop <span class="red"><b>(Spotlight)</b></span>'
+  venue: 'TMLR 2024 / AGI@ICLR 2024 <span class="red"><b>(Spotlight)</b></span>'
   intro: >
     We explore the trajectory toward Artificial General Intelligence by comprehensively analyzing the requisite capabilities across internal, interface, and system dimensions.
     We also outline a roadmap for responsibly achieving AGI.
@@ -235,7 +235,7 @@
   selected: false
   title: "Neural Amortized Inference for Nested Multi-agent Reasoning"
   authors: 'Kunal Jha, Tuan Anh Le, <b>Chuanyang Jin</b>, Yen-Ling Kuo, Joshua Tenenbaum, Tianmin Shu'
-  venue: 'AAAI 2024 / AAAI 2024 Summer Symposium <span class="red"><b>(Oral)</b></span>'
+  venue: 'AAAI 2024 / Symposium@AAAI 2023 <span class="red"><b>(Oral)</b></span>'
   intro: >
     Multi-agent interactions often rely on higher-order social inference, i.e., understanding how others infer oneself.
     We introduce a neural amortized inference method to accelerate computationally expensive nested multi-agent reasoning within the I-POMDP framework, significantly reducing computational costs while maintaining high accuracy.

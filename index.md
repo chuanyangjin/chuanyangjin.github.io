@@ -410,7 +410,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 ## News
 
 <ul class="news-list">
-  <li markdown="span"><span class="news-date">Jue 2026</span>[ThoughtTrace](https://thoughttrace-project.github.io/) received <span style="color: #C04000;">Best Paper Award</span> [RLxF Workshop](https://sites.google.com/view/rlxf-icml2026) at ICML 2026!</li>
+  <li markdown="span"><span class="news-date">Jue 2026</span>[ThoughtTrace](https://thoughttrace-project.github.io/) received the <span style="color: #C04000;">Best Paper Award</span> at the [RLxF Workshop](https://sites.google.com/view/rlxf-icml2026) at ICML 2026!</li>
   <li markdown="span"><span class="news-date">Feb 2026</span>Co-organizing CVPR 2026 Workshop on ["Rediscovering Intelligence: Can AI Still Learn from Humans?"](https://relearncvpr26.github.io/ReLearn/).</li>
   <li markdown="span"><span class="news-date">Oct 2025</span>Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google DeepMind, Meta TBD Lab, WashU, and Northwestern.</li>
   <li markdown="span"><span class="news-date">Oct 2025</span>Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!</li>
@@ -441,8 +441,8 @@ My research journey began with [these undergrad projects](/projects). I'm deeply
 <ul class="award-list">
   <li><span><span class="hl">Best Paper Award, RLxF Workshop at ICML 2026</span></span><span class="award-year">2026</span></li>
   <li><span><span class="hl">Amazon AI PhD Fellowship</span></span><span class="award-year">2025</span></li>
-  <li><span>Notable Reviewer Award, ICLR</span><span class="award-year">2025</span></li>
-  <li><span><span class="hl">Outstanding Paper Award, ACL</span></span><span class="award-year">2024</span></li>
+  <li><span>Notable Reviewer Award, ICLR 2025</span><span class="award-year">2025</span></li>
+  <li><span><span class="hl">Outstanding Paper Award, ACL 2024</span></span><span class="award-year">2024</span></li>
   <li><span>Presidential Honors Scholar and Summa cum Laude, New York University</span><span class="award-year">2024</span></li>
   <li><span><span class="hl">Computer Science Prize for the Most Promising Student, New York University (1 person/year)</span></span><span class="award-year">2023</span></li>
   <li><span>Dean's Undergraduate Research Fund, New York University</span><span class="award-year">2023</span></li>
