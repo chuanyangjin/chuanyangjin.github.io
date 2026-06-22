@@ -119,7 +119,7 @@
   selected: false
   title: "SoMi-ToM: Evaluating Multi-Perspective Theory of Mind in Embodied Social Interactions"
   authors: 'Xianzhe Fan, Xuhui Zhou, <b>Chuanyang Jin</b>, Kolby Nottingham, Hao Zhu, Maarten Sap'
-  venue: 'NeurIPS D&B 2025'
+  venue: 'NeurIPS 2025'
   intro: >
     SoMi-ToM is a Minecraft-based benchmark designed to evaluate Vision-Language Models' Theory of Mind capabilities through complex, multi-agent social interactions.
     Experiments reveal that current models significantly underperform compared to humans.
