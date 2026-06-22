@@ -23,6 +23,8 @@
       url: https://github.com/thoughttrace-project/ThoughtTrace
     - label: tweet
       url: https://x.com/chuanyang_jin/status/2057111965101670842?s=20
+    - label: slides
+      url: https://thoughttrace-project.github.io/ThoughtTrace_slides.pdf
     - label: Synced news
       url: https://mp.weixin.qq.com/s/fxYJRiIsVNbVHO3HMZ9TEQ
 
