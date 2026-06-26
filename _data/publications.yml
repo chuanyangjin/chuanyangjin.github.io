@@ -7,7 +7,7 @@
   selected: true
   title: "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions"
   authors: '<b>Chuanyang Jin</b>, Binze Li, Haopeng Xie, Cathy Mengying Fang, Tianjian Li, Shayne Longpre, Hongxiang Gu, Maximillian Chen, Tianmin Shu'
-  venue: 'RLxF Workshop at ICML 2026 <span class="red"><b>(Best Paper Award)</b></span> / ⭐️ Paper of the Week by Huggingface /  📰 Featured in Synced'
+  venue: 'ICML 2026 RLxF Workshop <span class="red"><b>(Best Paper Award)</b></span> / ⭐️ Paper of the Week by Huggingface /  📰 Featured in Synced'
   intro: >
     We introduce <i>ThoughtTrace</i>, the first large-scale dataset that pairs real-world multi-turn human-AI conversations with users' self-reported thoughts.
     Our analysis shows that these thoughts are distinct from messages, difficult for frontier LLMs to infer, and provide actionable signals for user-behavior prediction and model alignment, 
@@ -65,7 +65,7 @@
   selected: true
   title: "MindZero: Learning Online Mental Reasoning With Zero Annotations"
   authors: 'Shunchi Zhang*, Jin Lu*, <b>Chuanyang Jin</b>*, Yichao Zhou*, Zhining Zhang, Tianmin Shu'
-  venue: 'ICML 2026 / HCAIR@ICLR 2026 <span class="red"><b>(Oral)</b></span>'
+  venue: 'ICML 2026 / ICLR 2026 HCAIR Workshop <span class="red"><b>(Oral)</b></span>'
   intro: >
     We introduce <i>MindZero</i>, a self-supervised reinforcement learning framework that trains multimodal LLMs for efficient and robust online Theory-of-Mind reasoning.
     During training, the model is rewarded for generating mental state hypotheses that best explain observed human actions.
@@ -223,7 +223,7 @@
   selected: false
   title: "How Far Are We From AGI?"
   authors: 'Tao Feng*, <b>Chuanyang Jin</b>*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You'
-  venue: 'TMLR 2024 / AGI@ICLR 2024 <span class="red"><b>(Spotlight)</b></span>'
+  venue: 'TMLR 2024 / ICLR 2024 AGI Workshop <span class="red"><b>(Spotlight)</b></span>'
   intro: >
     We explore the trajectory toward Artificial General Intelligence by comprehensively analyzing the requisite capabilities across internal, interface, and system dimensions.
     We also outline a roadmap for responsibly achieving AGI.
@@ -237,7 +237,7 @@
   selected: false
   title: "Neural Amortized Inference for Nested Multi-agent Reasoning"
   authors: 'Kunal Jha, Tuan Anh Le, <b>Chuanyang Jin</b>, Yen-Ling Kuo, Joshua Tenenbaum, Tianmin Shu'
-  venue: 'AAAI 2024 / Symposium@AAAI 2023 <span class="red"><b>(Oral)</b></span>'
+  venue: 'AAAI 2024 / AAAI 2023 Summer Symposium <span class="red"><b>(Oral)</b></span>'
   intro: >
     Multi-agent interactions often rely on higher-order social inference, i.e., understanding how others infer oneself.
     We introduce a neural amortized inference method to accelerate computationally expensive nested multi-agent reasoning within the I-POMDP framework, significantly reducing computational costs while maintaining high accuracy.
@@ -255,7 +255,7 @@
   selected: false
   title: "Beyond the Binary: Capturing Diverse Preferences With Reward Regularization"
   authors: 'Vishakh Padmakumar*,<b>Chuanyang Jin</b>*, Hannah Rose Kirk*, He He'
-  venue: 'NeurIPS 2024 Workshop on Socially Responsible Language Modelling Research'
+  venue: 'NeurIPS 2024 SoLaR Workshop'
   intro: >
     Standard binary feedback in RLHF fails to capture the diversity of user opinions in subjective tasks.
     To address this, we propose a training method that incorporates estimated user disagreement, leading to reward models that better align with aggregate human preferences.
@@ -269,7 +269,7 @@
   selected: false
   title: "The Cultural Psychology of Large Language Models"
   authors: '<b>Chuanyang Jin</b>*, Songyang Zhang*, Tianmin Shu, Zhihan Cui'
-  venue: 'Tech Report'
+  venue: 'NYU Research Symposium'
   intro: >
     We apply cultural psychology scales to ChatGPT to assess its cognitive processing style and value judgments.
     We find that the model exhibits Eastern-style holistic processing traits while displaying mixed alignment in its cultural values.
