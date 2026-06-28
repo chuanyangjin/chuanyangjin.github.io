@@ -368,7 +368,8 @@ Hello! I am a 2nd-year Ph.D. student in Computer Science at [Johns Hopkins Unive
 
 I received bachelor's degrees in Honors Computer Science and Mathematics from [NYU Courant](https://cims.nyu.edu/dynamic/) (2020–2024), where I was recognized as the [most promising student](/assets/awards/most_promising_student.pdf).
 I was as a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html).
-I received an Outstanding Paper Award at ACL 2024 for my work on [multimodal Theory of Mind](https://arxiv.org/abs/2401.08743).
+My first-author works have received the [ACL Outstanding Paper Award](https://arxiv.org/abs/2401.08743), [Best Paper Award at an ICLR workshop](https://arxiv.org/abs/2605.20087), and multiple spotlights/orals at top venues. 
+<!-- I received an Outstanding Paper Award at ACL 2024 for my work on [multimodal Theory of Mind](https://arxiv.org/abs/2401.08743). -->
 
 I'm developing AI models and agents with *advanced social intelligence (ASI)*. Particularly, I am working on:
 
