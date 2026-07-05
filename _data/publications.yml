@@ -3,6 +3,20 @@
 # add `selected: true` to its entry below. Remove or set to false to hide it.
 # The `publications.md` page always renders every entry, in order.
 
+- id: selfcompact
+  selected: false
+  title: "Self-Compacting Language Model Agents"
+  authors: 'Tianjian Li, Jingyu Zhang, William Jurayj, Xi Wang, <b>Chuanyang Jin</b>, Mehrdad Farajtabar, Eric Nalisnick, Daniel Khashabi'
+  venue: 'arXiv preprint / ⭐️ Paper of the Week by Huggingface'
+  intro: >
+    Current systems compress the context on a fixed schedule.
+    We propose <i>SelfCompact<i>: give the model a summarization tool + a lightweight rubric that says when it's safe to fire (sub-task resolved, trajectory converging) and when to hold off (mid-derivation, stuck in a loop). 
+    No fine-tuning, no external verifier. Same model does everything.
+    The pattern of gains is consistent across various evaluations: baseline < fixed-interval ≤ <i>SelfCompact<i>.
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2606.23525
+
 - id: thoughttrace
   selected: true
   title: "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions"
