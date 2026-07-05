@@ -10,9 +10,9 @@
   venue: 'arXiv preprint / ⭐️ Paper of the Week by Huggingface'
   intro: >
     Current systems compress the context on a fixed schedule.
-    We propose <i>SelfCompact<i>: give the model a summarization tool + a lightweight rubric that says when it's safe to fire (sub-task resolved, trajectory converging) and when to hold off (mid-derivation, stuck in a loop). 
+    We propose <i>SelfCompact</i>: give the model a summarization tool + a lightweight rubric that says when it's safe to fire (sub-task resolved, trajectory converging) and when to hold off (mid-derivation, stuck in a loop).
     No fine-tuning, no external verifier. Same model does everything.
-    The pattern of gains is consistent across various evaluations: baseline < fixed-interval ≤ <i>SelfCompact<i>.
+    The pattern of gains is consistent across various evaluations: baseline < fixed-interval ≤ <i>SelfCompact</i>.
   links:
     - label: paper
       url: https://arxiv.org/abs/2606.23525
@@ -21,8 +21,8 @@
   selected: true
   title: "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions"
   authors: '<b>Chuanyang Jin</b>, Binze Li, Haopeng Xie, Cathy Mengying Fang, Tianjian Li, Shayne Longpre, Hongxiang Gu, Maximillian Chen, Tianmin Shu'
-  venue: 'ICML 2026 RLxF Workshop <span class="red"><b>(Best Paper Award)</b></span> / ⭐️ Paper of the Week by Huggingface, 13K+ Downloads'
-  # https://huggingface.co/api/datasets/SCAI-JHU/ThoughtTrace?expand=downloadsAllTime; Paper of the Week by Huggingface; 📰 Featured in Synced
+  venue: 'ICML 2026 RLxF Workshop <span class="red"><b>(Best Paper Award)</b></span> / 📰 Featured in Synced / 📈 13K+ Downloads'
+  # https://huggingface.co/api/datasets/SCAI-JHU/ThoughtTrace?expand=downloadsAllTime; Paper of the Week by Huggingface; 📰 Featured in Synced; Paper of the Week by Huggingface, 
   intro: >
     We introduce <i>ThoughtTrace</i>, the first large-scale dataset that pairs real-world multi-turn human-AI conversations with users' self-reported thoughts.
     Our analysis shows that these thoughts are distinct from messages, difficult for frontier LLMs to infer, and provide actionable signals for user-behavior prediction and model alignment, 
@@ -64,7 +64,7 @@
   selected: true
   title: "SPICE: Self-Play In Corpus Environments Improves Reasoning"
   authors: 'Bo Liu, <b>Chuanyang Jin</b>, Seungone Kim, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston'
-  venue: '<img src="/assets/img/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Tech Report /  📰 Featured in VentureBeat'
+  venue: '<img src="/assets/img/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Tech Report /  📰 Featured in VentureBeat/ / ⭐️ Paper of the Week by Huggingface'
   intro: >
     SPICE is a reinforcement learning framework where a single model improves itself by playing two roles: a Challenger that creates tasks based on corpora, and a Reasoner that solves them.
     By grounding this self-play in corpora, SPICE addresses hallucination and lack of diversity issues, significantly outperforming standard (ungrounded) self-play across reasoning benchmarks.
@@ -179,7 +179,7 @@
     - label: model
       url: https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d
     - label: data
-      url: "https::/huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d"
+      url: "https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d"
     - label: slides
       url: /assets/slides/OS-Genesis.pdf
 
@@ -224,7 +224,7 @@
     - label: benchmark
       url: https://github.com/chuanyangjin/MMToM-QA?tab=readme-ov-file#-mmtom-qa-benchmark
     - label: leaderboard
-      url: "httpss://chuanyangjin.com/mmtom-qa-leaderboard"
+      url: "https://chuanyangjin.com/mmtom-qa-leaderboard"
     - label: slides
       url: /assets/slides/MMToM-QA.pdf
     - label: Futurity news
