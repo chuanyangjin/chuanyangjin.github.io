@@ -28,7 +28,7 @@
       url: https://thoughttrace-project.github.io/ThoughtTrace_slides.pdf
     - label: Synced news
       url: https://mp.weixin.qq.com/s/fxYJRiIsVNbVHO3HMZ9TEQ
-      
+
 - id: selfcompact
   selected: false
   title: "Self-Compacting Language Model Agents"
@@ -117,7 +117,7 @@
   selected: true
   title: "AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling"
   authors: 'Zhining Zhang*, <b>Chuanyang Jin</b>*†, Mung Yao Jia*, Shunchi Zhang*, Tianmin Shu (†: project lead)'
-  venue: 'NeurIPS 2025 <span class="red"><b>(Spotlight)</b></span>'
+  venue: 'NeurIPS 2025 <span class="red"><b>(Spotlight)</b></span> / 📰 Featured in Synced'
   intro: >
     <i>AutoToM</i> is an automated agent modeling method for scalable, robust, and interpretable mental inference.
     Given a ToM problem, <i>AutoToM</i> proposes a minimal agent model, performs Bayesian inverse planning based on the model, and iteratively refines the model until it can confidently infer the target mental state.
