@@ -3,26 +3,12 @@
 # add `selected: true` to its entry below. Remove or set to false to hide it.
 # The `publications.md` page always renders every entry, in order.
 
-- id: selfcompact
-  selected: false
-  title: "Self-Compacting Language Model Agents"
-  authors: 'Tianjian Li, Jingyu Zhang, William Jurayj, Xi Wang, <b>Chuanyang Jin</b>, Mehrdad Farajtabar, Eric Nalisnick, Daniel Khashabi'
-  venue: 'arXiv preprint / ⭐️ Paper of the Week by Huggingface'
-  intro: >
-    Current systems compress the context on a fixed schedule.
-    We propose <i>SelfCompact</i>: give the model a summarization tool + a lightweight rubric that says when it's safe to fire (sub-task resolved, trajectory converging) and when to hold off (mid-derivation, stuck in a loop).
-    No fine-tuning, no external verifier. Same model does everything.
-    The pattern of gains is consistent across various evaluations: baseline < fixed-interval ≤ <i>SelfCompact</i>.
-  links:
-    - label: paper
-      url: https://arxiv.org/abs/2606.23525
-
 - id: thoughttrace
   selected: true
   title: "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions"
   authors: '<b>Chuanyang Jin</b>, Binze Li, Haopeng Xie, Cathy Mengying Fang, Tianjian Li, Shayne Longpre, Hongxiang Gu, Maximillian Chen, Tianmin Shu'
-  venue: 'ICML 2026 RLxF Workshop <span class="red"><b>(Best Paper Award)</b></span> / 📰 Featured in Synced / 📈 13K+ Downloads'
-  # https://huggingface.co/api/datasets/SCAI-JHU/ThoughtTrace?expand=downloadsAllTime; Paper of the Week by Huggingface; 📰 Featured in Synced; Paper of the Week by Huggingface, 
+  venue: 'ICML 2026 RLxF Workshop <span class="red"><b>(Best Paper Award)</b></span> / 📰 Featured in Synced / 📈 13K+ Huggingface Downloads'
+  # https://huggingface.co/api/datasets/SCAI-JHU/ThoughtTrace?expand=downloadsAllTime; Paper of the Week by Huggingface
   intro: >
     We introduce <i>ThoughtTrace</i>, the first large-scale dataset that pairs real-world multi-turn human-AI conversations with users' self-reported thoughts.
     Our analysis shows that these thoughts are distinct from messages, difficult for frontier LLMs to infer, and provide actionable signals for user-behavior prediction and model alignment, 
@@ -42,6 +28,20 @@
       url: https://thoughttrace-project.github.io/ThoughtTrace_slides.pdf
     - label: Synced news
       url: https://mp.weixin.qq.com/s/fxYJRiIsVNbVHO3HMZ9TEQ
+      
+- id: selfcompact
+  selected: false
+  title: "Self-Compacting Language Model Agents"
+  authors: 'Tianjian Li, Jingyu Zhang, William Jurayj, Xi Wang, <b>Chuanyang Jin</b>, Mehrdad Farajtabar, Eric Nalisnick, Daniel Khashabi'
+  venue: 'arXiv preprint / ⭐️ Paper of the Week by Huggingface'
+  intro: >
+    Current systems compress the context on a fixed schedule.
+    We propose <i>SelfCompact</i>: give the model a summarization tool + a lightweight rubric that says when it's safe to fire (sub-task resolved, trajectory converging) and when to hold off (mid-derivation, stuck in a loop).
+    No fine-tuning, no external verifier. Same model does everything.
+    The pattern of gains is consistent across various evaluations: baseline < fixed-interval ≤ <i>SelfCompact</i>.
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2606.23525
 
 - id: rlhi
   selected: true
@@ -146,21 +146,6 @@
     - label: benchmark
       url: https://huggingface.co/datasets/SoMi-ToM/SoMi-ToM
 
-- id: wm-abench
-  selected: false
-  title: "Do VLMs have internal World Models? Towards an Atomic Evaluation"
-  authors: 'Qiyue Gao*, Xinyu Pi*, Kevin Liu, Junrong Chen, Ruolan Yang, Xinqi Huang, Xinyu Fang, Lu Sun, Gautham Kishore, Bo Ai, Stone Tao, Mengyang Liu, Jiaxi Yang, Chao-Jung Lai, <b>Chuanyang Jin</b>, Jiannan Xiang, Benhao Huang, Zeming Chen, David Danks, Hao Su, Tianmin Shu, Ziqiao Ma, Lianhui Qin, Zhiting Hu'
-  venue: 'ACL 2025 Findings / ⭐️ Huggingface Daily Papers Top-3'
-  intro: >
-    We introduce WM-ABench, a large-scale benchmark to evaluate whether Vision-Language Models possess internal world models by assessing their perception (visual, spatial, temporal, quantitative, and motion) and prediction (mechanistic simulation, transitive inference, compositional inference).
-  links:
-    - label: paper
-      url: https://arxiv.org/abs/2506.21876
-    - label: project
-      url: https://wm-abench.maitrix.org/
-    - label: benchmark
-      url: https://huggingface.co/datasets/maitrix-org/WM-ABench
-
 - id: os-genesis
   selected: true
   title: "OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis"
@@ -182,6 +167,21 @@
       url: "https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d"
     - label: slides
       url: /assets/slides/OS-Genesis.pdf
+
+- id: wm-abench
+  selected: false
+  title: "Do VLMs have internal World Models? Towards an Atomic Evaluation"
+  authors: 'Qiyue Gao*, Xinyu Pi*, Kevin Liu, Junrong Chen, Ruolan Yang, Xinqi Huang, Xinyu Fang, Lu Sun, Gautham Kishore, Bo Ai, Stone Tao, Mengyang Liu, Jiaxi Yang, Chao-Jung Lai, <b>Chuanyang Jin</b>, Jiannan Xiang, Benhao Huang, Zeming Chen, David Danks, Hao Su, Tianmin Shu, Ziqiao Ma, Lianhui Qin, Zhiting Hu'
+  venue: 'ACL 2025 Findings / ⭐️ Huggingface Daily Papers Top-3'
+  intro: >
+    We introduce WM-ABench, a large-scale benchmark to evaluate whether Vision-Language Models possess internal world models by assessing their perception (visual, spatial, temporal, quantitative, and motion) and prediction (mechanistic simulation, transitive inference, compositional inference).
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2506.21876
+    - label: project
+      url: https://wm-abench.maitrix.org/
+    - label: benchmark
+      url: https://huggingface.co/datasets/maitrix-org/WM-ABench
 
 - id: muma-tom
   selected: true
@@ -266,31 +266,31 @@
     - label: slides
       url: /assets/slides/Nested_Reasoning.pdf
 
-- id: beyond-binary
-  selected: false
-  title: "Beyond the Binary: Capturing Diverse Preferences With Reward Regularization"
-  authors: 'Vishakh Padmakumar*,<b>Chuanyang Jin</b>*, Hannah Rose Kirk*, He He'
-  venue: 'NeurIPS 2024 SoLaR Workshop'
-  intro: >
-    Standard binary feedback in RLHF fails to capture the diversity of user opinions in subjective tasks.
-    To address this, we propose a training method that incorporates estimated user disagreement, leading to reward models that better align with aggregate human preferences.
-  links:
-    - label: paper
-      url: https://arxiv.org/abs/2412.03822
-    - label: code
-      url: https://github.com/chuanyangjin/preference-calibration
+# - id: beyond-binary
+#   selected: false
+#   title: "Beyond the Binary: Capturing Diverse Preferences With Reward Regularization"
+#   authors: 'Vishakh Padmakumar*,<b>Chuanyang Jin</b>*, Hannah Rose Kirk*, He He'
+#   venue: 'NeurIPS 2024 SoLaR Workshop'
+#   intro: >
+#     Standard binary feedback in RLHF fails to capture the diversity of user opinions in subjective tasks.
+#     To address this, we propose a training method that incorporates estimated user disagreement, leading to reward models that better align with aggregate human preferences.
+#   links:
+#     - label: paper
+#       url: https://arxiv.org/abs/2412.03822
+#     - label: code
+#       url: https://github.com/chuanyangjin/preference-calibration
 
-- id: cultural-psych-llm
-  selected: false
-  title: "The Cultural Psychology of Large Language Models"
-  authors: '<b>Chuanyang Jin</b>*, Songyang Zhang*, Tianmin Shu, Zhihan Cui'
-  venue: 'NYU Research Symposium'
-  intro: >
-    We apply cultural psychology scales to ChatGPT to assess its cognitive processing style and value judgments.
-    We find that the model exhibits Eastern-style holistic processing traits while displaying mixed alignment in its cultural values.
-  links:
-    - label: paper
-      url: https://arxiv.org/abs/2308.14242
+# - id: cultural-psych-llm
+#   selected: false
+#   title: "The Cultural Psychology of Large Language Models"
+#   authors: '<b>Chuanyang Jin</b>*, Songyang Zhang*, Tianmin Shu, Zhihan Cui'
+#   venue: 'NYU Research Symposium'
+#   intro: >
+#     We apply cultural psychology scales to ChatGPT to assess its cognitive processing style and value judgments.
+#     We find that the model exhibits Eastern-style holistic processing traits while displaying mixed alignment in its cultural values.
+#   links:
+#     - label: paper
+#       url: https://arxiv.org/abs/2308.14242
 
 - id: rna-speckles
   selected: false
@@ -308,7 +308,7 @@
   selected: false
   title: "OpenCompass: A Universal Evaluation Platform for Foundation Models"
   authors: 'OpenCompass Team'
-  venue: 'Open-source Project / ⭐️ 6K Github Stars'
+  venue: 'Open-source Project / ⭐️ 7K Github Stars'
   intro: >
     OpenCompass is an LLM evaluation platform, supporting a wide range of models over 100+ datasets.
   links:
@@ -319,7 +319,7 @@
   selected: false
   title: "Fast-DiT: Fast Diffusion Models with Transformers"
   authors: '<b>Chuanyang Jin</b>, Saining Xie'
-  venue: 'Open-source Project / ⭐️ 900 Github Stars'
+  venue: 'Open-source Project / ⭐️ 950 Github Stars'
   intro: >
     Fast-DiT improves the efficiency of Diffusion Transformers (DiTs) by incorporating features such as gradient checkpointing, mixed-precision training, and feature pre-extraction.
     It delivers a 95% speed increase and a 60% reduction in memory usage, and has been integrated into the official DiT implementation.
