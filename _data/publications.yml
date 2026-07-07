@@ -8,7 +8,7 @@
   title: "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions"
   authors: '<b>Chuanyang Jin</b>, Binze Li, Haopeng Xie, Cathy Mengying Fang, Tianjian Li, Shayne Longpre, Hongxiang Gu, Maximillian Chen, Tianmin Shu'
   venue: 'ICML 2026 RLxF Workshop <span class="red"><b>(Best Paper Award)</b></span> / 📰 Featured in Synced / 📈 13K+ Huggingface Downloads'
-  # https://huggingface.co/api/datasets/SCAI-JHU/ThoughtTrace?expand=downloadsAllTime; Paper of the Week by Huggingface
+  # https://huggingface.co/api/datasets/SCAI-JHU/ThoughtTrace?expand=downloadsAllTime; ⭐️ Paper of the Week by Huggingface
   intro: >
     We introduce <i>ThoughtTrace</i>, the first large-scale dataset that pairs real-world multi-turn human-AI conversations with users' self-reported thoughts.
     Our analysis shows that these thoughts are distinct from messages, difficult for frontier LLMs to infer, and provide actionable signals for user-behavior prediction and model alignment, 
@@ -64,7 +64,8 @@
   selected: true
   title: "SPICE: Self-Play In Corpus Environments Improves Reasoning"
   authors: 'Bo Liu, <b>Chuanyang Jin</b>, Seungone Kim, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston'
-  venue: '<img src="/assets/img/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Tech Report /  📰 Featured in VentureBeat / ⭐️ Paper of the Week by Huggingface'
+  venue: '<img src="/assets/img/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Tech Report / 📰 Featured in VentureBeat'
+  # ⭐️ Paper of the Week by Huggingface
   intro: >
     SPICE is a reinforcement learning framework where a single model improves itself by playing two roles: a Challenger that creates tasks based on corpora, and a Reasoner that solves them.
     By grounding this self-play in corpora, SPICE addresses hallucination and lack of diversity issues, significantly outperforming standard (ungrounded) self-play across reasoning benchmarks.
@@ -101,7 +102,7 @@
   selected: false
   title: "A Benchmark of Expert-Level Academic Questions to Assess AI Capabilities"
   authors: 'Center for AI Safety, Scale AI, HLE Contributors Consortium'
-  venue: 'Nature 649 (8099), 1139-1146'
+  venue: 'Nature 649 (8099), 1139-1146 / 📰 Featured in NYTimes and Science'
   intro: >
     Humanity's Last Exam (HLE) is a multi-modal benchmark designed to be the final closed-ended academic benchmark with broad subject coverage.
     I contributed several challenging mathematics and cognitive science questions.
@@ -112,6 +113,10 @@
       url: https://agi.safe.ai/
     - label: benchmark
       url: https://huggingface.co/datasets/cais/hle
+    - label: NYTimes news
+      url: https://www.nytimes.com/2025/01/23/technology/ai-test-humanitys-last-exam.html
+    - label: Science news
+      url: https://www.science.org/content/article/how-will-we-know-if-ai-smart-enough-do-science
 
 - id: autotom
   selected: true
