@@ -134,6 +134,8 @@
       url: /AutoToM
     - label: code
       url: https://github.com/SCAI-JHU/AutoToM
+    - label: Synced news
+      url: https://mp.weixin.qq.com/s/Lle2y241WbJmi7V7tAymhg
 
 - id: somi-tom
   selected: false
