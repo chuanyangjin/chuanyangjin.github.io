@@ -42,6 +42,8 @@
   links:
     - label: paper
       url: https://arxiv.org/abs/2606.23525
+    - label: code
+      url: https://github.com/tianjianl/selfcompact
 
 - id: rlhi
   selected: true
