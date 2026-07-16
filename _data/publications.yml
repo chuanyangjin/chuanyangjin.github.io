@@ -216,7 +216,7 @@
   selected: true
   title: "MMToM-QA: Multimodal Theory of Mind Question Answering"
   authors: '<b>Chuanyang Jin</b>, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu'
-  venue: 'ACL 2024 <span class="red"><b>(Outstanding Paper Award)</b></span> / 🔍  Invited Talk at University of Washinton /  📰 Featured in Futurity, Synced, ...'
+  venue: 'ACL 2024 <span class="red"><b>(Outstanding Paper Award)</b></span> / 🔍 Invited Talk at University of Washington / 📰 Featured in Futurity, Synced, ...'
   intro: >
     Can machines understand people's minds from multimodal inputs?
     We introduce a comprehensive benchmark, MMToM-QA, and highlight key limitations in current multimodal LLMs.

@@ -367,7 +367,7 @@ http://localhost:4000 -->
 Hello! I am a 2nd-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a student researcher at Meta FAIR, mentored by [Jason Weston](https://www.thespermwhale.com/jaseweston/index.html). I'm honored to be named an [Amazon AI PhD Fellow](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
 
 I received bachelor's degrees in Honors Computer Science and Mathematics from [NYU Courant](https://cims.nyu.edu/dynamic/) (2020–2024), where I was recognized as the [most promising student](/assets/awards/most_promising_student.pdf).
-I was as a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html).
+I was a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html).
 My first-author works have received the [ACL Outstanding Paper Award](https://arxiv.org/abs/2401.08743), [Best Paper Award at an ICML workshop](https://arxiv.org/abs/2605.20087), and multiple spotlights/orals at top venues. 
 <!-- I received an Outstanding Paper Award at ACL 2024 for my work on [multimodal Theory of Mind](https://arxiv.org/abs/2401.08743). -->
 
@@ -411,7 +411,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 ## News
 
 <ul class="news-list">
-  <li markdown="span"><span class="news-date">Jue 2026</span>[ThoughtTrace](https://thoughttrace-project.github.io/) received the <span style="color: #C04000;">Best Paper Award</span> at the [ICML 2026 RLxF Workshop](https://sites.google.com/view/rlxf-icml2026)!</li>
+  <li markdown="span"><span class="news-date">Jul 2026</span>[ThoughtTrace](https://thoughttrace-project.github.io/) received the <span style="color: #C04000;">Best Paper Award</span> at the [ICML 2026 RLxF Workshop](https://sites.google.com/view/rlxf-icml2026)!</li>
   <li markdown="span"><span class="news-date">Feb 2026</span>Co-organizing CVPR 2026 Workshop on ["Rediscovering Intelligence: Can AI Still Learn from Humans?"](https://relearncvpr26.github.io/ReLearn/).</li>
   <li markdown="span"><span class="news-date">Oct 2025</span>Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google DeepMind, Meta TBD Lab, WashU, and Northwestern.</li>
   <li markdown="span"><span class="news-date">Oct 2025</span>Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!</li>
@@ -426,7 +426,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 ## Recent Publications
 <div class="pub-note">
   (* denotes equal contribution; † denotes project lead)<br>
-  For a more complete list, please see my <a href="/publications" style="color: #666666;">publication page</a> or <a href="https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=zh-EN" style="color: #666666;">Google Scholar page</a>.
+  For a more complete list, please see my <a href="/publications" style="color: #666666;">publication page</a> or <a href="https://scholar.google.com/citations?user=OZeqpLIAAAAJ&hl=en" style="color: #666666;">Google Scholar page</a>.
 </div>
 
 {% assign selected_pubs = site.data.publications | where: "selected", true %}
