@@ -398,7 +398,7 @@ I'm developing AI models and agents with *advanced social intelligence (ASI)*. P
       <ul>
       <li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from natural human interaction for continual improvement and multifaceted alignment. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a> as a starting point. </li>
       <li> We present the <a href="https://thoughttrace-project.github.io">ThoughtTrace</a> dataset for understanding and learning from user thoughts in real-world LLM interactions. </li>
-      <li> I co-organized <a href="https://continual-robot-learning-from-humans.github.io/">Continual Robot Learning from Humans @ RSS 2025</a> and <a href="https://relearncvpr26.github.io/ReLearn/">ReLearn @ CVPR 2026</a>. </li>
+      <li> I co-organized <a href="https://continual-robot-learning-from-humans.github.io/">Continual Robot Learning from Humans @ RSS 2025</a>, <a href="https://relearncvpr26.github.io/ReLearn/">Learning from Humans @ CVPR 2026</a>, and <a href="https://ttcl-agents.github.io">Test-Time Continual Learning Agents @ NeurIPS 2026</a>. </li>
       </ul>
     </span>
   </div>
@@ -411,8 +411,9 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 ## News
 
 <ul class="news-list">
+  <li markdown="span"><span class="news-date">Jul 2026</span>Co-organizing the NeurIPS 2026 Workshop on [Test-Time Continual Learning Agents](https://ttcl-agents.github.io).</li>
   <li markdown="span"><span class="news-date">Jul 2026</span>[ThoughtTrace](https://thoughttrace-project.github.io/) received the <span style="color: #C04000;">Best Paper Award</span> at the [ICML 2026 RLxF Workshop](https://sites.google.com/view/rlxf-icml2026)!</li>
-  <li markdown="span"><span class="news-date">Feb 2026</span>Co-organizing CVPR 2026 Workshop on ["Rediscovering Intelligence: Can AI Still Learn from Humans?"](https://relearncvpr26.github.io/ReLearn/).</li>
+  <li markdown="span"><span class="news-date">Feb 2026</span>Co-organized CVPR 2026 Workshop on [Can AI Still Learn from Humans](https://relearncvpr26.github.io/ReLearn/).</li>
   <li markdown="span"><span class="news-date">Oct 2025</span>Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google DeepMind, Meta TBD Lab, WashU, and Northwestern.</li>
   <li markdown="span"><span class="news-date">Oct 2025</span>Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!</li>
   <li markdown="span"><span class="news-date">Sep 2025</span>[AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!</li>
@@ -460,7 +461,7 @@ My research journey began with [these undergrad projects](/projects). I'm deeply
 ## Services
 
 <ul class="service-list">
-  <li markdown="span"><span class="service-role">Workshop Co-organizer:</span> [Rediscovering Intelligence: Can AI Still Learn from Humans? (ReLearn @ CVPR 2026)](https://relearncvpr26.github.io/ReLearn/) and [Continual Robot Learning from Humans (CRLH @ RSS 2025)](https://continual-robot-learning-from-humans.github.io/)</li>
+  <li markdown="span"><span class="service-role">Workshop Co-organizer:</span> [Test-Time Continual Learning Agents (TTCL @ NeurIPS 2026)](https://ttcl-agents.github.io), [Learning from Humans (ReLearn @ CVPR 2026)](https://relearncvpr26.github.io/ReLearn/), and [Continual Robot Learning from Humans (CRLH @ RSS 2025)](https://continual-robot-learning-from-humans.github.io/)</li>
   <li markdown="span"><span class="service-role">Conference Program Committee / Reviewer:</span> Machine Learning (ICLR - Notable Reviewer Award, NeurIPS, ICML, AAAI), Natural Language Processing (ARR, ACL, EMNLP, NAACL), Computer Vision (CVPR), Robotics (RSS)</li>
   <li markdown="span"><span class="service-role">Head Teaching Assistant:</span> [JHU EN.601 Machine Social Intelligence](https://www.tshu.io/teaching/MSI/sp26/) with Tianmin Shu</li>
 </ul>
