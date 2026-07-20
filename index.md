@@ -411,9 +411,9 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 ## News
 
 <ul class="news-list">
-  <li markdown="span"><span class="news-date">Jul 2026</span>Co-organizing the NeurIPS 2026 Workshop on [Test-Time Continual Learning Agents](https://ttcl-agents.github.io).</li>
+  <li markdown="span"><span class="news-date">Dec 2026</span>Co-organizing the NeurIPS 2026 Workshop on [Test-Time Continual Learning Agents](https://ttcl-agents.github.io).</li>
   <li markdown="span"><span class="news-date">Jul 2026</span>[ThoughtTrace](https://thoughttrace-project.github.io/) received the <span style="color: #C04000;">Best Paper Award</span> at the [ICML 2026 RLxF Workshop](https://sites.google.com/view/rlxf-icml2026)!</li>
-  <li markdown="span"><span class="news-date">Feb 2026</span>Co-organized CVPR 2026 Workshop on [Can AI Still Learn from Humans](https://relearncvpr26.github.io/ReLearn/).</li>
+  <li markdown="span"><span class="news-date">Jun 2026</span>Co-organized CVPR 2026 Workshop on [Can AI Still Learn from Humans](https://relearncvpr26.github.io/ReLearn/).</li>
   <li markdown="span"><span class="news-date">Oct 2025</span>Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google DeepMind, Meta TBD Lab, WashU, and Northwestern.</li>
   <li markdown="span"><span class="news-date">Oct 2025</span>Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!</li>
   <li markdown="span"><span class="news-date">Sep 2025</span>[AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!</li>
