@@ -69,8 +69,8 @@ body.dark-mode .misc-list li {
 7. 无间道1 Infernal Affairs (2002)              - 9.3 (No.18), 8.0
 8. 战争之王 Lord of War (2005)                  - 8.7 (No.243), 7.6
 9. 蝙蝠侠：黑暗骑士 The Dark Knight (2008)        – 9.2 (No.31), 9.0 (No.3)
-10. 盗梦空间 Inception (2010)                    - 9.4 (No.9), 8.8 (No.14)
-11. 让子弹飞 Let the Bullets Fly (2010)          – 9.0 (No.35), 7.3
+10. 盗梦空间 Inception (2010)                   - 9.4 (No.9), 8.8 (No.14)
+11. 让子弹飞 Let the Bullets Fly (2010)         – 9.0 (No.35), 7.3
 12. 看不见的客人 The Invisible Guest (2016)      – 8.8 (No.75), 8.0
 13. 寻梦环游记 Coco (2017)                      – 9.1 (No.20), 8.4 (No.72)
 14. 我不是药神 Dying to Survive (2018)          - 9.0 (No.33), 7.8
