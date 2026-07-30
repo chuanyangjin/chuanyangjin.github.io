@@ -7,7 +7,7 @@
   selected: true
   title: "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions"
   authors: '<b>Chuanyang Jin</b>, Binze Li, Haopeng Xie, Cathy Mengying Fang, Tianjian Li, Shayne Longpre, Hongxiang Gu, Maximillian Chen, Tianmin Shu'
-  venue: 'ICML 2026 RLxF Workshop <span class="red"><b>(Best Paper Award)</b></span> / 📰 Featured in Synced / 📈 16K+ Huggingface Downloads'
+  venue: 'ICML 2026 RLxF Workshop <span class="red"><b>(Best Paper Award)</b></span> / 📰 Featured in Synced / 📈 20K+ Huggingface Downloads'
   # https://huggingface.co/api/datasets/SCAI-JHU/ThoughtTrace?expand=downloadsAllTime; ⭐️ Paper of the Week by Huggingface
   intro: >
     We introduce <i>ThoughtTrace</i>, the first large-scale dataset that pairs real-world multi-turn human-AI conversations with users' self-reported thoughts.
@@ -317,7 +317,7 @@
   selected: false
   title: "OpenCompass: A Universal Evaluation Platform for Foundation Models"
   authors: 'OpenCompass Team'
-  venue: 'Open-source Project / ⭐️ 7K Github Stars'
+  venue: 'Open-source Project / ⭐️ 7K+ Github Stars'
   intro: >
     OpenCompass is an LLM evaluation platform, supporting a wide range of models over 100+ datasets.
   links:
@@ -328,7 +328,7 @@
   selected: false
   title: "Fast-DiT: Fast Diffusion Models with Transformers"
   authors: '<b>Chuanyang Jin</b>, Saining Xie'
-  venue: 'Open-source Project / ⭐️ 950 Github Stars'
+  venue: 'Open-source Project / ⭐️ 950+ Github Stars'
   intro: >
     Fast-DiT improves the efficiency of Diffusion Transformers (DiTs) by incorporating features such as gradient checkpointing, mixed-precision training, and feature pre-extraction.
     It delivers a 95% speed increase and a 60% reduction in memory usage, and has been integrated into the official DiT implementation.

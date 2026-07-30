@@ -382,8 +382,8 @@ I'm developing AI models and agents with *advanced social intelligence (ASI)*. P
   <div class="pub-details focus-details">
     <span class="intro">
       <ul>
-      <li>I lead <a href="https://chuanyangjin.com/mmtom-qa">MMToM-QA</a> (ACL'24 Outstanding Paper) and <a href="https://chuanyangjin.com/AutoToM/">AutoToM</a> (NeurIPS'25 Spotlight), pushing the frontier of machine Theory of Mind (ToM)—teaching AI systems to understand people's minds (e.g., goals, beliefs) from their behavior.</li>
-      <li>We bridge the deliberate human-like reasoning of <a href="https://chuanyangjin.com/AutoToM/"><em>agent models</em></a> with the adaptability of <em>language models</em>, advancing ToM by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a> and <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a> / <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> / <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> data, <a href="https://arxiv.org/abs/2606.00240">enabling self-supervised learning from human actions</a>, and <a href="https://chuanyangjin.com/AutoToM/">scaling inference to long-context, complex scenarios</a>.</li>
+      <li>I lead <a href="https://chuanyangjin.com/mmtom-qa">MMToM-QA</a> (ACL'24 Outstanding Paper) and <a href="https://chuanyangjin.com/AutoToM/">AutoToM</a> (NeurIPS'25 Spotlight), which push the frontier of machine Theory of Mind (ToM) by teaching AI systems to understand people's minds from their behavior.</li>
+      <li>We advance machine Theory of Mind by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a> and <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a> / <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> / <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> data, <a href="https://arxiv.org/abs/2606.00240">learning it self-supervised from human actions</a>, and <a href="https://chuanyangjin.com/AutoToM/">scaling mental inference to long-horizon, complex scenarios</a>.</li>
       </ul>
     </span>
   </div>
@@ -396,8 +396,8 @@ I'm developing AI models and agents with *advanced social intelligence (ASI)*. P
   <div class="pub-details focus-details">
     <span class="intro">
       <ul>
-      <li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from natural human interaction for continual improvement and personalized alignment. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a>. </li>
-      <li> We present the <a href="https://thoughttrace-project.github.io">ThoughtTrace</a> dataset for understanding and learning from user thoughts in real-world LLM interactions. </li>
+      <li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from natural human interaction for continual improvement and personalized alignment. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a> as a first step toward this vision. </li>
+      <li> We present <a href="https://thoughttrace-project.github.io">ThoughtTrace</a> (ICML 2026 RLxF Best Paper Award), introducing users' unspoken thoughts as a new data modality for understanding users and improving models. </li>
       <li> I co-organized <a href="https://continual-robot-learning-from-humans.github.io/">Continual Robot Learning from Humans @ RSS 2025</a>, <a href="https://relearncvpr26.github.io/ReLearn/">Learning from Humans @ CVPR 2026</a>, and <a href="https://ttcl-agents.github.io">Test-Time Continual Learning Agents @ NeurIPS 2026</a>. </li>
       </ul>
     </span>
@@ -417,7 +417,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
   <li markdown="span"><span class="news-date">Oct 2025</span>Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google DeepMind, Meta TBD Lab, WashU, and Northwestern.</li>
   <li markdown="span"><span class="news-date">Oct 2025</span>Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!</li>
   <li markdown="span"><span class="news-date">Sep 2025</span>[AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!</li>
-  <li markdown="span"><span class="news-date">Jun 2025</span>Lead-organized RSS 2025 Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/).</li>
+  <li markdown="span"><span class="news-date">Jun 2025</span>Co-organized RSS 2025 Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/).</li>
   <li markdown="span"><span class="news-date">Jun 2025</span>I was selected as a <span style="color: #C04000;">Notable Reviewer</span> for ICLR 2025.</li>
   <li markdown="span"><span class="news-date">Jan 2025</span>[MuMA-ToM](https://scai.cs.jhu.edu/projects/MuMA-ToM/) is accepted by AAAI 2025 as an <span style="color: #C04000;">Oral Presentation</span>!</li>
   <li markdown="span"><span class="news-date">Aug 2024</span>[MMToM-QA](/mmtom-qa) received <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024! It was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/).</li>
@@ -461,7 +461,7 @@ My research journey began with [these undergrad projects](/projects). I'm deeply
 ## Services
 
 <ul class="service-list">
-  <li markdown="span"><span class="service-role">Workshop Co-organizer:</span> [Test-Time Continual Learning Agents (TTCL @ NeurIPS 2026)](https://ttcl-agents.github.io), [Learning from Humans (ReLearn @ CVPR 2026)](https://relearncvpr26.github.io/ReLearn/), and [Continual Robot Learning from Humans (CRLH @ RSS 2025)](https://continual-robot-learning-from-humans.github.io/)</li>
+  <li markdown="span"><span class="service-role">Workshop Co-organizer:</span> [Continual Robot Learning from Humans (CRLH @ RSS 2025)](https://continual-robot-learning-from-humans.github.io/), [Learning from Humans (ReLearn @ CVPR 2026)](https://relearncvpr26.github.io/ReLearn/), and [Test-Time Continual Learning Agents (TTCL @ NeurIPS 2026)](https://ttcl-agents.github.io)</li>
   <li markdown="span"><span class="service-role">Conference Program Committee / Reviewer:</span> Machine Learning (ICLR - Notable Reviewer Award, NeurIPS, ICML, AAAI), Natural Language Processing (ARR, ACL, EMNLP, NAACL), Computer Vision (CVPR), Robotics (RSS)</li>
   <li markdown="span"><span class="service-role">Head Teaching Assistant:</span> [JHU EN.601 Machine Social Intelligence](https://www.tshu.io/teaching/MSI/sp26/) with Tianmin Shu</li>
 </ul>
