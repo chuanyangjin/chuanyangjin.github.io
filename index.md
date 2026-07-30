@@ -10,11 +10,8 @@ bundle install
 bundle exec jekyll serve 
 http://localhost:4000 -->
 
-<head>
-  <meta name="description" content="Chuanyang Jin is a Computer Science PhD student at Johns Hopkins University.">
-
-  <style>
-  a::after, a.external::after {
+<style>
+  a::after {
     display: none !important;
   }
   
@@ -24,11 +21,54 @@ http://localhost:4000 -->
     border-bottom: 1px solid #e8e8e8;
   }
 
-  /* --- News list: muted date column + hairline separators --- */
+  /* --- News list: scrollable box with muted date column + hairline separators --- */
+  /* Scroll affordance: fade the bottom edge into the page background */
+  .news-fade {
+    position: relative;
+    margin-bottom: 1rem; /* section spacing lives here, not on the ul, so the fade hugs the scrollbox */
+  }
+  .news-fade::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 40px;
+    pointer-events: none;
+    background: linear-gradient(to bottom, transparent, var(--body-bg));
+    opacity: 1;
+    transition: opacity 0.3s ease; /* smooth fade-out when the list reaches the bottom */
+  }
+  .news-fade.is-at-bottom::after {
+    opacity: 0;
+  }
   .news-list {
     list-style: none;
     margin-left: 0;
+    margin-bottom: 0; /* spacing moved to .news-fade wrapper */
     padding-left: 0;
+    /* Scrollable news box */
+    max-height: 250px;
+    overflow-y: auto;
+    padding-right: 10px;               /* clearance for the scrollbar */
+    overscroll-behavior: contain;      /* don't chain scroll to the page */
+    -webkit-overflow-scrolling: touch; /* momentum scroll on iOS */
+    scrollbar-width: thin;             /* Firefox */
+    scrollbar-color: #d0d0d0 transparent;
+  }
+  /* Thin, subtle scrollbar (WebKit/Blink) */
+  .news-list::-webkit-scrollbar {
+    width: 6px;
+  }
+  .news-list::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .news-list::-webkit-scrollbar-thumb {
+    background: #d0d0d0;
+    border-radius: 6px;
+  }
+  .news-list::-webkit-scrollbar-thumb:hover {
+    background: #b3b3b3;
   }
   .news-list li {
     position: relative;
@@ -308,6 +348,15 @@ http://localhost:4000 -->
   body.dark-mode .news-list li {
     border-bottom-color: #333;
   }
+  body.dark-mode .news-list {
+    scrollbar-color: #444 transparent;
+  }
+  body.dark-mode .news-list::-webkit-scrollbar-thumb {
+    background: #444;
+  }
+  body.dark-mode .news-list::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
   body.dark-mode .news-date {
     color: #888;
   }
@@ -354,6 +403,15 @@ http://localhost:4000 -->
     body:not(.light-mode) .news-list li {
       border-bottom-color: #333;
     }
+    body:not(.light-mode) .news-list {
+      scrollbar-color: #444 transparent;
+    }
+    body:not(.light-mode) .news-list::-webkit-scrollbar-thumb {
+      background: #444;
+    }
+    body:not(.light-mode) .news-list::-webkit-scrollbar-thumb:hover {
+      background: #555;
+    }
     body:not(.light-mode) .news-date {
       color: #888;
     }
@@ -362,7 +420,6 @@ http://localhost:4000 -->
     }
   }
   </style>
-</head>
 
 Hello! I am a 2nd-year Ph.D. student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also a student researcher at Meta FAIR, mentored by [Jason Weston](https://www.thespermwhale.com/jaseweston/index.html). I'm honored to be named an [Amazon AI PhD Fellow](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
 
@@ -410,6 +467,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
 
 ## News
 
+<div class="news-fade">
 <ul class="news-list">
   <li markdown="span"><span class="news-date">Dec 2026</span>Co-organizing the NeurIPS 2026 Workshop on [Test-Time Continual Learning Agents](https://ttcl-agents.github.io).</li>
   <li markdown="span"><span class="news-date">Jul 2026</span>[ThoughtTrace](https://thoughttrace-project.github.io/) received the <span style="color: #C04000;">Best Paper Award</span> at the [ICML 2026 RLxF Workshop](https://sites.google.com/view/rlxf-icml2026)!</li>
@@ -422,6 +480,30 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
   <li markdown="span"><span class="news-date">Jan 2025</span>[MuMA-ToM](https://scai.cs.jhu.edu/projects/MuMA-ToM/) is accepted by AAAI 2025 as an <span style="color: #C04000;">Oral Presentation</span>!</li>
   <li markdown="span"><span class="news-date">Aug 2024</span>[MMToM-QA](/mmtom-qa) received <span style="color: #C04000;">Outstanding Paper Award</span> at ACL 2024! It was covered by [Futurity](https://www.futurity.org/artificial-intelligence-theory-of-mind-3253282/), [Synced](https://mp.weixin.qq.com/s/fRa138rmFsv8W8JOYcsAPA), and [JHU News](https://engineering.jhu.edu/news/ai-cant-read-your-mind-yet/).</li>
 </ul>
+</div>
+
+<script>
+/* Hide the bottom fade on each .news-fade once its list is scrolled to the end. */
+(function () {
+  function syncNewsFade() {
+    var wraps = document.querySelectorAll('.news-fade');
+    for (var i = 0; i < wraps.length; i++) {
+      var list = wraps[i].querySelector('.news-list');
+      if (!list) { continue; }
+      var atBottom = list.scrollHeight - list.scrollTop - list.clientHeight <= 1;
+      wraps[i].classList.toggle('is-at-bottom', atBottom);
+    }
+  }
+  /* Live updates while scrolling: scroll doesn't bubble, so listen in the capture phase.
+     document persists across the theme's push-state navigation, so this stays bound. */
+  document.addEventListener('scroll', syncNewsFade, { capture: true, passive: true });
+  window.addEventListener('resize', syncNewsFade, { passive: true });
+  window.addEventListener('load', syncNewsFade);
+  /* Re-sync after dynamic (push-state) page loads; harmless if the event never fires. */
+  document.addEventListener('hy-push-state-load', syncNewsFade);
+  syncNewsFade();
+})();
+</script>
 
 
 ## Recent Publications
