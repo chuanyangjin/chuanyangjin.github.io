@@ -440,7 +440,7 @@ I'm developing AI models and agents with *advanced social intelligence (ASI)*. P
     <span class="intro">
       <ul>
       <li>I lead <a href="https://chuanyangjin.com/mmtom-qa">MMToM-QA</a> (ACL'24 Outstanding Paper) and <a href="https://chuanyangjin.com/AutoToM/">AutoToM</a> (NeurIPS'25 Spotlight), which push the frontier of machine Theory of Mind (ToM) by teaching AI systems to understand people's minds from their behavior.</li>
-      <li>We advance machine Theory of Mind by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a> and <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a> / <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> / <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> data, <a href="https://arxiv.org/abs/2606.00240">learning it self-supervised from human actions</a>, and <a href="https://chuanyangjin.com/AutoToM/">scaling mental inference to long-horizon, complex scenarios</a>.</li>
+      <li>We advance machine Theory of Mind by <a href="https://chuanyangjin.com/mmtom-qa">grounding it in cognitive theories</a> and <a href="https://chuanyangjin.com/mmtom-qa">multi-modal</a> / <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> / <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> data, <a href="https://scai.cs.jhu.edu/MindZero/">learning it self-supervised from human actions</a>, and <a href="https://chuanyangjin.com/AutoToM/">scaling mental inference to long-horizon, complex scenarios</a>.</li>
       </ul>
     </span>
   </div>
@@ -472,7 +472,7 @@ Besides academics, I enjoy playing Go, piano, badminton, swimming, and [so much 
   <li markdown="span"><span class="news-date">Dec 2026</span>Co-organizing the NeurIPS 2026 Workshop on [Test-Time Continual Learning Agents](https://ttcl-agents.github.io).</li>
   <li markdown="span"><span class="news-date">Jul 2026</span>[ThoughtTrace](https://thoughttrace-project.github.io/) received the <span style="color: #C04000;">Best Paper Award</span> at the [ICML 2026 RLxF Workshop](https://sites.google.com/view/rlxf-icml2026)!</li>
   <li markdown="span"><span class="news-date">Jun 2026</span>Co-organized CVPR 2026 Workshop on [Can AI Still Learn from Humans](https://relearncvpr26.github.io/ReLearn/).</li>
-  <li markdown="span"><span class="news-date">Oct 2025</span>Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Google DeepMind, Meta TBD Lab, WashU, and Northwestern.</li>
+  <li markdown="span"><span class="news-date">Oct 2025</span>Invited talks on ["Reinforcement Learning from Human Interaction"](https://arxiv.org/abs/2509.25137) at Meta TBD Lab, Google, WashU, and Northwestern.</li>
   <li markdown="span"><span class="news-date">Oct 2025</span>Excited to be awarded the <a href="https://ai2ai.engineering.jhu.edu/amazon-ai-phd-fellows/" style="color: #C04000;">Amazon AI PhD Fellowship</a>!</li>
   <li markdown="span"><span class="news-date">Sep 2025</span>[AutoToM](/AutoToM) is accepted by NeurIPS 2025 as a <span style="color: #C04000;">Spotlight Presentation</span>!</li>
   <li markdown="span"><span class="news-date">Jun 2025</span>Co-organized RSS 2025 Workshop on [Continual Robot Learning from Humans](https://continual-robot-learning-from-humans.github.io/).</li>
