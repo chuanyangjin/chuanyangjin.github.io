@@ -35,10 +35,8 @@
   authors: 'Tianjian Li, Jingyu Zhang, William Jurayj, Xi Wang, <b>Chuanyang Jin</b>, Mehrdad Farajtabar, Eric Nalisnick, Daniel Khashabi'
   venue: 'arXiv preprint / ⭐️ Paper of the Week by Huggingface'
   intro: >
-    Current systems compress the context on a fixed schedule.
-    We propose <i>SelfCompact</i>: give the model a summarization tool + a lightweight rubric that says when it's safe to fire (sub-task resolved, trajectory converging) and when to hold off (mid-derivation, stuck in a loop).
-    No fine-tuning, no external verifier. Same model does everything.
-    The pattern of gains is consistent across various evaluations: baseline < fixed-interval ≤ <i>SelfCompact</i>.
+    We let the model itself decide when and how to compact its own context, pairing a compaction tool with a lightweight rubric for when to fire and when to hold off. 
+    This self-compaction matches or beats fixed-interval summarization while using 30-70% less context budget.
   links:
     - label: paper
       url: https://arxiv.org/abs/2606.23525
