@@ -1,14 +1,10 @@
 ---
 title: Publications
 description: >
+  Publications by Chuanyang Jin.
 ---
 
-<head>
-  <!-- Meta Description Tag -->
-  <meta name="description" content="Publications by Chuanyang Jin.">
-
-  <style>
-    <style>
+<style>
   a::after, a.external::after {
     display: none !important;
   }
@@ -162,8 +158,7 @@ description: >
       border-left-color: #444;
     }
   }
-  </style>
-</head>
+</style>
 
 <div class="pub-note">
   (* denotes equal contribution; † denotes project lead)<br>

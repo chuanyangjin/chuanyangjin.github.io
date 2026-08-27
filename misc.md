@@ -1,6 +1,7 @@
 ---
 title: Misc
 description: >
+  A few things about Chuanyang Jin beyond research: hometown, music, movies, games, and sports.
 ---
 
 <style>

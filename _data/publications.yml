@@ -7,7 +7,7 @@
   selected: true
   title: "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions"
   authors: '<b>Chuanyang Jin</b>, Binze Li, Haopeng Xie, Cathy Mengying Fang, Tianjian Li, Shayne Longpre, Hongxiang Gu, Maximillian Chen, Tianmin Shu'
-  venue: 'ICML 2026 RLxF Workshop <span class="red"><b>(Best Paper Award)</b></span> / 📈 20K+ Huggingface Downloads'
+  venue: 'ICML 2026 RLxF Workshop <span class="red"><b>(Best Paper Award)</b></span> / 📈 25K+ Huggingface Downloads / 🔍 Invited Talk at UW'
   # https://huggingface.co/api/datasets/SCAI-JHU/ThoughtTrace?expand=downloadsAllTime; / 📰 Featured in Synced; ⭐️ Paper of the Week by Huggingface
   intro: >
     We introduce <i>ThoughtTrace</i>, the first large-scale dataset that pairs real-world multi-turn human-AI conversations with users' self-reported thoughts.
@@ -29,6 +29,22 @@
     - label: Synced news
       url: https://mp.weixin.qq.com/s/fxYJRiIsVNbVHO3HMZ9TEQ
 
+- id: ai-observatory
+  selected: false
+  title: "The AI Observatory: A Public Measure of Real-World AI Use"
+  authors: 'Shayne Longpre*, Anka Reuel*, Dayeon Ki*, Cathy Mengying Fang*, Megan Richards*, Zhiping Zhang*, <b>Chuanyang Jin</b>*, Jenn Mickel, Cedric Deslandes Whitney, Ahmet Üstün, Niloofar Mireshghallah, Victor Ojewale, Ariel Lee, Alex (Sandy) Pentland, Tianshi Li, Yuntian Deng, Mykel Kochenderfer, Sara Hooker, Sanmi Koyejo'
+  venue: 'arXiv preprint / 📰 Featured in the Washington Post and MIT Tech Review'
+  intro: >
+    We introduce the <i>AI Observatory</i>, a public measurement platform that aggregates the most comprehensive set of real AI conversation sources under a common taxonomy of 145 features,
+    spanning function, topic, sensitive use, interaction style, multi-turn dynamics, and conversation structure.
+    Across 23,158 conversations and 85,633 turns, we find that observed AI use is highly heterogeneous with no single source that generalizes,
+    and that occupation-focused analyses omit substantial personal, social, cultural, and safety-relevant interaction.
+  links:
+    - label: paper
+      url: https://www.dataprovenance.org/ai_observatory.pdf
+    - label: project
+      url: https://ai-observatory.org
+
 - id: selfcompact
   selected: false
   title: "Self-Compacting Language Model Agents"
@@ -47,7 +63,7 @@
   selected: true
   title: "The Era of Real-World Human Interaction: RL from User Conversations"
   authors: '<b>Chuanyang Jin</b>, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston'
-  venue: '<img src="/assets/img/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Report / 🔍 Invited Talk at Meta TBD Lab and Google / ⭐️ Paper of the Week by Huggingface, DAIR.AI, and TuringPost'
+  venue: '<img src="/assets/img/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Report / 🔍 Invited Talk at Meta TBD Lab, Google Research, WashU, Northwestern and UW / ⭐️ Paper of the Week by Huggingface, DAIR.AI, and TuringPost'
   intro: >
     We posit that to achieve continual model improvement and multifaceted alignment, future models must learn from natural human interaction.
     We introduce Reinforcement Learning from Human Interaction (RLHI), a paradigm that learns directly from in-the-wild user conversations, leveraging organic replies and long-term history as learning signals.
@@ -131,7 +147,7 @@
     - label: paper
       url: https://arxiv.org/abs/2502.15676
     - label: project
-      url: /AutoToM
+      url: /AutoToM/
     - label: code
       url: https://github.com/SCAI-JHU/AutoToM
     - label: Synced news
@@ -216,7 +232,7 @@
   selected: true
   title: "MMToM-QA: Multimodal Theory of Mind Question Answering"
   authors: '<b>Chuanyang Jin</b>, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu'
-  venue: 'ACL 2024 <span class="red"><b>(Outstanding Paper Award)</b></span> / 🔍 Invited Talk at University of Washington / 📰 Featured in Futurity, Synced, and JHU News'
+  venue: 'ACL 2024 <span class="red"><b>(Outstanding Paper Award)</b></span> / 🔍 Invited Talk at UW / 📰 Featured in Futurity, Synced, and JHU News'
   intro: >
     Can machines understand people's minds from multimodal inputs?
     We introduce a comprehensive benchmark, MMToM-QA, and highlight key limitations in current multimodal LLMs.
@@ -231,7 +247,7 @@
     - label: benchmark
       url: https://github.com/chuanyangjin/MMToM-QA?tab=readme-ov-file#-mmtom-qa-benchmark
     - label: leaderboard
-      url: "https://chuanyangjin.com/mmtom-qa-leaderboard"
+      url: /mmtom-qa-leaderboard
     - label: slides
       url: /assets/slides/MMToM-QA.pdf
     - label: Futurity news
@@ -276,7 +292,7 @@
 # - id: beyond-binary
 #   selected: false
 #   title: "Beyond the Binary: Capturing Diverse Preferences With Reward Regularization"
-#   authors: 'Vishakh Padmakumar*,<b>Chuanyang Jin</b>*, Hannah Rose Kirk*, He He'
+#   authors: 'Vishakh Padmakumar*, <b>Chuanyang Jin</b>*, Hannah Rose Kirk*, He He'
 #   venue: 'NeurIPS 2024 SoLaR Workshop'
 #   intro: >
 #     Standard binary feedback in RLHF fails to capture the diversity of user opinions in subjective tasks.
@@ -315,7 +331,7 @@
   selected: false
   title: "OpenCompass: A Universal Evaluation Platform for Foundation Models"
   authors: 'OpenCompass Team'
-  venue: 'Open-source Project / ⭐️ 7K+ Github Stars'
+  venue: 'Open-source Project / ⭐️ 7K+ GitHub Stars'
   intro: >
     OpenCompass is an LLM evaluation platform, supporting a wide range of models over 100+ datasets.
   links:
@@ -326,7 +342,7 @@
   selected: false
   title: "Fast-DiT: Fast Diffusion Models with Transformers"
   authors: '<b>Chuanyang Jin</b>, Saining Xie'
-  venue: 'Open-source Project / ⭐️ 950+ Github Stars'
+  venue: 'Open-source Project / ⭐️ 950+ GitHub Stars'
   intro: >
     Fast-DiT improves the efficiency of Diffusion Transformers (DiTs) by incorporating features such as gradient checkpointing, mixed-precision training, and feature pre-extraction.
     It delivers a 95% speed increase and a 60% reduction in memory usage, and has been integrated into the official DiT implementation.

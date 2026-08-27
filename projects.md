@@ -1,13 +1,10 @@
 ---
 title: Undergrad Projects
 description: >
+  Undergrad projects by Chuanyang Jin.
 ---
 
-<head>
-  <!-- Meta Description Tag -->
-  <meta name="description" content="Undergrad projects by Chuanyang Jin.">
-
-  <style>
+<style>
   a::after, a.external::after {
     display: none !important;
   }
@@ -115,11 +112,10 @@ description: >
       color: #93a39c;
     }
   }
-  </style>
-</head>
+</style>
 
 <!-- <script>
-    window.location.href = "https://chuanyangjin.com/#projects";
+    window.location.href = "/#projects";
 </script> -->
 
 
@@ -127,7 +123,7 @@ description: >
   <div class="proj-thumb"><img src="/assets/img/projects/fast_dit.png" alt="Fast Diffusion Transformers"></div>
   <div class="proj-body">
     <div class="proj-title">Fast Diffusion Transformers</div>
-    <div class="proj-tagline">DiT models with 2x speedup and 60% less memory; 800+ GitHub Stars.</div>
+    <div class="proj-tagline">DiT models with 95% speedup and 60% less memory; 950+ GitHub Stars.</div>
     <div class="proj-links"><a href="https://github.com/chuanyangjin/fast-DiT">code</a></div>
   </div>
 </div>
