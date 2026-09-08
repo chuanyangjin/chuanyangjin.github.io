@@ -58,6 +58,8 @@
       url: https://arxiv.org/abs/2606.23525
     - label: code
       url: https://github.com/tianjianl/selfcompact
+    - label: slides
+      url: https://danielkhashabi.com/files/2026_apple_talk/2026-apple-reasoning-workshop-split.pdf
 
 - id: rlhi
   selected: true
