@@ -460,7 +460,7 @@ My research focuses on continual learning agents with advanced social intelligen
   </div>
 </div><div class="pub-item" style="margin: 10px 0; padding: 0;">
   <div class="focus-header">
-    <span class="focus-caret">▶</span><span class="focus-title"><strong>Self-Improving and Co-Improving with Humans</strong></span>
+    <span class="focus-caret">▶</span><span class="focus-title"><strong>Self-Improvement and Co-Improvement with Humans</strong></span>
   </div>
 
   <div class="pub-details focus-details">
