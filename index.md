@@ -467,7 +467,7 @@ My research focuses on continual learning agents with advanced social intelligen
     <span class="intro">
       <ul>
       <li> We study self-improving agents: <a href="https://arxiv.org/abs/2510.24684">SPICE</a> improves reasoning through grounded self-play, and <a href="https://qiushisun.github.io/OS-Genesis-Home">OS-Genesis</a> synthesizes its own training data through environment interaction. </li>
-      <li> I'm working on autoresearch agents and on co-improving these agents with humans. More coming soon! </li>
+      <li> I'm working on autoresearch agents and on co-improving these agents with humans. More coming soon &amp; open to collaboration! </li>
       </ul>
     </span>
   </div>
