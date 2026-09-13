@@ -427,7 +427,7 @@ I have spent time at [Meta FAIR](https://ai.meta.com/research/) (2025, 2026) and
 <!-- My first-author works -->
 <!-- I was a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://cocosci.mit.edu/josh-tenenbaum/). -->
 
-I'm developing AI models and agents with *advanced social intelligence (ASI)*. Particularly, I am working on:
+My research focuses on continual learning agents with advanced social intelligence. I work on:
 
 <div class="pub-item" style="margin: 10px 0; padding: 0;">
   <div class="focus-header">
@@ -455,6 +455,19 @@ I'm developing AI models and agents with *advanced social intelligence (ASI)*. P
       <li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from natural human interaction for continual improvement and personalized alignment. We introduce <a href="https://arxiv.org/abs/2509.25137">Reinforcement Learning from Human Interaction (RLHI)</a> as a first step toward this vision. </li>
       <li> We present <a href="https://thoughttrace-project.github.io">ThoughtTrace</a> (ICML 2026 RLxF Best Paper Award), introducing users' unspoken thoughts as a new data modality for understanding users and improving models. </li>
       <li> I co-organized <a href="https://continual-robot-learning-from-humans.github.io/">Continual Robot Learning from Humans @ RSS 2025</a>, <a href="https://relearncvpr26.github.io/ReLearn/">Learning from Humans @ CVPR 2026</a>, and <a href="https://ttcl-agents.github.io">Test-Time Continual Learning Agents @ NeurIPS 2026</a>. </li>
+      </ul>
+    </span>
+  </div>
+</div><div class="pub-item" style="margin: 10px 0; padding: 0;">
+  <div class="focus-header">
+    <span class="focus-caret">▶</span><span class="focus-title"><strong>Self-Improving and Co-Improving with Humans</strong></span>
+  </div>
+
+  <div class="pub-details focus-details">
+    <span class="intro">
+      <ul>
+      <li> We study self-improving agents: <a href="https://arxiv.org/abs/2510.24684">SPICE</a> improves reasoning through grounded self-play, and <a href="https://qiushisun.github.io/OS-Genesis-Home">OS-Genesis</a> synthesizes its own training data through environment interaction. </li>
+      <li> I'm working on autoresearch agents and on co-improving these agents with humans. More coming soon! </li>
       </ul>
     </span>
   </div>
