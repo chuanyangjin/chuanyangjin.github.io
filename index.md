@@ -423,7 +423,7 @@ http://localhost:4000 -->
 
 Hello! I am a PhD student in Computer Science at [Johns Hopkins University](https://www.jhu.edu/), advised by [Tianmin Shu](https://www.tshu.io/). I'm also working closely with [Jason Weston](https://www.thespermwhale.com/jaseweston/). I'm honored to be named an [Amazon AI PhD Fellow](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program).
 
-I have spent time at [Meta FAIR](https://ai.meta.com/research/) (2025, 2026) and [MIT](https://www.mit.edu/) (2023). I received my undergraduate degrees in Honors Computer Science and Mathematics from [NYU Courant](https://cims.nyu.edu/dynamic/) (2020-2024), where I was recognized as the [most promising student](/assets/awards/most_promising_student.pdf). My works have received the [ACL Outstanding Paper Award](https://arxiv.org/abs/2401.08743), [Best Paper Award at an ICML workshop](https://arxiv.org/abs/2605.20087), and multiple spotlights/orals at top venues. 
+I have spent time at [Meta FAIR](https://ai.meta.com/research/) (2025, 2026) and [MIT](https://www.mit.edu/) (2023). I received my undergraduate degrees in Honors Computer Science and Mathematics from [NYU Courant](https://cims.nyu.edu/dynamic/) (2020-2024), recognized as the [most promising student](/assets/awards/most_promising_student.pdf). My works have received the [ACL Outstanding Paper Award](https://arxiv.org/abs/2401.08743), [Best Paper Award at an ICML workshop](https://arxiv.org/abs/2605.20087), and multiple spotlights/orals at top venues. 
 <!-- My first-author works -->
 <!-- I was a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://cocosci.mit.edu/josh-tenenbaum/). -->
 
