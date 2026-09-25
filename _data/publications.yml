@@ -33,7 +33,7 @@
   selected: false
   title: "The AI Observatory: A Public Measure of Real-World AI Use"
   authors: 'Shayne Longpre*, Anka Reuel*, Dayeon Ki*, Cathy Mengying Fang*, Megan Richards*, Zhiping Zhang*, <b>Chuanyang Jin</b>*, Jenn Mickel, Cedric Deslandes Whitney, Ahmet Üstün, Niloofar Mireshghallah, Victor Ojewale, Ariel Lee, Alex (Sandy) Pentland, Tianshi Li, Yuntian Deng, Mykel Kochenderfer, Sara Hooker, Sanmi Koyejo'
-  venue: 'arXiv preprint / 📰 Featured in the Washington Post and MIT Tech Review'
+  venue: 'NeurIPS 2026 / 📰 Featured in the Washington Post and MIT Tech Review'
   intro: >
     We introduce the <i>AI Observatory</i>, a public measurement platform that aggregates the most comprehensive set of real AI conversation sources under a common taxonomy of 145 features,
     spanning function, topic, sensitive use, interaction style, multi-turn dynamics, and conversation structure.
@@ -49,7 +49,7 @@
   selected: false
   title: "Self-Compacting Language Model Agents"
   authors: 'Tianjian Li, Jingyu Zhang, William Jurayj, Xi Wang, <b>Chuanyang Jin</b>, Mehrdad Farajtabar, Eric Nalisnick, Daniel Khashabi'
-  venue: 'arXiv preprint / ⭐️ Paper of the Week by Huggingface'
+  venue: 'NeurIPS 2026 / ⭐️ Paper of the Week by Huggingface'
   intro: >
     We let the model itself decide when and how to compact its own context, pairing a compaction tool with a lightweight rubric for when to fire and when to hold off. 
     This self-compaction matches or beats fixed-interval summarization while using 30-70% less context budget.
