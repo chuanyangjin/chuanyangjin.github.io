@@ -556,6 +556,6 @@ My research journey began with [these undergrad projects](/projects/). I'm deepl
 
 <ul class="service-list">
   <li markdown="span"><span class="service-role">Workshop Co-organizer:</span> [Continual Robot Learning from Humans (CRLH @ RSS 2025)](https://continual-robot-learning-from-humans.github.io/), [Learning from Humans (ReLearn @ CVPR 2026)](https://relearncvpr26.github.io/ReLearn/), and [Test-Time Continual Learning Agents (TTCL @ NeurIPS 2026)](https://ttcl-agents.github.io)</li>
-  <li markdown="span"><span class="service-role">Conference Program Committee / Reviewer:</span> Machine Learning (ICLR - Notable Reviewer Award, NeurIPS, ICML, AAAI), Natural Language Processing (ARR, ACL, EMNLP, NAACL), Computer Vision (CVPR), Robotics (RSS)</li>
+  <li markdown="span"><span class="service-role">Conference Program Committee / Reviewer:</span> Machine Learning (ICLR - Notable Reviewer Award, NeurIPS, ICML, AAAI), Natural Language Processing (ACL, EMNLP, NAACL, COLM), Computer Vision (CVPR), Robotics (RSS)</li>
   <li markdown="span"><span class="service-role">Head Teaching Assistant:</span> [JHU EN.601 Machine Social Intelligence](https://www.tshu.io/teaching/MSI/sp26/) with Tianmin Shu</li>
 </ul>
