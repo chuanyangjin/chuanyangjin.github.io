@@ -1,5 +1,6 @@
 /* chuanyangjin.com site script (plain ES5, loaded with `defer`).
    - mobile menu
+   - home research cards (bio links that open a floating card)
    - home news: year dividers + "Show N earlier entries" / "Collapse to recent"
    - publication TL;DR toggles
    - /publication/ Selected / All switch (URL hash #all)
@@ -105,6 +106,154 @@
         setOpen(false);
       }
     });
+  }
+
+  /* ---------------------------------------------------------------- research cards */
+  /* Each .peek-trigger link opens the card named by its aria-controls, under the link's last line.
+     With a fine pointer, hovering opens the card and leaving both the link and the card closes it;
+     a click or tap keeps it open until the link is clicked again, a click lands elsewhere, Escape is
+     pressed or focus tabs out of the card. The cards follow the paragraph in the DOM, so Tab reaches
+     an open card's links after the last link of the paragraph. */
+  function initPeeks() {
+    var triggers = doc.querySelectorAll('.peek-trigger');
+    if (!triggers.length) {
+      return;
+    }
+    var hoverQuery = window.matchMedia ? window.matchMedia('(hover: hover) and (pointer: fine)') : null;
+    var current = null;
+    var pinned = false;
+    var openTimer = null;
+    var closeTimer = null;
+
+    function cardOf(t) {
+      return doc.getElementById(t.getAttribute('aria-controls'));
+    }
+
+    function canHover() {
+      return !!(hoverQuery && hoverQuery.matches);
+    }
+
+    /* The card's text lines up with the link (18px = its left padding), kept inside the bio */
+    function place(t) {
+      var card = cardOf(t);
+      var box = card.offsetParent.getBoundingClientRect();
+      var rects = t.getClientRects();
+      var line = rects[rects.length - 1];
+      var left = Math.min(line.left - box.left - 18, box.width - card.offsetWidth);
+      card.style.left = Math.max(0, Math.round(left)) + 'px';
+      card.style.top = Math.round(line.bottom - box.top + 8) + 'px';
+    }
+
+    function setOpen(t, open) {
+      t.setAttribute('aria-expanded', open ? 'true' : 'false');
+      cardOf(t).classList.toggle('open', open);
+    }
+
+    function show(t, pin) {
+      clearTimeout(openTimer);
+      clearTimeout(closeTimer);
+      if (current && current !== t) {
+        setOpen(current, false);
+      }
+      current = t;
+      pinned = pin;
+      setOpen(t, true);
+      place(t);
+    }
+
+    function hide() {
+      clearTimeout(openTimer);
+      clearTimeout(closeTimer);
+      if (current) {
+        setOpen(current, false);
+        current = null;
+        pinned = false;
+      }
+    }
+
+    function hideSoon() {
+      clearTimeout(openTimer);
+      if (current && !pinned) {
+        clearTimeout(closeTimer);
+        closeTimer = setTimeout(hide, 200);
+      }
+    }
+
+    each(triggers, function (t) {
+      var card = cardOf(t);
+      if (!card) {
+        return;
+      }
+      t.setAttribute('role', 'button');
+      t.setAttribute('aria-expanded', 'false');
+
+      t.addEventListener('click', function (e) {
+        e.preventDefault();
+        if (current === t && pinned) {
+          hide();
+        } else {
+          show(t, true);
+        }
+      });
+
+      t.addEventListener('keydown', function (e) {
+        if (e.key === ' ' || e.key === 'Spacebar') {
+          e.preventDefault();
+          t.click();
+        }
+      });
+
+      t.addEventListener('mouseenter', function () {
+        if (!canHover() || pinned) {
+          return;
+        }
+        clearTimeout(closeTimer);
+        if (current !== t) {
+          clearTimeout(openTimer);
+          openTimer = setTimeout(function () {
+            show(t, false);
+          }, current ? 0 : 100);
+        }
+      });
+
+      t.addEventListener('mouseleave', hideSoon);
+
+      card.addEventListener('mouseenter', function () {
+        clearTimeout(closeTimer);
+      });
+
+      card.addEventListener('mouseleave', hideSoon);
+
+      card.addEventListener('focusout', function (e) {
+        var to = e.relatedTarget;
+        if (current === t && to && !card.contains(to) && to !== t) {
+          hide();
+        }
+      });
+    });
+
+    doc.addEventListener('click', function (e) {
+      if (current && !current.contains(e.target) && !cardOf(current).contains(e.target)) {
+        hide();
+      }
+    });
+
+    doc.addEventListener('keydown', function (e) {
+      if (isEscape(e) && current) {
+        var t = current;
+        var focusInside = doc.activeElement === t || cardOf(t).contains(doc.activeElement);
+        hide();
+        if (focusInside) {
+          t.focus();
+        }
+      }
+    });
+
+    window.addEventListener('resize', debounce(function () {
+      if (current) {
+        place(current);
+      }
+    }, 100));
   }
 
   /* ---------------------------------------------------------------- news */
@@ -772,6 +921,7 @@
   /* ---------------------------------------------------------------- start */
   function init() {
     initNav();
+    initPeeks();
     initLogs();
     initTldr();
     initPubFilter();

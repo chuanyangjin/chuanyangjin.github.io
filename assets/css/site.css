@@ -232,20 +232,20 @@ strong {
    blue and a 2px blue line sweeps in from the left. :where() keeps the specificity at
    zero so component rules (link rows, chips) override it.
    --------------------------------------------------------------------------- */
-:where(.hero-bio, .focus-body, .log, .lede, .prose, .pub-note, .pub-abstract, .foot) a {
+:where(.hero-bio, .log, .lede, .prose, .pub-note, .pub-abstract, .foot) a {
   color: var(--ink);
   padding: 0 1px;
   border-bottom: 1px solid var(--link-line);
   transition: color 0.15s ease, border-color 0.15s ease;
 }
 
-:where(.hero-bio, .focus-body, .log, .lede, .prose, .pub-note, .pub-abstract, .foot) a:hover {
+:where(.hero-bio, .log, .lede, .prose, .pub-note, .pub-abstract, .foot) a:hover {
   color: var(--accent);
   border-bottom-color: var(--accent);
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  :where(.hero-bio, .focus-body, .log, .lede, .prose, .pub-note, .pub-abstract, .foot) a {
+  :where(.hero-bio, .log, .lede, .prose, .pub-note, .pub-abstract, .foot) a {
     border-bottom: 0;
     background-image: linear-gradient(var(--accent), var(--accent)), linear-gradient(var(--link-line), var(--link-line));
     background-repeat: no-repeat;
@@ -254,7 +254,7 @@ strong {
     transition: background-size 0.28s var(--swift), color 0.15s ease;
   }
 
-  :where(.hero-bio, .focus-body, .log, .lede, .prose, .pub-note, .pub-abstract, .foot) a:hover {
+  :where(.hero-bio, .log, .lede, .prose, .pub-note, .pub-abstract, .foot) a:hover {
     background-size: 100% 2px, 100% 1px;
   }
 }
@@ -656,7 +656,7 @@ main > section:last-child {
   text-wrap: pretty;
 }
 
-.hero-bio p:last-child {
+.hero-bio > p:last-of-type {
   margin-bottom: 0;
 }
 
@@ -706,7 +706,7 @@ main > section:last-child {
   height: 16px;
 }
 
-/* Affiliations: a fixed 28px under the dock (they do not move when focus rows open) */
+/* Affiliations: a fixed 28px under the dock */
 .aff {
   display: grid;
   gap: 14px;
@@ -743,91 +743,82 @@ main > section:last-child {
   color: var(--ink);
 }
 
-/* Research focus rows: native <details> */
-.focus {
-  max-width: 660px;
-  margin-top: 20px;
-  border-top: 1px solid var(--rule-2);
+/* Research cards: the bio's "reason about" / "learn from human interaction" links open a floating
+   card under the link (site.js: hover with a fine pointer, click or tap anywhere, Escape closes).
+   Without JavaScript the cards sit under the paragraph and the links jump to them. */
+.hero-bio {
+  position: relative;
 }
 
-.focus-row {
-  border-bottom: 1px solid var(--rule-2);
+.peek-card {
+  margin-top: 16px;
+  padding: 14px 18px 12px;
+  background: var(--paper);
+  border: 1px solid var(--rule-2);
+  border-radius: 12px;
 }
 
-.focus-row > summary {
-  display: grid;
-  grid-template-columns: 32px minmax(0, 1fr) auto;
-  column-gap: 8px;
-  align-items: center;
-  padding: 14px 0;
-  list-style: none;
-  cursor: pointer;
-}
-
-.focus-row > summary::-webkit-details-marker {
+.js .peek-card {
   display: none;
+  position: absolute;
+  z-index: 20;
+  top: 0;
+  left: 0;
+  width: min(500px, 100%);
+  margin: 0;
+  box-shadow: 0 1px 2px rgba(60, 64, 67, 0.1), 0 10px 28px rgba(60, 64, 67, 0.16);
 }
 
-.focus-num {
-  width: 22px;
-  height: 22px;
-  border-radius: 50%;
-  background: var(--tint);
-  color: var(--tint-ink);
-  font-size: 12px;
-  font-weight: 600;
-  line-height: 22px;
-  text-align: center;
-  font-variant-numeric: tabular-nums;
+.js .peek-card.open {
+  display: block;
 }
 
-.focus-title {
-  font-size: 17px;
+.peek-head {
+  margin-bottom: 6px;
+  font-size: 14px;
   font-weight: 600;
   line-height: 1.4;
   color: var(--ink);
-  text-wrap: balance;
-  transition: color 0.15s ease;
 }
 
-.focus-row .chev {
-  width: 14px;
-  height: 14px;
-  color: var(--ink-3);
-  transition: color 0.15s ease;
-}
-
-.focus-row > summary:hover .focus-title,
-.focus-row > summary:hover .chev {
-  color: var(--accent);
-}
-
-.focus-row[open] .chev {
-  transform: rotate(180deg);
-}
-
-.focus-body {
-  margin: 0 0 16px 40px;
-  padding: 1px 0 1px 13px;
-  border-left: 2px solid var(--rule-2);
+.peek-card ul {
+  margin: 0;
+  padding: 0;
   list-style: none;
 }
 
-.focus-body li {
-  padding: 3px 0;
-  font-size: 16px;
-  line-height: 1.6;
-  color: var(--ink-2);
+.peek-card li {
+  position: relative;
+  padding: 3px 0 3px 14px;
+  font-size: 15px;
+  line-height: 1.55;
   text-wrap: pretty;
 }
 
+.peek-card li::before {
+  content: "";
+  position: absolute;
+  top: calc(3px + 0.775em - 2.5px);
+  left: 0;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+/* An open card's link keeps its hover look */
+.hero-bio .peek-trigger[aria-expanded="true"] {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
 @media (prefers-reduced-motion: no-preference) {
-  .focus-row .chev {
-    transition: color 0.15s ease, transform 0.2s ease;
+  .hero-bio .peek-trigger[aria-expanded="true"] {
+    background-size: 100% 2px, 100% 1px;
   }
 
-  .focus-row[open] .focus-body li {
-    animation: rise 0.18s ease both;
+  .js .peek-card.open {
+    animation: rise 0.16s ease both;
   }
 }
 
@@ -850,8 +841,7 @@ main > section:last-child {
     grid-template-areas:
       "avatar name"
       "dock dock"
-      "bio bio"
-      "focus focus";
+      "bio bio";
     column-gap: clamp(18px, 5vw, 28px);
     row-gap: 0;
     align-items: center;
@@ -882,10 +872,6 @@ main > section:last-child {
     margin-top: 20px;
   }
 
-  .focus {
-    grid-area: focus;
-  }
-
   .aff {
     display: none;
   }
@@ -894,14 +880,6 @@ main > section:last-child {
 @media (max-width: 600px) {
   .hero-bio {
     font-size: 17px;
-  }
-
-  .focus-title {
-    font-size: 16px;
-  }
-
-  .focus-body {
-    margin-left: 0;
   }
 }
 
@@ -1977,6 +1955,14 @@ html:not(.js) .seg {
 
   .js .pub-abstract {
     display: block;
+  }
+
+  .js .peek-card {
+    display: block;
+    position: static;
+    width: auto;
+    margin-top: 16px;
+    box-shadow: none;
   }
 
   .journal {

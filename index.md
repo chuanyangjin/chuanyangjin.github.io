@@ -27,44 +27,34 @@ I have spent time at [Meta FAIR](https://ai.meta.com/research/) (2025, 2026) and
 <!-- My first-author works -->
 <!-- I was a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://cocosci.mit.edu/josh-tenenbaum/). -->
 
-My research focuses on continual learning agents with advanced social intelligence. I work on:
+I've been working on socially intelligent agents that <a class="peek-trigger" href="#peek-reason" aria-controls="peek-reason">reason about</a> and <a class="peek-trigger" href="#peek-learn" aria-controls="peek-learn">learn from human interaction</a>. I'm currently working on recursive self-improvement and human-AI co-improvement.
 
-</div>
-<div class="focus">
-<details class="focus-row">
-<summary><span class="focus-num" aria-hidden="true">1</span><span class="focus-title">Reasoning about Human Interaction</span><svg class="chev" viewBox="0 0 16 16" aria-hidden="true"><path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
-<!-- Developing AI that can continuously perceive, reason about, and respond to human behavior and cognition. -->{% comment %}
-Parked subtitle. If restored, do not leave it as loose text inside <summary>: the summary is a 3-column grid
-(number, title, chevron), so loose text lands in the 32px number column, one word per line. Give it its own
-element in the title column (grid-column: 2) or move it below </summary>.
+{% comment %}
+Research cards for the two links above. site.js opens each one under its link (hover on desktop, tap on
+touch screens); without JavaScript they sit under the paragraph and the links jump to them. Keep them inside
+this .hero-bio (positioning context, and its in-text link style).
 {% endcomment %}
-</summary>
-<ul class="focus-body">
+<div class="peek-card" id="peek-reason">
+<div class="peek-head">Reasoning about Human Interaction</div>
+<!-- Developing AI that can continuously perceive, reason about, and respond to human behavior and cognition. -->
+<ul>
 <li>I lead <a href="/mmtom-qa">MMToM-QA</a> (ACL'24 Outstanding Paper) and <a href="/AutoToM/">AutoToM</a> (NeurIPS'25 Spotlight), which push the frontier of machine Theory of Mind (ToM) by teaching AI systems to understand people's minds from their behavior.</li>
 <li>We advance machine Theory of Mind by <a href="/mmtom-qa">grounding it in cognitive theories</a> and <a href="/mmtom-qa">multi-modal</a> / <a href="https://scai.cs.jhu.edu/projects/MuMA-ToM/">multi-agent</a> / <a href="https://arxiv.org/abs/2506.23046">multi-perspective</a> data, <a href="https://scai.cs.jhu.edu/MindZero/">learning it self-supervised from human actions</a>, and <a href="/AutoToM/">scaling mental inference to long-horizon, complex scenarios</a>.</li>
 </ul>
-</details>
-<details class="focus-row">
-<summary><span class="focus-num" aria-hidden="true">2</span><span class="focus-title">Learning from Human Interaction</span><svg class="chev" viewBox="0 0 16 16" aria-hidden="true"><path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
-<!-- Developing AI that can continuously learn from real-world human interactions. -->{% comment %}
-Parked subtitle. If restored, do not leave it as loose text inside <summary> (it would land in the 32px number
-column); give it its own element in the title column (grid-column: 2) or move it below </summary>.
-{% endcomment %}
-</summary>
-<ul class="focus-body">
-<li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from natural human interaction for continual improvement and personalized alignment. </li>
-<li> We introduce <a href="https://arxiv.org/abs/2509.25137">RL from Human Interaction (RLHI)</a> for learning from in-the-wild user conversations, <a href="https://thoughttrace-project.github.io">ThoughtTrace</a> for learning from users' unspoken thoughts, and <a href="https://facebookresearch.github.io/RAM/blogs/autointeract/">AutoInteract</a> for training agents to interact with humans. </li>
-</ul>
-</details>
-<details class="focus-row">
-<summary><span class="focus-num" aria-hidden="true">3</span><span class="focus-title">Self-Improvement and Co-Improvement with Humans</span><svg class="chev" viewBox="0 0 16 16" aria-hidden="true"><path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
-</summary>
-<ul class="focus-body">
-<li> We study self-improving agents: <a href="https://arxiv.org/abs/2510.24684">SPICE</a> improves reasoning through grounded self-play, and <a href="https://qiushisun.github.io/OS-Genesis-Home">OS-Genesis</a> synthesizes agents' own training data. </li>
-<li> I'm working on autoresearch agents and on co-improving these agents with humans. More coming soon &amp; open to collaboration! </li>
-</ul>
-</details>
 </div>
+<div class="peek-card" id="peek-learn">
+<div class="peek-head">Learning from Human Interaction</div>
+<!-- Developing AI that can continuously learn from real-world human interactions. -->
+<ul>
+<li>We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from natural human interaction for continual improvement and personalized alignment.</li>
+<li>We introduce <a href="https://arxiv.org/abs/2509.25137">RL from Human Interaction (RLHI)</a> for learning from in-the-wild user conversations, <a href="https://thoughttrace-project.github.io">ThoughtTrace</a> for learning from users' unspoken thoughts, and <a href="https://facebookresearch.github.io/RAM/blogs/autointeract/">AutoInteract</a> for training agents to interact with humans.</li>
+</ul>
+</div>
+
+</div>
+<!-- Self-Improvement and Co-Improvement with Humans:
+We study self-improving agents: [SPICE](https://arxiv.org/abs/2510.24684) improves reasoning through grounded self-play, and [OS-Genesis](https://qiushisun.github.io/OS-Genesis-Home) synthesizes agents' own training data.
+I'm working on autoresearch agents and on co-improving these agents with humans. More coming soon & open to collaboration! -->
 {% comment %}
 Parked paragraphs below. If restored, move them out of this raw-HTML .hero-main div into a markdown="1"
 container styled like the bio and added to the in-text link selector in site.css (`:where(.hero-bio, ...) a`);
