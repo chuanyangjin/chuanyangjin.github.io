@@ -27,7 +27,7 @@ I have spent time at [Meta FAIR](https://ai.meta.com/research/) (2025, 2026) and
 <!-- My first-author works -->
 <!-- I was a research intern at [MIT](https://www.mit.edu/) (2023), advised by [Josh Tenenbaum](https://cocosci.mit.edu/josh-tenenbaum/). -->
 
-I've been working on socially intelligent agents that <a class="peek-trigger" href="#peek-reason" aria-controls="peek-reason">reason about</a> and <a class="peek-trigger" href="#peek-learn" aria-controls="peek-learn">learn from human interaction</a>. I'm currently working on recursive self-improvement and human-AI co-improvement.
+My research has focused on socially intelligent agents that <a class="peek-trigger" href="#peek-reason" aria-controls="peek-reason">reason about</a> and <a class="peek-trigger" href="#peek-learn" aria-controls="peek-learn">learn from human interaction</a>. I'm currently working on recursive self-improvement and human-AI co-improvement.
 
 {% comment %}
 Research cards for the two links above. site.js opens each one under its link (hover on desktop, tap on
