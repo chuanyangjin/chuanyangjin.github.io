@@ -52,9 +52,8 @@ column); give it its own element in the title column (grid-column: 2) or move it
 {% endcomment %}
 </summary>
 <ul class="focus-body">
-<li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from natural human interaction for continual improvement and personalized alignment. We introduce <a href="https://arxiv.org/abs/2509.25137">RL from Human Interaction (RLHI)</a> as a first step toward this vision. </li>
-<li> We present <a href="https://thoughttrace-project.github.io">ThoughtTrace</a> (ICML 2026 RLxF Best Paper Award), introducing users' unspoken thoughts as a new data modality for understanding users and improving models. </li>
-<li> We build <a href="https://facebookresearch.github.io/RAM/blogs/autointeract/">AutoInteract</a> to train agents to interact with humans. </li>
+<li> We advocate for an <a href="https://arxiv.org/abs/2509.25137">era of real-world human interaction</a>, where models learn from natural human interaction for continual improvement and personalized alignment. </li>
+<li> We introduce <a href="https://arxiv.org/abs/2509.25137">RL from Human Interaction (RLHI)</a> for learning from in-the-wild user conversations, <a href="https://thoughttrace-project.github.io">ThoughtTrace</a> for learning from users' unspoken thoughts, and <a href="https://facebookresearch.github.io/RAM/blogs/autointeract/">AutoInteract</a> for training agents to interact with humans. </li>
 </ul>
 </details>
 <details class="focus-row">
