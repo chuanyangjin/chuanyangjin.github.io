@@ -32,6 +32,57 @@
     - label: Synced news
       url: https://mp.weixin.qq.com/s/fxYJRiIsVNbVHO3HMZ9TEQ
 
+- id: ideascientist
+  selected: false
+  title: "IdeaScientist: Orchestrating Agents for Grounded Scientific Ideation"
+  authors: 'Jiarui Liu, Renjie Tao, Yiwei Liao, <b>Chuanyang Jin</b>, Kai Sun, Xiao Yang, Xinyuan Zhang, Xilun Chen, Zhuangqun Huang, Lechen Zhang, Yongjin Yang, Yinghui He, Weihao Xuan, Rakesh Wanga, Anuj Kumar, Mona T. Diab, Wen-tau Yih, Xin Luna Dong'
+  venue: 'arXiv preprint'
+  intro: >
+    We introduce <i>IdeaScientist</i>, which splits research ideation into gap finding, innovation, and report writing, trains each role with reinforcement learning,
+    and draws solutions from analogous problems across fields using the 2.77M-idea Svalbard Idea Vault.
+    On a 27B open model, it beats the strongest open-source autoresearch baseline by 14.0% and even outperforms Claude Code and Codex agents by up to 5.9%.
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2610.04074
+    - label: code
+      url: https://github.com/jiarui-liu/IdeaScientist
+    - label: data
+      url: https://huggingface.co/datasets/Jerry999/SvalbardIdeaVault
+    - label: tweet
+      url: https://x.com/Jiarui_Liu_/status/2108280789322678599
+
+- id: into-the-unknown
+  selected: false
+  title: "Into the Unknown: Benchmarking AI Agents on Open Scientific Research Problems"
+  authors: 'Seungone Kim, Jiayi Geng, Young-Jun Lee, Bo Liu, Juyoung Suk, Nicholas Lubbers, Mitchell Wood, Marcus Noack, Yong-Xin Yao, Yuan Shi, Roxana Bujack, Cristina Garcia Cardona, Austin Rodriguez, Ilon Joseph, Woojin Cho, Zora Zhiruo Wang, <b>Chuanyang Jin</b>, Ian Wu, Apurva Gandhi, Tianjian Li, Weiwei Sun, Carolin Lawrence, Kiril Gashteovski, Dongyeop Kang, Jay Shin, Akari Asai, Graham Neubig, Sean Welleck'
+  venue: 'arXiv preprint'
+  intro: >
+    We introduce <i>Into the Unknown</i>, a benchmark that gives an agent a science paper and an unpublished follow-up direction from scientists at DOE national laboratories, and asks it to write the follow-up paper.
+    Across nine frontier agents, none of the 135 submissions meets all of the scientists’ conditions, and 114 fail our integrity check, often by claiming work that was never done.
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2610.19159
+    - label: project
+      url: https://prometheus-eval.github.io/into-the-unknown/viewer/
+    - label: code
+      url: https://github.com/prometheus-eval/into-the-unknown
+    - label: data
+      url: https://huggingface.co/papers/2610.19159
+    - label: tweet
+      url: https://x.com/seungonekim/status/2110769698463752428
+
+- id: videoresearcher
+  selected: false
+  title: "VideoResearcher: Self-Improving Tool Design for Long-Video Understanding"
+  authors: 'Dingqiang Ye*, Dongdi Zhao*, Kaishen Wang, Qingqiao Hu, Jingchen Sun, Yijun Liang, Yuqi Jia, Yiqiao Huang, Yunjie Tian, Jiaxing Zhang, <b>Chuanyang Jin</b>, Ke Zhang, Vishal M. Patel, Di Fu'
+  venue: 'arXiv preprint'
+  intro: >
+    We introduce <i>VideoResearcher</i>, a training-free multi-agent framework that, like a human researcher, autonomously designs, tests, and refines tools for long-video understanding.
+    By evolving its tools from its own tool-use trajectories, it achieves state-of-the-art results among self-improving video agents and approaches the human-designed upper bound.
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2609.19664
+
 - id: ai-observatory
   selected: false
   title: "The AI Observatory: A Public Measure of Real-World AI Use"
@@ -63,6 +114,50 @@
       url: https://github.com/tianjianl/selfcompact
     - label: slides
       url: https://danielkhashabi.com/files/2026_apple_talk/2026-apple-reasoning-workshop-split.pdf
+
+- id: hypertrace
+  selected: false
+  title: "HyperTrace: Hypothesis-Based Preference Tracing for Online LLM Personalization"
+  authors: 'Jianzhi Shen*, Keyu Mao*, Minghao Shao, <b>Chuanyang Jin</b>, Yusong Wang, Ailiang Lin, Kotaro Funakoshi, Manabu Okumura, Tianmin Shu, Muhammad Shafique'
+  venue: 'EMNLP 2026 Findings'
+  intro: >
+    We introduce <i>HyperTrace</i>, a training-free framework that treats online personalization as tracing a user’s latent preferences: it keeps interpretable natural-language hypotheses about short-term intent and long-term preferences and updates them across turns and sessions.
+    On PRISM and PersonaMem-v2, it improves response alignment, preference prediction, and profile consistency over strong online baselines.
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2609.09835
+    - label: code
+      url: https://github.com/jiseshen/HyperTrace
+    - label: tweet
+      url: https://x.com/chuanyang_jin/status/2102796625357779087
+
+- id: autointeract
+  selected: true
+  title: "AutoInteract: Training Agents to Interact with Humans"
+  authors: '<b>Chuanyang Jin</b>, Seungone Kim, Tong Chen, John Hoffman, Eryk Helenowski, Ping Yu, Jason Weston, Swarnadeep Saha, Ilia Kulikov'
+  venue: '<img src="/assets/img/logos/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Blog'
+  intro: >
+    We introduce <i>AutoInteract</i>, which learns user models from real interaction logs and turns verified tasks into realistic multi-turn interactions with clarifications, changing requirements, and feedback, while keeping each task’s executable test.
+    Reinforcement learning on this data substantially improves coding agents, especially in multi-turn settings.
+  links:
+    - label: blog
+      url: https://facebookresearch.github.io/RAM/blogs/autointeract/
+    - label: tweet
+      url: https://x.com/jaseweston/status/2108176858520924594
+
+- id: autobenchmark
+  selected: false
+  title: "AutoBenchmark: Benchmark Creation and the Role of Humans"
+  authors: 'Seungone Kim, <b>Chuanyang Jin</b>, Tianjian Li, Chenxi Whitehouse, Jason Weston, Weizhe Yuan, Ilia Kulikov, Swarnadeep Saha, Jack Lanchantin'
+  venue: '<img src="/assets/img/logos/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Blog'
+  intro: >
+    We introduce <i>AutoBenchmark</i>, in which an autoresearch agent builds a benchmark end to end and revises it using solver results and verifier critiques, and we study how much human AI scientists help.
+    Unaided agents produce near-saturated benchmarks, while detailed human direction on what and how to build halves solver scores, showing that humans are still needed in benchmark creation.
+  links:
+    - label: blog
+      url: https://facebookresearch.github.io/RAM/blogs/autobench/
+    - label: tweet
+      url: https://x.com/jaseweston/status/2105305463784935791
 
 - id: rlhi
   selected: true
