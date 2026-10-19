@@ -1,0 +1,35 @@
+# Life photos: the gallery on /life/ and the "Life" strip on the home page (the 4 newest).
+# Both stay hidden while this list is empty.
+#
+# To add a photo:
+#   1. Put the image in /assets/img/life/ (a JPEG of about 1600px on the long side is plenty).
+#   2. Delete the `[]` line at the bottom, then add one entry per photo, NEWEST FIRST (entries left below
+#      `[]` are silently ignored; entries above it make the GitHub Pages build fail).
+#
+#   - file: 2026-07-santa-cruz.jpg   # file name in /assets/img/life/ (or a full path such as /assets/img/x.jpg)
+#     date: 2026-07-13               # YYYY-MM-DD, shown as "Jul 13, 2026"
+#     place: Santa Cruz, CA
+#     width: 1600                    # the image's pixel size: optional, but please add it. Without width and
+#     height: 1067                   #   height the gallery rearranges itself as each photo loads.
+#     layout: wide                   # optional: wide = two columns where the grid has 3+ columns (never in the
+#                                    #   2-column phone grid); photos wider than 3:2 do this on their own. A wide
+#                                    #   photo can still fall back to one column when no level spot is free.
+#                                    #   narrow = always one column (keeps a wide-shaped photo in one column).
+#     alt: Sunset at the pier        # optional: alt text; defaults to "date, place"
+#
+#   Pixel sizes on a Mac: sips -g pixelWidth -g pixelHeight assets/img/life/*.jpg
+#
+# Example with two photos:
+#
+#   - file: 2026-07-santa-cruz.jpg
+#     date: 2026-07-13
+#     place: Santa Cruz, CA
+#     width: 1600
+#     height: 1067
+#   - file: 2026-06-rocky-mountain.jpg
+#     date: 2026-06-07
+#     place: Rocky Mountain NP, CO
+#     width: 1600
+#     height: 1200
+#     layout: wide
+[]   # <- delete this line when you add your first photo (entries below it are ignored)

@@ -1,17 +1,20 @@
 # Publications data
-# To show a publication under "Recent Publications" on the homepage (index.md),
+# To show a publication under "Selected Publications" on the homepage (index.md),
 # add `selected: true` to its entry below. Remove or set to false to hide it.
-# The `publications.md` page always renders every entry, in order.
+# The `publication.md` page always renders every entry, in order
+# (its default "Selected" view shows the `selected: true` ones; "All" shows every entry).
+# Each entry: id (short, lowercase-with-dashes), selected, title, authors, venue, intro (shown as
+# the TL;DR), links (label + url). To add a paper, copy an existing entry as a template.
 
 - id: thoughttrace
   selected: true
   title: "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions"
   authors: '<b>Chuanyang Jin</b>, Binze Li, Haopeng Xie, Cathy Mengying Fang, Tianjian Li, Shayne Longpre, Hongxiang Gu, Maximillian Chen, Tianmin Shu'
-  venue: 'ICML 2026 RLxF Workshop <span class="red"><b>(Best Paper Award)</b></span> / 📈 30K+ Huggingface Downloads / 🔍 Invited Talk at UW'
+  venue: 'ICML 2026 RLxF Workshop <span class="award">Best Paper Award</span> / 📈 30K+ Huggingface Downloads / 🔍 Invited Talk at UW'
   # https://huggingface.co/api/datasets/SCAI-JHU/ThoughtTrace?expand=downloadsAllTime; / 📰 Featured in Synced; ⭐️ Paper of the Week by Huggingface
   intro: >
     We introduce <i>ThoughtTrace</i>, the first large-scale dataset that pairs real-world multi-turn human-AI conversations with users' self-reported thoughts.
-    Our analysis shows that these thoughts are distinct from messages, difficult for frontier LLMs to infer, and provide actionable signals for user-behavior prediction and model alignment, 
+    Our experiments show that these thoughts are hard for frontier LLMs to infer, and provide actionable signals for user-behavior prediction and model alignment,
     opening new directions for user modeling, model training, and evaluation.
   links:
     - label: paper
@@ -65,7 +68,7 @@
   selected: true
   title: "The Era of Real-World Human Interaction: RL from User Conversations"
   authors: '<b>Chuanyang Jin</b>, Jing Xu, Bo Liu, Leitian Tao, Olga Golovneva, Tianmin Shu, Wenting Zhao, Xian Li, Jason Weston'
-  venue: '<img src="/assets/img/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Report / 🔍 Invited Talk at Meta TBD Lab, Google Research, WashU, Northwestern and UW / ⭐️ Paper of the Week by Huggingface, DAIR.AI, and TuringPost'
+  venue: '<img src="/assets/img/logos/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Report / 🔍 Invited Talk at Meta TBD Lab, Google Research, WashU, Northwestern and UW / ⭐️ Paper of the Week by Huggingface, DAIR.AI, and TuringPost'
   intro: >
     We posit that to achieve continual model improvement and multifaceted alignment, future models must learn from natural human interaction.
     We introduce Reinforcement Learning from Human Interaction (RLHI), a paradigm that learns directly from in-the-wild user conversations, leveraging organic replies and long-term history as learning signals.
@@ -82,7 +85,7 @@
   selected: true
   title: "SPICE: Self-Play In Corpus Environments Improves Reasoning"
   authors: 'Bo Liu, <b>Chuanyang Jin</b>, Seungone Kim, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, Jason Weston'
-  venue: '<img src="/assets/img/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Report / 📰 Featured in VentureBeat and State of AI Report 2026'
+  venue: '<img src="/assets/img/logos/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Report / 📰 Featured in VentureBeat and State of AI Report 2026'
   # ⭐️ Paper of the Week by Huggingface
   intro: >
     SPICE is a reinforcement learning framework where a single model improves itself by playing two roles: a Challenger that creates tasks based on corpora, and a Reasoner that solves them.
@@ -97,13 +100,13 @@
     - label: VentureBeat news
       url: https://venturebeat.com/ai/metas-spice-framework-lets-ai-systems-teach-themselves-to-reason
     - label: State of AI Report 2026
-      url: https://www.stateof.ai/2026-explore/
+      url: https://www.stateof.ai/
 
 - id: mindzero
   selected: true
   title: "MindZero: Learning Online Mental Reasoning With Zero Annotations"
   authors: 'Shunchi Zhang*, Jin Lu*, <b>Chuanyang Jin</b>*, Yichao Zhou*, Zhining Zhang, Tianmin Shu'
-  venue: 'ICML 2026 / ICLR 2026 HCAIR Workshop <span class="red"><b>(Oral)</b></span>'
+  venue: 'ICML 2026 / ICLR 2026 HCAIR Workshop <span class="award">Oral</span>'
   intro: >
     We introduce <i>MindZero</i>, a self-supervised reinforcement learning framework that trains multimodal LLMs for efficient and robust online Theory-of-Mind reasoning.
     During training, the model is rewarded for generating mental state hypotheses that best explain observed human actions.
@@ -144,7 +147,7 @@
   selected: true
   title: "AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling"
   authors: 'Zhining Zhang*, <b>Chuanyang Jin</b>*†, Mung Yao Jia*, Shunchi Zhang*, Tianmin Shu (†: project lead)'
-  venue: 'NeurIPS 2025 <span class="red"><b>(Spotlight)</b></span> / 📰 Featured in Synced'
+  venue: 'NeurIPS 2025 <span class="award">Spotlight</span> / 📰 Featured in Synced'
   intro: >
     <i>AutoToM</i> is an automated agent modeling method for scalable, robust, and interpretable mental inference.
     Given a ToM problem, <i>AutoToM</i> proposes a minimal agent model, performs Bayesian inverse planning based on the model, and iteratively refines the model until it can confidently infer the target mental state.
@@ -216,7 +219,7 @@
   selected: true
   title: "MuMA-ToM: Multi-modal Multi-Agent Theory of Mind"
   authors: 'Haojun Shi*, Suyu Ye*, Xinyu Fang, <b>Chuanyang Jin</b>, Leyla Isik, Yen-Ling Kuo, Tianmin Shu'
-  venue: 'AAAI 2025 <span class="red"><b>(Oral)</b></span> / ⭐️ Featured as a CVPR 2026 Challenge'
+  venue: 'AAAI 2025 <span class="award">Oral</span> / ⭐️ Featured as a CVPR 2026 Challenge'
   intro: >
     MuMA-ToM evaluates Theory of Mind reasoning in embodied multi-agent interactions, revealing that current multimodal LLMs significantly lag behind human performance.
     To bridge this gap, we propose LIMP, a method that combines language models with inverse multi-agent planning to achieve superior results.
@@ -238,7 +241,7 @@
   selected: true
   title: "MMToM-QA: Multimodal Theory of Mind Question Answering"
   authors: '<b>Chuanyang Jin</b>, Yutong Wu, Jing Cao, Jiannan Xiang, Yen-Ling Kuo, Zhiting Hu, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum, Tianmin Shu'
-  venue: 'ACL 2024 <span class="red"><b>(Outstanding Paper Award)</b></span> / 🔍 Invited Talk at UW / 📰 Featured in Futurity, Synced, and JHU News'
+  venue: 'ACL 2024 <span class="award">Outstanding Paper Award</span> / 🔍 Invited Talk at UW / 📰 Featured in Futurity, Synced, and JHU News'
   intro: >
     Can machines understand people's minds from multimodal inputs?
     We introduce a comprehensive benchmark, MMToM-QA, and highlight key limitations in current multimodal LLMs.
@@ -267,7 +270,7 @@
   selected: false
   title: "How Far Are We From AGI?"
   authors: 'Tao Feng*, <b>Chuanyang Jin</b>*, Jingyu Liu*, Kunlun Zhu*, Haoqin Tu, Zirui Cheng, Guanyu Lin, Jiaxuan You'
-  venue: 'TMLR 2024 / ICLR 2024 AGI Workshop <span class="red"><b>(Spotlight)</b></span>'
+  venue: 'TMLR 2024 / ICLR 2024 AGI Workshop <span class="award">Spotlight</span>'
   intro: >
     We explore the trajectory toward Artificial General Intelligence by comprehensively analyzing the requisite capabilities across internal, interface, and system dimensions.
     We also outline a roadmap for responsibly achieving AGI.
@@ -281,7 +284,7 @@
   selected: false
   title: "Neural Amortized Inference for Nested Multi-agent Reasoning"
   authors: 'Kunal Jha, Tuan Anh Le, <b>Chuanyang Jin</b>, Yen-Ling Kuo, Joshua Tenenbaum, Tianmin Shu'
-  venue: 'AAAI 2024 / AAAI 2023 Summer Symposium <span class="red"><b>(Oral)</b></span>'
+  venue: 'AAAI 2024 / AAAI 2023 Summer Symposium <span class="award">Oral</span>'
   intro: >
     Multi-agent interactions often rely on higher-order social inference, i.e., understanding how others infer oneself.
     We introduce a neural amortized inference method to accelerate computationally expensive nested multi-agent reasoning within the I-POMDP framework, significantly reducing computational costs while maintaining high accuracy.

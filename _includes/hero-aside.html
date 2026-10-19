@@ -1,0 +1,24 @@
+{%- comment -%}
+Home hero, left column: portrait, icon dock and affiliation cards (cards are hidden at <= 860px).
+Links come from `contact:` in _config.yml.
+Portrait: me-400.jpg serves the <= 860px avatar (at most 128px wide) and 1x desktop screens; me-800.jpg stays
+the src for old browsers and is the social-card image (`image:` in the pages' front matter).
+The ?v= build stamp makes browsers fetch a replaced photo right away (same as the CSS/JS links).
+Affiliation cards: keep the space after each </b>. CSS puts the role on its own line, but without the
+stylesheet (reader views, text browsers, scrapers) the name and the role would run together.
+{%- endcomment -%}
+<div class="hero-side">
+{%- assign v = site.time | date: '%s' %}
+<div class="avatar"><img src="/assets/img/me-800.jpg?v={{ v }}" srcset="/assets/img/me-400.jpg?v={{ v }} 400w, /assets/img/me-800.jpg?v={{ v }} 800w" sizes="(max-width: 860px) 128px, 290px" width="800" height="800" alt="Portrait of Chuanyang Jin" fetchpriority="high" decoding="async"></div>
+<div class="dock">
+<a href="mailto:{{ site.contact.email }}" title="Email" aria-label="Email">{% include icon.html name="email" %}</a>
+<a href="{{ site.contact.github }}" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">{% include icon.html name="github" %}</a>
+<a href="{{ site.contact.x }}" target="_blank" rel="noopener" title="X" aria-label="X">{% include icon.html name="x" %}</a>
+<a href="{{ site.contact.scholar }}" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar">{% include icon.html name="scholar" %}</a>
+<a href="{{ site.contact.linkedin }}" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn">{% include icon.html name="linkedin" %}</a>
+</div>
+<ul class="aff">
+<li><img src="/assets/img/logos/jhu-shield.svg" width="32" height="32" alt=""><span><b>Johns Hopkins University</b> PhD student, Computer Science</span></li>
+<li><img src="/assets/img/logos/meta-logo.svg" width="32" height="32" alt=""><span><b>Meta FAIR</b> Student researcher</span></li>
+</ul>
+</div>

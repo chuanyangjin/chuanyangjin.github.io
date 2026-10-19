@@ -1,15 +1,9 @@
 ---
+layout: page
 title: Practicing AI + Biology Research
 permalink: /AIbio/
 description: >
 ---
-
-<style>
-a::after, a.external::after {
-  display: none !important;
-}
-</style>
-
 
 We are dedicated to understanding biological processes through interpretable machine learning. 
 Our colleagues at the University of Chicago have conducted rigorous biological experiments over a span of two years.

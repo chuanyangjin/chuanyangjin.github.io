@@ -1,0 +1,1989 @@
+/* chuanyangjin.com
+   One plain stylesheet (no Sass, no front matter). Light theme only.
+   Visual language modelled on wenhaochai.com: one sans family, Google GM2 greys and blue,
+   mint pills, hairlines only inside lists, a quiet hairline footer. */
+
+/* ---------------------------------------------------------------------------
+   Fonts: Hanken Grotesk, self-hosted (SIL Open Font License 1.1, see /assets/fonts/OFL.txt).
+   Copyright 2021 The Hanken Grotesk Project Authors. Normal: variable 400-700; italic: 400.
+   --------------------------------------------------------------------------- */
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url('../fonts/HankenGrotesk-normal-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url('../fonts/HankenGrotesk-normal-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/HankenGrotesk-italic-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/HankenGrotesk-italic-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* ---------------------------------------------------------------------------
+   Tokens
+   --------------------------------------------------------------------------- */
+:root {
+  --paper: #FFFFFF;
+  --paper-2: #F8F9FA;
+  --paper-3: #F1F3F4;
+  --ink: #202124;
+  --ink-2: #3C4043;
+  --ink-3: #5F6368;
+  --rule: #DADCE0;
+  --rule-2: #E8EAED;
+  --accent: #1A73E8;
+  --accent-hover: #1967D2;
+  --accent-soft: rgba(26, 115, 232, 0.08);
+  --link-line: rgba(26, 115, 232, 0.35);
+  --mint: #D3E3FD;
+  --mint-2: #C2D7FB;
+  --mint-ink: #041E49;
+  --tint: #E8F0FE;
+  --tint-ink: #0B57D0;
+  --deep-ink: #E8EAED;
+  --deep-muted: #9AA0A6;
+
+  --font-sans: 'Hanken Grotesk', 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: ui-monospace, Menlo, Consolas, monospace;
+  --font-emoji: 'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif;
+
+  --max: 1180px;
+  --gutter: clamp(20px, 4vw, 56px);
+  --swift: cubic-bezier(0.2, 0.7, 0.3, 1);
+
+  color-scheme: light;
+}
+
+/* ---------------------------------------------------------------------------
+   Base
+   --------------------------------------------------------------------------- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+  scroll-padding-top: 24px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--rule) transparent;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+@supports (overflow-x: clip) {
+  html,
+  body {
+    overflow-x: clip;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-height: 100svh;
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.55;
+  color: var(--ink);
+  background: var(--paper);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Short pages keep the footer at the bottom of the window */
+main {
+  display: block;
+  flex: 1 0 auto;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+img {
+  height: auto;
+}
+
+b,
+strong {
+  font-weight: 600;
+}
+
+::selection {
+  background: var(--mint-2);
+  color: var(--ink);
+}
+
+::-webkit-scrollbar {
+  width: 11px;
+  height: 11px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--rule);
+  border: 3px solid var(--paper);
+  border-radius: 7px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--deep-muted);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+#main:focus,
+[tabindex="-1"]:focus {
+  outline: none;
+}
+
+.sr-only {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Skip link: first element of <body>, slides in on focus */
+.skip-link {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  z-index: 2000;
+  padding: 8px 16px;
+  border-radius: 50px;
+  background: var(--mint);
+  color: var(--mint-ink);
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.55;
+  transform: translateY(-200%);
+  transition: transform 0.15s ease;
+}
+
+.skip-link:focus {
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .skip-link {
+    transition: none;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Links
+   In running text: ink text on a 1px translucent-blue line; on hover the text turns
+   blue and a 2px blue line sweeps in from the left. :where() keeps the specificity at
+   zero so component rules (link rows, chips) override it.
+   --------------------------------------------------------------------------- */
+:where(.hero-bio, .focus-body, .log, .lede, .prose, .pub-note, .pub-abstract, .foot) a {
+  color: var(--ink);
+  padding: 0 1px;
+  border-bottom: 1px solid var(--link-line);
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+:where(.hero-bio, .focus-body, .log, .lede, .prose, .pub-note, .pub-abstract, .foot) a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  :where(.hero-bio, .focus-body, .log, .lede, .prose, .pub-note, .pub-abstract, .foot) a {
+    border-bottom: 0;
+    background-image: linear-gradient(var(--accent), var(--accent)), linear-gradient(var(--link-line), var(--link-line));
+    background-repeat: no-repeat;
+    background-position: 0 100%, 0 100%;
+    background-size: 0 2px, 100% 1px;
+    transition: background-size 0.28s var(--swift), color 0.15s ease;
+  }
+
+  :where(.hero-bio, .focus-body, .log, .lede, .prose, .pub-note, .pub-abstract, .foot) a:hover {
+    background-size: 100% 2px, 100% 1px;
+  }
+}
+
+/* Action links (section "All ..." links, link rows): accent, no resting underline */
+.sec-more,
+.pub-links a,
+.proj-links a {
+  padding: 0;
+  border-bottom: 0;
+  color: var(--accent);
+  font-size: 15px;
+  font-weight: 600;
+  background-image: none;
+  transition: color 0.15s ease;
+}
+
+.sec-more:hover,
+.pub-links a:hover,
+.proj-links a:hover {
+  color: var(--accent-hover);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .sec-more,
+  .pub-links a,
+  .proj-links a {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    background-size: 0 2px;
+    transition: color 0.15s ease, background-size 0.28s var(--swift);
+  }
+
+  .sec-more:hover,
+  .pub-links a:hover,
+  .proj-links a:hover {
+    background-size: 100% 2px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sec-more:hover,
+  .pub-links a:hover,
+  .proj-links a:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+}
+
+/* Highlight chip (award names in news, venues and the awards list). `.red` is the legacy name. */
+.award,
+.red {
+  background-color: var(--tint);
+  color: var(--tint-ink);
+  font-weight: 600;
+  border-radius: 4px;
+  padding: 1px 6px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+a.award:hover {
+  color: var(--accent-hover);
+}
+
+/* ---------------------------------------------------------------------------
+   Layout and rhythm
+   --------------------------------------------------------------------------- */
+.page {
+  position: relative;
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.journal {
+  padding-top: clamp(56px, 8vw, 96px);
+}
+
+.journal.hero {
+  padding-top: clamp(40px, 6vw, 72px);
+}
+
+.page-hero {
+  padding: clamp(40px, 6vw, 72px) 0 0;
+}
+
+.page-hero + .journal {
+  padding-top: clamp(32px, 5vw, 56px);
+}
+
+main > section:last-child {
+  padding-bottom: clamp(56px, 7vw, 80px);
+}
+
+.full-bleed {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  padding: 0 8px;
+}
+
+/* ---------------------------------------------------------------------------
+   Top bar (static, not sticky)
+   --------------------------------------------------------------------------- */
+.topbar {
+  position: relative;
+  z-index: 50;
+  background: var(--paper);
+  border-bottom: 1px solid var(--rule-2);
+}
+
+.topbar-inner {
+  max-width: var(--max);
+  height: 72px;
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.brand {
+  display: inline-flex;
+  flex-shrink: 0;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.55;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  white-space: nowrap;
+}
+
+.brand-mark {
+  width: auto;
+  height: 24px;
+}
+
+.nav {
+  display: flex;
+  flex-shrink: 0;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 28px;
+}
+
+.nav a {
+  padding: 6px 0;
+  border-bottom: 2px solid transparent;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.55;
+  color: var(--ink-2);
+  white-space: nowrap;
+  transition: color 0.15s ease;
+}
+
+.nav a:hover {
+  color: var(--accent-hover);
+}
+
+.nav a[aria-current="page"] {
+  color: var(--ink);
+  border-bottom-color: var(--accent);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .nav a:not([aria-current]) {
+    background-image: linear-gradient(var(--accent), var(--accent));
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-position: 0 100%;
+    background-size: 0 2px;
+    transition: color 0.15s ease, background-size 0.25s var(--swift);
+  }
+
+  .nav a:not([aria-current]):hover {
+    background-size: 100% 2px;
+  }
+}
+
+/* Menu button (<= 800px) */
+.nav-toggle {
+  display: none;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  margin-right: -8px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: var(--ink);
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.nav-toggle:hover {
+  background: var(--paper-3);
+}
+
+.burger,
+.burger::before,
+.burger::after {
+  display: block;
+  width: 18px;
+  height: 2px;
+  border-radius: 2px;
+  background-color: currentColor;
+  transition: transform 0.2s ease, opacity 0.15s ease, background-color 0.15s ease;
+}
+
+.burger {
+  position: relative;
+}
+
+.burger::before,
+.burger::after {
+  content: "";
+  position: absolute;
+  left: 0;
+}
+
+.burger::before {
+  top: -6px;
+}
+
+.burger::after {
+  top: 6px;
+}
+
+.nav-toggle[aria-expanded="true"] .burger {
+  background-color: transparent;
+}
+
+.nav-toggle[aria-expanded="true"] .burger::before {
+  transform: translateY(6px) rotate(45deg);
+}
+
+.nav-toggle[aria-expanded="true"] .burger::after {
+  transform: translateY(-6px) rotate(-45deg);
+}
+
+@media (max-width: 1000px) {
+  .nav {
+    gap: 20px;
+  }
+
+  .nav a {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 800px) {
+  .topbar-inner {
+    height: 60px;
+    gap: 12px;
+  }
+
+  .brand {
+    font-size: 18px;
+  }
+
+  .brand-mark {
+    height: 22px;
+  }
+
+  /* With JavaScript the nav becomes a drop-down panel under the bar */
+  .js .nav-toggle {
+    display: inline-flex;
+  }
+
+  .js .nav {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 60;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    padding: 4px var(--gutter) 16px;
+    background: var(--paper);
+    border-bottom: 1px solid var(--rule);
+    box-shadow: 0 12px 24px rgba(32, 33, 36, 0.08);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-6px);
+    transition: opacity 0.18s ease, transform 0.18s ease, visibility 0.18s;
+  }
+
+  .js .nav.open {
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+  }
+
+  .js .nav a {
+    padding: 13px 0;
+    border-bottom: 0;
+    font-size: 16px;
+    background-image: none;
+  }
+
+  .js .nav a + a {
+    border-top: 1px solid var(--rule-2);
+  }
+
+  /* Accessibility deviation from spec §4 (colour only): the current page also gets a 2px underline,
+     standing in for the desktop bar, so it is not marked by colour alone (also visible in forced colors) */
+  .js .nav a[aria-current="page"] {
+    color: var(--accent-hover);
+    text-decoration: underline;
+    text-decoration-color: var(--accent);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 6px;
+  }
+
+  /* Without JavaScript the links simply wrap under the brand */
+  html:not(.js) .topbar-inner {
+    flex-wrap: wrap;
+    height: auto;
+    min-height: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  html:not(.js) .nav {
+    flex-wrap: wrap;
+    gap: 4px 16px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .burger,
+  .burger::before,
+  .burger::after {
+    transition: background-color 0.15s ease;
+  }
+}
+
+@media (max-width: 800px) and (prefers-reduced-motion: reduce) {
+  .js .nav {
+    transform: none;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Home hero
+   --------------------------------------------------------------------------- */
+.hero-grid {
+  display: grid;
+  grid-template-columns: clamp(220px, 25vw, 290px) minmax(0, 1fr);
+  column-gap: clamp(32px, 6vw, 88px);
+  row-gap: 0;
+  align-items: start;
+}
+
+.hero-side {
+  grid-column: 1;
+  grid-row: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.hero-main {
+  grid-column: 2;
+  grid-row: 1;
+  min-width: 0;
+}
+
+.hero-name {
+  margin: 0 0 24px;
+  font-size: clamp(34px, 4.6vw, 46px);
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  text-wrap: balance;
+}
+
+.hero-bio {
+  max-width: 660px;
+  font-size: 18px;
+  line-height: 1.6;
+  color: var(--ink-2);
+}
+
+.hero-bio p {
+  margin: 0 0 16px;
+  text-wrap: pretty;
+}
+
+.hero-bio p:last-child {
+  margin-bottom: 0;
+}
+
+.avatar {
+  width: 100%;
+  aspect-ratio: 1;
+  overflow: hidden;
+  border-radius: 8px;
+  background: var(--paper-2);
+}
+
+.avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.dock {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 2px;
+  margin-top: 14px;
+}
+
+.dock a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  border-radius: 8px;
+  color: var(--ink-3);
+  transition: color 0.15s ease, background-color 0.15s ease;
+}
+
+.dock a:hover {
+  color: var(--ink);
+  background: var(--paper-3);
+}
+
+.dock svg {
+  width: 17px;
+  height: 17px;
+}
+
+.dock .icon-x {
+  width: 16px;
+  height: 16px;
+}
+
+/* Affiliations: a fixed 28px under the dock (they do not move when focus rows open) */
+.aff {
+  display: grid;
+  gap: 14px;
+  margin: 0;
+  padding: 28px 0 0;
+  list-style: none;
+}
+
+.aff li {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.aff img {
+  flex: none;
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+
+.aff span {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-size: 13px;
+  line-height: 1.35;
+  color: var(--ink-3);
+}
+
+.aff b {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+/* Research focus rows: native <details> */
+.focus {
+  max-width: 660px;
+  margin-top: 20px;
+  border-top: 1px solid var(--rule-2);
+}
+
+.focus-row {
+  border-bottom: 1px solid var(--rule-2);
+}
+
+.focus-row > summary {
+  display: grid;
+  grid-template-columns: 32px minmax(0, 1fr) auto;
+  column-gap: 8px;
+  align-items: center;
+  padding: 14px 0;
+  list-style: none;
+  cursor: pointer;
+}
+
+.focus-row > summary::-webkit-details-marker {
+  display: none;
+}
+
+.focus-num {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--tint);
+  color: var(--tint-ink);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 22px;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.focus-title {
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--ink);
+  text-wrap: balance;
+  transition: color 0.15s ease;
+}
+
+.focus-row .chev {
+  width: 14px;
+  height: 14px;
+  color: var(--ink-3);
+  transition: color 0.15s ease;
+}
+
+.focus-row > summary:hover .focus-title,
+.focus-row > summary:hover .chev {
+  color: var(--accent);
+}
+
+.focus-row[open] .chev {
+  transform: rotate(180deg);
+}
+
+.focus-body {
+  margin: 0 0 16px 40px;
+  padding: 1px 0 1px 13px;
+  border-left: 2px solid var(--rule-2);
+  list-style: none;
+}
+
+.focus-body li {
+  padding: 3px 0;
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--ink-2);
+  text-wrap: pretty;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .focus-row .chev {
+    transition: color 0.15s ease, transform 0.2s ease;
+  }
+
+  .focus-row[open] .focus-body li {
+    animation: rise 0.18s ease both;
+  }
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(-2px);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* <= 860px: avatar beside the name, dock across, then the bio (affiliations hidden) */
+@media (max-width: 860px) {
+  .hero-grid {
+    grid-template-columns: auto minmax(0, 1fr);
+    grid-template-areas:
+      "avatar name"
+      "dock dock"
+      "bio bio"
+      "focus focus";
+    column-gap: clamp(18px, 5vw, 28px);
+    row-gap: 0;
+    align-items: center;
+  }
+
+  .hero-main,
+  .hero-side {
+    display: contents;
+  }
+
+  .avatar {
+    grid-area: avatar;
+    width: clamp(88px, 24vw, 128px);
+  }
+
+  .hero-name {
+    grid-area: name;
+    margin: 0;
+  }
+
+  .dock {
+    grid-area: dock;
+    margin-top: 20px;
+  }
+
+  .hero-bio {
+    grid-area: bio;
+    margin-top: 20px;
+  }
+
+  .focus {
+    grid-area: focus;
+  }
+
+  .aff {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .hero-bio {
+    font-size: 17px;
+  }
+
+  .focus-title {
+    font-size: 16px;
+  }
+
+  .focus-body {
+    margin-left: 0;
+  }
+}
+
+/* <= 377px: the 34px name no longer fits beside the avatar, so it scales with the width: one line
+   from 360px (32.4px), and below that it wraps without overflowing its column (26px at 280px) */
+@media (max-width: 377px) {
+  .hero-name {
+    font-size: max(26px, 9vw);
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Section heads
+   --------------------------------------------------------------------------- */
+/* The link drops under the title only when both do not fit on one line (e.g. "Selected
+   Publications" + "All publications" below about 400px) */
+.sec-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 6px 16px;
+  margin-bottom: 24px;
+}
+
+.sec-title {
+  margin: 0;
+  font-size: clamp(25px, 2.4vw, 30px);
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  text-wrap: balance;
+}
+
+.sec-more {
+  flex: none;
+  white-space: nowrap;
+}
+
+.sub-head {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  margin: 0 0 20px;
+}
+
+.sub-head h2 {
+  margin: 0;
+  font-size: clamp(22px, 2.2vw, 26px);
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  text-wrap: balance;
+}
+
+/* ---------------------------------------------------------------------------
+   Logs: news, awards, the Life list. No separators between rows.
+   The date/year/emoji column is positioned in the left padding, so the content
+   markup stays a plain <li><span class="news-date">...</span>text</li>.
+   --------------------------------------------------------------------------- */
+.log {
+  --log-peek: 30px; /* how far the first hidden row peeks into a collapsed list */
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.log > li {
+  position: relative;
+  margin: 0;
+  padding: 10px 0 10px 116px;
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--ink-2);
+  text-wrap: pretty;
+}
+
+/* top offsets put the 14px date on the 16px text's baseline */
+.news-date,
+.award-year {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  width: 96px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 25.6px;
+  color: var(--ink-3);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Year dividers (added by site.js to the first item of each new year) */
+.log > li.year-start {
+  margin-top: 8px;
+  padding-top: 18px;
+  border-top: 1px solid var(--rule-2);
+}
+
+.log > li.year-start > .news-date {
+  top: 19px;
+}
+
+.award-list .award {
+  font-weight: 500;
+}
+
+.misc-list > li {
+  padding-left: 40px;
+}
+
+.misc-icon {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  width: 28px;
+  font-family: var(--font-emoji);
+  font-size: 20px;
+  line-height: 25.6px;
+  text-align: center;
+}
+
+/* Collapsed news: the visible rows stay crisp, the top of the next (hidden) row peeks in
+   and fades out, and a pill expands the rest. site.js reads --log-peek to size the list (and
+   re-fits it when the rows change size, e.g. with a text-spacing override).
+   The 8px side padding keeps focus rings and award chips at the edges from being clipped.
+   `clip` (where supported) also keeps a focused link in a cut-off row from scrolling the list. */
+.log.is-collapsed {
+  overflow: hidden;
+  overflow: clip;
+  margin-left: -8px;
+  margin-right: -8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  -webkit-mask-image: linear-gradient(to bottom, #000 calc(100% - var(--log-peek)), transparent);
+  mask-image: linear-gradient(to bottom, #000 calc(100% - var(--log-peek)), transparent);
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border: 0;
+  border-radius: 50px;
+  background: var(--mint);
+  color: var(--mint-ink);
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: normal;
+  cursor: pointer;
+  transition: background-color 0.15s ease, transform 0.15s ease;
+}
+
+.pill:hover {
+  background: var(--mint-2);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .pill:active {
+    transform: scale(0.96);
+  }
+}
+
+.log-toggle {
+  margin-top: 16px;
+}
+
+@media (max-width: 600px) {
+  .log > li {
+    padding: 9px 0 9px 88px;
+    font-size: 15px;
+  }
+
+  .news-date,
+  .award-year {
+    top: 9px;
+    width: 76px;
+    line-height: 24px;
+  }
+
+  .log > li.year-start > .news-date {
+    top: 18px;
+  }
+
+  .misc-list > li {
+    padding-left: 34px;
+  }
+
+  .misc-icon {
+    top: 7px;
+    width: 24px;
+    line-height: 24px;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Publications
+   --------------------------------------------------------------------------- */
+.pub-note {
+  margin: -8px 0 12px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--ink-3);
+}
+
+.pub {
+  padding: 24px 0;
+  border-bottom: 1px solid var(--rule-2);
+}
+
+.pub-title {
+  margin: 0 0 6px;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  text-wrap: balance;
+}
+
+.pub-authors {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--ink-3);
+  text-wrap: pretty;
+}
+
+.pub-authors b {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.pub-venue {
+  margin: 2px 0 0;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.55;
+  color: var(--ink-2);
+  text-wrap: pretty;
+}
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px 18px;
+  margin-top: 10px;
+}
+
+.pub-links a::first-letter,
+.proj-links a::first-letter {
+  text-transform: uppercase;
+}
+
+/* TL;DR toggle: first item of the link row. Shown when <html> has the js class (inline head
+   script; the class is removed again if site.js fails to load); wired by site.js */
+.pub-tldr {
+  display: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--accent);
+  font: inherit;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  -webkit-appearance: none;
+  appearance: none;
+  transition: color 0.15s ease;
+}
+
+.js .pub-tldr {
+  display: inline-block;
+}
+
+.pub-tldr:hover {
+  color: var(--accent-hover);
+}
+
+.pub-tldr .chev {
+  display: inline-block;
+  margin-left: 0.28em;
+  font-size: 0.82em;
+}
+
+.pub-tldr[aria-expanded="true"] .chev {
+  transform: rotate(180deg);
+}
+
+.pub-abstract {
+  max-width: 760px;
+  margin-top: 12px;
+  padding: 1px 0 1px 13px;
+  border-left: 2px solid var(--rule-2);
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--ink-2);
+}
+
+.pub-abstract p {
+  margin: 0;
+  text-wrap: pretty;
+}
+
+.js .pub-abstract {
+  display: none;
+}
+
+.js .pub-abstract.open {
+  display: block;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .pub-tldr .chev {
+    transition: transform 0.2s ease;
+  }
+
+  .js .pub-abstract.open {
+    animation: rise 0.18s ease both;
+  }
+}
+
+/* /publication/ toolbar: legend + Selected / All segmented switch */
+.pub-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px 16px;
+  margin-bottom: 8px;
+}
+
+.pub-legend {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--ink-3);
+}
+
+.seg {
+  display: inline-flex;
+  padding: 2px;
+  border-radius: 50px;
+  background: var(--paper-3);
+}
+
+html:not(.js) .seg {
+  display: none;
+}
+
+.seg button {
+  padding: 5px 12px;
+  border: 0;
+  border-radius: 50px;
+  background: transparent;
+  color: var(--ink-2);
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: normal;
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.seg button:hover {
+  color: var(--ink);
+}
+
+/* Pressed segment. Accessibility deviation from spec §12.2 (mint fill only): a 1px tint-ink ring
+   (about 5:1 on the mint, 6:1 on the track) so the state is not shown by colour alone.
+   On /publication/#all, "All" looks pressed from the first paint (html.js-all, set by the inline
+   head script) although the markup still marks "Selected"; site.js then sets aria-pressed and
+   removes js-all. */
+.seg button[aria-pressed="true"],
+.js-all .seg button[data-view="all"] {
+  background: var(--mint);
+  color: var(--mint-ink);
+  box-shadow: inset 0 0 0 1px var(--tint-ink);
+}
+
+.js-all .seg button[data-view="selected"] {
+  background: transparent;
+  color: var(--ink-2);
+  box-shadow: none;
+}
+
+/* Count in a segment ("All 18"): opacity 0.8 keeps it at 5.4:1 on the grey track (0.7 gave 4.1:1) */
+.seg-n {
+  margin-left: 4px;
+  font-size: 13px;
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+  opacity: 0.8;
+}
+
+.pubs[data-view="selected"] .pub[data-selected="false"] {
+  display: none;
+}
+
+/* Before site.js runs, show the default (Selected) view unless the URL asks for #all */
+.js:not(.js-all) .pubs[data-view="all"]:not(.is-ready) .pub[data-selected="false"] {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .pub-title {
+    font-size: 18px;
+  }
+
+  .pub-abstract {
+    font-size: 15px;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Sub-page hero
+   --------------------------------------------------------------------------- */
+.page-hero h1 {
+  max-width: 20em;
+  margin: 0 0 16px;
+  font-size: clamp(34px, 4.6vw, 46px);
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  text-wrap: balance;
+}
+
+.page-hero h1:last-child {
+  margin-bottom: 0;
+}
+
+/* Page hero with a trailing action link (e.g. "Google Scholar" on /publication/) */
+.page-hero-head {
+  margin-bottom: 0;
+}
+
+.page-hero-head h1 {
+  margin: 0;
+}
+
+.lede {
+  max-width: 38em;
+  margin: 0;
+  font-size: clamp(18px, 1.6vw, 20px);
+  line-height: 1.45;
+  color: var(--ink-2);
+  text-wrap: pretty;
+}
+
+/* ---------------------------------------------------------------------------
+   Generic pages: centred 760px article column; the title (page hero) and the text share it,
+   as on Wenhao's article pages (spec §13)
+   --------------------------------------------------------------------------- */
+.article {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.prose p,
+.prose ul,
+.prose ol {
+  margin: 0 0 20px;
+  font-size: 17px;
+  line-height: 1.65;
+  color: var(--ink-2);
+}
+
+.prose p {
+  text-wrap: pretty;
+}
+
+.prose ul,
+.prose ol {
+  padding-left: 1.4em;
+}
+
+.prose li {
+  margin-bottom: 6px;
+}
+
+.prose li::marker {
+  color: var(--ink-3);
+}
+
+.prose h2 {
+  margin: clamp(56px, 9vw, 88px) 0 16px;
+  font-size: clamp(25px, 2.4vw, 30px);
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  text-wrap: balance;
+}
+
+.prose h3 {
+  margin: 32px 0 12px;
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+.prose strong,
+.prose b {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.prose > :first-child {
+  margin-top: 0;
+}
+
+.prose > :last-child {
+  margin-bottom: 0;
+}
+
+.prose code {
+  padding: 1px 5px;
+  border-radius: 4px;
+  background: var(--paper-3);
+  font-family: var(--font-mono);
+  font-size: 0.86em;
+}
+
+.prose pre {
+  margin: 0 0 22px;
+  padding: 16px 18px;
+  overflow-x: auto;
+  border: 1px solid var(--rule-2);
+  border-radius: 8px;
+  background: var(--paper-2);
+  color: var(--ink-2);
+  font-family: var(--font-mono);
+  font-size: 13.5px;
+  line-height: 1.6;
+}
+
+.prose pre code {
+  padding: 0;
+  background: none;
+  font-size: inherit;
+}
+
+.prose blockquote {
+  margin: 28px 0;
+  padding: 2px 0 2px 20px;
+  border-left: 3px solid var(--mint);
+}
+
+.prose hr {
+  max-width: 200px;
+  margin: 44px auto;
+  border: 0;
+  border-top: 1px solid var(--rule);
+}
+
+.prose table {
+  width: 100%;
+  margin: 0 0 22px;
+  border-collapse: collapse;
+  font-size: 15px;
+  font-variant-numeric: tabular-nums;
+}
+
+.prose th,
+.prose td {
+  padding: 10px 14px 10px 0;
+  text-align: left;
+  color: var(--ink-2);
+}
+
+.prose th {
+  font-size: 13px;
+  font-weight: 600;
+  border-bottom: 1px solid var(--ink-2);
+}
+
+.prose td {
+  border-bottom: 1px solid var(--rule-2);
+}
+
+/* Media: framed image + video embed (AutoCorp) */
+.frame {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--rule-2);
+  border-radius: 8px;
+  background: var(--paper-2);
+}
+
+.frame img {
+  width: 100%;
+}
+
+/* Side by side with the 16:9 video, the image gets the same 16:9 box so both end on one line
+   (cover trims a few px of the 1.61 image; the row stacks at <= 600px and keeps the full image) */
+@media (min-width: 601px) {
+  .media-row .frame {
+    aspect-ratio: 16 / 9;
+  }
+
+  .media-row .frame img {
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.embed {
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border: 1px solid var(--rule-2);
+  border-radius: 8px;
+  background: var(--paper-2);
+}
+
+.embed iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.media-row {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  gap: 20px;
+  margin: 32px 0 0;
+}
+
+@media (max-width: 600px) {
+  .prose p,
+  .prose ul,
+  .prose ol {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .prose h3 {
+    font-size: 19px;
+  }
+
+  .media-row {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+/* Undergrad project tiles: thumbnail left, text right */
+.proj-card {
+  display: grid;
+  grid-template-columns: 230px minmax(0, 1fr);
+  align-items: start;
+  gap: 24px;
+  padding: 24px 0;
+  border-bottom: 1px solid var(--rule-2);
+}
+
+.proj-card:first-of-type {
+  padding-top: 4px;
+}
+
+.proj-thumb {
+  overflow: hidden;
+  border: 1px solid var(--rule-2);
+  border-radius: 8px;
+  background: var(--paper-2);
+}
+
+.proj-thumb img {
+  width: 100%;
+}
+
+.proj-body {
+  min-width: 0;
+}
+
+.proj-card .proj-title {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  text-wrap: balance;
+}
+
+.proj-tagline {
+  margin-top: 4px;
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--ink-2);
+  text-wrap: pretty;
+}
+
+.proj-meta {
+  margin-top: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--ink-3);
+  text-wrap: pretty;
+}
+
+.proj-meta b {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.proj-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 18px;
+  margin-top: 10px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .proj-thumb img {
+    transition: transform 0.35s var(--swift);
+  }
+
+  .proj-card:hover .proj-thumb img {
+    transform: scale(1.03);
+  }
+}
+
+@media (max-width: 600px) {
+  .proj-card {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 14px;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Photos: home strip, Life gallery, lightbox
+   --------------------------------------------------------------------------- */
+.photo-strip {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.photo-strip a {
+  display: block;
+  aspect-ratio: 1;
+  overflow: hidden;
+  border-radius: 8px;
+  background: var(--paper-2);
+}
+
+.photo-strip img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .photo-strip img {
+    transition: transform 0.35s var(--swift);
+  }
+
+  .photo-strip a:hover img {
+    transform: scale(1.03);
+  }
+}
+
+@media (max-width: 480px) {
+  .photo-strip {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* Gallery: square cells without JavaScript, masonry (1px rows) once site.js lays it out */
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.photo-grid.is-masonry {
+  grid-auto-rows: 1px;
+  grid-auto-flow: dense;
+}
+
+.ph {
+  position: relative;
+  margin: 0;
+  aspect-ratio: 1;
+  overflow: hidden;
+  border-radius: 6px;
+  background: var(--paper-2);
+}
+
+.photo-grid.is-masonry .ph {
+  aspect-ratio: auto;
+}
+
+.js .ph {
+  cursor: zoom-in;
+}
+
+.ph img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Caption scrim: at least 0.66 behind every text line (white text 5.2:1 or more even over a white
+   photo, also when the caption wraps); it fades out within the 28px top padding */
+.ph figcaption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding: 28px 12px 10px;
+  background: linear-gradient(to top, rgba(32, 33, 36, 0.78) 0, rgba(32, 33, 36, 0.66) calc(100% - 26px), rgba(32, 33, 36, 0) 100%);
+  color: #FFFFFF;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.4;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.18s ease;
+}
+
+.ph figcaption:empty {
+  display: none;
+}
+
+.ph:hover figcaption,
+.ph:focus-visible figcaption {
+  opacity: 1;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .js .ph img {
+    opacity: 0;
+    transition: opacity 0.35s ease;
+  }
+
+  .js .ph img.ld {
+    opacity: 1;
+  }
+}
+
+@media (max-width: 760px) {
+  .photo-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 460px) {
+  .photo-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 48px 24px;
+  background: rgba(32, 33, 36, 0.95);
+}
+
+.lightbox.open {
+  display: flex;
+}
+
+.lightbox-img {
+  max-width: 100%;
+  max-height: calc(100vh - 140px);
+  max-height: calc(100dvh - 140px);
+  object-fit: contain;
+  border-radius: 4px;
+}
+
+.lightbox-caption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 18px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  padding: 0 24px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--deep-ink);
+}
+
+/* Accessibility deviation from spec §10.5 (transparent buttons): a dark disc keeps the glyph and the
+   light focus ring readable where the photo runs under the buttons (phones, tablets, panoramas).
+   Over the dark backdrop it is barely visible, and hover still lifts it. */
+.lightbox button {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(32, 33, 36, 0.7);
+  color: var(--deep-ink);
+  font-family: var(--font-sans);
+  line-height: 1;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.lightbox button:hover {
+  background: rgba(60, 64, 67, 0.92);
+}
+
+.lightbox button[hidden] {
+  display: none;
+}
+
+.lightbox :focus-visible {
+  outline-color: var(--deep-ink);
+}
+
+.lightbox-close {
+  top: 14px;
+  right: 14px;
+  font-size: 22px;
+}
+
+.lightbox-prev,
+.lightbox-next {
+  top: 50%;
+  font-size: 30px;
+  transform: translateY(-50%);
+}
+
+.lightbox-prev {
+  left: 14px;
+}
+
+.lightbox-next {
+  right: 14px;
+}
+
+/* Short screens (phones in landscape): the photo uses nearly the full height; the side padding
+   keeps it clear of the arrows, the bottom padding leaves room for the caption */
+@media (max-height: 500px) {
+  .lightbox {
+    padding: 8px 64px 40px;
+  }
+
+  .lightbox-img {
+    max-height: calc(100vh - 48px);
+    max-height: calc(100dvh - 48px);
+  }
+
+  .lightbox-caption {
+    bottom: 10px;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Footer: a quiet single row under a content-width hairline (no colour band)
+   --------------------------------------------------------------------------- */
+.foot {
+  padding: 0 0 40px;
+  color: var(--ink-3);
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.foot-inner {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.foot-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 6px 24px;
+  padding-top: 24px;
+  border-top: 1px solid var(--rule-2);
+}
+
+.foot-row p {
+  margin: 0;
+}
+
+.foot-meta {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------------------------------------------------------------------------
+   Forced colors (Windows High Contrast): fills are dropped there, so the pills keep an
+   outline, the pressed Selected / All segment uses the system highlight, and the burger
+   bars (drawn as backgrounds) are painted in ButtonText instead of the page colour
+   --------------------------------------------------------------------------- */
+@media (forced-colors: active) {
+  .seg,
+  .pill,
+  .skip-link {
+    border: 1px solid ButtonText;
+  }
+
+  .seg button[aria-pressed="true"],
+  .js-all .seg button[data-view="all"] {
+    forced-color-adjust: none;
+    background: Highlight;
+    color: HighlightText;
+    box-shadow: none;
+  }
+
+  .js-all .seg button[data-view="selected"] {
+    forced-color-adjust: auto;
+  }
+
+  /* The open state keeps a transparent middle bar (the more specific aria-expanded rule above) */
+  .burger,
+  .burger::before,
+  .burger::after {
+    forced-color-adjust: none;
+    background-color: ButtonText;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Print
+   --------------------------------------------------------------------------- */
+@media print {
+  body {
+    background: #FFFFFF;
+  }
+
+  .topbar,
+  .foot,
+  .skip-link,
+  .log-toggle,
+  .sec-more,
+  .seg,
+  .chev,
+  .pub-tldr,
+  .lightbox {
+    display: none !important;
+  }
+
+  .log.is-collapsed {
+    max-height: none !important;
+    overflow: visible;
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+
+  .js .pub-abstract {
+    display: block;
+  }
+
+  .journal {
+    padding-top: 32px;
+  }
+
+  main > section:last-child {
+    padding-bottom: 0;
+  }
+}

@@ -1,0 +1,30 @@
+{%- comment -%}
+Sets photo_src, photo_date and photo_alt for one entry of _data/photos.yml.
+Usage: {% include photo-meta.html photo=photo %} then use {{ photo_src }}, {{ photo_date }}, {{ photo_alt }}.
+- file: a bare file name is looked up in /assets/img/life/; a path that starts with "/" or "http" is used as is.
+- date: YYYY-MM-DD, shown as "Jul 13, 2026".
+- alt: optional; defaults to "date, place".
+{%- endcomment -%}
+{%- assign photo_file = include.photo.file | strip -%}
+{%- assign photo_first = photo_file | slice: 0 -%}
+{%- assign photo_head = photo_file | slice: 0, 4 -%}
+{%- if photo_first == '/' or photo_head == 'http' -%}
+{%- assign photo_src = photo_file -%}
+{%- else -%}
+{%- assign photo_src = '/assets/img/life/' | append: photo_file -%}
+{%- endif -%}
+{%- if include.photo.date -%}
+{%- assign photo_date = include.photo.date | date: '%b %-d, %Y' -%}
+{%- else -%}
+{%- assign photo_date = '' -%}
+{%- endif -%}
+{%- if include.photo.alt -%}
+{%- assign photo_alt = include.photo.alt -%}
+{%- else -%}
+{%- assign photo_alt = photo_date -%}
+{%- if include.photo.place -%}
+{%- if photo_alt != '' -%}{%- assign photo_alt = photo_alt | append: ', ' -%}{%- endif -%}
+{%- assign photo_alt = photo_alt | append: include.photo.place -%}
+{%- endif -%}
+{%- if photo_alt == '' -%}{%- assign photo_alt = 'Photo' -%}{%- endif -%}
+{%- endif -%}

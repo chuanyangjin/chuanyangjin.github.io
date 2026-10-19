@@ -1,0 +1,20 @@
+{%- comment -%}
+Life gallery: every photo of _data/photos.yml in a full-width masonry grid; /assets/js/site.js lays it
+out and adds the lightbox. Renders nothing while the list is empty.
+{%- endcomment -%}
+{%- if site.data.photos and site.data.photos.size > 0 %}
+<section class="journal" id="photos">
+<div class="page">
+<div class="sub-head"><h2>Photos</h2></div>
+<div class="photo-grid full-bleed">
+{%- for photo in site.data.photos %}
+{%- include photo-meta.html photo=photo %}
+<figure class="ph{% if photo.layout == 'wide' %} wide{% elsif photo.layout == 'narrow' %} narrow{% endif %}">
+<img src="{{ photo_src | escape }}"{% if photo.width and photo.height %} width="{{ photo.width }}" height="{{ photo.height }}"{% endif %} alt="{{ photo_alt | escape }}" loading="lazy" decoding="async">
+<figcaption>{% if photo_date != '' %}<span>{{ photo_date }}</span>{% endif %}{% if photo.place %}<span>{{ photo.place | escape }}</span>{% endif %}</figcaption>
+</figure>
+{%- endfor %}
+</div>
+</div>
+</section>
+{%- endif %}

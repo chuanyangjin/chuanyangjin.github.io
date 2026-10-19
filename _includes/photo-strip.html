@@ -1,0 +1,16 @@
+{%- comment -%}
+Home "Life" strip: the 4 newest photos of _data/photos.yml. Renders nothing while the list is empty.
+{%- endcomment -%}
+{%- if site.data.photos and site.data.photos.size > 0 %}
+<section class="journal" id="life">
+<div class="page">
+<div class="sec-head"><h2 class="sec-title">Life</h2><a class="sec-more" href="/life/">All photos</a></div>
+<div class="photo-strip">
+{%- for photo in site.data.photos limit: 4 %}
+{%- include photo-meta.html photo=photo %}
+<a href="/life/"><img src="{{ photo_src | escape }}"{% if photo.width and photo.height %} width="{{ photo.width }}" height="{{ photo.height }}"{% endif %} alt="{{ photo_alt | escape }}" loading="lazy" decoding="async"></a>
+{%- endfor %}
+</div>
+</div>
+</section>
+{%- endif %}

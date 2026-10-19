@@ -1,0 +1,22 @@
+{%- comment -%}
+<head> contents. Note: every page goes through _layouts/compress.html, which joins all lines in
+production, so the inline script must never contain // comments (use /* */) and must end its
+statements with semicolons. All other JavaScript lives in /assets/js/site.js.
+The inline script adds the `js` class (and `js-all` for /publication/#all) to <html>, so site.css can
+hide what site.js will drive without a flash. If site.js fails to load, its onerror handler removes
+those classes again and the page falls back to the no-JavaScript layout (inline nav, every abstract
+and paper, visible photos).
+{%- endcomment -%}
+{%- assign asset_v = site.time | date: '%s' -%}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title and page.title != site.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+<script>document.documentElement.className += ' js' + (location.hash === '#all' ? ' js-all' : '');</script>
+<meta name="theme-color" content="#FFFFFF">
+<meta name="color-scheme" content="light">
+<link rel="preload" href="/assets/fonts/HankenGrotesk-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/site.css?v={{ asset_v }}">
+<script src="/assets/js/site.js?v={{ asset_v }}" defer onerror="document.documentElement.classList.remove('js', 'js-all');"></script>
+<link rel="icon" href="{{ site.favicon }}" sizes="any">
+<link rel="apple-touch-icon" href="{{ site.apple_touch_icon }}">
+{% seo title=false %}

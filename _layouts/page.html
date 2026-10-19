@@ -1,25 +1,25 @@
 ---
-# Copyright (c) 2018 Florian Klampfer <https://qwtel.com/>
-#
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-layout: base
+layout: default
 ---
-
-<article class="page mb6" role="article">
-  {{ content }}
-</article>
-
-{% include components/dingbat.html %}
-{% include body/comments.html %}
+{%- comment -%}
+Generic content page (/projects/, /autocorp/, /AIbio/): page hero with the page title, then the content,
+both in the same centred 760px article column (as on Wenhao's article pages). Optional front matter `lede:`
+adds a sentence under the title.
+{%- endcomment -%}
+<section class="page-hero">
+<div class="page">
+<div class="article">
+<h1>{{ page.title | escape }}</h1>
+{%- if page.lede %}
+<p class="lede">{{ page.lede }}</p>
+{%- endif %}
+</div>
+</div>
+</section>
+<section class="journal">
+<div class="page">
+<div class="article prose">
+{{ content }}
+</div>
+</div>
+</section>

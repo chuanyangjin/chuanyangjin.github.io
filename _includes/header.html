@@ -1,0 +1,22 @@
+{%- comment -%}
+Top bar: brand, menu button (shown at <= 800px) and the main navigation from `nav:` in _config.yml.
+The current page's link gets aria-current="page".
+{%- endcomment -%}
+<header class="topbar">
+<div class="topbar-inner">
+<a class="brand" href="/"><img class="brand-mark" src="/assets/icons/icon-96x96-cj.png" width="24" height="24" alt="" aria-hidden="true">{{ site.title | escape }}</a>
+<button class="nav-toggle" type="button" aria-label="Menu" aria-expanded="false" aria-controls="site-nav"><span class="burger" aria-hidden="true"></span></button>
+<nav class="nav" id="site-nav" aria-label="Main">
+{%- for item in site.nav -%}
+{%- assign is_current = false -%}
+{%- if item.url == '/' -%}
+{%- if page.url == '/' or page.url == '/index.html' -%}{%- assign is_current = true -%}{%- endif -%}
+{%- else -%}
+{%- assign url_prefix = page.url | slice: 0, item.url.size -%}
+{%- if url_prefix == item.url -%}{%- assign is_current = true -%}{%- endif -%}
+{%- endif %}
+<a href="{{ item.url }}"{% if is_current %} aria-current="page"{% endif %}>{{ item.title | escape }}</a>
+{%- endfor %}
+</nav>
+</div>
+</header>
