@@ -232,8 +232,6 @@
       url: https://github.com/SCAI-JHU/MuMA-ToM
     - label: benchmark
       url: https://huggingface.co/datasets/SCAI-JHU/MUMA-TOM-BENCHMARK
-    - label: leaderboard
-      url: https://scai.cs.jhu.edu/projects/MuMA-ToM/leaderboard.html
     - label: slides
       url: /assets/slides/MuMA-ToM.pdf
 
@@ -255,8 +253,6 @@
       url: https://github.com/chuanyangjin/MMToM-QA
     - label: benchmark
       url: https://github.com/chuanyangjin/MMToM-QA?tab=readme-ov-file#-mmtom-qa-benchmark
-    - label: leaderboard
-      url: /mmtom-qa-leaderboard
     - label: slides
       url: /assets/slides/MMToM-QA.pdf
     - label: Futurity news
@@ -297,32 +293,6 @@
       url: https://github.com/KJha02/AmortizedNestedReasoning
     - label: slides
       url: /assets/slides/Nested_Reasoning.pdf
-
-# - id: beyond-binary
-#   selected: false
-#   title: "Beyond the Binary: Capturing Diverse Preferences With Reward Regularization"
-#   authors: 'Vishakh Padmakumar*, <b>Chuanyang Jin</b>*, Hannah Rose Kirk*, He He'
-#   venue: 'NeurIPS 2024 SoLaR Workshop'
-#   intro: >
-#     Standard binary feedback in RLHF fails to capture the diversity of user opinions in subjective tasks.
-#     To address this, we propose a training method that incorporates estimated user disagreement, leading to reward models that better align with aggregate human preferences.
-#   links:
-#     - label: paper
-#       url: https://arxiv.org/abs/2412.03822
-#     - label: code
-#       url: https://github.com/chuanyangjin/preference-calibration
-
-# - id: cultural-psych-llm
-#   selected: false
-#   title: "The Cultural Psychology of Large Language Models"
-#   authors: '<b>Chuanyang Jin</b>*, Songyang Zhang*, Tianmin Shu, Zhihan Cui'
-#   venue: 'NYU Research Symposium'
-#   intro: >
-#     We apply cultural psychology scales to ChatGPT to assess its cognitive processing style and value judgments.
-#     We find that the model exhibits Eastern-style holistic processing traits while displaying mixed alignment in its cultural values.
-#   links:
-#     - label: paper
-#       url: https://arxiv.org/abs/2308.14242
 
 - id: rna-speckles
   selected: false
