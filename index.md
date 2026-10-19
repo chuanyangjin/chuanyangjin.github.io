@@ -60,7 +60,7 @@ column); give it its own element in the title column (grid-column: 2) or move it
 <summary><span class="focus-num" aria-hidden="true">3</span><span class="focus-title">Self-Improvement and Co-Improvement with Humans</span><svg class="chev" viewBox="0 0 16 16" aria-hidden="true"><path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
 </summary>
 <ul class="focus-body">
-<li> We study self-improving agents: <a href="https://arxiv.org/abs/2510.24684">SPICE</a> improves reasoning through grounded self-play, and <a href="https://qiushisun.github.io/OS-Genesis-Home">OS-Genesis</a> synthesizes its own training data through environment interaction. </li>
+<li> We study self-improving agents: <a href="https://arxiv.org/abs/2510.24684">SPICE</a> improves reasoning through grounded self-play, and <a href="https://qiushisun.github.io/OS-Genesis-Home">OS-Genesis</a> synthesizes agents' own training data. </li>
 <li> I'm working on autoresearch agents and on co-improving these agents with humans. More coming soon &amp; open to collaboration! </li>
 </ul>
 </details>
