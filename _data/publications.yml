@@ -32,6 +32,29 @@
     - label: Synced news
       url: https://mp.weixin.qq.com/s/fxYJRiIsVNbVHO3HMZ9TEQ
 
+- id: aligning-autoresearch
+  selected: true
+  title: "Aligning Autoresearch: Co-Improvement between Agents and Humans"
+  authors: 'Tianjian Li*, <b>Chuanyang Jin</b>*, Seungone Kim*, Tong Chen, John Hoffman, Yoram Bachrach, Pedro Rodriguez, Ping Yu, Eryk Helenowski, Swarnadeep Saha, Jack Lanchantin, Weizhe Yuan, Ilia Kulikov, Jason Weston'
+  venue: '<img src="/assets/img/logos/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Report'
+  intro: >
+    While the AI community races toward RSI, we're exploring an alternative path: recursive human–AI co-improvement.
+    We find that humans still play a pivotal role in directing agents, especially in ideation, and introduce <i>HackBench</i>, which shows that current agents cannot sufficiently localize reward hacks.
+    We then train agents to interact with humans by using human simulators during RL, and improve how agents communicate through RL with rubrics aligned with human experts.
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2610.38882
+    - label: AutoBenchmark blog
+      url: https://facebookresearch.github.io/RAM/blogs/autobench/
+    - label: HackBench blog
+      url: https://facebookresearch.github.io/RAM/blogs/hackbench/
+    - label: AutoInteract blog
+      url: https://facebookresearch.github.io/RAM/blogs/autointeract/
+    - label: Unslopping AI blog
+      url: https://facebookresearch.github.io/RAM/blogs/unslop/
+    - label: tweet
+      url: https://x.com/jaseweston/status/2115992445930311714
+
 - id: ideascientist
   selected: false
   title: "IdeaScientist: Orchestrating Agents for Grounded Scientific Ideation"
@@ -132,7 +155,7 @@
       url: https://x.com/chuanyang_jin/status/2102796625357779087
 
 - id: autointeract
-  selected: true
+  selected: false
   title: "AutoInteract: Training Agents to Interact with Humans"
   authors: '<b>Chuanyang Jin</b>, Seungone Kim, Tong Chen, John Hoffman, Eryk Helenowski, Ping Yu, Jason Weston, Swarnadeep Saha, Ilia Kulikov'
   venue: '<img src="/assets/img/logos/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Blog'
