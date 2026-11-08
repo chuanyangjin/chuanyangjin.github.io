@@ -264,7 +264,7 @@
 - id: autotom
   selected: true
   title: "AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling"
-  authors: '<b>Chuanyang Jin</b>*†, Zhining Zhang*, Mung Yao Jia*, Shunchi Zhang*, Tianmin Shu (†: project lead)'
+  authors: '<b>Chuanyang Jin</b>*†, Zhining Zhang*, Mung Yao Jia*, Shunchi Zhang*, Tianmin Shu'
   venue: 'NeurIPS 2025 <span class="award">Spotlight</span> / 📰 Featured in Synced'
   intro: >
     <i>AutoToM</i> is an automated agent modeling method for scalable, robust, and interpretable mental inference.
