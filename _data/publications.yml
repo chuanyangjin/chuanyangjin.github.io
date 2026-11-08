@@ -35,7 +35,7 @@
 - id: aligning-autoresearch
   selected: true
   title: "Aligning Autoresearch: Co-Improvement between Agents and Humans"
-  authors: 'Tianjian Li*, <b>Chuanyang Jin</b>*, Seungone Kim*, Tong Chen, John Hoffman, Yoram Bachrach, Pedro Rodriguez, Ping Yu, Eryk Helenowski, Swarnadeep Saha, Jack Lanchantin, Weizhe Yuan, Ilia Kulikov, Jason Weston'
+  authors: '<b>Chuanyang Jin</b>*, Tianjian Li*, Seungone Kim*, Tong Chen, John Hoffman, Yoram Bachrach, Pedro Rodriguez, Ping Yu, Eryk Helenowski, Swarnadeep Saha, Jack Lanchantin, Weizhe Yuan, Ilia Kulikov, Jason Weston'
   venue: '<img src="/assets/img/logos/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Report'
   intro: >
     While the AI community races toward RSI, we're exploring an alternative path: recursive human–AI co-improvement.
@@ -221,7 +221,7 @@
       url: https://www.stateof.ai/
 
 - id: mindzero
-  selected: true
+  selected: false
   title: "MindZero: Learning Online Mental Reasoning With Zero Annotations"
   authors: 'Shunchi Zhang*, Jin Lu*, <b>Chuanyang Jin</b>*, Yichao Zhou*, Zhining Zhang, Tianmin Shu'
   venue: 'ICML 2026 / ICLR 2026 HCAIR Workshop <span class="award">Oral</span>'
@@ -264,7 +264,7 @@
 - id: autotom
   selected: true
   title: "AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling"
-  authors: 'Zhining Zhang*, <b>Chuanyang Jin</b>*†, Mung Yao Jia*, Shunchi Zhang*, Tianmin Shu (†: project lead)'
+  authors: '<b>Chuanyang Jin</b>*†, Zhining Zhang*, Mung Yao Jia*, Shunchi Zhang*, Tianmin Shu (†: project lead)'
   venue: 'NeurIPS 2025 <span class="award">Spotlight</span> / 📰 Featured in Synced'
   intro: >
     <i>AutoToM</i> is an automated agent modeling method for scalable, robust, and interpretable mental inference.
