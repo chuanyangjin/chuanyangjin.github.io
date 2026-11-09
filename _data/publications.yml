@@ -126,7 +126,7 @@
   selected: false
   title: "Self-Compacting Language Model Agents"
   authors: 'Tianjian Li, Jingyu Zhang, William Jurayj, Xi Wang, <b>Chuanyang Jin</b>, Mehrdad Farajtabar, Eric Nalisnick, Daniel Khashabi'
-  venue: 'NeurIPS 2026 / ⭐️ Paper of the Week by Huggingface'
+  venue: 'NeurIPS 2026 / 🔍 Invited Talks at Google, Apple, and Rice University'
   intro: >
     We let the model itself decide when and how to compact its own context, pairing a compaction tool with a lightweight rubric for when to fire and when to hold off. 
     This self-compaction matches or beats fixed-interval summarization while using 30-70% less context budget.
