@@ -168,6 +168,19 @@
     - label: tweet
       url: https://x.com/jaseweston/status/2108176858520924594
 
+- id: self-improving-memory
+  selected: false
+  title: "Self-Improving Memory: Meta-Optimization and Harness Distillation for Continual Learning Agents"
+  authors: 'Tong Chen, <b>Chuanyang Jin</b>, Eryk Helenowski, Weizhe Yuan, Jason Weston, Ilia Kulikov, Xian Li, Swarnadeep Saha'
+  venue: '<img src="/assets/img/logos/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Blog'
+  intro: >
+    Recent work on agent memory shows how memory helps agents improve through experience.
+    But training this capability is challenging: we lack demonstrations of good memory behavior (what to remember, how to organize it, and when to retrieve it).
+    We study a self-improving recipe: the model discovers its own memory prompts, generates trajectories with the optimized prompts, and distills those behaviors into its weights.
+  links:
+    - label: blog
+      url: https://facebookresearch.github.io/RAM/blogs/self_improving_memory/
+
 - id: autobenchmark
   selected: false
   title: "AutoBenchmark: Benchmark Creation and the Role of Humans"
