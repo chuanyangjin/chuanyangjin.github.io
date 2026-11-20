@@ -10,7 +10,7 @@
   selected: true
   title: "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions"
   authors: '<b>Chuanyang Jin</b>, Binze Li, Haopeng Xie, Cathy Mengying Fang, Tianjian Li, Shayne Longpre, Hongxiang Gu, Maximillian Chen, Tianmin Shu'
-  venue: 'ICML 2026 RLxF Workshop <span class="award">Best Paper Award</span> / 📈 30K+ Huggingface Downloads / 🔍 Invited Talk at UW'
+  venue: 'ICML 2026 RLxF Workshop <span class="award">Best Paper Award</span> / 📈 40K+ Huggingface Downloads / 🔍 Invited Talk at UW'
   # https://huggingface.co/api/datasets/SCAI-JHU/ThoughtTrace?expand=downloadsAllTime; / 📰 Featured in Synced; ⭐️ Paper of the Week by Huggingface
   intro: >
     We introduce <i>ThoughtTrace</i>, the first large-scale dataset that pairs real-world multi-turn human-AI conversations with users' self-reported thoughts.
@@ -54,6 +54,49 @@
       url: https://facebookresearch.github.io/RAM/blogs/unslop/
     - label: tweet
       url: https://x.com/jaseweston/status/2115992445930311714
+
+- id: self-improving-memory
+  selected: false
+  title: "Self-Improving Memory: Meta-Optimization and Harness Distillation for Continual Learning Agents"
+  authors: 'Tong Chen, <b>Chuanyang Jin</b>, Eryk Helenowski, Weizhe Yuan, Jason Weston, Ilia Kulikov, Xian Li, Swarnadeep Saha'
+  venue: '<img src="/assets/img/logos/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Blog'
+  intro: >
+    Recent work on agent memory shows how memory helps agents improve through experience.
+    But training this capability is challenging: we lack demonstrations of good memory behavior (what to remember, how to organize it, and when to retrieve it).
+    We study a self-improving recipe: the model discovers its own memory prompts, generates trajectories with the optimized prompts, and distills those behaviors into its weights.
+  links:
+    - label: blog
+      url: https://facebookresearch.github.io/RAM/blogs/self_improving_memory/
+    - label: tweet
+      url: https://x.com/jaseweston/status/2122691693543817397
+
+- id: autointeract
+  selected: false
+  title: "AutoInteract: Training Agents to Interact with Humans"
+  authors: '<b>Chuanyang Jin</b>, Seungone Kim, Tong Chen, John Hoffman, Eryk Helenowski, Ping Yu, Jason Weston, Swarnadeep Saha, Ilia Kulikov'
+  venue: '<img src="/assets/img/logos/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Blog'
+  intro: >
+    We introduce <i>AutoInteract</i>, which learns user models from real interaction logs and turns verified tasks into realistic multi-turn interactions with clarifications, changing requirements, and feedback, while keeping each task’s executable test.
+    Reinforcement learning on this data substantially improves coding agents, especially in multi-turn settings.
+  links:
+    - label: blog
+      url: https://facebookresearch.github.io/RAM/blogs/autointeract/
+    - label: tweet
+      url: https://x.com/jaseweston/status/2108176858520924594
+
+- id: autobenchmark
+  selected: false
+  title: "AutoBenchmark: Benchmark Creation and the Role of Humans"
+  authors: 'Seungone Kim, <b>Chuanyang Jin</b>, Tianjian Li, Chenxi Whitehouse, Jason Weston, Weizhe Yuan, Ilia Kulikov, Swarnadeep Saha, Jack Lanchantin'
+  venue: '<img src="/assets/img/logos/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Blog'
+  intro: >
+    We introduce <i>AutoBenchmark</i>, in which an autoresearch agent builds a benchmark end to end and revises it using solver results and verifier critiques, and we study how much human AI scientists help.
+    Unaided agents produce near-saturated benchmarks, while detailed human direction on what and how to build halves solver scores, showing that humans are still needed in benchmark creation.
+  links:
+    - label: blog
+      url: https://facebookresearch.github.io/RAM/blogs/autobench/
+    - label: tweet
+      url: https://x.com/jaseweston/status/2105305463784935791
 
 - id: ideascientist
   selected: false
@@ -154,47 +197,6 @@
     - label: tweet
       url: https://x.com/chuanyang_jin/status/2102796625357779087
 
-- id: self-improving-memory
-  selected: false
-  title: "Self-Improving Memory: Meta-Optimization and Harness Distillation for Continual Learning Agents"
-  authors: 'Tong Chen, <b>Chuanyang Jin</b>, Eryk Helenowski, Weizhe Yuan, Jason Weston, Ilia Kulikov, Xian Li, Swarnadeep Saha'
-  venue: '<img src="/assets/img/logos/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Blog'
-  intro: >
-    Recent work on agent memory shows how memory helps agents improve through experience.
-    But training this capability is challenging: we lack demonstrations of good memory behavior (what to remember, how to organize it, and when to retrieve it).
-    We study a self-improving recipe: the model discovers its own memory prompts, generates trajectories with the optimized prompts, and distills those behaviors into its weights.
-  links:
-    - label: blog
-      url: https://facebookresearch.github.io/RAM/blogs/self_improving_memory/
-
-- id: autointeract
-  selected: false
-  title: "AutoInteract: Training Agents to Interact with Humans"
-  authors: '<b>Chuanyang Jin</b>, Seungone Kim, Tong Chen, John Hoffman, Eryk Helenowski, Ping Yu, Jason Weston, Swarnadeep Saha, Ilia Kulikov'
-  venue: '<img src="/assets/img/logos/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Blog'
-  intro: >
-    We introduce <i>AutoInteract</i>, which learns user models from real interaction logs and turns verified tasks into realistic multi-turn interactions with clarifications, changing requirements, and feedback, while keeping each task’s executable test.
-    Reinforcement learning on this data substantially improves coding agents, especially in multi-turn settings.
-  links:
-    - label: blog
-      url: https://facebookresearch.github.io/RAM/blogs/autointeract/
-    - label: tweet
-      url: https://x.com/jaseweston/status/2108176858520924594
-
-- id: autobenchmark
-  selected: false
-  title: "AutoBenchmark: Benchmark Creation and the Role of Humans"
-  authors: 'Seungone Kim, <b>Chuanyang Jin</b>, Tianjian Li, Chenxi Whitehouse, Jason Weston, Weizhe Yuan, Ilia Kulikov, Swarnadeep Saha, Jack Lanchantin'
-  venue: '<img src="/assets/img/logos/meta-logo.svg" alt="Meta" style="height: 0.95em; display: inline; vertical-align: -0.12em; margin-right: 3px;">Technical Blog'
-  intro: >
-    We introduce <i>AutoBenchmark</i>, in which an autoresearch agent builds a benchmark end to end and revises it using solver results and verifier critiques, and we study how much human AI scientists help.
-    Unaided agents produce near-saturated benchmarks, while detailed human direction on what and how to build halves solver scores, showing that humans are still needed in benchmark creation.
-  links:
-    - label: blog
-      url: https://facebookresearch.github.io/RAM/blogs/autobench/
-    - label: tweet
-      url: https://x.com/jaseweston/status/2105305463784935791
-
 - id: rlhi
   selected: true
   title: "The Era of Real-World Human Interaction: RL from User Conversations"
@@ -234,7 +236,7 @@
       url: https://www.stateof.ai/
 
 - id: mindzero
-  selected: false
+  selected: true
   title: "MindZero: Learning Online Mental Reasoning With Zero Annotations"
   authors: 'Shunchi Zhang*, Jin Lu*, <b>Chuanyang Jin</b>*, Yichao Zhou*, Zhining Zhang, Tianmin Shu'
   venue: 'ICML 2026 / ICLR 2026 HCAIR Workshop <span class="award">Oral</span>'
